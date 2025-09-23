@@ -1,0 +1,55 @@
+2025-09-22 19:52:20.238 -04:00 [WRN] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: No XML encryptor configured. Key {6ef6fd35-ed91-4b1e-a326-db72eadeddf7} may be persisted to storage in unencrypted form.
+2025-09-22 19:52:20.510 -04:00 [WRN] RdtClient.Service.BackgroundServices.Startup: Starting host on version 2.0.116.0
+2025-09-22 19:52:26.917 -04:00 [WRN] Microsoft.EntityFrameworkCore.Migrations: The migration operation 'PRAGMA foreign_keys = 0;
+' from migration 'Torrents_Removed_Auto' cannot be executed in a transaction. If the app is terminated or an unrecoverable error occurs while this operation is being executed then the migration will be left in a partially applied state and would need to be reverted manually before it can be applied again. Create a separate migration that contains just this operation.
+2025-09-22 19:52:27.033 -04:00 [WRN] Microsoft.EntityFrameworkCore.Migrations: The migration operation 'PRAGMA foreign_keys = 0;
+' from migration 'Torrents_Add_Actions' cannot be executed in a transaction. If the app is terminated or an unrecoverable error occurs while this operation is being executed then the migration will be left in a partially applied state and would need to be reverted manually before it can be applied again. Create a separate migration that contains just this operation.
+2025-09-22 19:52:27.410 -04:00 [WRN] Microsoft.EntityFrameworkCore.Migrations: The migration operation 'PRAGMA foreign_keys = 0;
+' from migration 'Nullables' cannot be executed in a transaction. If the app is terminated or an unrecoverable error occurs while this operation is being executed then the migration will be left in a partially applied state and would need to be reverted manually before it can be applied again. Create a separate migration that contains just this operation.
+2025-09-23 00:37:40.792 -04:00 [ERR] RdtClient.Service.BackgroundServices.WatchFolderChecker: Unexpected error occurred in WatchFolderChecker: A task was canceled.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at RdtClient.Service.BackgroundServices.WatchFolderChecker.ExecuteAsync(CancellationToken stoppingToken) in /appserver/server/RdtClient.Service/BackgroundServices/WatchFolderChecker.cs:line 31
+2025-09-23 00:38:11.555 -04:00 [WRN] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: No XML encryptor configured. Key {0a3aabf5-28e8-4ce8-924e-7f7a1365746f} may be persisted to storage in unencrypted form.
+2025-09-23 00:38:11.800 -04:00 [WRN] RdtClient.Service.BackgroundServices.Startup: Starting host on version 2.0.116.0
+2025-09-23 00:57:01.214 -04:00 [ERR] RdtClient.Service.Services.Downloaders.InternalDownloader: The operation was canceled.
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at DownloaderNET.Downloader.<>c__DisplayClass20_0.<<Download>b__0>d.MoveNext()
+2025-09-23 00:57:01.781 -04:00 [ERR] RdtClient.Service.Services.Downloaders.InternalDownloader: The operation was canceled.
+System.OperationCanceledException: The operation was canceled.
+   at DownloaderNET.Downloader.Download(Int64 thread, Chunk chunk, CancellationToken cancellationToken)
+2025-09-23 00:57:01.817 -04:00 [ERR] RdtClient.Service.Services.Downloaders.InternalDownloader: The operation was canceled.
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at DownloaderNET.Downloader.<>c__DisplayClass20_0.<<Download>b__0>d.MoveNext()
+2025-09-23 01:02:31.436 -04:00 [ERR] RdtClient.Service.Services.Downloaders.InternalDownloader: The operation was canceled.
+System.OperationCanceledException: The operation was canceled.
+   at DownloaderNET.Downloader.Download(Int64 thread, Chunk chunk, CancellationToken cancellationToken)
+2025-09-23 01:02:31.465 -04:00 [ERR] RdtClient.Service.Services.Downloaders.InternalDownloader: The operation was canceled.
+System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at DownloaderNET.Downloader.<>c__DisplayClass20_0.<<Download>b__0>d.MoveNext()
+2025-09-23 01:03:42.925 -04:00 [ERR] Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware: An unhandled exception has occurred while executing the request.
+System.Exception: An unexpected error occurred preparing download https://34.download.real-debrid.com/speedtest/testDefault.rar for torrent testDefault.rar: Connection refused (34.download.real-debrid.com:443)
+   at RdtClient.Service.Services.DownloadClient.Start() in /appserver/server/RdtClient.Service/Services/DownloadClient.cs:line 108
+   at RdtClient.Web.Controllers.SettingsController.TestDownloadSpeed(CancellationToken cancellationToken) in /appserver/server/RdtClient.Web/Controllers/SettingsController.cs:line 113
+   at lambda_method1354(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at RdtClient.Service.Middleware.RequestLoggingMiddleware.Invoke(HttpContext context) in /appserver/server/RdtClient.Service/Middleware/RequestLoggingMiddleware.cs:line 15
+   at Program.<>c.<<<Main>$>b__0_13>d.MoveNext() in /appserver/server/RdtClient.Web/Program.cs:line 155
+--- End of stack trace from previous location ---
+   at RdtClient.Service.Middleware.AuthorizeMiddleware.Invoke(HttpContext context) in /appserver/server/RdtClient.Service/Middleware/AuthorizeMiddleware.cs:line 15
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)

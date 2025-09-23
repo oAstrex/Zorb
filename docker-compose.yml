@@ -1,0 +1,107 @@
+# =====================================================================
+#     Personalized Media Server Stack for Alec (UID: 501, GID: 20)
+# =====================================================================
+version: "3.8"
+
+services:
+  # Jellyseerr - For browsing and requesting media
+  jellyseerr:
+    image: fallenbagel/jellyseerr:latest
+    container_name: jellyseerr
+    environment:
+      - LOG_LEVEL=info
+      - TZ=America/New_York
+    ports:
+      - "5055:5055"
+    volumes:
+      - ./config/jellyseerr:/app/config
+    restart: unless-stopped
+    networks:
+      - media-stack
+
+  # Prowlarr - Manages your torrent indexers and syncs them to other apps
+  prowlarr:
+    image: lscr.io/linuxserver/prowlarr:latest
+    container_name: prowlarr
+    environment:
+      - PUID=501
+      - PGID=20
+      - TZ=America/New_York
+    volumes:
+      - ./config/prowlarr:/config
+    ports:
+      - "9696:9696"
+    restart: unless-stopped
+    networks:
+      - media-stack
+
+  # Sonarr - TV Show Manager
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=501
+      - PGID=20
+      - TZ=America/New_York
+    volumes:
+      - ./config/sonarr:/config
+      - ./data/media/tv:/tv
+      - ./data/downloads:/downloads
+    ports:
+      - "8989:8989"
+    restart: unless-stopped
+    networks:
+      - media-stack
+
+  # Radarr - Movie Manager
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=501
+      - PGID=20
+      - TZ=America/New_York
+    volumes:
+      - ./config/radarr:/config
+      - ./data/media/movies:/movies
+      - ./data/downloads:/downloads
+    ports:
+      - "7878:7878"
+    restart: unless-stopped
+    networks:
+      - media-stack
+
+  # FlareSolverr - Solves Cloudflare challenges for Prowlarr
+  flaresolverr:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    environment:
+      - LOG_LEVEL=info
+      - TZ=America/New_York
+    ports:
+      - "8191:8191"
+    restart: unless-stopped
+    networks:
+      - media-stack
+
+  # RDTClient - The bridge between Sonarr/Radarr and Torbox
+  rdtclient:
+    image: rogerfar/rdtclient:latest
+    container_name: rdtclient
+    environment:
+      - PUID=501
+      - PGID=20
+      - TZ=America/New_York
+    ports:
+      - "6500:6500"
+    volumes:
+      - ./config/rdtclient:/data/db
+      - ./data/downloads:/data/downloads
+    restart: unless-stopped
+    networks:
+      - media-stack
+
+# This network allows all the containers to talk to each other by name
+networks:
+  media-stack:
+    driver: bridge

@@ -1,0 +1,89 @@
+2025-09-22T23:21:15.463Z [info]: Commit Tag: $GIT_SHA 
+2025-09-22T23:21:15.724Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-22T23:21:16.120Z [info][Notifications]: Registered notification agents 
+2025-09-22T23:21:16.122Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2025-09-22T23:21:16.124Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":1,"enabled":true,"isBuiltIn":true,"order":0}}
+2025-09-22T23:21:16.129Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":2,"enabled":true,"isBuiltIn":true,"order":1}}
+2025-09-22T23:21:16.131Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":3,"enabled":true,"isBuiltIn":true,"order":2}}
+2025-09-22T23:21:16.133Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":4,"enabled":true,"isBuiltIn":true,"order":3}}
+2025-09-22T23:21:16.135Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":5,"enabled":true,"isBuiltIn":true,"order":4}}
+2025-09-22T23:21:16.136Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":6,"enabled":true,"isBuiltIn":true,"order":5}}
+2025-09-22T23:21:16.137Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":7,"enabled":true,"isBuiltIn":true,"order":6}}
+2025-09-22T23:21:16.139Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":8,"enabled":true,"isBuiltIn":true,"order":7}}
+2025-09-22T23:21:16.140Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":9,"enabled":true,"isBuiltIn":true,"order":8}}
+2025-09-22T23:21:16.142Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":10,"enabled":true,"isBuiltIn":true,"order":9}}
+2025-09-22T23:21:16.143Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":11,"enabled":true,"isBuiltIn":true,"order":10}}
+2025-09-22T23:21:16.144Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":12,"enabled":true,"isBuiltIn":true,"order":11}}
+2025-09-22T23:21:16.204Z [info][Server]: Server ready on port 5055 
+2025-09-22T23:23:22.628Z [info][API]: Sign-in attempt from Jellyfin user with access to the media server; creating initial admin user for Jellyseerr {"ip":"::ffff:172.17.0.1","jellyfinUsername":"alec"}
+2025-09-22T23:23:23.370Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-22T23:24:00.018Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:25:00.041Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:25:00.068Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-22T23:25:00.072Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f3b70822-3c28-45a1-bf34-16813a16f6a5"}
+2025-09-22T23:25:00.088Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-22T23:25:01.278Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-22T23:25:01.411Z [debug][Jellyfin Sync]: Saved Superman 
+2025-09-22T23:25:01.412Z [debug][Jellyfin Sync]: Saved Cars 
+2025-09-22T23:25:01.414Z [debug][Jellyfin Sync]: Title already exists and no new media types found Superman 
+2025-09-22T23:25:01.429Z [debug][Jellyfin Sync]: Saved Nobody 2 
+2025-09-22T23:25:01.448Z [debug][Jellyfin Sync]: Saved War of the Worlds 
+2025-09-22T23:25:01.454Z [debug][Jellyfin Sync]: Saved F1 
+2025-09-22T23:25:01.456Z [debug][Jellyfin Sync]: Saved Demon Slayer: Kimetsu no Yaiba Infinity Castle 
+2025-09-22T23:25:01.456Z [debug][Jellyfin Sync]: Title already exists and no new media types found F1 
+2025-09-22T23:25:01.462Z [debug][Jellyfin Sync]: Saved Mission: Impossible - The Final Reckoning 
+2025-09-22T23:25:01.498Z [debug][Jellyfin Sync]: Saved Weapons 
+2025-09-22T23:25:05.501Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-22T23:25:06.929Z [debug][Jellyfin Sync]: Saved Ms. Rachel 
+2025-09-22T23:25:07.367Z [debug][Jellyfin Sync]: Saved Horrid Henry 
+2025-09-22T23:25:11.373Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-22T23:26:00.026Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:27:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:28:00.038Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:29:00.035Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:30:00.041Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:30:00.064Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-22T23:30:00.065Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"8cab3834-a4ae-4dac-be20-2bc69968ba9e"}
+2025-09-22T23:30:00.085Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-22T23:30:01.094Z [debug][Jellyfin Sync]: Title already exists and no new media types found Superman 
+2025-09-22T23:30:01.094Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-22T23:30:01.108Z [debug][Jellyfin Sync]: Title already exists and no new media types found Demon Slayer: Kimetsu no Yaiba Infinity Castle 
+2025-09-22T23:30:01.108Z [debug][Jellyfin Sync]: Title already exists and no new media types found Superman 
+2025-09-22T23:30:01.108Z [debug][Jellyfin Sync]: Title already exists and no new media types found Nobody 2 
+2025-09-22T23:30:01.108Z [debug][Jellyfin Sync]: Title already exists and no new media types found Weapons 
+2025-09-22T23:30:01.131Z [debug][Jellyfin Sync]: Title already exists and no new media types found Mission: Impossible - The Final Reckoning 
+2025-09-22T23:30:01.133Z [debug][Jellyfin Sync]: Title already exists and no new media types found Cars 
+2025-09-22T23:30:01.134Z [debug][Jellyfin Sync]: Title already exists and no new media types found War of the Worlds 
+2025-09-22T23:30:01.146Z [debug][Jellyfin Sync]: Title already exists and no new media types found F1 
+2025-09-22T23:30:01.150Z [debug][Jellyfin Sync]: Title already exists and no new media types found F1 
+2025-09-22T23:30:05.155Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-22T23:30:06.791Z [debug][Jellyfin Sync]: Updating existing title: Ms. Rachel 
+2025-09-22T23:30:07.144Z [debug][Jellyfin Sync]: Updating existing title: Horrid Henry 
+2025-09-22T23:30:11.151Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-22T23:31:00.030Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:32:00.028Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:33:00.030Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:34:00.037Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:35:00.039Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:35:00.048Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-22T23:35:00.049Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"96e2e0ee-1d9f-4e2d-ad81-c9d8e040131b"}
+2025-09-22T23:35:00.064Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-22T23:35:01.187Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-22T23:35:01.265Z [debug][Jellyfin Sync]: Title already exists and no new media types found Superman 
+2025-09-22T23:35:01.343Z [debug][Jellyfin Sync]: Title already exists and no new media types found F1 
+2025-09-22T23:35:01.353Z [debug][Jellyfin Sync]: Title already exists and no new media types found Cars 
+2025-09-22T23:35:01.407Z [debug][Jellyfin Sync]: Title already exists and no new media types found F1 
+2025-09-22T23:35:01.407Z [debug][Jellyfin Sync]: Title already exists and no new media types found Mission: Impossible - The Final Reckoning 
+2025-09-22T23:35:01.408Z [debug][Jellyfin Sync]: Title already exists and no new media types found Nobody 2 
+2025-09-22T23:35:01.409Z [debug][Jellyfin Sync]: Title already exists and no new media types found Superman 
+2025-09-22T23:35:01.409Z [debug][Jellyfin Sync]: Title already exists and no new media types found Demon Slayer: Kimetsu no Yaiba Infinity Castle 
+2025-09-22T23:35:01.410Z [debug][Jellyfin Sync]: Title already exists and no new media types found Weapons 
+2025-09-22T23:35:01.445Z [debug][Jellyfin Sync]: Title already exists and no new media types found War of the Worlds 
+2025-09-22T23:35:05.449Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-22T23:35:07.136Z [debug][Jellyfin Sync]: Updating existing title: Ms. Rachel 
+2025-09-22T23:35:07.459Z [debug][Jellyfin Sync]: Updating existing title: Horrid Henry 
+2025-09-22T23:35:11.462Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-22T23:36:00.045Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:37:00.054Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:38:00.020Z [debug][Jobs]: Starting scheduled job: Download Sync 
+2025-09-22T23:39:00.031Z [debug][Jobs]: Starting scheduled job: Download Sync 

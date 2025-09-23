@@ -1,0 +1,1304 @@
+2025-09-23 08:33:16.4|Debug|DownloadDecisionMaker|Processing release 'Fireheart 2022 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 08:33:16.4|Debug|Parser|Parsing string 'Fireheart 2022 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-23 08:33:16.4|Debug|Parser|Movie Parsed. Fireheart - 2022 
+2025-09-23 08:33:16.4|Debug|Parser|Release Group parsed: GPRS
+2025-09-23 08:33:16.4|Debug|Parser|Languages parsed: Unknown
+2025-09-23 08:33:16.4|Debug|QualityParser|Trying to parse quality for 'Fireheart 2022 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-23 08:33:16.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 08:33:16.4|Debug|Parser|Edition parsed: 
+2025-09-23 08:33:16.4|Debug|ParsingService|No matching movie for titles 'Fireheart (2022)'
+2025-09-23 08:33:16.4|Debug|DownloadDecisionMaker|Release 'Fireheart 2022 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 08:33:16.4|Debug|DownloadDecisionMaker|Processing release 'I Cant Breathe God Forgive Them 2022 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 08:33:16.4|Debug|Parser|Parsing string 'I Cant Breathe God Forgive Them 2022 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 08:33:16.4|Debug|Parser|Movie Parsed. I Cant Breathe God Forgive Them - 2022 
+2025-09-23 08:33:16.4|Debug|Parser|Release Group parsed: GPRS
+2025-09-23 08:33:16.4|Debug|Parser|Languages parsed: Unknown
+2025-09-23 08:33:16.4|Debug|QualityParser|Trying to parse quality for 'I Cant Breathe God Forgive Them 2022 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 08:33:16.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 08:33:16.4|Debug|Parser|Edition parsed: 
+2025-09-23 08:33:16.4|Debug|ParsingService|No matching movie for titles 'I Cant Breathe God Forgive Them (2022)'
+2025-09-23 08:33:16.4|Debug|DownloadDecisionMaker|Release 'I Cant Breathe God Forgive Them 2022 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 08:33:16.4|Debug|DownloadDecisionMaker|Processing release 'Old Man 2022 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 08:33:16.4|Debug|Parser|Parsing string 'Old Man 2022 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-23 08:33:16.4|Debug|Parser|Movie Parsed. Old Man - 2022 
+2025-09-23 08:33:16.4|Debug|Parser|Release Group parsed: GPRS
+2025-09-23 08:33:16.4|Debug|Parser|Languages parsed: Unknown
+2025-09-23 08:33:16.4|Debug|QualityParser|Trying to parse quality for 'Old Man 2022 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-23 08:33:16.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 08:33:16.4|Debug|Parser|Edition parsed: 
+2025-09-23 08:33:16.4|Debug|ParsingService|No matching movie for titles 'Old Man (2022)'
+2025-09-23 08:33:16.4|Debug|DownloadDecisionMaker|Release 'Old Man 2022 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 08:33:16.4|Debug|DownloadDecisionMaker|Processing release 'Bonehill Road 2017 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 08:33:16.4|Debug|Parser|Parsing string 'Bonehill Road 2017 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 08:33:16.4|Debug|Parser|Movie Parsed. Bonehill Road - 2017 
+2025-09-23 08:33:16.4|Debug|Parser|Release Group parsed: GPRS
+2025-09-23 08:33:16.4|Debug|Parser|Languages parsed: Unknown
+2025-09-23 08:33:16.4|Debug|QualityParser|Trying to parse quality for 'Bonehill Road 2017 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 08:33:16.4|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 08:33:16.4|Debug|Parser|Edition parsed: 
+2025-09-23 08:33:16.4|Debug|ParsingService|No matching movie for titles 'Bonehill Road (2017)'
+2025-09-23 08:33:16.4|Debug|DownloadDecisionMaker|Release 'Bonehill Road 2017 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 08:33:16.4|Info|RssSyncService|RSS Sync Completed. Reports found: 32, Reports grabbed: 0
+2025-09-23 08:33:16.4|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-23 08:33:16.5|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-23 08:33:21.2|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2025-09-23 08:33:23.6|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (12 ms)
+2025-09-23 08:33:23.6|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (12 ms)
+2025-09-23 08:33:23.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (5 ms)
+2025-09-23 08:33:23.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (17 ms)
+2025-09-23 08:33:23.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (30 ms)
+2025-09-23 08:33:23.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (17 ms)
+2025-09-23 08:33:23.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (9 ms)
+2025-09-23 08:33:23.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (13 ms)
+2025-09-23 08:33:23.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (30 ms)
+2025-09-23 08:33:23.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (33 ms)
+2025-09-23 08:33:23.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (9 ms)
+2025-09-23 08:33:23.8|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:23.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (11 ms)
+2025-09-23 08:33:23.8|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 08:33:23.9|Debug|Parser|Release Group parsed: r00t
+2025-09-23 08:33:23.9|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 08:33:23.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (30 ms)
+2025-09-23 08:33:23.9|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:23.9|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 08:33:23.9|Debug|Parser|Edition parsed: 
+2025-09-23 08:33:23.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (52 ms)
+2025-09-23 08:33:23.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (27 ms)
+2025-09-23 08:33:24.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (19 ms)
+2025-09-23 08:33:24.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (72 ms)
+2025-09-23 08:33:24.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (12 ms)
+2025-09-23 08:33:24.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (47 ms)
+2025-09-23 08:33:24.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (26 ms)
+2025-09-23 08:33:24.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (0 ms)
+2025-09-23 08:33:24.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 08:33:24.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 08:33:24.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (19 ms)
+2025-09-23 08:33:24.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (15 ms)
+2025-09-23 08:33:24.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (7 ms)
+2025-09-23 08:33:24.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (44 ms)
+2025-09-23 08:33:24.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (30 ms)
+2025-09-23 08:33:24.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 08:33:24.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (43 ms)
+2025-09-23 08:33:24.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (17 ms)
+2025-09-23 08:33:24.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (137 ms)
+2025-09-23 08:33:24.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 08:33:24.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (12 ms)
+2025-09-23 08:33:24.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (12 ms)
+2025-09-23 08:33:24.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (35 ms)
+2025-09-23 08:33:24.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (17 ms)
+2025-09-23 08:33:24.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (7 ms)
+2025-09-23 08:33:24.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (13 ms)
+2025-09-23 08:33:24.2|Debug|Api|[GET] /api/v3/queue/details: 200.OK (8 ms)
+2025-09-23 08:33:24.2|Debug|Api|[GET] /api/v3/command: 200.OK (9 ms)
+2025-09-23 08:33:24.2|Debug|Api|[GET] /api/v3/queue/details: 200.OK (12 ms)
+2025-09-23 08:33:24.2|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 08:33:24.2|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (13 ms)
+2025-09-23 08:33:24.3|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:24.3|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 08:33:24.3|Debug|Parser|Release Group parsed: r00t
+2025-09-23 08:33:24.3|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 08:33:24.3|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:24.3|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 08:33:24.3|Debug|Parser|Edition parsed: 
+2025-09-23 08:33:24.3|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 08:33:24.3|Debug|Api|[GET] /api/v3/queue/details: 200.OK (6 ms)
+2025-09-23 08:33:24.3|Debug|Api|[GET] /api/v3/queue/details: 200.OK (19 ms)
+2025-09-23 08:33:24.3|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2025-09-23 08:33:24.3|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 08:33:24.4|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (10 ms)
+2025-09-23 08:33:24.4|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:24.4|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 08:33:24.4|Debug|Parser|Release Group parsed: r00t
+2025-09-23 08:33:24.4|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (18 ms)
+2025-09-23 08:33:24.4|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 08:33:24.4|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:24.4|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 08:33:24.4|Debug|Parser|Edition parsed: 
+2025-09-23 08:33:24.4|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (11 ms)
+2025-09-23 08:33:24.4|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (17 ms)
+2025-09-23 08:33:24.4|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (26 ms)
+2025-09-23 08:33:24.4|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (23 ms)
+2025-09-23 08:33:24.4|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (23 ms)
+2025-09-23 08:33:24.5|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (23 ms)
+2025-09-23 08:33:24.5|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 08:33:24.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (7 ms)
+2025-09-23 08:33:24.5|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-23 08:33:24.5|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (21 ms)
+2025-09-23 08:33:24.5|Debug|Api|[GET] /api/v3/queue/details: 200.OK (15 ms)
+2025-09-23 08:33:24.5|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 08:33:24.5|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-23 08:33:24.5|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (26 ms)
+2025-09-23 08:33:24.5|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (0 ms)
+2025-09-23 08:33:24.5|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-23 08:33:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 08:33:24.6|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 08:33:24.6|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (13 ms)
+2025-09-23 08:33:24.6|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (20 ms)
+2025-09-23 08:33:24.6|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 08:33:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (18 ms)
+2025-09-23 08:33:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (24 ms)
+2025-09-23 08:33:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (3 ms)
+2025-09-23 08:33:24.6|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 08:33:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (21 ms)
+2025-09-23 08:33:24.6|Debug|Parser|Release Group parsed: r00t
+2025-09-23 08:33:24.6|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 08:33:24.6|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:24.6|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 08:33:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 08:33:24.6|Debug|Parser|Edition parsed: 
+2025-09-23 08:33:24.6|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 08:33:24.6|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 08:33:24.7|Debug|Api|[GET] /api/v3/queue/details: 200.OK (7 ms)
+2025-09-23 08:33:24.7|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2025-09-23 08:33:24.7|Debug|Api|[GET] /api/v3/queue/details: 200.OK (37 ms)
+2025-09-23 08:33:24.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (56 ms)
+2025-09-23 08:33:24.7|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (27 ms)
+2025-09-23 08:33:24.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (4 ms)
+2025-09-23 08:33:24.7|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (37 ms)
+2025-09-23 08:33:24.7|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (20 ms)
+2025-09-23 08:33:24.7|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 08:33:24.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (56 ms)
+2025-09-23 08:33:24.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (36 ms)
+2025-09-23 08:33:24.7|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (52 ms)
+2025-09-23 08:33:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (26 ms)
+2025-09-23 08:33:24.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (57 ms)
+2025-09-23 08:33:24.7|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (60 ms)
+2025-09-23 08:33:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (9 ms)
+2025-09-23 08:33:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (8 ms)
+2025-09-23 08:33:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (4 ms)
+2025-09-23 08:33:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (7 ms)
+2025-09-23 08:33:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (9 ms)
+2025-09-23 08:33:24.8|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:24.8|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 08:33:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2025-09-23 08:33:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (8 ms)
+2025-09-23 08:33:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-23 08:33:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (10 ms)
+2025-09-23 08:33:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (11 ms)
+2025-09-23 08:33:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 08:33:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (2 ms)
+2025-09-23 08:33:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (13 ms)
+2025-09-23 08:33:24.8|Debug|Parser|Release Group parsed: r00t
+2025-09-23 08:33:24.8|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 08:33:24.8|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (9 ms)
+2025-09-23 08:33:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (2 ms)
+2025-09-23 08:33:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-23 08:33:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (2 ms)
+2025-09-23 08:33:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (14 ms)
+2025-09-23 08:33:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-23 08:33:24.8|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 08:33:24.9|Debug|Parser|Edition parsed: 
+2025-09-23 08:33:24.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (8 ms)
+2025-09-23 08:33:24.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (8 ms)
+2025-09-23 08:33:24.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (9 ms)
+2025-09-23 08:33:24.9|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 08:33:24.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (12 ms)
+2025-09-23 08:33:24.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-23 08:33:24.9|Debug|Api|[GET] /api/v3/queue/details: 200.OK (21 ms)
+2025-09-23 08:33:24.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-23 08:33:24.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 08:33:24.9|Debug|Api|[GET] /api/v3/queue/details: 200.OK (16 ms)
+2025-09-23 08:33:24.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (47 ms)
+2025-09-23 08:33:24.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (27 ms)
+2025-09-23 08:33:25.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (23 ms)
+2025-09-23 08:33:25.0|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-23 08:33:25.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (13 ms)
+2025-09-23 08:33:25.0|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:25.0|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 08:33:25.0|Debug|Parser|Release Group parsed: r00t
+2025-09-23 08:33:25.0|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 08:33:25.0|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 08:33:25.0|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 08:33:25.0|Debug|Parser|Edition parsed: 
+2025-09-23 08:33:25.0|Debug|Api|[GET] /api/v3/command: 200.OK (19 ms)
+2025-09-23 08:33:25.0|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 08:33:25.1|Debug|Api|[GET] /api/v3/queue/details: 200.OK (4 ms)
+2025-09-23 08:33:25.1|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-23 08:33:25.1|Debug|Api|[GET] /api/v3/queue/details: 200.OK (1 ms)
+2025-09-23 08:33:25.2|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2025-09-23 09:03:42.5|Info|RssSyncService|Starting RSS Sync
+2025-09-23 09:03:42.5|Debug|FetchAndParseRssService|Available indexers 3
+2025-09-23 09:03:42.6|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=movie&cat=2000,2070,2030,2010,2040,2060,2045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-23 09:03:42.6|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-23 09:03:42.6|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-23 09:03:42.6|Debug|Torznab|Downloading Feed http://prowlarr:9696/6/api?t=movie&cat=2000,2020,2040,2060,2030,2045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-23 09:03:42.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-23 09:03:42.6|Debug|Api|[GET] /api/v3/command: 200.OK (16 ms)
+2025-09-23 09:03:42.6|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:03:42.6|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:03:42.6|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:03:42.6|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:03:42.6|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:03:42.6|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:03:42.6|Debug|Parser|Edition parsed: 
+2025-09-23 09:03:42.7|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:03:42.7|Debug|Api|[GET] /api/v3/queue/details: 200.OK (1 ms)
+2025-09-23 09:03:42.7|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 09:03:42.7|Debug|Api|[GET] /api/v3/queue/details: 200.OK (1 ms)
+2025-09-23 09:03:42.7|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 09:04:09.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (8 ms)
+2025-09-23 09:04:09.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (76 ms)
+2025-09-23 09:04:09.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 09:04:09.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (5 ms)
+2025-09-23 09:04:09.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (4 ms)
+2025-09-23 09:04:09.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 09:04:09.7|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:04:09.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2025-09-23 09:04:09.8|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:04:09.8|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:04:09.8|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:04:09.8|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:04:09.8|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:04:09.8|Debug|Parser|Edition parsed: 
+2025-09-23 09:04:09.8|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:04:09.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (12 ms)
+2025-09-23 09:04:09.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (31 ms)
+2025-09-23 09:04:09.8|Debug|Api|[GET] /api/v3/queue/details: 200.OK (19 ms)
+2025-09-23 09:04:09.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-23 09:04:09.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (13 ms)
+2025-09-23 09:04:09.9|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2025-09-23 09:04:09.9|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 09:04:09.9|Debug|Api|[GET] /api/v3/queue/details: 200.OK (18 ms)
+2025-09-23 09:04:09.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2025-09-23 09:04:09.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (7 ms)
+2025-09-23 09:04:09.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 09:04:09.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (0 ms)
+2025-09-23 09:04:09.9|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:04:09.9|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:04:09.9|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:04:09.9|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:04:09.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (10 ms)
+2025-09-23 09:04:09.9|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:04:09.9|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:04:09.9|Debug|Parser|Edition parsed: 
+2025-09-23 09:04:09.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (2 ms)
+2025-09-23 09:04:09.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (2 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (3 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2025-09-23 09:04:10.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (4 ms)
+2025-09-23 09:04:10.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (7 ms)
+2025-09-23 09:04:10.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (4 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (7 ms)
+2025-09-23 09:04:10.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (7 ms)
+2025-09-23 09:04:10.0|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (2 ms)
+2025-09-23 09:04:10.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (5 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (8 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (12 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue/details: 200.OK (10 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (12 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 09:04:10.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (33 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (7 ms)
+2025-09-23 09:04:10.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (21 ms)
+2025-09-23 09:04:10.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (31 ms)
+2025-09-23 09:04:10.0|Debug|Api|[GET] /api/v3/queue/details: 200.OK (5 ms)
+2025-09-23 09:04:10.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (18 ms)
+2025-09-23 09:04:10.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (0 ms)
+2025-09-23 09:04:10.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (8 ms)
+2025-09-23 09:04:10.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (8 ms)
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 09:04:10.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (5 ms)
+2025-09-23 09:04:10.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 09:04:10.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (9 ms)
+2025-09-23 09:04:10.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-23 09:04:10.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (9 ms)
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (7 ms)
+2025-09-23 09:04:10.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (0 ms)
+2025-09-23 09:04:10.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:04:10.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:04:10.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:04:10.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 09:04:10.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (2 ms)
+2025-09-23 09:04:10.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (4 ms)
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (9 ms)
+2025-09-23 09:04:10.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:04:10.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-23 09:04:10.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2025-09-23 09:04:10.2|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (35 ms)
+2025-09-23 09:04:10.2|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (12 ms)
+2025-09-23 09:04:10.2|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (14 ms)
+2025-09-23 09:04:10.2|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (14 ms)
+2025-09-23 09:04:10.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:04:10.2|Debug|Api|[GET] /api/v3/queue/details: 200.OK (8 ms)
+2025-09-23 09:04:10.2|Debug|Api|[GET] /api/v3/queue/details: 200.OK (2 ms)
+2025-09-23 09:04:10.2|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 09:04:10.2|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-23 09:04:52.6|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/2/api?t=movie&cat=2000,2070,2030,2010,2040,2060,2045&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/23/2025 09:09:52 due to recent failures." />
+2025-09-23 09:04:52.6|Warn|Torznab|API Request Limit reached for 1337x (Prowlarr). Disabled for 00:05:00
+2025-09-23 09:04:57.7|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 09/23/2025 09:09:52 due to recent failures.
+2025-09-23 09:04:57.7|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 09/23/2025 09:09:52 due to recent failures.
+2025-09-23 09:04:57.7|Debug|Api|[GET] /api/v3/health: 200.OK (10 ms)
+2025-09-23 09:05:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (8 ms)
+2025-09-23 09:05:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (18 ms)
+2025-09-23 09:05:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:05:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:05:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:05:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:05:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:05:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:05:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:05:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:05:00.2|Debug|Api|[GET] /api/v3/queue/details: 200.OK (8 ms)
+2025-09-23 09:05:00.2|Debug|Api|[GET] /api/v3/queue/details: 200.OK (7 ms)
+2025-09-23 09:05:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-23 09:05:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2025-09-23 09:05:02.3|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/1/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/23/2025 09:10:02 due to recent failures." />
+2025-09-23 09:05:02.3|Warn|Torznab|API Request Limit reached for BitSearch (Prowlarr). Disabled for 00:05:00
+2025-09-23 09:05:07.3|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 09/23/2025 09:09:52 due to recent failures.
+2025-09-23 09:05:07.3|Debug|IndexerFactory|Temporarily ignoring indexer BitSearch (Prowlarr) till 09/23/2025 09:10:02 due to recent failures.
+2025-09-23 09:05:07.3|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 09/23/2025 09:09:52 due to recent failures.
+2025-09-23 09:05:07.3|Debug|IndexerFactory|Temporarily ignoring indexer BitSearch (Prowlarr) till 09/23/2025 09:10:02 due to recent failures.
+2025-09-23 09:05:07.3|Debug|Api|[GET] /api/v3/health: 200.OK (3 ms)
+2025-09-23 09:05:16.9|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/6/api?t=movie&cat=2000,2020,2040,2060,2030,2045&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/23/2025 09:10:16 due to recent failures." />
+2025-09-23 09:05:16.9|Warn|Torznab|API Request Limit reached for The Pirate Bay (Prowlarr). Disabled for 00:05:00
+2025-09-23 09:05:16.9|Debug|FetchAndParseRssService|Found 0 reports
+2025-09-23 09:05:16.9|Info|DownloadDecisionMaker|No results found
+2025-09-23 09:05:16.9|Info|RssSyncService|RSS Sync Completed. Reports found: 0, Reports grabbed: 0
+2025-09-23 09:05:16.9|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-23 09:05:17.0|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2025-09-23 09:05:22.0|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 09/23/2025 09:09:52 due to recent failures.
+2025-09-23 09:05:22.0|Debug|IndexerFactory|Temporarily ignoring indexer BitSearch (Prowlarr) till 09/23/2025 09:10:02 due to recent failures.
+2025-09-23 09:05:22.0|Debug|IndexerFactory|Temporarily ignoring indexer The Pirate Bay (Prowlarr) till 09/23/2025 09:10:16 due to recent failures.
+2025-09-23 09:05:22.0|Debug|IndexerFactory|Temporarily ignoring indexer 1337x (Prowlarr) till 09/23/2025 09:09:52 due to recent failures.
+2025-09-23 09:05:22.0|Debug|IndexerFactory|Temporarily ignoring indexer BitSearch (Prowlarr) till 09/23/2025 09:10:02 due to recent failures.
+2025-09-23 09:05:22.0|Debug|IndexerFactory|Temporarily ignoring indexer The Pirate Bay (Prowlarr) till 09/23/2025 09:10:16 due to recent failures.
+2025-09-23 09:05:22.0|Debug|Api|[GET] /api/v3/health: 200.OK (1 ms)
+2025-09-23 09:23:24.2|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (618 ms)
+2025-09-23 09:23:24.2|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (292 ms)
+2025-09-23 09:23:24.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (37 ms)
+2025-09-23 09:23:24.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (58 ms)
+2025-09-23 09:23:24.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (49 ms)
+2025-09-23 09:23:24.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2025-09-23 09:23:24.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (5 ms)
+2025-09-23 09:23:24.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (9 ms)
+2025-09-23 09:23:24.4|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (5 ms)
+2025-09-23 09:23:24.5|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (4 ms)
+2025-09-23 09:23:24.5|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-23 09:23:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (24 ms)
+2025-09-23 09:23:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (33 ms)
+2025-09-23 09:23:24.6|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:23:24.6|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (9 ms)
+2025-09-23 09:23:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (7 ms)
+2025-09-23 09:23:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 09:23:24.6|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:23:24.6|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:23:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-23 09:23:24.6|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:23:24.6|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:23:24.6|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (17 ms)
+2025-09-23 09:23:24.6|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (9 ms)
+2025-09-23 09:23:24.7|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:23:24.7|Debug|Parser|Edition parsed: 
+2025-09-23 09:23:24.7|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (3 ms)
+2025-09-23 09:23:24.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (5 ms)
+2025-09-23 09:23:24.7|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (21 ms)
+2025-09-23 09:23:24.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (16 ms)
+2025-09-23 09:23:24.7|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-23 09:23:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (32 ms)
+2025-09-23 09:23:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (39 ms)
+2025-09-23 09:23:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2025-09-23 09:23:24.8|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:23:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 09:23:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (8 ms)
+2025-09-23 09:23:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (3 ms)
+2025-09-23 09:23:24.8|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (12 ms)
+2025-09-23 09:23:24.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2025-09-23 09:23:24.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (3 ms)
+2025-09-23 09:23:24.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-23 09:23:24.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 09:23:24.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 09:23:25.0|Debug|Api|[GET] /api/v3/queue/details: 200.OK (7 ms)
+2025-09-23 09:23:25.0|Debug|Api|[GET] /api/v3/command: 200.OK (14 ms)
+2025-09-23 09:23:25.0|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-23 09:23:25.0|Debug|Api|[GET] /api/v3/queue/details: 200.OK (7 ms)
+2025-09-23 09:23:36.0|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-23 09:24:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (29 ms)
+2025-09-23 09:24:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (12 ms)
+2025-09-23 09:24:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:24:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:24:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:24:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:24:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:24:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:24:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:24:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:24:00.2|Error|CommandExecutor|Error occurred while executing task ProcessMonitoredDownloads
+
+[v5.27.5.10198] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2938
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Radarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Radarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Update(CommandModel command, CommandStatus status, String message) in ./Radarr.Core/Messaging/Commands/CommandQueueManager.cs:line 259
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Fail(CommandModel command, String message, Exception e) in ./Radarr.Core/Messaging/Commands/CommandQueueManager.cs:line 214
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand](TCommand command, CommandModel commandModel) in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 113
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 44
+
+
+2025-09-23 09:25:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (29 ms)
+2025-09-23 09:25:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (7 ms)
+2025-09-23 09:25:00.1|Error|CommandExecutor|Error occurred while executing task RefreshMonitoredDownloads
+
+[v5.27.5.10198] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2938
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Radarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Radarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand](TCommand command, CommandModel commandModel) in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 113
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 44
+
+
+2025-09-23 09:26:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (41 ms)
+2025-09-23 09:26:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (17 ms)
+2025-09-23 09:26:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:26:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:26:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:26:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:26:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:26:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:26:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:26:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:27:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (25 ms)
+2025-09-23 09:27:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 09:27:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:27:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:27:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:27:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:27:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:27:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:27:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:27:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:28:00.2|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (52 ms)
+2025-09-23 09:28:00.2|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (16 ms)
+2025-09-23 09:28:00.4|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:28:00.4|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:28:00.4|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:28:00.4|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:28:00.4|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:28:00.4|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:28:00.4|Debug|Parser|Edition parsed: 
+2025-09-23 09:28:00.4|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:28:36.1|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-23 09:29:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (69 ms)
+2025-09-23 09:29:00.2|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (31 ms)
+2025-09-23 09:29:00.4|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:29:00.4|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:29:00.4|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:29:00.4|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:29:00.4|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:29:00.4|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:29:00.4|Debug|Parser|Edition parsed: 
+2025-09-23 09:29:00.4|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:30:00.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (148 ms)
+2025-09-23 09:30:00.3|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (36 ms)
+2025-09-23 09:30:00.3|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:30:00.3|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:30:00.3|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:30:00.3|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:30:00.3|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:30:00.3|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:30:00.3|Debug|Parser|Edition parsed: 
+2025-09-23 09:30:00.4|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:31:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (36 ms)
+2025-09-23 09:31:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (12 ms)
+2025-09-23 09:31:00.2|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:31:00.2|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:31:00.2|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:31:00.2|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:31:00.2|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:31:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:31:00.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:31:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:32:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (43 ms)
+2025-09-23 09:32:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (11 ms)
+2025-09-23 09:32:00.2|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:32:00.2|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:32:00.2|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:32:00.2|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:32:00.2|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:32:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:32:00.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:32:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:33:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (28 ms)
+2025-09-23 09:33:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (2 ms)
+2025-09-23 09:33:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:33:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:33:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:33:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:33:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:33:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:33:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:33:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:33:36.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-23 09:34:00.2|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (83 ms)
+2025-09-23 09:34:00.3|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (8 ms)
+2025-09-23 09:34:00.4|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:34:00.4|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:34:00.4|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:34:00.4|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:34:00.4|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:34:00.4|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:34:00.4|Debug|Parser|Edition parsed: 
+2025-09-23 09:34:00.4|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:34:00.4|Error|EventAggregator|TaskManager failed while processing [CommandExecutedEvent]
+
+[v5.27.5.10198] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2938
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Radarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Radarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Jobs.ScheduledTaskRepository.SetLastExecutionTime(Int32 id, DateTime executionTime, DateTime startTime) in ./Radarr.Core/Jobs/ScheduledTaskRepository.cs:line 28
+   at NzbDrone.Core.Jobs.TaskManager.Handle(CommandExecutedEvent message)
+   at NzbDrone.Core.Messaging.Events.EventAggregator.PublishEvent[TEvent](TEvent event)
+
+
+2025-09-23 09:34:00.5|Error|CommandExecutor|Error occurred while executing task RefreshMonitoredDownloads
+
+[v5.27.5.10198] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2938
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Radarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Radarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Update(CommandModel command, CommandStatus status, String message) in ./Radarr.Core/Messaging/Commands/CommandQueueManager.cs:line 259
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Complete(CommandModel command, String message) in ./Radarr.Core/Messaging/Commands/CommandQueueManager.cs:line 207
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand](TCommand command, CommandModel commandModel) in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 113
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 44
+
+
+2025-09-23 09:34:06.2|Error|CommandExecutor|Error occurred while executing task RefreshMonitoredDownloads
+
+[v5.27.5.10198] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2938
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Radarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Radarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand](TCommand command, CommandModel commandModel) in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 113
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 44
+
+
+2025-09-23 09:35:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (28 ms)
+2025-09-23 09:35:00.2|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:35:00.2|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:35:00.2|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:35:00.2|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:35:00.2|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-23 09:35:00.2|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:35:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:35:00.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:35:36.3|Info|RssSyncService|Starting RSS Sync
+2025-09-23 09:35:36.3|Debug|FetchAndParseRssService|Available indexers 3
+2025-09-23 09:35:36.3|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=movie&cat=2000,2070,2030,2010,2040,2060,2045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-23 09:35:36.3|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-23 09:35:36.3|Debug|Torznab|Downloading Feed http://prowlarr:9696/6/api?t=movie&cat=2000,2020,2040,2060,2030,2045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-23 09:35:37.2|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 09/23/2025 09:51:37 and 09/23/2025 10:55:31 UTC. Search may be required.
+2025-09-23 09:35:37.3|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 09/23/2025 07:33:03 and 09/23/2025 07:35:37 UTC. Search may be required.
+2025-09-23 09:35:43.0|Debug|FetchAndParseRssService|Found 38 reports
+2025-09-23 09:35:43.0|Info|DownloadDecisionMaker|Processing 38 releases
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'End of Days 1999 UHD BluRay HDR DV HEVC DTS HD MA 5.1 x265-E' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'End of Days 1999 UHD BluRay HDR DV HEVC DTS HD MA 5.1 x265-E'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. End of Days - 1999 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: E
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'End of Days 1999 UHD BluRay HDR DV HEVC DTS HD MA 5.1 x265-E'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.0|Debug|ParsingService|No matching movie for titles 'End of Days (1999)'
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Release 'End of Days 1999 UHD BluRay HDR DV HEVC DTS HD MA 5.1 x265-E' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'The.Home.2025.1080p.Bluray.10Bit.DDP5.1.Atmos.x265-NeoNoir' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'The.Home.2025.1080p.Bluray.10Bit.DDP5.1.Atmos.x265-NeoNoir'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. The Home - 2025 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: NeoNoir
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'The.Home.2025.1080p.Bluray.10Bit.DDP5.1.Atmos.x265-NeoNoir'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.0|Debug|ParsingService|No matching movie for titles 'The Home (2025)'
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Release 'The.Home.2025.1080p.Bluray.10Bit.DDP5.1.Atmos.x265-NeoNoir' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'Demon Slayer The Movie Mugen Train 2020 1080p BluRay H265 Ita Eng Jpn AC3 5.1 Sub Ita Eng Jpn-iDN_CreW' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'Demon Slayer The Movie Mugen Train 2020 1080p BluRay H265 Ita Eng Jpn AC3 5.1 Sub Ita Eng Jpn-iDN_CreW'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. Demon Slayer The Movie Mugen Train - 2020 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: iDN
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Italian, English
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'Demon Slayer The Movie Mugen Train 2020 1080p BluRay H265 Ita Eng Jpn AC3 5.1 Sub Ita Eng Jpn-iDN_CreW'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.0|Debug|ParsingService|No matching movie for titles 'Demon Slayer The Movie Mugen Train (2020)'
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Release 'Demon Slayer The Movie Mugen Train 2020 1080p BluRay H265 Ita Eng Jpn AC3 5.1 Sub Ita Eng Jpn-iDN_CreW' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'The Fantastic Four First Steps.2025.720p.WEBRip.AAC.x264-skyflickz' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'The Fantastic Four First Steps.2025.720p.WEBRip.AAC.x264-skyflickz'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. The Fantastic Four First Steps - 2025 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: skyflickz
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'The Fantastic Four First Steps.2025.720p.WEBRip.AAC.x264-skyflickz'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.0|Debug|ParsingService|No matching movie for titles 'The Fantastic Four First Steps (2025)'
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Release 'The Fantastic Four First Steps.2025.720p.WEBRip.AAC.x264-skyflickz' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'The Princess Diaries (2001 ITA/ENG) [1080p x265] [Paso77]' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'The Princess Diaries (2001 ITA/ENG) [1080p x265] [Paso77]'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. The Princess Diaries - 2001 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: Paso77
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Italian, English
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'The Princess Diaries (2001 ITA/ENG) [1080p x265] [Paso77]'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.0|Debug|ParsingService|No matching movie for titles 'The Princess Diaries (2001)'
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Release 'The Princess Diaries (2001 ITA/ENG) [1080p x265] [Paso77]' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'Mauler.2025.720p.WEBRip.AAC.x264-skyflickz' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'Mauler.2025.720p.WEBRip.AAC.x264-skyflickz'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. Mauler - 2025 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: skyflickz
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'Mauler.2025.720p.WEBRip.AAC.x264-skyflickz'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: WEBRip-720p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.0|Debug|ParsingService|No matching movie for titles 'Mauler (2025)'
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Release 'Mauler.2025.720p.WEBRip.AAC.x264-skyflickz' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'End Of Days 1999 2160p UHD BluRay REMUX DV P7 HDR ENG LATINO FRENCH ITALIAN RUSSIAN DTS HD MA H265-BTM' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'End Of Days 1999 2160p UHD BluRay REMUX DV P7 HDR ENG LATINO FRENCH ITALIAN RUSSIAN DTS HD MA H265-BTM'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. End Of Days - 1999 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: BTM
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Russian, Spanish (Latino), English, French, Italian
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'End Of Days 1999 2160p UHD BluRay REMUX DV P7 HDR ENG LATINO FRENCH ITALIAN RUSSIAN DTS HD MA H265-BTM'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: Remux-2160p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.0|Debug|ParsingService|No matching movie for titles 'End Of Days (1999)'
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Release 'End Of Days 1999 2160p UHD BluRay REMUX DV P7 HDR ENG LATINO FRENCH ITALIAN RUSSIAN DTS HD MA H265-BTM' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'The Dark Knight Rises 2012 UHD 2160p REMUX Hybrid HDR10 DV P8 DTS HD TrueHD 5 1 H265-KC' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'The Dark Knight Rises 2012 UHD 2160p REMUX Hybrid HDR10 DV P8 DTS HD TrueHD 5 1 H265-KC'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. The Dark Knight Rises - 2012 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: KC
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'The Dark Knight Rises 2012 UHD 2160p REMUX Hybrid HDR10 DV P8 DTS HD TrueHD 5 1 H265-KC'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: Remux-2160p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.0|Debug|ParsingService|No matching movie for titles 'The Dark Knight Rises (2012)'
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Release 'The Dark Knight Rises 2012 UHD 2160p REMUX Hybrid HDR10 DV P8 DTS HD TrueHD 5 1 H265-KC' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'The Dark Knight 2008 UHD 2160p REMUX Hybrid HDR10 DV P8 DTS HD TrueHD 5 1 H265-KC' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'The Dark Knight 2008 UHD 2160p REMUX Hybrid HDR10 DV P8 DTS HD TrueHD 5 1 H265-KC'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. The Dark Knight - 2008 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: KC
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'The Dark Knight 2008 UHD 2160p REMUX Hybrid HDR10 DV P8 DTS HD TrueHD 5 1 H265-KC'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: Remux-2160p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.0|Debug|ParsingService|No matching movie for titles 'The Dark Knight (2008)'
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Release 'The Dark Knight 2008 UHD 2160p REMUX Hybrid HDR10 DV P8 DTS HD TrueHD 5 1 H265-KC' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'Dirty Ice Cream.2024.1080p.WEB-DL.AAC.x264-skyflickz' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'Dirty Ice Cream.2024.1080p.WEB-DL.AAC.x264-skyflickz'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. Dirty Ice Cream - 2024 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: skyflickz
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'Dirty Ice Cream.2024.1080p.WEB-DL.AAC.x264-skyflickz'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.0|Debug|ParsingService|No matching movie for titles 'Dirty Ice Cream (2024)'
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Release 'Dirty Ice Cream.2024.1080p.WEB-DL.AAC.x264-skyflickz' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.0|Debug|DownloadDecisionMaker|Processing release 'Saving Private Ryan 1998 UHD 2160p REMUX HDR10 DV P7 DTS HD TrueHD 7 1 ATMOS H265-KC' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.0|Debug|Parser|Parsing string 'Saving Private Ryan 1998 UHD 2160p REMUX HDR10 DV P7 DTS HD TrueHD 7 1 ATMOS H265-KC'
+2025-09-23 09:35:43.0|Debug|Parser|Movie Parsed. Saving Private Ryan - 1998 
+2025-09-23 09:35:43.0|Debug|Parser|Release Group parsed: KC
+2025-09-23 09:35:43.0|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.0|Debug|QualityParser|Trying to parse quality for 'Saving Private Ryan 1998 UHD 2160p REMUX HDR10 DV P7 DTS HD TrueHD 7 1 ATMOS H265-KC'
+2025-09-23 09:35:43.0|Debug|Parser|Quality parsed: Remux-2160p v1
+2025-09-23 09:35:43.0|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Saving Private Ryan (1998)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Saving Private Ryan 1998 UHD 2160p REMUX HDR10 DV P7 DTS HD TrueHD 7 1 ATMOS H265-KC' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'BATMAN The Dark Knight TRILOGY 2005 2008 2012 UHD 2160p REMUX Hybrid HDR10 DV DTS HD TrueHD 5 1 H265-KC' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'BATMAN The Dark Knight TRILOGY 2005 2008 2012 UHD 2160p REMUX Hybrid HDR10 DV DTS HD TrueHD 5 1 H265-KC'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. BATMAN The Dark Knight TRILOGY 2005 2008 - 2012 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: KC
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'BATMAN The Dark Knight TRILOGY 2005 2008 2012 UHD 2160p REMUX Hybrid HDR10 DV DTS HD TrueHD 5 1 H265-KC'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: Remux-2160p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'BATMAN The Dark Knight TRILOGY 2005 2008 (2012)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'BATMAN The Dark Knight TRILOGY 2005 2008 2012 UHD 2160p REMUX Hybrid HDR10 DV DTS HD TrueHD 5 1 H265-KC' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Tron Legacy 2010 2160p UHD Blu ray Remux DV HDR HEVC TrueHD Atmos 7 1-CiNEPHiLES' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Tron Legacy 2010 2160p UHD Blu ray Remux DV HDR HEVC TrueHD Atmos 7 1-CiNEPHiLES'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Tron Legacy - 2010 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: CiNEPHiLES
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Tron Legacy 2010 2160p UHD Blu ray Remux DV HDR HEVC TrueHD Atmos 7 1-CiNEPHiLES'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: Remux-2160p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Tron Legacy (2010)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Tron Legacy 2010 2160p UHD Blu ray Remux DV HDR HEVC TrueHD Atmos 7 1-CiNEPHiLES' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'M3GAN 2.0 2025 Theatrical 2160p UHD Blu ray Remux HEVC DV TrueHD 7.1 Atmos-HDT' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'M3GAN 2.0 2025 Theatrical 2160p UHD Blu ray Remux HEVC DV TrueHD 7.1 Atmos-HDT'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. M3GAN 2 0 - 2025 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: HDT
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'M3GAN 2.0 2025 Theatrical 2160p UHD Blu ray Remux HEVC DV TrueHD 7.1 Atmos-HDT'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: Remux-2160p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: Theatrical
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'M3GAN 2 0 (2025)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'M3GAN 2.0 2025 Theatrical 2160p UHD Blu ray Remux HEVC DV TrueHD 7.1 Atmos-HDT' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release '28 Years Later 2025 2160p UHD Blu ray Remux DV HDR HEVC TrueHD Atmos 7 1-CiNEPHiLES' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string '28 Years Later 2025 2160p UHD Blu ray Remux DV HDR HEVC TrueHD Atmos 7 1-CiNEPHiLES'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. 28 Years Later - 2025 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: CiNEPHiLES
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for '28 Years Later 2025 2160p UHD Blu ray Remux DV HDR HEVC TrueHD Atmos 7 1-CiNEPHiLES'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: Remux-2160p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles '28 Years Later (2025)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release '28 Years Later 2025 2160p UHD Blu ray Remux DV HDR HEVC TrueHD Atmos 7 1-CiNEPHiLES' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Manor of Darkness.2025.1080p.WEB-DL.AAC.x264-skyflickz' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Manor of Darkness.2025.1080p.WEB-DL.AAC.x264-skyflickz'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Manor of Darkness - 2025 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: skyflickz
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Manor of Darkness.2025.1080p.WEB-DL.AAC.x264-skyflickz'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Manor of Darkness (2025)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Manor of Darkness.2025.1080p.WEB-DL.AAC.x264-skyflickz' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Sønnike 2025.720p.HDTS.AC3.x264-skyflickz' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Sønnike 2025.720p.HDTS.AC3.x264-skyflickz'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Sønnike - 2025 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: skyflickz
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Sønnike 2025.720p.HDTS.AC3.x264-skyflickz'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: TELESYNC v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Sønnike (2025)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Sønnike 2025.720p.HDTS.AC3.x264-skyflickz' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Tim Burton s Corpse Bride 2005 UHD BluRay 2160p HDR10 HEVC TrueHD Atmos 7 1 x265-E' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Tim Burton s Corpse Bride 2005 UHD BluRay 2160p HDR10 HEVC TrueHD Atmos 7 1 x265-E'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Tim Burton s Corpse Bride - 2005 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: E
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Tim Burton s Corpse Bride 2005 UHD BluRay 2160p HDR10 HEVC TrueHD Atmos 7 1 x265-E'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Tim Burton s Corpse Bride (2005)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Tim Burton s Corpse Bride 2005 UHD BluRay 2160p HDR10 HEVC TrueHD Atmos 7 1 x265-E' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Adulthood.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Adulthood.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Adulthood - 2025 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: NeoNoir
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Adulthood.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Adulthood (2025)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Adulthood.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Krull.1983.4K.HDR.DV.2160p BDRip Ita Eng x265-NAHOM' from '1337x (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Krull.1983.4K.HDR.DV.2160p BDRip Ita Eng x265-NAHOM'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Krull - 1983 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: NAHOM
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Italian, English
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Krull.1983.4K.HDR.DV.2160p BDRip Ita Eng x265-NAHOM'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Krull (1983)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Krull.1983.4K.HDR.DV.2160p BDRip Ita Eng x265-NAHOM' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'The.Girlfriend.2025.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv' from 'BitSearch (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'The.Girlfriend.2025.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. The Girlfriend - 2025 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: MeGusta
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'The.Girlfriend.2025.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'The Girlfriend (2025)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'The.Girlfriend.2025.S01E03.720p.HEVC.x265-MeGusta[EZTVx.to].mkv' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'La.Bete.Humaine.1938.FRENCH.BRRip.x264-GHZ.mkv' from 'BitSearch (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'La.Bete.Humaine.1938.FRENCH.BRRip.x264-GHZ.mkv'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. La Bete Humaine - 1938 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: GHZ
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: French
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'La.Bete.Humaine.1938.FRENCH.BRRip.x264-GHZ.mkv'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: Bluray-480p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'La Bete Humaine (1938)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'La.Bete.Humaine.1938.FRENCH.BRRip.x264-GHZ.mkv' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'My Heart Cant Beat Unless You Tell It To 2020 1080p AMZN WEB-DL DDP5 1 H 26' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'My Heart Cant Beat Unless You Tell It To 2020 1080p AMZN WEB-DL DDP5 1 H 26'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. My Heart Cant Beat Unless You Tell It To - 2020 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: 
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'My Heart Cant Beat Unless You Tell It To 2020 1080p AMZN WEB-DL DDP5 1 H 26'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'My Heart Cant Beat Unless You Tell It To (2020)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'My Heart Cant Beat Unless You Tell It To 2020 1080p AMZN WEB-DL DDP5 1 H 26' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Generational Sins 2017 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Generational Sins 2017 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Generational Sins - 2017 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: GPRS
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Generational Sins 2017 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Generational Sins (2017)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Generational Sins 2017 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Darling Nikki 2019 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Darling Nikki 2019 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Darling Nikki - 2019 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: GPRS
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Darling Nikki 2019 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Darling Nikki (2019)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Darling Nikki 2019 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Still Breathing 1997 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Still Breathing 1997 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Still Breathing - 1997 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: GPRS
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Still Breathing 1997 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Still Breathing (1997)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Still Breathing 1997 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Uncle Nick 2015 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Uncle Nick 2015 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Uncle Nick - 2015 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: GPRS
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Uncle Nick 2015 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Uncle Nick (2015)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Uncle Nick 2015 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'TimeCrafters The Treasure of Pirates Cove 2020 1080p AMZN WEB-DL DDP5 1 H 2' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'TimeCrafters The Treasure of Pirates Cove 2020 1080p AMZN WEB-DL DDP5 1 H 2'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. TimeCrafters The Treasure of Pirates Cove - 2020 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: 
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'TimeCrafters The Treasure of Pirates Cove 2020 1080p AMZN WEB-DL DDP5 1 H 2'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'TimeCrafters The Treasure of Pirates Cove (2020)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'TimeCrafters The Treasure of Pirates Cove 2020 1080p AMZN WEB-DL DDP5 1 H 2' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'Baby On Board 2009 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'Baby On Board 2009 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. Baby On Board - 2009 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: GPRS
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'Baby On Board 2009 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.1|Debug|ParsingService|No matching movie for titles 'Baby On Board (2009)'
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Release 'Baby On Board 2009 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.1|Debug|DownloadDecisionMaker|Processing release 'The Fantastic Four First Steps (2025) 1080p WEBRip x265 10bit 5.1-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.1|Debug|Parser|Parsing string 'The Fantastic Four First Steps (2025) 1080p WEBRip x265 10bit 5.1-LAMA'
+2025-09-23 09:35:43.1|Debug|Parser|Movie Parsed. The Fantastic Four First Steps - 2025 
+2025-09-23 09:35:43.1|Debug|Parser|Release Group parsed: LAMA
+2025-09-23 09:35:43.1|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.1|Debug|QualityParser|Trying to parse quality for 'The Fantastic Four First Steps (2025) 1080p WEBRip x265 10bit 5.1-LAMA'
+2025-09-23 09:35:43.1|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-23 09:35:43.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.2|Debug|ParsingService|No matching movie for titles 'The Fantastic Four First Steps (2025)'
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Release 'The Fantastic Four First Steps (2025) 1080p WEBRip x265 10bit 5.1-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Processing release 'Griffin In Summer (2024) 1080p WEBRip 5.1-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.2|Debug|Parser|Parsing string 'Griffin In Summer (2024) 1080p WEBRip 5.1-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Movie Parsed. Griffin In Summer - 2024 
+2025-09-23 09:35:43.2|Debug|Parser|Release Group parsed: LAMA
+2025-09-23 09:35:43.2|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.2|Debug|QualityParser|Trying to parse quality for 'Griffin In Summer (2024) 1080p WEBRip 5.1-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-23 09:35:43.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.2|Debug|ParsingService|No matching movie for titles 'Griffin In Summer (2024)'
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Release 'Griffin In Summer (2024) 1080p WEBRip 5.1-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Processing release 'Cristela Alonzo Upper Classy 2025 1080p NF WEB-DL DD 5 1 H 264-playWEB' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.2|Debug|Parser|Parsing string 'Cristela Alonzo Upper Classy 2025 1080p NF WEB-DL DD 5 1 H 264-playWEB'
+2025-09-23 09:35:43.2|Debug|Parser|Movie Parsed. Cristela Alonzo Upper Classy - 2025 
+2025-09-23 09:35:43.2|Debug|Parser|Release Group parsed: playWEB
+2025-09-23 09:35:43.2|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.2|Debug|QualityParser|Trying to parse quality for 'Cristela Alonzo Upper Classy 2025 1080p NF WEB-DL DD 5 1 H 264-playWEB'
+2025-09-23 09:35:43.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-23 09:35:43.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.2|Debug|ParsingService|No matching movie for titles 'Cristela Alonzo Upper Classy (2025)'
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Release 'Cristela Alonzo Upper Classy 2025 1080p NF WEB-DL DD 5 1 H 264-playWEB' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Processing release 'Cristela Alonzo Upper Classy (2025) 1080p WEBRip 5.1-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.2|Debug|Parser|Parsing string 'Cristela Alonzo Upper Classy (2025) 1080p WEBRip 5.1-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Movie Parsed. Cristela Alonzo Upper Classy - 2025 
+2025-09-23 09:35:43.2|Debug|Parser|Release Group parsed: LAMA
+2025-09-23 09:35:43.2|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.2|Debug|QualityParser|Trying to parse quality for 'Cristela Alonzo Upper Classy (2025) 1080p WEBRip 5.1-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-23 09:35:43.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.2|Debug|ParsingService|No matching movie for titles 'Cristela Alonzo Upper Classy (2025)'
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Release 'Cristela Alonzo Upper Classy (2025) 1080p WEBRip 5.1-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Processing release 'Life In The XXI Century (2021) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.2|Debug|Parser|Parsing string 'Life In The XXI Century (2021) 1080p WEBRip-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Movie Parsed. Life In The XXI Century - 2021 
+2025-09-23 09:35:43.2|Debug|Parser|Release Group parsed: LAMA
+2025-09-23 09:35:43.2|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.2|Debug|QualityParser|Trying to parse quality for 'Life In The XXI Century (2021) 1080p WEBRip-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-23 09:35:43.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.2|Debug|ParsingService|No matching movie for titles 'Life In The XXI Century (2021)'
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Release 'Life In The XXI Century (2021) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Processing release 'Post Modern Minion (2022) 1080p BluRay 5.1-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.2|Debug|Parser|Parsing string 'Post Modern Minion (2022) 1080p BluRay 5.1-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Movie Parsed. Post Modern Minion - 2022 
+2025-09-23 09:35:43.2|Debug|Parser|Release Group parsed: LAMA
+2025-09-23 09:35:43.2|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.2|Debug|QualityParser|Trying to parse quality for 'Post Modern Minion (2022) 1080p BluRay 5.1-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-09-23 09:35:43.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.2|Debug|ParsingService|No matching movie for titles 'Post Modern Minion (2022)'
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Release 'Post Modern Minion (2022) 1080p BluRay 5.1-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Processing release 'Bodyguard Of Lies (2025) 1080p WEBRip 5.1-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.2|Debug|Parser|Parsing string 'Bodyguard Of Lies (2025) 1080p WEBRip 5.1-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Movie Parsed. Bodyguard Of Lies - 2025 
+2025-09-23 09:35:43.2|Debug|Parser|Release Group parsed: LAMA
+2025-09-23 09:35:43.2|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.2|Debug|QualityParser|Trying to parse quality for 'Bodyguard Of Lies (2025) 1080p WEBRip 5.1-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-23 09:35:43.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.2|Debug|ParsingService|No matching movie for titles 'Bodyguard Of Lies (2025)'
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Release 'Bodyguard Of Lies (2025) 1080p WEBRip 5.1-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Processing release 'Adulthood (2025) 1080p WEBRip 5.1-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.2|Debug|Parser|Parsing string 'Adulthood (2025) 1080p WEBRip 5.1-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Movie Parsed. Adulthood - 2025 
+2025-09-23 09:35:43.2|Debug|Parser|Release Group parsed: LAMA
+2025-09-23 09:35:43.2|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.2|Debug|QualityParser|Trying to parse quality for 'Adulthood (2025) 1080p WEBRip 5.1-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-23 09:35:43.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.2|Debug|ParsingService|No matching movie for titles 'Adulthood (2025)'
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Release 'Adulthood (2025) 1080p WEBRip 5.1-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Processing release 'Horror Unmasked (2024) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-23 09:35:43.2|Debug|Parser|Parsing string 'Horror Unmasked (2024) 1080p WEBRip-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Movie Parsed. Horror Unmasked - 2024 
+2025-09-23 09:35:43.2|Debug|Parser|Release Group parsed: LAMA
+2025-09-23 09:35:43.2|Debug|Parser|Languages parsed: Unknown
+2025-09-23 09:35:43.2|Debug|QualityParser|Trying to parse quality for 'Horror Unmasked (2024) 1080p WEBRip-LAMA'
+2025-09-23 09:35:43.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-23 09:35:43.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:35:43.2|Debug|ParsingService|No matching movie for titles 'Horror Unmasked (2024)'
+2025-09-23 09:35:43.2|Debug|DownloadDecisionMaker|Release 'Horror Unmasked (2024) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-23 09:35:43.2|Info|RssSyncService|RSS Sync Completed. Reports found: 38, Reports grabbed: 0
+2025-09-23 09:35:43.2|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-23 09:36:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (24 ms)
+2025-09-23 09:36:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (11 ms)
+2025-09-23 09:36:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:36:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:36:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:36:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:36:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:36:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:36:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:36:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:37:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (33 ms)
+2025-09-23 09:37:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 09:37:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:37:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:37:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:37:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:37:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:37:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:37:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:37:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:38:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (27 ms)
+2025-09-23 09:38:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 09:38:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:38:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:38:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:38:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:38:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:38:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:38:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:38:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:38:00.1|Error|EventAggregator|TaskManager failed while processing [CommandExecutedEvent]
+
+[v5.27.5.10198] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2938
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Radarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Radarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Jobs.ScheduledTaskRepository.SetLastExecutionTime(Int32 id, DateTime executionTime, DateTime startTime) in ./Radarr.Core/Jobs/ScheduledTaskRepository.cs:line 28
+   at NzbDrone.Core.Jobs.TaskManager.Handle(CommandExecutedEvent message)
+   at NzbDrone.Core.Messaging.Events.EventAggregator.PublishEvent[TEvent](TEvent event)
+
+
+2025-09-23 09:38:00.1|Error|CommandExecutor|Error occurred while executing task RefreshMonitoredDownloads
+
+[v5.27.5.10198] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2938
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Radarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Radarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Update(CommandModel command, CommandStatus status, String message) in ./Radarr.Core/Messaging/Commands/CommandQueueManager.cs:line 259
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Complete(CommandModel command, String message) in ./Radarr.Core/Messaging/Commands/CommandQueueManager.cs:line 207
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand](TCommand command, CommandModel commandModel) in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 113
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 44
+
+
+2025-09-23 09:38:06.3|Error|CommandExecutor|Error occurred while executing task RefreshMonitoredDownloads
+
+[v5.27.5.10198] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2938
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Radarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Radarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand](TCommand command, CommandModel commandModel) in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 113
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Radarr.Core/Messaging/Commands/CommandExecutor.cs:line 44
+
+
+2025-09-23 09:38:36.3|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-23 09:39:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (39 ms)
+2025-09-23 09:39:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-23 09:39:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:39:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:39:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:39:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:39:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:39:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:39:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:39:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:40:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (42 ms)
+2025-09-23 09:40:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 09:40:00.2|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:40:00.2|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:40:00.2|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:40:00.2|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:40:00.2|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:40:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:40:00.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:40:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:41:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (44 ms)
+2025-09-23 09:41:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (7 ms)
+2025-09-23 09:41:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:41:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:41:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:41:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:41:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:41:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:41:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:41:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:42:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (25 ms)
+2025-09-23 09:42:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (23 ms)
+2025-09-23 09:42:00.2|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:42:00.2|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:42:00.2|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:42:00.2|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:42:00.2|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:42:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:42:00.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:42:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:43:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (39 ms)
+2025-09-23 09:43:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (19 ms)
+2025-09-23 09:43:00.2|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:43:00.2|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:43:00.2|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:43:00.2|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:43:00.2|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:43:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:43:00.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:43:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:43:36.4|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-23 09:44:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (56 ms)
+2025-09-23 09:44:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 09:44:00.2|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:44:00.2|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:44:00.2|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:44:00.2|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:44:00.2|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:44:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:44:00.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:44:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:45:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (44 ms)
+2025-09-23 09:45:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (8 ms)
+2025-09-23 09:45:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:45:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:45:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:45:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:45:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:45:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:45:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:45:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:46:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (16 ms)
+2025-09-23 09:46:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (14 ms)
+2025-09-23 09:46:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:46:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:46:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:46:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:46:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:46:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:46:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:46:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:47:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (16 ms)
+2025-09-23 09:47:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 09:47:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:47:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:47:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:47:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:47:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:47:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:47:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:47:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:48:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (29 ms)
+2025-09-23 09:48:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-23 09:48:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:48:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:48:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:48:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:48:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:48:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:48:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:48:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:48:36.5|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-23 09:49:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (26 ms)
+2025-09-23 09:49:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 09:49:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:49:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:49:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:49:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:49:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:49:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:49:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:49:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:57:15.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (27 ms)
+2025-09-23 09:57:15.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (52 ms)
+2025-09-23 09:57:15.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (18 ms)
+2025-09-23 09:57:15.9|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (9 ms)
+2025-09-23 09:57:16.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2025-09-23 09:57:16.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (3 ms)
+2025-09-23 09:57:16.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (0 ms)
+2025-09-23 09:57:16.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (11 ms)
+2025-09-23 09:57:16.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (11 ms)
+2025-09-23 09:57:16.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (8 ms)
+2025-09-23 09:57:16.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (28 ms)
+2025-09-23 09:57:16.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (29 ms)
+2025-09-23 09:57:16.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 09:57:16.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (31 ms)
+2025-09-23 09:57:16.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-23 09:57:16.2|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:57:16.2|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:57:16.2|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:57:16.2|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:57:16.2|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:57:16.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:57:16.2|Debug|Parser|Edition parsed: 
+2025-09-23 09:57:16.2|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (8 ms)
+2025-09-23 09:57:16.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:57:22.3|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-23 09:58:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (47 ms)
+2025-09-23 09:58:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (5 ms)
+2025-09-23 09:58:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:58:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:58:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:58:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:58:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:58:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:58:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:58:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 09:59:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (16 ms)
+2025-09-23 09:59:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (26 ms)
+2025-09-23 09:59:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:59:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 09:59:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 09:59:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 09:59:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 09:59:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 09:59:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 09:59:00.1|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 10:00:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (45 ms)
+2025-09-23 10:00:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-23 10:00:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 10:00:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 10:00:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 10:00:00.2|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 10:00:00.2|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 10:00:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 10:00:00.2|Debug|Parser|Edition parsed: 
+2025-09-23 10:00:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
+2025-09-23 10:01:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (47 ms)
+2025-09-23 10:01:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (13 ms)
+2025-09-23 10:01:00.1|Debug|Parser|Parsing string 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 10:01:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-23 10:01:00.1|Debug|Parser|Release Group parsed: r00t
+2025-09-23 10:01:00.1|Debug|Parser|Languages parsed: English, Spanish, French
+2025-09-23 10:01:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners (2025) (2160p BluRay x265 10bit DV HDR TrueHD Atmos 7.1 English + French + Spanish r00t) [QxR]'
+2025-09-23 10:01:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-23 10:01:00.1|Debug|Parser|Edition parsed: 
+2025-09-23 10:01:00.2|Debug|AggregateLanguages|Selected languages: English, Spanish, French
