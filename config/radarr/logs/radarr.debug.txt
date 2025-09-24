@@ -5979,3 +5979,99 @@ attempt to write a readonly database
 2025-09-24 17:28:00.4|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S20.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX
 2025-09-24 17:28:00.4|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S21.AMZN.WEB-DL.720p.TVShows'
 2025-09-24 17:28:00.4|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S21.AMZN.WEB-DL.720p.TVShows
+2025-09-24 17:29:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (28 ms)
+2025-09-24 17:29:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (14 ms)
+2025-09-24 17:29:00.1|Debug|Parser|Parsing string 'Sinners 2025 2160p HDR10Plus DV BluRay 8CH x265 HEVC-PSA'
+2025-09-24 17:29:00.1|Debug|Parser|Movie Parsed. Sinners - 2025 
+2025-09-24 17:29:00.1|Debug|Parser|Release Group parsed: PSA
+2025-09-24 17:29:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-24 17:29:00.1|Debug|QualityParser|Trying to parse quality for 'Sinners 2025 2160p HDR10Plus DV BluRay 8CH x265 HEVC-PSA'
+2025-09-24 17:29:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-24 17:29:00.1|Debug|Parser|Edition parsed: 
+2025-09-24 17:29:00.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-24 17:29:00.1|Debug|AggregateLanguages|Selected languages: English
+2025-09-24 17:29:00.1|Debug|Parser|Parsing string 'Alien Earth - S01 - Mp4 x264 AC3 1080p'
+2025-09-24 17:29:00.1|Debug|Parser|Unable to parse Alien Earth - S01 - Mp4 x264 AC3 1080p
+2025-09-24 17:29:00.1|Debug|Parser|Parsing string 'The Fantastic Four First Steps 2025 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA'
+2025-09-24 17:29:00.1|Debug|Parser|Movie Parsed. The Fantastic Four First Steps - 2025 
+2025-09-24 17:29:00.1|Debug|Parser|Release Group parsed: PSA
+2025-09-24 17:29:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-24 17:29:00.1|Debug|QualityParser|Trying to parse quality for 'The Fantastic Four First Steps 2025 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA'
+2025-09-24 17:29:00.1|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-24 17:29:00.1|Debug|Parser|Edition parsed: 
+2025-09-24 17:29:00.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-24 17:29:00.1|Debug|AggregateLanguages|Selected languages: English
+2025-09-24 17:29:00.1|Debug|Parser|Parsing string 'Euphoria.US.S01.REPACK.1080p.AMZN.WEBRip.DDP5.1.x264-KiNGS'
+2025-09-24 17:29:00.1|Debug|Parser|Unable to parse Euphoria.US.S01.REPACK.1080p.AMZN.WEBRip.DDP5.1.x264-KiNGS
+2025-09-24 17:29:00.1|Debug|Parser|Parsing string 'Euphoria.US.S02.COMPLETE.1080p.WEBRip.AC3.x264-LESS'
+2025-09-24 17:29:00.1|Debug|Parser|Unable to parse Euphoria.US.S02.COMPLETE.1080p.WEBRip.AC3.x264-LESS
+2025-09-24 17:29:00.1|Debug|Parser|Parsing string '[bitsearch.to] The Rookie (2018) Season 1 S01 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)'
+2025-09-24 17:29:00.1|Debug|Parser|Movie Parsed. The Rookie - 2018 
+2025-09-24 17:29:00.1|Debug|Parser|Release Group parsed: Vyndros
+2025-09-24 17:29:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-24 17:29:00.1|Debug|QualityParser|Trying to parse quality for '[bitsearch.to] The Rookie (2018) Season 1 S01 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)'
+2025-09-24 17:29:00.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-24 17:29:00.1|Debug|Parser|Edition parsed: 
+2025-09-24 17:29:00.1|Debug|ParsingService|No matching movie for titles 'The Rookie (2018)'
+2025-09-24 17:29:00.1|Debug|AggregateLanguages|Unable to aggregate languages, using parsed values: Unknown
+2025-09-24 17:29:00.1|Debug|Parser|Parsing string '[bitsearch.to] The.Rookie.S02.web-dl.sdr.1080p.av1.5.1.eac3-Dust'
+2025-09-24 17:29:00.1|Debug|Parser|Unable to parse [bitsearch.to] The.Rookie.S02.web-dl.sdr.1080p.av1.5.1.eac3-Dust
+2025-09-24 17:29:00.1|Debug|Parser|Parsing string '[bitsearch.to] The Rookie (2018) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit DDP 5.1 Vyndros)'
+2025-09-24 17:29:00.1|Debug|Parser|Movie Parsed. The Rookie - 2018 
+2025-09-24 17:29:00.1|Debug|Parser|Release Group parsed: Vyndros
+2025-09-24 17:29:00.2|Debug|Parser|Languages parsed: Unknown
+2025-09-24 17:29:00.2|Debug|QualityParser|Trying to parse quality for '[bitsearch.to] The Rookie (2018) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit DDP 5.1 Vyndros)'
+2025-09-24 17:29:00.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-24 17:29:00.2|Debug|Parser|Edition parsed: 
+2025-09-24 17:29:00.2|Debug|ParsingService|No matching movie for titles 'The Rookie (2018)'
+2025-09-24 17:29:00.2|Debug|AggregateLanguages|Unable to aggregate languages, using parsed values: Unknown
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] The.Rookie.S04.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] The.Rookie.S04.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'The.Rookie.S05.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC.x265-Vyndros'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse The.Rookie.S05.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC.x265-Vyndros
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'The.Rookie.S06.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC.x265-Vyndros'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse The.Rookie.S06.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC.x265-Vyndros
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'The.Rookie.S07.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC.x265-Vyndros'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse The.Rookie.S07.1080p.10bit.AMZN.WEB-DL.DDP5.1.HEVC.x265-Vyndros
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S01.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S01.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S02.1080p.WEBRip.AV1.Opus.5.1-heTOrico'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S02.1080p.WEBRip.AV1.Opus.5.1-heTOrico
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S03.1080p.WEBRip.AV1.Opus.5.1-heTOrico'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S03.1080p.WEBRip.AV1.Opus.5.1-heTOrico
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S04.1080p.BluRay.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S04.1080p.BluRay.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S05.1080p.Bluray.AV1.Opus.5.1-heTOrico'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S05.1080p.Bluray.AV1.Opus.5.1-heTOrico
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S06.1080p.WEBRip.AV1.Opus.5.1-heTOrico'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S06.1080p.WEBRip.AV1.Opus.5.1-heTOrico
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S07.1080p.WEBRip.AV1.Opus.5.1-heTOrico'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S07.1080p.WEBRip.AV1.Opus.5.1-heTOrico
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S08.1080p.WEBRip.AV1.Opus.5.1-heTOrico'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S08.1080p.WEBRip.AV1.Opus.5.1-heTOrico
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'Greys.Anatomy.S09.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse Greys.Anatomy.S09.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'Greys.Anatomy.S10.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse Greys.Anatomy.S10.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'Greys.Anatomy.S11.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse Greys.Anatomy.S11.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'Greys.Anatomy.S12.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse Greys.Anatomy.S12.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'Greys.Anatomy.S13.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse Greys.Anatomy.S13.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'Greys.Anatomy.S14.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse Greys.Anatomy.S14.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'Greys.Anatomy.S15.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse Greys.Anatomy.S15.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string 'Greys.Anatomy.S16.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse Greys.Anatomy.S16.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S17.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S17.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S18.1080p.WEBRip.x265-RARBG'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S18.1080p.WEBRip.x265-RARBG
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S19.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S19.COMPLETE.720p.AMZN.WEBRip.x264-GalaxyTV[TGx]
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S20.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S20.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX
+2025-09-24 17:29:00.2|Debug|Parser|Parsing string '[bitsearch.to] Greys.Anatomy.S21.AMZN.WEB-DL.720p.TVShows'
+2025-09-24 17:29:00.2|Debug|Parser|Unable to parse [bitsearch.to] Greys.Anatomy.S21.AMZN.WEB-DL.720p.TVShows
