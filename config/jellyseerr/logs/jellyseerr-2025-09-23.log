@@ -702,3 +702,647 @@
 2025-09-23T14:00:05.035Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
 2025-09-23T14:00:10.696Z [info][Jellyfin Sync]: Recently Added Scan Complete 
 2025-09-23T14:01:00.169Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:02:00.113Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:04:00.141Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:05:00.061Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:05:00.063Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"0a3cb054-8d6f-49fd-b525-f6a1963edf23"}
+2025-09-23T14:05:00.103Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:05:00.156Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:05:00.914Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:05:05.247Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:05:10.967Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T14:06:00.135Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:07:00.134Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:09:00.175Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:10:00.056Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:10:00.058Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"e1693b40-ce44-4802-8006-3acd31944b1b"}
+2025-09-23T14:10:00.101Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:10:00.137Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:10:01.019Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:10:05.067Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:10:10.799Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T14:11:00.116Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:12:00.155Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:13:00.134Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:14:00.120Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:15:00.075Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:15:00.080Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"5374e432-2f05-4063-8e35-23cff1c51204"}
+2025-09-23T14:15:00.108Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:15:00.172Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:15:00.973Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:15:05.377Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:15:11.756Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T14:16:00.145Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:17:00.107Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:18:00.161Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:19:00.144Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:20:00.062Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:20:00.065Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"623bc89d-967b-4b48-9b30-332791dec3cb"}
+2025-09-23T14:20:00.084Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:20:00.113Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:20:00.971Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:20:05.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:20:11.203Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T14:21:00.114Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:22:00.075Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:23:00.213Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:24:00.108Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:25:00.062Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:25:00.066Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7ef67264-837b-4361-927f-ffde08207128"}
+2025-09-23T14:25:00.090Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:25:00.171Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:25:01.054Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:25:05.350Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:25:11.005Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T14:26:00.119Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:27:00.106Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:28:00.131Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:29:00.120Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:30:00.040Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:30:00.045Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"8e6ed79a-ba44-4872-b006-6a5aeb87eb0c"}
+2025-09-23T14:30:00.070Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:30:00.111Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 
+2025-09-23T14:30:00.899Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:30:04.999Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:30:10.717Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T14:31:31.115Z [info]: Commit Tag: $GIT_SHA 
+2025-09-23T14:31:31.723Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-23T14:31:32.209Z [info][Notifications]: Registered notification agents 
+2025-09-23T14:31:32.243Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-23T14:31:32.323Z [info][Server]: Server ready on port 5055 
+2025-09-23T14:35:00.082Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:35:00.087Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"2ab11bbe-03a5-4b68-ab35-3bcaf5f47ae6"}
+2025-09-23T14:35:00.118Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:35:01.178Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:35:05.576Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:35:11.282Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T14:40:00.089Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:40:00.091Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"1ad47c00-428f-4f54-b69d-050c8c7afd58"}
+2025-09-23T14:40:00.111Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:40:01.096Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:40:05.105Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:40:10.838Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T14:43:00.295Z [error][Download Tracker]: Unable to get queue from Radarr server: Radarr 
+2025-09-23T14:45:00.076Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:45:00.078Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"6c08b1da-741c-4216-b7cf-eb7076fd6359"}
+2025-09-23T14:45:00.105Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:45:01.257Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:45:05.789Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:45:11.532Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T14:46:00.209Z [error][Download Tracker]: Unable to get queue from Radarr server: Radarr 
+2025-09-23T14:50:00.033Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:50:00.040Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"309f6f00-cde0-478f-aad5-2d94e81e05b9"}
+2025-09-23T14:50:00.060Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:50:00.923Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:50:04.962Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:50:10.691Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T14:50:13.776Z [info][Media Request]: Request has an override quality profile ID: 5 {"requestId":5,"mediaId":14}
+2025-09-23T14:50:13.788Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"KPop Demon Hunters (2025)"}
+2025-09-23T14:50:13.801Z [info][Media Request]: Sent request to Radarr {"requestId":5,"mediaId":14}
+2025-09-23T14:50:14.919Z [info][Radarr]: Radarr accepted request 
+2025-09-23T14:52:56.362Z [info]: Commit Tag: $GIT_SHA 
+2025-09-23T14:52:57.142Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-23T14:52:58.298Z [info][Notifications]: Registered notification agents 
+2025-09-23T14:52:58.382Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-23T14:52:58.558Z [info][Server]: Server ready on port 5055 
+2025-09-23T14:55:00.080Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T14:55:00.086Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"ad8ff37d-f7a9-458c-8a97-e21f59615f51"}
+2025-09-23T14:55:00.114Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T14:55:01.001Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T14:55:05.395Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T14:55:11.073Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T15:00:00.062Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T15:00:00.064Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"d6b671fc-3125-4454-bc36-00fb356effab"}
+2025-09-23T15:00:00.080Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T15:00:01.061Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T15:00:05.095Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T15:00:10.804Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T15:05:00.095Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T15:05:00.099Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"feb9ca48-c7d5-4ef4-984f-e8fd44daeb5e"}
+2025-09-23T15:05:00.120Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T15:05:01.175Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T15:05:05.492Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T15:05:11.491Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T15:07:19.729Z [info]: Commit Tag: $GIT_SHA 
+2025-09-23T15:07:20.644Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-23T15:07:21.400Z [info][Notifications]: Registered notification agents 
+2025-09-23T15:07:21.480Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-23T15:07:21.668Z [info][Server]: Server ready on port 5055 
+2025-09-23T15:19:45.176Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T15:19:45.186Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"31cd9fd6-ae05-4b95-94af-a1de3d6492e5"}
+2025-09-23T15:19:45.265Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T15:19:45.268Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"32740890-6267-4549-93bd-ca5d8a621e86"}
+2025-09-23T15:19:45.281Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T15:19:45.352Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T15:19:46.150Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T15:19:46.824Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T15:19:51.395Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T15:19:57.293Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T15:20:00.056Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T15:20:00.057Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"835628af-2e72-4bcd-b7a5-76d76a4f37bc"}
+2025-09-23T15:20:00.094Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T15:20:00.862Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T15:20:05.021Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T15:20:10.990Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T15:22:00.214Z [error][Download Tracker]: Unable to get queue from Radarr server: Radarr 
+2025-09-23T15:25:00.080Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T15:25:00.085Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"b38945c7-88fe-49e3-b3b2-1639900a3f23"}
+2025-09-23T15:25:00.147Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T15:25:01.177Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T15:25:05.707Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T15:25:11.638Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T15:28:57.114Z [info]: Commit Tag: $GIT_SHA 
+2025-09-23T15:28:58.109Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-23T15:28:58.799Z [info][Notifications]: Registered notification agents 
+2025-09-23T15:28:58.838Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-23T15:28:59.170Z [info][Server]: Server ready on port 5055 
+2025-09-23T15:30:00.081Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T15:30:00.086Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"d8cbf876-eafa-4067-801f-c3b053456c02"}
+2025-09-23T15:30:00.113Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T15:30:01.191Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T15:30:05.718Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T15:30:11.519Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T15:31:15.784Z [info]: Commit Tag: $GIT_SHA 
+2025-09-23T15:31:16.311Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-23T15:31:17.606Z [info][Notifications]: Registered notification agents 
+2025-09-23T15:31:17.668Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-23T15:31:17.958Z [info][Server]: Server ready on port 5055 
+2025-09-23T15:32:44.972Z [info]: Commit Tag: $GIT_SHA 
+2025-09-23T15:32:46.054Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-23T15:32:48.564Z [info][Notifications]: Registered notification agents 
+2025-09-23T15:32:48.633Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-23T15:32:49.025Z [info][Server]: Server ready on port 5055 
+2025-09-23T16:02:14.643Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:02:14.649Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"1abd0bb3-2591-4048-b0cc-c800ccf537ba"}
+2025-09-23T16:02:14.713Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:02:14.774Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:02:14.775Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"27317309-069f-45a8-86d2-c2c1e19293ae"}
+2025-09-23T16:02:14.919Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:02:14.921Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"61896c0d-d33a-4304-bbef-d62bf9132d20"}
+2025-09-23T16:02:14.925Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:02:15.048Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:02:15.053Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"ac2b6726-4162-4379-8ab1-614e85a183b9"}
+2025-09-23T16:02:15.072Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:02:15.243Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:02:15.253Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:02:15.257Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7ffe1fd7-591c-46a5-bbb0-98656c055919"}
+2025-09-23T16:02:15.644Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:02:15.753Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:02:15.756Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"254621f1-bd62-4505-aed9-d6a96efa9b09"}
+2025-09-23T16:02:15.823Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:02:15.829Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:02:15.859Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:02:15.868Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:02:15.899Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:02:15.913Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:02:16.482Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T16:02:20.903Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T16:02:26.782Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T16:34:27.247Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:34:27.249Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7453f8be-2411-42f9-b4b6-579ba3ffe7e4"}
+2025-09-23T16:34:27.293Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:34:27.300Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"9c3e8c85-c78a-4d81-9df6-0e210f139826"}
+2025-09-23T16:34:27.309Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:34:27.422Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:34:27.424Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7586b052-3bc2-4c35-912f-2cf2b6a88b82"}
+2025-09-23T16:34:27.433Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:34:27.647Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:34:27.648Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"55533629-5d76-4ce0-9607-f72e865da00b"}
+2025-09-23T16:34:27.651Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:34:27.752Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:34:27.753Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"29ca1d34-1a79-4159-a4f4-da147cedc596"}
+2025-09-23T16:34:27.756Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:34:27.785Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:34:27.845Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:34:27.849Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"8763f457-49dc-406d-9a5a-df4fb809d478"}
+2025-09-23T16:34:28.172Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:34:28.176Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:34:28.176Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:34:28.179Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:34:28.309Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:34:28.404Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:34:28.712Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T16:34:33.011Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T16:34:38.274Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T16:48:49.109Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:48:49.118Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"99433264-1b4c-41ad-8c6e-847dfcc84df4"}
+2025-09-23T16:48:49.515Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:48:49.604Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:48:49.604Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"11db9394-907f-4276-bdcd-c532f6df8223"}
+2025-09-23T16:48:49.921Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T16:48:49.923Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"02f780c8-eae5-45e5-9e84-0ab6d3c5dfc6"}
+2025-09-23T16:48:49.929Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:48:50.322Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T16:48:50.549Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:48:50.570Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T16:48:51.298Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T16:48:55.596Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T16:49:02.001Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T17:19:23.286Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:19:23.289Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"a8165f3f-890a-4435-97da-490e1ccfdd11"}
+2025-09-23T17:19:23.414Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:19:23.414Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"c34be910-d8fb-48fe-84eb-3d19a7301263"}
+2025-09-23T17:19:23.416Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:19:23.477Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:19:23.480Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"b5f6e898-f8e4-410c-813e-06ea9cf0eeae"}
+2025-09-23T17:19:23.484Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:19:23.556Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:19:23.557Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"fb679fef-26a4-4d95-8911-fde1b6f660ff"}
+2025-09-23T17:19:23.559Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:19:23.595Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:19:23.599Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:19:23.599Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"59da2b2a-d042-4444-a850-5e1ad8113ac6"}
+2025-09-23T17:19:23.631Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:19:23.634Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:19:23.635Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"682ce3bc-07c6-45dc-8b58-1edbecb7e8f1"}
+2025-09-23T17:19:23.750Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:19:23.976Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T17:19:23.980Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T17:19:24.015Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T17:19:24.015Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T17:19:24.035Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T17:19:24.481Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T17:19:28.755Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T17:19:34.533Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T17:23:35.085Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:23:35.089Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f2de0b49-51d8-404b-af51-d76095c64737"}
+2025-09-23T17:23:35.134Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:23:35.957Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T17:23:40.110Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T17:23:46.061Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T17:44:39.756Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:44:39.760Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"dabecc07-0647-4797-a9d1-63efe78d5fdb"}
+2025-09-23T17:44:39.878Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:44:39.893Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"fc1a1503-668a-4138-9c66-e088b18e3054"}
+2025-09-23T17:44:39.952Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:44:40.014Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:44:40.014Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"27edfd57-da79-493c-bfdb-a59ec3bdf161"}
+2025-09-23T17:44:40.015Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:44:40.061Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T17:44:40.063Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7b117187-75aa-4d10-942f-db769e631933"}
+2025-09-23T17:44:40.066Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:44:40.136Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T17:44:40.468Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T17:44:40.469Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T17:44:40.470Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T17:44:40.470Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T17:44:40.479Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T17:44:40.480Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T17:44:40.498Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T17:44:40.498Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:56.622Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:56.625Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"345b67ed-0071-428c-8d2b-6f14031b2003"}
+2025-09-23T18:41:56.692Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:56.693Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"4b5a10f0-711d-4a97-8a3c-c6cdd85cab41"}
+2025-09-23T18:41:56.708Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:56.799Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:56.810Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:56.810Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"bcf5484a-7843-4406-8fef-0bc4fae84e33"}
+2025-09-23T18:41:56.901Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:56.901Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"e323aaa1-0a27-45ac-9ae2-886f4613aecf"}
+2025-09-23T18:41:56.903Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:56.960Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:56.970Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:56.971Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"a563e9d6-f002-40c5-b887-a45a47a4a81c"}
+2025-09-23T18:41:57.007Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:57.007Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"921d3dcc-6eff-4d3e-9df0-c7039b41d855"}
+2025-09-23T18:41:57.008Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:57.044Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:57.045Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"4ec5545d-d2c3-4739-a164-3f41b0684aec"}
+2025-09-23T18:41:57.048Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:57.122Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:57.123Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"43aafc34-4469-4f46-8c84-7d6e0420fea1"}
+2025-09-23T18:41:57.124Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:57.164Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:57.164Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"00a1b61d-494f-4f43-8781-cf44fd9ad409"}
+2025-09-23T18:41:57.166Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:57.171Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.171Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.183Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.184Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.207Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:57.211Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:57.211Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"e81fd64f-9b1e-431c-af74-fcd46a8f05ea"}
+2025-09-23T18:41:57.224Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.225Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.233Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.233Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.270Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:57.276Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:57.277Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"1f80c059-2d15-436b-935e-a928e4649e5d"}
+2025-09-23T18:41:57.352Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.352Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.356Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.356Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.395Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.396Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.411Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.411Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.414Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:41:57.414Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"304deab9-b83f-4fa9-937b-f61c9679e465"}
+2025-09-23T18:41:57.418Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:57.441Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:41:57.483Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.484Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.504Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.505Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.527Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.527Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:41:57.542Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T18:41:57.542Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T18:50:22.806Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:50:22.827Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"330be29b-2778-46b9-a284-833cbf768a3e"}
+2025-09-23T18:50:22.987Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:50:22.988Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"a654c10b-6567-4d81-a452-04a28ebd2a5e"}
+2025-09-23T18:50:22.991Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:50:23.019Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:50:24.393Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T18:50:24.692Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T18:50:29.054Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T18:50:34.846Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T18:52:22.448Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Alien: Earth (2025)"}
+2025-09-23T18:52:22.478Z [info][Media Request]: Sent request to Sonarr {"requestId":6,"mediaId":15}
+2025-09-23T18:52:23.814Z [info][Sonarr]: Sonarr accepted request 
+2025-09-23T18:55:00.154Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T18:55:00.156Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"91681aeb-4f87-4d54-bda4-5c9051391c05"}
+2025-09-23T18:55:00.247Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T18:55:01.558Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T18:55:05.566Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T18:55:11.414Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T19:00:00.096Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T19:00:00.108Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"34229fa2-917f-4e82-bfbf-dedd86ea65e1"}
+2025-09-23T19:00:00.231Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T19:00:01.608Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:00:05.893Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T19:00:11.666Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T19:05:00.082Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T19:05:00.089Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"9f380849-5c2a-499a-bdbf-226415710bc0"}
+2025-09-23T19:05:00.148Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T19:05:01.809Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:05:06.212Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T19:05:12.170Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T19:07:56.043Z [info]: Commit Tag: $GIT_SHA 
+2025-09-23T19:08:02.818Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-23T19:08:10.362Z [info][Notifications]: Registered notification agents 
+2025-09-23T19:08:10.552Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-23T19:08:11.305Z [info][Server]: Server ready on port 5055 
+2025-09-23T19:10:00.108Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T19:10:00.125Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"8dadc4b1-8d4a-4c4c-810c-5a455038e2da"}
+2025-09-23T19:10:00.199Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T19:10:01.844Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:10:06.501Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T19:10:12.787Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T19:14:48.227Z [info]: Commit Tag: $GIT_SHA 
+2025-09-23T19:14:51.731Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-23T19:15:00.316Z [info][Notifications]: Registered notification agents 
+2025-09-23T19:15:00.576Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-23T19:15:01.718Z [info][Server]: Server ready on port 5055 
+2025-09-23T19:15:23.126Z [info]: [Radarr] Removed serie Alien: Earth 
+2025-09-23T19:15:29.398Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Alien: Earth (2025)"}
+2025-09-23T19:15:29.409Z [info][Media Request]: Sent request to Sonarr {"requestId":7,"mediaId":16}
+2025-09-23T19:15:34.146Z [info][Sonarr]: Sonarr accepted request 
+2025-09-23T19:17:33.495Z [info]: Commit Tag: $GIT_SHA 
+2025-09-23T19:17:36.201Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-23T19:17:42.840Z [info][Notifications]: Registered notification agents 
+2025-09-23T19:17:43.110Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-23T19:17:43.538Z [info][Server]: Server ready on port 5055 
+2025-09-23T19:18:01.522Z [info]: [Radarr] Removed movie KPop Demon Hunters 
+2025-09-23T19:18:03.761Z [info]: [Radarr] Removed movie Sinners 
+2025-09-23T19:18:27.058Z [info][Media Request]: Request has an override quality profile ID: 5 {"requestId":8,"mediaId":17}
+2025-09-23T19:18:27.070Z [info][Media Request]: Sent request to Radarr {"requestId":8,"mediaId":17}
+2025-09-23T19:18:27.079Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Sinners (2025)"}
+2025-09-23T19:18:27.605Z [info][Radarr]: Radarr accepted request 
+2025-09-23T19:22:38.130Z [info]: Commit Tag: $GIT_SHA 
+2025-09-23T19:22:42.685Z [info]: Starting Jellyseerr version 2.7.3 
+2025-09-23T19:22:46.204Z [info][Notifications]: Registered notification agents 
+2025-09-23T19:22:46.369Z [info][Jobs]: Scheduled jobs loaded 
+2025-09-23T19:22:47.610Z [info][Server]: Server ready on port 5055 
+2025-09-23T19:22:58.109Z [info]: [Radarr] Removed movie Sinners 
+2025-09-23T19:23:13.486Z [info][Media Request]: Request has an override quality profile ID: 5 {"requestId":9,"mediaId":18}
+2025-09-23T19:23:13.498Z [info][Notifications]: Sending notification(s) for MEDIA_AUTO_APPROVED {"subject":"Sinners (2025)"}
+2025-09-23T19:23:13.506Z [info][Media Request]: Sent request to Radarr {"requestId":9,"mediaId":18}
+2025-09-23T19:23:14.115Z [info][Radarr]: Radarr accepted request 
+2025-09-23T19:25:00.078Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T19:25:00.083Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"655094a4-8415-4088-8d2c-27011c17c892"}
+2025-09-23T19:25:00.113Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T19:25:02.432Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:25:09.090Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T19:25:19.375Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T19:40:50.042Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T19:40:50.053Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f3595cbf-8b44-48eb-9057-690de72c696e"}
+2025-09-23T19:40:50.135Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T19:40:50.135Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"68fc5e21-4320-47c0-b896-0708609118a5"}
+2025-09-23T19:40:50.145Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T19:40:50.240Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T19:40:50.269Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T19:40:50.270Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"fd6e82f4-dd64-483c-93ca-99adf97b3890"}
+2025-09-23T19:40:50.327Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T19:40:50.684Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T19:40:50.685Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T19:40:51.445Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:40:55.532Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T19:41:01.346Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T19:46:44.731Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T19:46:44.734Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"c8e3d54c-f1a8-4c79-a55d-19df2d86281e"}
+2025-09-23T19:46:44.817Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T19:46:46.359Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:46.364Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 55b9134d35e663ea63931c2d8ef9535d {"errorMessage":"","jellyfinitem":{"Name":"Superman","ServerId":"47d75fdc816a440db000776248b28e32","Id":"55b9134d35e663ea63931c2d8ef9535d","PremiereDate":"2025-07-09T00:00:00.0000000Z","CriticRating":83,"OfficialRating":"PG-13","ChannelId":null,"CommunityRating":7.5,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1061474","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{"Primary":"f541e73a3ba8e77d9a2fea7ebb3c9291","Logo":"113164f96ca7f8a968c15690d0be3ffd","Thumb":"1b720713c441cd20a042ccfb853cd182"},"BackdropImageTags":["5578e393335d8d4ec291e2a35d137e20"],"ImageBlurHashes":{"Backdrop":{"5578e393335d8d4ec291e2a35d137e20":"WPHew.xc1SgjVCE75vohI9V[wawuE3XTvxM{-l$y-rkD${xaR-jE"},"Primary":{"f541e73a3ba8e77d9a2fea7ebb3c9291":"duIgvD9FWYt8~qMwafX9-:slM{n+%1t3RPR*xujEV@WB"},"Logo":{"113164f96ca7f8a968c15690d0be3ffd":"OhDIEzf70%kA-mahWD=va#I=ocodWCs-Ria#oJj?WBWCoJ"},"Thumb":{"1b720713c441cd20a042ccfb853cd182":"WuFre#D+n2rpkDjs.AIpaIjDX9f5Ivs.jrkAoMbaIYxZs:W.aLt6"}},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:46:47.130Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:47.131Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:46:47.133Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:47.133Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 3e5a1c5e0fb62aabe9e5e9a8101a0d24 {"errorMessage":"","jellyfinitem":{"Name":"Demon Slayer: Kimetsu no Yaiba Infinity Castle","ServerId":"47d75fdc816a440db000776248b28e32","Id":"3e5a1c5e0fb62aabe9e5e9a8101a0d24","PremiereDate":"2025-07-18T00:00:00.0000000Z","CriticRating":96,"OfficialRating":"R","ChannelId":null,"CommunityRating":7.7,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1311031","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{"Primary":"a47fadb12745d82526a9cb3f701e1703","Logo":"5a6362ed197d414c0b119eee9819aaee","Thumb":"74a87af0add1b2256ded860be2e85ab1"},"BackdropImageTags":["54d0857bfa630fc9e1e496c308c9beea"],"ImageBlurHashes":{"Backdrop":{"54d0857bfa630fc9e1e496c308c9beea":"WHB:21b_5?IARP$|h{WANZxuW=bH9^V?v}t7xuX9-ojvbxIpRis6"},"Primary":{"a47fadb12745d82526a9cb3f701e1703":"dTD+b.%1OZxuQkr=s8jEF4WCR*R-T0S5bwS5R4RkM{S1"},"Logo":{"5a6362ed197d414c0b119eee9819aaee":"VoLDZCS~00S2M{XnkCi_oLsADioLS~sotRsokCWVn%kC"},"Thumb":{"74a87af0add1b2256ded860be2e85ab1":"WDD[FHpJXA^*1cr;wHNF9arXb]xbR5NG9uR5s.WF~Co#tRtRI:nh"}},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:46:47.135Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:47.135Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 53953439dec20c90a9f60db6c9e2cac4 {"errorMessage":"","jellyfinitem":{"Name":"F1","ServerId":"47d75fdc816a440db000776248b28e32","Id":"53953439dec20c90a9f60db6c9e2cac4","PremiereDate":"2025-06-25T00:00:00.0000000Z","CriticRating":82,"OfficialRating":"PG-13","ChannelId":null,"CommunityRating":7.824,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"911430","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{"Primary":"f781a6489578307a13923b9b3f922686","Logo":"701082f3160eecd406c5352e2ac34f5e","Thumb":"062218cfd057d520347f2fd5dd56bd73"},"BackdropImageTags":["9db8759ef3c1c42442ce7ac898e029ed"],"ImageBlurHashes":{"Backdrop":{"9db8759ef3c1c42442ce7ac898e029ed":"WiHyBtWrIpWYRPof_Nt7NGR*jYofM|RjM{t6ogoLj?RjRiRjt6j@"},"Primary":{"f781a6489578307a13923b9b3f922686":"dCC%Kg~W-.%MbxozM{M|01R*M|V[^*t6%L%LD+NGM|Ip"},"Logo":{"701082f3160eecd406c5352e2ac34f5e":"HkNKI-RP00M{D%M{xtRjxuxuWB9FRjxuxuRjxuRj"},"Thumb":{"062218cfd057d520347f2fd5dd56bd73":"W9Css+-ojE~p%Lx]XBRjRjt8j]t7D%oet7oft7t7E1xu%fWAt6j["}},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:46:47.137Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:47.137Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: c60be2b8a245f31c8df20868b980f020 {"errorMessage":"","jellyfinitem":{"Name":"Superman","ServerId":"47d75fdc816a440db000776248b28e32","Id":"c60be2b8a245f31c8df20868b980f020","PremiereDate":"2025-07-09T00:00:00.0000000Z","CriticRating":83,"OfficialRating":"PG-13","ChannelId":null,"CommunityRating":7.5,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1061474","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{"Primary":"f3086628ddd7b3920096759e1679882c","Logo":"e0d57478c59a8d0b9cd9e46ebd5a47c9","Thumb":"1bb3d4ca540c9c6b26b02a2cb5d18987"},"BackdropImageTags":["6491dc325cbe333627379bfdf86de294"],"ImageBlurHashes":{"Backdrop":{"6491dc325cbe333627379bfdf86de294":"WPHew.xc1SgjVCE75vohI9V[wawuE3XTvxM{-l$y-rkD${xaR-jE"},"Primary":{"f3086628ddd7b3920096759e1679882c":"duIgvD9FWYt8~qMwafX9-:slM{n+%1t3RPR*xujEV@WB"},"Logo":{"e0d57478c59a8d0b9cd9e46ebd5a47c9":"OhDIEzf70%kA-mahWD=va#I=ocodWCs-Ria#oJj?WBWCoJ"},"Thumb":{"1bb3d4ca540c9c6b26b02a2cb5d18987":"WuFre#D+n2rpkDjs.AIpaIjDX9f5Ivs.jrkAoMbaIYxZs:W.aLt6"}},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:46:47.142Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:47.142Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: b1ed27afe963d6021612eec565f884f9 {"errorMessage":"","jellyfinitem":{"Name":"Nobody 2","ServerId":"47d75fdc816a440db000776248b28e32","Id":"b1ed27afe963d6021612eec565f884f9","PremiereDate":"2025-08-13T00:00:00.0000000Z","CriticRating":78,"OfficialRating":"R","ChannelId":null,"CommunityRating":7.232,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1007734","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{"Primary":"96aadd52e3b6aa358c14febc6de51379","Logo":"dc87bc685cfc4b800547aa389a800ddf","Thumb":"fc175f96b2f4d74b504a98d66f47ab1c"},"BackdropImageTags":["808da04e2e4bdc980e8d123547fd5105"],"ImageBlurHashes":{"Backdrop":{"808da04e2e4bdc980e8d123547fd5105":"WrF%lCpJKkkqrWofu6X9OskXsRkCSinNNHbcs-aeyDr;NaX8jEj?"},"Primary":{"96aadd52e3b6aa358c14febc6de51379":"dlI5b+%gGvt,Y8bcTKbwg3V@NKa~axe-W;X8E3bbxYs:"},"Logo":{"dc87bc685cfc4b800547aa389a800ddf":"PON9fZ~69xM~$~E5t4NI$~IrWDWDR,NIxYIrWDIrodNIj@R,Rmt4"},"Thumb":{"fc175f96b2f4d74b504a98d66f47ab1c":"W#Ho]]xuNefSoIxu%%t7g4f+aJjbXojZtRbcadWXozj@RjR-jYjY"}},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:46:47.182Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:47.183Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 6e14dba758a8fe0ab618215aec88c952 {"errorMessage":"","jellyfinitem":{"Name":"F1","ServerId":"47d75fdc816a440db000776248b28e32","Id":"6e14dba758a8fe0ab618215aec88c952","PremiereDate":"2025-06-25T00:00:00.0000000Z","CriticRating":82,"OfficialRating":"PG-13","ChannelId":null,"CommunityRating":7.824,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"911430","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{"Primary":"27f932d343af234f7b4d32c14376c166","Logo":"85dd4b462c07ec79b86a88ed1d52ca7c","Thumb":"ceb9e57b6749b1266b31c7397acd9236"},"BackdropImageTags":["84c5ee32412b2af4b4e3e026541b90b2"],"ImageBlurHashes":{"Backdrop":{"84c5ee32412b2af4b4e3e026541b90b2":"WiHyBtWrIpWYRPof_Nt7NGR*jYofM|RjM{t6ogoLj?RjRiRjt6j@"},"Primary":{"27f932d343af234f7b4d32c14376c166":"dCC%Kg~W-.%MbxozM{M|01R*M|V[^*t6%L%LD+NGM|Ip"},"Logo":{"85dd4b462c07ec79b86a88ed1d52ca7c":"HkNKI-RP00M{D%M{xtRjxuxuWB9FRjxuxuRjxuRj"},"Thumb":{"ceb9e57b6749b1266b31c7397acd9236":"W9Css+-ojE~p%Lx]XBRjRjt8j]t7D%oet7oft7t7E1xu%fWAt6j["}},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:46:47.187Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:47.188Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 23ed53198c9eeb71078579a92f0d8d9d {"errorMessage":"","jellyfinitem":{"Name":"Weapons","ServerId":"47d75fdc816a440db000776248b28e32","Id":"23ed53198c9eeb71078579a92f0d8d9d","PremiereDate":"2025-08-04T00:00:00.0000000Z","CriticRating":94,"OfficialRating":"R","ChannelId":null,"CommunityRating":7.385,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1078605","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{"Primary":"edc3b2a455b7c29a8bf78d64cf360d06","Logo":"b7a158f9988d2b2385e4ce14ff4df0b8","Thumb":"9c5a787d93386f9953d29b95200305bf"},"BackdropImageTags":["e0c998f998cbf28dd37c223b683624ee"],"ImageBlurHashes":{"Backdrop":{"e0c998f998cbf28dd37c223b683624ee":"W11{:5yGQ*VWMHQ*yZo~VWaJjYVrpJaxVXkDo$aeyZo#VXV?WAV?"},"Primary":{"edc3b2a455b7c29a8bf78d64cf360d06":"d73JGUT0Mc#:Ior=xbOXhyV@cEr?yXg3R5jFKPr@spOs"},"Logo":{"b7a158f9988d2b2385e4ce14ff4df0b8":"H3DY-5Nu,s,s|_Nu$PJR,s$Po1w{|_w{o1o1=0$P"},"Thumb":{"9c5a787d93386f9953d29b95200305bf":"WB6S1.t8DNR*Vra0OFR*xat7adWqMJjFtlR*o#t8tRozVsV?kDbF"}},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:46:47.218Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:47.220Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: f2f4b7fff63649159c3c1cb4ce4d2b3e {"errorMessage":"","jellyfinitem":{"Name":"War of the Worlds","ServerId":"47d75fdc816a440db000776248b28e32","Id":"f2f4b7fff63649159c3c1cb4ce4d2b3e","PremiereDate":"2025-07-29T00:00:00.0000000Z","CriticRating":2,"OfficialRating":"PG-13","ChannelId":null,"CommunityRating":4.331,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"755898","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{"Primary":"b0b3ef34505555a253755754ecd96f04","Logo":"d1ec29dbfc006fc145e80d140fea507d","Thumb":"60168fdb2648fad2a79aa65661d73313"},"BackdropImageTags":["6f497382393c21a9359184bb983b6601"],"ImageBlurHashes":{"Backdrop":{"6f497382393c21a9359184bb983b6601":"WG8g]Wx9TfSzs.-T?wnfT0R*jGs8T1oIt7s+WXRjkrkW%2slR+SN"},"Primary":{"b0b3ef34505555a253755754ecd96f04":"dG9tGr-:NeE+}=%2ShM{.Txun$t7%gxunhxCxtxue-sl"},"Logo":{"d1ec29dbfc006fc145e80d140fea507d":"HTEOP_S*O]#iROTgxVMwXU?^WBRjt7ofRjoLofWB"},"Thumb":{"60168fdb2648fad2a79aa65661d73313":"WF97bKu6Ek-5xuEk^IaII:$%xaNd%2s.n%j[t7oJ%%%hxbWVt7s:"}},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:46:47.222Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:47.223Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 68499ec764e09cc30999ca1642db52a1 {"errorMessage":"","jellyfinitem":{"Name":"Cars","ServerId":"47d75fdc816a440db000776248b28e32","Id":"68499ec764e09cc30999ca1642db52a1","PremiereDate":"2006-06-08T00:00:00.0000000Z","CriticRating":74,"OfficialRating":"G","ChannelId":null,"CommunityRating":7.01,"ProductionYear":2006,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"920","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{"Primary":"be0b0ef81b880affc70eaea9966b61c7","Logo":"f4275696cc2529d013c0cd6564c829b2","Thumb":"75d91d0610758d4435e031035e7f24a9"},"BackdropImageTags":["4105a43c76b9e70b48abd0791790d09f"],"ImageBlurHashes":{"Backdrop":{"4105a43c76b9e70b48abd0791790d09f":"WHF#5Z=w=X=x^6}?KPV@R6%1EhI;9uRjkWR-V[JB=_t6S4Ipe.xt"},"Primary":{"be0b0ef81b880affc70eaea9966b61c7":"dXJ%LZn,J.x[-:EMNys:Dh9^I?j?{wt8I;oyt,s;WBs:"},"Logo":{"f4275696cc2529d013c0cd6564c829b2":"VGI}kwW;u5soNu8_oztRjZxuLzadrCbHsoTxaexGW;a0"},"Thumb":{"75d91d0610758d4435e031035e7f24a9":"WZI|wW$+Elt6k8xt~AOFEPi_slt6RME1E3Ndaxk9]~r?SOXmSzof"}},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:46:47.226Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:46:47.226Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 513e523b138a08584c4a3adcc75d4792 {"errorMessage":"","jellyfinitem":{"Name":"Mission: Impossible - The Final Reckoning","ServerId":"47d75fdc816a440db000776248b28e32","Id":"513e523b138a08584c4a3adcc75d4792","PremiereDate":"2025-05-17T00:00:00.0000000Z","CriticRating":80,"OfficialRating":"PG-13","ChannelId":null,"CommunityRating":7.287,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"575265","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{"Primary":"64262f7035c350c7997098dd994d8326","Logo":"b84cf3f0eca970f0a4fc88812276a324","Thumb":"fee4f38f77a078c84e155cbebde6da44"},"BackdropImageTags":["0b6a2bf2769a6b894f6941bf8aaca19b"],"ImageBlurHashes":{"Backdrop":{"0b6a2bf2769a6b894f6941bf8aaca19b":"WuKUZj~q-;IUxuxu%Mt7ofRjofofIUt7t7ofRjWB%Mt7ofWBofof"},"Primary":{"64262f7035c350c7997098dd994d8326":"dLCG41t7_N?bELWBR5Rj00Rj4nIU_3of.8%MtlWV%2of"},"Logo":{"b84cf3f0eca970f0a4fc88812276a324":"H~Q@^?s:WBoLkWozbHn%bHHXoLWVn%kCkCfknibH"},"Thumb":{"fee4f38f77a078c84e155cbebde6da44":"WhNTar4.9Z-p%M?b~qtQRjWBofxu%#R6i_bbWVj[?vt7nioft7xu"}},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T19:47:17.485Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T19:47:17.646Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 502 {"error":502}
+2025-09-23T19:47:17.647Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T20:09:26.146Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:09:26.150Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"d590c995-2ba9-410a-abbe-4aa0e9108820"}
+2025-09-23T20:09:26.189Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:09:26.190Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"fae16d2c-d17c-4b4d-a036-e625ab82518f"}
+2025-09-23T20:09:26.193Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:09:26.510Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:09:26.694Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:09:26.695Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"8c65724a-74d5-461d-988e-df878874c8e3"}
+2025-09-23T20:09:26.906Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:09:26.907Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"bf55c955-88a2-489c-ac3f-c63ac6b606ba"}
+2025-09-23T20:09:26.908Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:09:26.972Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:09:27.188Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T20:09:27.189Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T20:09:27.295Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T20:09:28.008Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T20:09:32.344Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T20:09:38.085Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T20:10:00.064Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:10:00.067Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"65b0c34a-f507-409f-9fba-06b7df9fab7f"}
+2025-09-23T20:10:00.080Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:10:00.914Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T20:10:04.947Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T20:10:10.898Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T20:45:17.143Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:45:17.153Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"8f8de01f-739d-4072-bb5d-b3af511c98c9"}
+2025-09-23T20:45:17.357Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:45:17.361Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"e513ab1c-a76d-4790-9c36-0329702232f9"}
+2025-09-23T20:45:17.367Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:45:17.630Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:45:17.740Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:45:17.741Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"17b576cd-e103-483c-89da-8a46245ee812"}
+2025-09-23T20:45:17.885Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:45:17.885Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"c357989b-69c2-45f4-b571-55217bd02315"}
+2025-09-23T20:45:17.887Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:45:17.983Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:45:18.006Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:45:18.008Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"b6a33dbb-530b-4092-86e1-3293aeb35ea5"}
+2025-09-23T20:45:18.126Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:45:18.182Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:45:18.184Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"8076f5d4-0fd7-4845-8225-9b0d60980ffc"}
+2025-09-23T20:45:18.798Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:45:18.800Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"1341c425-1b09-4fbb-8d6d-68c266bbabb9"}
+2025-09-23T20:45:18.803Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:45:18.808Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T20:45:18.809Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T20:45:18.820Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T20:45:18.832Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T20:45:18.882Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:45:19.122Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T20:45:19.711Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T20:45:19.847Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T20:45:23.984Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T20:45:29.831Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T20:50:00.064Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T20:50:00.069Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"93324e37-2d92-466d-ad67-dd4d32fd6c90"}
+2025-09-23T20:50:00.127Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T20:50:01.038Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T20:50:05.061Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T20:50:10.727Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T22:12:17.222Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:17.228Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"89443c78-59a7-401a-86e7-bd032e6c092b"}
+2025-09-23T22:12:17.334Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:17.335Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"944aadc1-9ede-4318-af21-3964f73bb985"}
+2025-09-23T22:12:17.381Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:17.487Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:17.488Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"ecc87651-d75c-47b4-8e88-788659ef7721"}
+2025-09-23T22:12:17.491Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:17.562Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:17.582Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:17.583Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f100f087-ac9d-440a-b2f4-532c25c2a0e8"}
+2025-09-23T22:12:17.785Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:17.786Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:17.790Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:18.009Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:18.016Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"4b7102ea-451c-474c-a111-8877dd7123cb"}
+2025-09-23T22:12:18.516Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:18.527Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:18.548Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:18.550Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:19.026Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:19.051Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:19.316Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:19.440Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:19.447Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"7ce7b682-0984-474b-8802-92bf59564fa7"}
+2025-09-23T22:12:19.486Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:19.488Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:19.536Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:19.538Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"858e6795-7f7b-4323-a6a7-1c251b9534ae"}
+2025-09-23T22:12:19.540Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:19.602Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:19.602Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:19.602Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:19.603Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3ae81ff9-8f23-4490-9436-6afc1cbe4852"}
+2025-09-23T22:12:19.603Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:19.659Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:19.660Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"d0bf4c15-88bc-49ff-a899-47f20897a311"}
+2025-09-23T22:12:19.667Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:19.676Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:19.677Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:19.751Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:19.751Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"04448646-8191-4e13-b13c-6750f0d0f0b3"}
+2025-09-23T22:12:19.752Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:19.805Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:19.806Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"136f3387-e8be-4e1a-8af2-23e812428d55"}
+2025-09-23T22:12:19.808Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:19.813Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:19.813Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:19.875Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:19.875Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:19.882Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:19.895Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:19.895Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:19.896Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:19.896Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f944ef1f-c6c3-4cb6-9960-579f328718c5"}
+2025-09-23T22:12:19.909Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:19.910Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:19.911Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"213e5b45-11d7-4713-a263-4b25ac023db8"}
+2025-09-23T22:12:19.951Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:19.955Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:19.956Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"769f8b01-50d3-480c-9355-95b4f553627b"}
+2025-09-23T22:12:20.009Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:20.010Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:20.011Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:20.011Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"eebde4ab-a20c-486b-999c-760e839d164a"}
+2025-09-23T22:12:20.012Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:20.039Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:12:20.040Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"10964901-e37b-44d2-a98d-01af3393533b"}
+2025-09-23T22:12:20.041Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:20.069Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:20.070Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:20.071Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:20.071Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:20.094Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:20.094Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:20.121Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:12:20.181Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:20.181Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:12:20.331Z [error][Jellyfin API]: Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530 {"error":530}
+2025-09-23T22:12:20.332Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":""}
+2025-09-23T22:15:00.023Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:15:00.026Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"f301e887-9a13-44c9-93e2-df58fbfaea2a"}
+2025-09-23T22:15:00.076Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:15:01.029Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T22:15:05.355Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T22:15:10.882Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T22:39:57.257Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:39:57.258Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"bc03c2ef-af7f-4bef-b7dd-b85f86a524b8"}
+2025-09-23T22:39:57.379Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:39:57.380Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"b12c4761-bd3f-48ff-ae70-dea0ff5fbe43"}
+2025-09-23T22:39:57.388Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:39:57.542Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:39:57.558Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:39:57.558Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"28f59189-1108-4436-a1e1-85841169993d"}
+2025-09-23T22:39:57.856Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:39:57.873Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"24e7611a-0d9f-4e31-9ff6-fc72e70cd978"}
+2025-09-23T22:39:57.896Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:39:58.145Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:39:58.190Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T22:39:58.191Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T22:39:58.295Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T22:39:58.855Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T22:40:00.021Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:40:00.024Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"d2621da7-0f25-4571-9538-60e97457d1ba"}
+2025-09-23T22:40:00.040Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:40:00.410Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T22:40:03.103Z [error][Jellyfin Sync]: Sync interrupted {"errorMessage":"New session was started. Old session aborted."}
+2025-09-23T22:40:04.438Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T22:40:09.721Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T22:45:00.070Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-23T22:45:00.079Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"4a231646-20d9-42a5-b298-8cd4a769f3af"}
+2025-09-23T22:45:00.298Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-23T22:45:01.192Z [error][Jellyfin Sync]: Failed to process Jellyfin item, id: 1a100021ba047d25e80319ca8d51c7d9 {"errorMessage":"Unable to find TMDb ID","jellyfinitem":{"Name":"War for the Planet of the Apes (2025)","ServerId":"47d75fdc816a440db000776248b28e32","Id":"1a100021ba047d25e80319ca8d51c7d9","ChannelId":null,"ProductionYear":2025,"IsFolder":false,"Type":"Movie","UserData":{"PlaybackPositionTicks":0,"PlayCount":0,"IsFavorite":false,"Played":false,"Key":"1a100021-ba04-7d25-e803-19ca8d51c7d9","ItemId":"00000000000000000000000000000000"},"ChildCount":0,"VideoType":"VideoFile","ImageTags":{},"BackdropImageTags":[],"ImageBlurHashes":{},"LocationType":"FileSystem","MediaType":"Video"}}
+2025-09-23T22:45:05.628Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-23T22:45:10.849Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-23T22:46:00.438Z [error][Download Tracker]: Unable to get queue from Sonarr server: sonarr 

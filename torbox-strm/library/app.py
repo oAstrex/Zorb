@@ -10,6 +10,7 @@ class MountRefreshTimes(Enum):
     normal = 2 # 2 hours
     fast = 1 # 1 hour
     instant = 0.10 # 6 minutes
+    super_instant = 0.001389 # 5 seconds
 
 MOUNT_REFRESH_TIME = os.getenv("MOUNT_REFRESH_TIME", MountRefreshTimes.fast.name)
 MOUNT_REFRESH_TIME = MOUNT_REFRESH_TIME.lower()

@@ -1,0 +1,10 @@
+{
+  "jellyfin": {
+    "server_url": "http://localhost:8096",
+    "api_key": "4c6c53c0ef544982abce307666170aa5"
+  },
+  "monitoring": {
+    "debounce_seconds": 3,
+    "recursive": true
+  }
+}

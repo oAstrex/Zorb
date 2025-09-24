@@ -45,7 +45,7 @@ services:
       - TZ=America/New_York
     volumes:
       - ./config/sonarr:/config
-      - ./data/media/tv:/tv
+      - ./data/media/series:/series
       - ./data/downloads:/downloads
     ports:
       - "8989:8989"
@@ -84,19 +84,32 @@ services:
     networks:
       - media-stack
 
-  # RDTClient - The bridge between Sonarr/Radarr and Torbox
-  rdtclient:
-    image: rogerfar/rdtclient:latest
-    container_name: rdtclient
+  autostrm:
+    build:
+      context: ./services/autostrm
+    container_name: autostrm
     environment:
       - PUID=501
       - PGID=20
       - TZ=America/New_York
+      - AUTH_USERNAME=${AUTH_USERNAME:-autostrm}
+      - AUTH_PASSWORD=${AUTH_PASSWORD:-autostrm}
+      - TORBOX_BASE_URL=${TORBOX_BASE_URL}
+      - TORBOX_API_KEY=${TORBOX_API_KEY}
+      # Match Radarr/Sonarr container paths
+      - MEDIA_TV_PATH=/series
+      - MEDIA_MOVIES_PATH=/movies
+      - CATEGORY_TV=tv
+      - CATEGORY_MOVIES=movies
+      - AUTOSTRM_BIND=0.0.0.0
+      - AUTOSTRM_PORT=6500
     ports:
       - "6500:6500"
     volumes:
-      - ./config/rdtclient:/data/db
-      - ./data/downloads:/data/downloads
+      - ./config/autostrm:/config
+      # Mount media at the same in-container paths as Radarr/Sonarr
+      - ./data/media/series:/series
+      - ./data/media/movies:/movies
     restart: unless-stopped
     networks:
       - media-stack

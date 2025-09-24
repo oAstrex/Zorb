@@ -14,6 +14,11 @@
             "date": 1758600786207,
             "name": "/app/config/logs/jellyseerr-2025-09-23.log",
             "hash": "dafa5aa0104f1f6ab769dfa92facd7ed4181403bc5c1c7a413c015f0b3916de2"
+        },
+        {
+            "date": 1758691581168,
+            "name": "/app/config/logs/jellyseerr-2025-09-24.log",
+            "hash": "57a72199973c39b30d836e870ffd991332700d2d3c325cfa007f1c0da6818f8b"
         }
     ],
     "hashType": "sha256"

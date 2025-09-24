@@ -1,0 +1,14 @@
+{
+  "tv": {
+    "savePath": "/series"
+  },
+  "movies": {
+    "savePath": "/movies"
+  },
+  "tv-sonarr": {
+    "savePath": "/series"
+  },
+  "radarr": {
+    "savePath": "/movies"
+  }
+}

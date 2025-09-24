@@ -1,0 +1,9 @@
+2025-09-24 13:39:58,474 - INFO - Sample config saved to jellyfin_monitor_config.json
+2025-09-24 13:41:25,069 - INFO - Found 3 libraries
+2025-09-24 13:41:25,069 - INFO - Library: Movies (movies)
+2025-09-24 13:41:25,070 - INFO -   Monitoring: /Users/alec/Projects/zorb/data/media/movies
+2025-09-24 13:41:25,070 - INFO - Library: Collections (boxsets)
+2025-09-24 13:41:25,070 - INFO -   Monitoring: /Users/alec/Library/Application Support/jellyfin/data/collections
+2025-09-24 13:41:25,070 - INFO - Library: Shows (tvshows)
+2025-09-24 13:41:25,070 - INFO -   Monitoring: /Users/alec/Projects/zorb/data/media/series
+2025-09-24 13:41:25,070 - INFO - Starting Jellyfin library monitor...

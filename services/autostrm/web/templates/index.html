@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>Jobs</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>State</th>
+      <th>Progress</th>
+      <th>Added</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for j in jobs %}
+    <tr>
+      <td>{{ j.name }}</td>
+      <td>{{ j.category }}</td>
+      <td>{{ j.state }}</td>
+      <td>{{ (j.progress * 100) | round(1) }}%</td>
+      <td>{{ j.added_on }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+<h3>Settings</h3>
+<ul>
+  <li>TV Path: {{ cfg.MEDIA_TV_PATH }}</li>
+  <li>Movies Path: {{ cfg.MEDIA_MOVIES_PATH }}</li>
+  <li>Categories: TV="{{ cfg.CATEGORY_TV }}", Movies="{{ cfg.CATEGORY_MOVIES }}"</li>
+</ul>
+{% endblock %}
