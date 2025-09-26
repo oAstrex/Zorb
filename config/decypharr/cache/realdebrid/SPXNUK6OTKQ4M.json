@@ -1,0 +1,40 @@
+{
+  "id": "SPXNUK6OTKQ4M",
+  "info_hash": "62c03b2c2e758e2b92afee31af619fc4ac7f5fee",
+  "name": "The Super Mario Bros. Movie 2023 UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E",
+  "folder": "The Super Mario Bros. Movie 2023 UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E",
+  "filename": "The Super Mario Bros. Movie 2023 UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E",
+  "original_filename": "The Super Mario Bros. Movie 2023 UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E",
+  "size": 0,
+  "bytes": 16371354091,
+  "magnet": null,
+  "files": {
+    "The Super Mario Bros. Movie (2023).mkv": {
+      "torrent_id": "SPXNUK6OTKQ4M",
+      "id": "1",
+      "name": "The Super Mario Bros. Movie (2023).mkv",
+      "size": 16371354091,
+      "is_rar": false,
+      "path": "The Super Mario Bros. Movie (2023).mkv",
+      "link": "https://real-debrid.com/d/WMZDCYHAM457E6F3",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-19T17:53:57.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/WMZDCYHAM457E6F3"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-19T17:53:57Z",
+  "is_complete": true,
+  "bad": false
+}

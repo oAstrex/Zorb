@@ -1,0 +1,40 @@
+{
+  "id": "6D4Z5ZEKU447I",
+  "info_hash": "36ce23b731016ad1fe43bbb67d4abe1057aa25c7",
+  "name": "Moana.2.2024.2160p.DV.HDR10.Atmos.AV1.[avoneguy].mkv",
+  "folder": "Moana.2.2024.2160p.DV.HDR10.Atmos.AV1.[avoneguy]",
+  "filename": "Moana.2.2024.2160p.DV.HDR10.Atmos.AV1.[avoneguy].mkv",
+  "original_filename": "Moana.2.2024.2160p.DV.HDR10.Atmos.AV1.[avoneguy]",
+  "size": 0,
+  "bytes": 4321332481,
+  "magnet": null,
+  "files": {
+    "Moana.2.2024.2160p.DV.HDR10.Atmos.AV1.[avoneguy].mkv": {
+      "torrent_id": "6D4Z5ZEKU447I",
+      "id": "1",
+      "name": "Moana.2.2024.2160p.DV.HDR10.Atmos.AV1.[avoneguy].mkv",
+      "size": 4321332481,
+      "is_rar": false,
+      "path": "Moana.2.2024.2160p.DV.HDR10.Atmos.AV1.[avoneguy].mkv",
+      "link": "https://real-debrid.com/d/74VCIRCOEIEA66BA",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-02-20T23:47:59.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/74VCIRCOEIEA66BA"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-02-20T23:47:59Z",
+  "is_complete": true,
+  "bad": false
+}

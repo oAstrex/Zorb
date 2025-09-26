@@ -1,0 +1,40 @@
+{
+  "id": "XP6AZOASKLZGQ",
+  "info_hash": "2c9690394be397e94693ae8fb3291bf769e156e4",
+  "name": "Luca.2021.2160p.4K.WEB.x265.10bit.HDR.AAC5.1-[YTS.MX].mkv",
+  "folder": "Luca (2021) [2160p] [4K] [WEB] [HDR] [5.1] [YTS.MX]",
+  "filename": "Luca.2021.2160p.4K.WEB.x265.10bit.HDR.AAC5.1-[YTS.MX].mkv",
+  "original_filename": "Luca (2021) [2160p] [4K] [WEB] [HDR] [5.1] [YTS.MX]",
+  "size": 0,
+  "bytes": 4561939034,
+  "magnet": null,
+  "files": {
+    "Luca.2021.2160p.4K.WEB.x265.10bit.HDR.AAC5.1-[YTS.MX].mkv": {
+      "torrent_id": "XP6AZOASKLZGQ",
+      "id": "1",
+      "name": "Luca.2021.2160p.4K.WEB.x265.10bit.HDR.AAC5.1-[YTS.MX].mkv",
+      "size": 4561939034,
+      "is_rar": false,
+      "path": "Luca.2021.2160p.4K.WEB.x265.10bit.HDR.AAC5.1-[YTS.MX].mkv",
+      "link": "https://real-debrid.com/d/HOMSR7LUSAZ7UD54",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-01T17:26:34.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/HOMSR7LUSAZ7UD54"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-01T17:26:34Z",
+  "is_complete": true,
+  "bad": false
+}

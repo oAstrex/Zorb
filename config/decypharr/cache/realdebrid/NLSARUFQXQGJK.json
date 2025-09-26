@@ -1,0 +1,40 @@
+{
+  "id": "NLSARUFQXQGJK",
+  "info_hash": "effd878afbf3c4bcea44244d1beed86903791373",
+  "name": "Sinners.2025.1080p.HDTS.x264-RGB.mkv",
+  "folder": "www.UIndex.org    -    Sinners 2025 1080p HDTS x264-RGB",
+  "filename": "Sinners.2025.1080p.HDTS.x264-RGB.mkv",
+  "original_filename": "www.UIndex.org    -    Sinners 2025 1080p HDTS x264-RGB",
+  "size": 0,
+  "bytes": 5401506866,
+  "magnet": null,
+  "files": {
+    "Sinners.2025.1080p.HDTS.x264-RGB.mkv": {
+      "torrent_id": "NLSARUFQXQGJK",
+      "id": "1",
+      "name": "Sinners.2025.1080p.HDTS.x264-RGB.mkv",
+      "size": 5401506866,
+      "is_rar": false,
+      "path": "Sinners.2025.1080p.HDTS.x264-RGB.mkv",
+      "link": "https://real-debrid.com/d/I47S3CVYJSC2Y426",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-01T19:49:49.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/I47S3CVYJSC2Y426"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-01T19:49:49Z",
+  "is_complete": true,
+  "bad": false
+}

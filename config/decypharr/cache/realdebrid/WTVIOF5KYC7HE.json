@@ -1,0 +1,40 @@
+{
+  "id": "WTVIOF5KYC7HE",
+  "info_hash": "eda1f9c6d0d34c8bfab2ddaccff7841c03828938",
+  "name": "Blade.and.Sorcery.v1.0.6.zip",
+  "folder": "Blade.and.Sorcery.v1.0.6.zip",
+  "filename": "Blade.and.Sorcery.v1.0.6.zip",
+  "original_filename": "Blade.and.Sorcery.v1.0.6.zip",
+  "size": 0,
+  "bytes": 14344566855,
+  "magnet": null,
+  "files": {
+    "Blade.and.Sorcery.v1.0.6.zip": {
+      "torrent_id": "WTVIOF5KYC7HE",
+      "id": "1",
+      "name": "Blade.and.Sorcery.v1.0.6.zip",
+      "size": 14344566855,
+      "is_rar": false,
+      "path": "Blade.and.Sorcery.v1.0.6.zip",
+      "link": "https://real-debrid.com/d/BEZV2EGGSQKRKBC4",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-29T23:21:18.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/BEZV2EGGSQKRKBC4"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-29T23:21:18Z",
+  "is_complete": true,
+  "bad": false
+}

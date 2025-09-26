@@ -1,0 +1,40 @@
+{
+  "id": "PZS6HGVR4VDY6",
+  "info_hash": "b0fea11998a82fd6e7e4d66ff54477b36a5fa2e8",
+  "name": "Life.1999.720p.BluRay.x264.[MoviesFD].mkv",
+  "folder": "Life (1999) 720P Bluray X264 [Moviesfd]",
+  "filename": "Life.1999.720p.BluRay.x264.[MoviesFD].mkv",
+  "original_filename": "Life (1999) 720P Bluray X264 [Moviesfd]",
+  "size": 0,
+  "bytes": 907730062,
+  "magnet": null,
+  "files": {
+    "Life.1999.720p.BluRay.x264.[MoviesFD].mkv": {
+      "torrent_id": "PZS6HGVR4VDY6",
+      "id": "1",
+      "name": "Life.1999.720p.BluRay.x264.[MoviesFD].mkv",
+      "size": 907730062,
+      "is_rar": false,
+      "path": "Life.1999.720p.BluRay.x264.[MoviesFD].mkv",
+      "link": "https://real-debrid.com/d/VVN5QIUWUYSYCA1B",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-31T20:03:19.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/VVN5QIUWUYSYCA1B"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-31T20:03:19Z",
+  "is_complete": true,
+  "bad": false
+}

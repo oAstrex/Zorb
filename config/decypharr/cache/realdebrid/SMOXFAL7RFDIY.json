@@ -1,0 +1,40 @@
+{
+  "id": "SMOXFAL7RFDIY",
+  "info_hash": "da7e15b6de17b6b6b5c7ad39214140a31e468bc0",
+  "name": "The Last of Us Part II Remastered [DODI Repack]",
+  "folder": "The Last of Us Part II Remastered [DODI Repack]",
+  "filename": "The Last of Us Part II Remastered [DODI Repack]",
+  "original_filename": "The Last of Us Part II Remastered [DODI Repack]",
+  "size": 0,
+  "bytes": 58175061891,
+  "magnet": null,
+  "files": {
+    "The Last of Us Part II Remastered [DODI Repack].rar": {
+      "torrent_id": "SMOXFAL7RFDIY",
+      "id": "0",
+      "name": "The Last of Us Part II Remastered [DODI Repack].rar",
+      "size": 58175061891,
+      "is_rar": true,
+      "path": "The Last of Us Part II Remastered [DODI Repack].rar",
+      "link": "https://real-debrid.com/d/ASIDBFWUKPC5M395",
+      "account_id": "",
+      "generated": "2025-09-25T19:09:59.054310048-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-05T20:25:54.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ASIDBFWUKPC5M395"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-05T20:25:54Z",
+  "is_complete": true,
+  "bad": false
+}

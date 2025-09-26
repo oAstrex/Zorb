@@ -1,0 +1,40 @@
+{
+  "id": "3SWFJXB6GQR6C",
+  "info_hash": "b3af57fc9664550298b2a3f369d47419ae677243",
+  "name": "Elemental.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv",
+  "folder": "Elemental.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX[TGx]",
+  "filename": "Elemental.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv",
+  "original_filename": "Elemental.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX[TGx]",
+  "size": 0,
+  "bytes": 19323519680,
+  "magnet": null,
+  "files": {
+    "Elemental.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv": {
+      "torrent_id": "3SWFJXB6GQR6C",
+      "id": "1",
+      "name": "Elemental.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv",
+      "size": 19323519680,
+      "is_rar": false,
+      "path": "Elemental.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv",
+      "link": "https://real-debrid.com/d/R2KTCCAETN6KMF5A",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-22T12:35:36.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/R2KTCCAETN6KMF5A"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-22T12:35:36Z",
+  "is_complete": true,
+  "bad": false
+}

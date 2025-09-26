@@ -1,0 +1,40 @@
+{
+  "id": "Z6XW4XNENBXDE",
+  "info_hash": "8bca89c5c7a1e22ef8f18afcb56ff1b2887369f0",
+  "name": "Mickey.17.2025.2160p.HDR10Plus.DV.WEBRip.DDP5 1.Atmos.X265.HEVC-PSA.mkv",
+  "folder": "Mickey.17.2025.2160p.HDR10Plus.DV.WEBRip.DDP5 1.Atmos.X265.HEVC-PSA",
+  "filename": "Mickey.17.2025.2160p.HDR10Plus.DV.WEBRip.DDP5 1.Atmos.X265.HEVC-PSA.mkv",
+  "original_filename": "Mickey.17.2025.2160p.HDR10Plus.DV.WEBRip.DDP5 1.Atmos.X265.HEVC-PSA",
+  "size": 0,
+  "bytes": 3680816643,
+  "magnet": null,
+  "files": {
+    "Mickey.17.2025.2160p.HDR10Plus.DV.WEBRip.DDP5 1.Atmos.X265.HEVC-PSA.mkv": {
+      "torrent_id": "Z6XW4XNENBXDE",
+      "id": "3",
+      "name": "Mickey.17.2025.2160p.HDR10Plus.DV.WEBRip.DDP5 1.Atmos.X265.HEVC-PSA.mkv",
+      "size": 3680816643,
+      "is_rar": false,
+      "path": "Mickey.17.2025.2160p.HDR10Plus.DV.WEBRip.DDP5 1.Atmos.X265.HEVC-PSA.mkv",
+      "link": "https://real-debrid.com/d/2YGNUCWPP3AA2F68",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-16T17:30:58.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/2YGNUCWPP3AA2F68"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-16T17:30:58Z",
+  "is_complete": true,
+  "bad": false
+}

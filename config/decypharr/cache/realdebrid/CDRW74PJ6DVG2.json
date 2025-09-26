@@ -1,0 +1,40 @@
+{
+  "id": "CDRW74PJ6DVG2",
+  "info_hash": "8af230682b9d8589adb4f42a56a09c6941cd4084",
+  "name": "2024-11-19-raspios-bookworm-armhf-lite.img.xz",
+  "folder": "2024-11-19-raspios-bookworm-armhf-lite.img.xz",
+  "filename": "2024-11-19-raspios-bookworm-armhf-lite.img.xz",
+  "original_filename": "2024-11-19-raspios-bookworm-armhf-lite.img.xz",
+  "size": 0,
+  "bytes": 532543404,
+  "magnet": null,
+  "files": {
+    "2024-11-19-raspios-bookworm-armhf-lite.img.xz": {
+      "torrent_id": "CDRW74PJ6DVG2",
+      "id": "1",
+      "name": "2024-11-19-raspios-bookworm-armhf-lite.img.xz",
+      "size": 532543404,
+      "is_rar": false,
+      "path": "2024-11-19-raspios-bookworm-armhf-lite.img.xz",
+      "link": "https://real-debrid.com/d/BAWOKM24U3PJW513",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-02-27T02:39:51.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/BAWOKM24U3PJW513"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-02-27T02:39:51Z",
+  "is_complete": true,
+  "bad": false
+}

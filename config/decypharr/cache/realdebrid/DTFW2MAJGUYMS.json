@@ -1,0 +1,40 @@
+{
+  "id": "DTFW2MAJGUYMS",
+  "info_hash": "963c8db7b6121797f8aa2fa3f408c3edea992bbc",
+  "name": "Freaky Friday (2003) [BluRay] [1080p] [YTS.AM]",
+  "folder": "Freaky Friday (2003) [BluRay] [1080p] [YTS.AM]",
+  "filename": "Freaky Friday (2003) [BluRay] [1080p] [YTS.AM]",
+  "original_filename": "Freaky Friday (2003) [BluRay] [1080p] [YTS.AM]",
+  "size": 0,
+  "bytes": 1656619629,
+  "magnet": null,
+  "files": {
+    "Freaky.Friday.2003.1080p.BluRay.x264-[YTS.AM].mp4": {
+      "torrent_id": "DTFW2MAJGUYMS",
+      "id": "1",
+      "name": "Freaky.Friday.2003.1080p.BluRay.x264-[YTS.AM].mp4",
+      "size": 1656619629,
+      "is_rar": false,
+      "path": "Freaky.Friday.2003.1080p.BluRay.x264-[YTS.AM].mp4",
+      "link": "https://real-debrid.com/d/A4GUYFWA2FDVUA5E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-05T00:24:30.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/A4GUYFWA2FDVUA5E"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-05T00:24:30Z",
+  "is_complete": true,
+  "bad": false
+}

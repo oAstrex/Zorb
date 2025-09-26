@@ -1,0 +1,40 @@
+{
+  "id": "BNONRSZ6US25I",
+  "info_hash": "243730f909745b225b0ede460eb609489aaf77c8",
+  "name": "Wall to Wall 2025 1080p (DUAL) WEB-DL HEVC x265 5.1 BONE.mkv",
+  "folder": "Wall to Wall 2025 1080p (DUAL) WEB-DL HEVC x265 5.1 BONE.mkv",
+  "filename": "Wall to Wall 2025 1080p (DUAL) WEB-DL HEVC x265 5.1 BONE.mkv",
+  "original_filename": "Wall to Wall 2025 1080p (DUAL) WEB-DL HEVC x265 5.1 BONE.mkv",
+  "size": 0,
+  "bytes": 1801068316,
+  "magnet": null,
+  "files": {
+    "Wall to Wall 2025 1080p (DUAL) WEB-DL HEVC x265 5.1 BONE.mkv": {
+      "torrent_id": "BNONRSZ6US25I",
+      "id": "1",
+      "name": "Wall to Wall 2025 1080p (DUAL) WEB-DL HEVC x265 5.1 BONE.mkv",
+      "size": 1801068316,
+      "is_rar": false,
+      "path": "Wall to Wall 2025 1080p (DUAL) WEB-DL HEVC x265 5.1 BONE.mkv",
+      "link": "https://real-debrid.com/d/LMKSPDGJIZNYGFC0",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-23T04:30:49.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/LMKSPDGJIZNYGFC0"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-23T04:30:49Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "7GTPFFZASZIYK",
+  "info_hash": "92ca8074657ce8ffe262beb37d9bbabb099d605a",
+  "name": "Mickey.17.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN",
+  "folder": "Mickey.17.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN",
+  "filename": "Mickey.17.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN",
+  "original_filename": "Mickey.17.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN",
+  "size": 0,
+  "bytes": 26926485983,
+  "magnet": null,
+  "files": {
+    "Mickey.17.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4": {
+      "torrent_id": "7GTPFFZASZIYK",
+      "id": "3",
+      "name": "Mickey.17.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4",
+      "size": 26926485983,
+      "is_rar": false,
+      "path": "Mickey.17.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4",
+      "link": "https://real-debrid.com/d/XUTCYN6ZP3OZMD39",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-16T17:31:34.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/XUTCYN6ZP3OZMD39"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-16T17:31:34Z",
+  "is_complete": true,
+  "bad": false
+}

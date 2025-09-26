@@ -1,0 +1,40 @@
+{
+  "id": "ZEJO2AXLKZO5C",
+  "info_hash": "1bc27ccfdffc794554f82683a22ca692a8e164c0",
+  "name": "Life.1999.1080p.BluRay.x264.YIFY.mp4",
+  "folder": "Life (1999) [1080p]",
+  "filename": "Life.1999.1080p.BluRay.x264.YIFY.mp4",
+  "original_filename": "Life (1999) [1080p]",
+  "size": 0,
+  "bytes": 1764360312,
+  "magnet": null,
+  "files": {
+    "Life.1999.1080p.BluRay.x264.YIFY.mp4": {
+      "torrent_id": "ZEJO2AXLKZO5C",
+      "id": "1",
+      "name": "Life.1999.1080p.BluRay.x264.YIFY.mp4",
+      "size": 1764360312,
+      "is_rar": false,
+      "path": "Life.1999.1080p.BluRay.x264.YIFY.mp4",
+      "link": "https://real-debrid.com/d/Q3GQCEOAYDTVAD96",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-30T03:49:00.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/Q3GQCEOAYDTVAD96"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-30T03:49:00Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "HGE2WKJ5TBWCM",
+  "info_hash": "c28fee1593edc67548aca90838dc45c467fcf386",
+  "name": "Marvel Wolverine [DODI Repack]",
+  "folder": "Marvel Wolverine [DODI Repack]",
+  "filename": "Marvel Wolverine [DODI Repack]",
+  "original_filename": "Marvel Wolverine [DODI Repack]",
+  "size": 0,
+  "bytes": 42781496461,
+  "magnet": null,
+  "files": {
+    "Marvel Wolverine [DODI Repack].rar": {
+      "torrent_id": "HGE2WKJ5TBWCM",
+      "id": "0",
+      "name": "Marvel Wolverine [DODI Repack].rar",
+      "size": 42781496461,
+      "is_rar": true,
+      "path": "Marvel Wolverine [DODI Repack].rar",
+      "link": "https://real-debrid.com/d/5BVGOF2WKMCME720",
+      "account_id": "",
+      "generated": "2025-09-25T19:10:00.751174669-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-21T01:08:03.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/5BVGOF2WKMCME720"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-21T01:08:03Z",
+  "is_complete": true,
+  "bad": false
+}

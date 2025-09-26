@@ -1,0 +1,40 @@
+{
+  "id": "UEDUSM6RCUC4C",
+  "info_hash": "012f1da1e431cc69b5e19b7fe22a9f88150c8a10",
+  "name": "Next.Gen.NYC.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv",
+  "folder": "Next.Gen.NYC.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv",
+  "filename": "Next.Gen.NYC.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv",
+  "original_filename": "Next.Gen.NYC.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv",
+  "size": 0,
+  "bytes": 2547031976,
+  "magnet": null,
+  "files": {
+    "Next.Gen.NYC.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv": {
+      "torrent_id": "QWIKA2VLRPSFY",
+      "id": "1",
+      "name": "Next.Gen.NYC.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv",
+      "size": 2547031976,
+      "is_rar": false,
+      "path": "Next.Gen.NYC.S01E04.1080p.WEB.h264-EDITH[EZTVx.to].mkv",
+      "link": "https://real-debrid.com/d/K3BF7A4CBP7CY1B8",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-01T23:45:28.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/K3BF7A4CBP7CY1B8"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-01T23:45:28Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "FIOJOXFM7SODQ",
+  "info_hash": "26761908c660a797dfaef0a587c05c5b66c2fd31",
+  "name": "BMF.S04E05.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "folder": "BMF.S04E05.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "filename": "BMF.S04E05.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "original_filename": "BMF.S04E05.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "size": 0,
+  "bytes": 622215430,
+  "magnet": null,
+  "files": {
+    "BMF.S04E05.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv": {
+      "torrent_id": "FIOJOXFM7SODQ",
+      "id": "1",
+      "name": "BMF.S04E05.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "size": 622215430,
+      "is_rar": false,
+      "path": "BMF.S04E05.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "link": "https://real-debrid.com/d/VODSR6WUTTLMC36E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-04T14:03:39.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/VODSR6WUTTLMC36E"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-04T14:03:39Z",
+  "is_complete": true,
+  "bad": false
+}

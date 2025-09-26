@@ -1,0 +1,40 @@
+{
+  "id": "HFEEEQV7PRG54",
+  "info_hash": "eb72e85a823e5b10d65ed70317536db4d8e06354",
+  "name": "ph2025-04-19.Webcast.UntouchedTrimmed.1080p.hetyet.mkv",
+  "folder": "www.UIndex.org    -    ph2025-04-19.Webcast.UntouchedTrimmed.1080p.hetyet",
+  "filename": "ph2025-04-19.Webcast.UntouchedTrimmed.1080p.hetyet.mkv",
+  "original_filename": "www.UIndex.org    -    ph2025-04-19.Webcast.UntouchedTrimmed.1080p.hetyet",
+  "size": 0,
+  "bytes": 9286585062,
+  "magnet": null,
+  "files": {
+    "ph2025-04-19.Webcast.UntouchedTrimmed.1080p.hetyet.mkv": {
+      "torrent_id": "HFEEEQV7PRG54",
+      "id": "1",
+      "name": "ph2025-04-19.Webcast.UntouchedTrimmed.1080p.hetyet.mkv",
+      "size": 9286585062,
+      "is_rar": false,
+      "path": "ph2025-04-19.Webcast.UntouchedTrimmed.1080p.hetyet.mkv",
+      "link": "https://real-debrid.com/d/O5E2AAZ7HXVBW10A",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-13T05:03:53.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/O5E2AAZ7HXVBW10A"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-13T05:03:53Z",
+  "is_complete": true,
+  "bad": false
+}

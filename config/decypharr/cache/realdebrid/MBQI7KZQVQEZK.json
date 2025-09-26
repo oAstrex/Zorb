@@ -1,0 +1,40 @@
+{
+  "id": "MBQI7KZQVQEZK",
+  "info_hash": "d1f8afece9bfdde49bf08d4d6ad1de367b95775a",
+  "name": "Happy Feet (2006) [1080p] [BluRay] [5.1] [YTS.MX]",
+  "folder": "Happy Feet (2006) [1080p] [BluRay] [5.1] [YTS.MX]",
+  "filename": "Happy Feet (2006) [1080p] [BluRay] [5.1] [YTS.MX]",
+  "original_filename": "Happy Feet (2006) [1080p] [BluRay] [5.1] [YTS.MX]",
+  "size": 0,
+  "bytes": 2147478525,
+  "magnet": null,
+  "files": {
+    "Happy.Feet.2006.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4": {
+      "torrent_id": "OZN5WKOEFDGJ2",
+      "id": "1",
+      "name": "Happy.Feet.2006.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+      "size": 2147478525,
+      "is_rar": false,
+      "path": "Happy.Feet.2006.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+      "link": "https://real-debrid.com/d/ZIIIIR4ITXVBMAEF",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-20T03:20:26.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ZIIIIR4ITXVBMAEF"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-20T03:20:26Z",
+  "is_complete": true,
+  "bad": false
+}

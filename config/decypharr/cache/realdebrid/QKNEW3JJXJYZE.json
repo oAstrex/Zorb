@@ -1,0 +1,40 @@
+{
+  "id": "QKNEW3JJXJYZE",
+  "info_hash": "85160f161fe9fa7a60b8e64bfee3169867784e6d",
+  "name": "Assetto Corsa EVO [DODI Repack]",
+  "folder": "Assetto Corsa EVO [DODI Repack]",
+  "filename": "Assetto Corsa EVO [DODI Repack]",
+  "original_filename": "Assetto Corsa EVO [DODI Repack]",
+  "size": 0,
+  "bytes": 12678823708,
+  "magnet": null,
+  "files": {
+    "Assetto Corsa EVO [DODI Repack].rar": {
+      "torrent_id": "QKNEW3JJXJYZE",
+      "id": "0",
+      "name": "Assetto Corsa EVO [DODI Repack].rar",
+      "size": 12678823708,
+      "is_rar": true,
+      "path": "Assetto Corsa EVO [DODI Repack].rar",
+      "link": "https://real-debrid.com/d/RQCM7LFM6UV6KA85",
+      "account_id": "",
+      "generated": "2025-09-25T19:09:59.780555218-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-29T05:23:52.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/RQCM7LFM6UV6KA85"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-29T05:23:52Z",
+  "is_complete": true,
+  "bad": false
+}

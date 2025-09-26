@@ -1,0 +1,40 @@
+{
+  "id": "RG44ZLWUBQOVY",
+  "info_hash": "43a9b4d6d5991c3e732e3bf735eaf4c1ddfe2103",
+  "name": "Sinners.2025.1080p.WEBRip.x264.AAC5.1-LAMA.mp4",
+  "folder": "www.UIndex.org    -    Sinners (2025) 1080p WEBRip 5.1-LAMA",
+  "filename": "Sinners.2025.1080p.WEBRip.x264.AAC5.1-LAMA.mp4",
+  "original_filename": "www.UIndex.org    -    Sinners (2025) 1080p WEBRip 5.1-LAMA",
+  "size": 0,
+  "bytes": 2494163359,
+  "magnet": null,
+  "files": {
+    "Sinners.2025.1080p.WEBRip.x264.AAC5.1-LAMA.mp4": {
+      "torrent_id": "RG44ZLWUBQOVY",
+      "id": "1",
+      "name": "Sinners.2025.1080p.WEBRip.x264.AAC5.1-LAMA.mp4",
+      "size": 2494163359,
+      "is_rar": false,
+      "path": "Sinners.2025.1080p.WEBRip.x264.AAC5.1-LAMA.mp4",
+      "link": "https://real-debrid.com/d/JQGG3TRVVM32A85A",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-21T12:42:59.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/JQGG3TRVVM32A85A"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-21T12:42:59Z",
+  "is_complete": true,
+  "bad": false
+}

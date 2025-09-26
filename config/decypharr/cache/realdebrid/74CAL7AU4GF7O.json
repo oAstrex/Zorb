@@ -1,0 +1,40 @@
+{
+  "id": "74CAL7AU4GF7O",
+  "info_hash": "09e42ef10cebc466f9484d50739d029329dea9b4",
+  "name": "The.Sandlot.1993.2160p.WEBRip.3500MB.DDP5.1.x264-GalaxyRG[TGx]",
+  "folder": "The.Sandlot.1993.2160p.WEBRip.3500MB.DDP5.1.x264-GalaxyRG[TGx]",
+  "filename": "The.Sandlot.1993.2160p.WEBRip.3500MB.DDP5.1.x264-GalaxyRG[TGx]",
+  "original_filename": "The.Sandlot.1993.2160p.WEBRip.3500MB.DDP5.1.x264-GalaxyRG[TGx]",
+  "size": 0,
+  "bytes": 3764103353,
+  "magnet": null,
+  "files": {
+    "The.Sandlot.1993.2160p.WEBRip.3500MB.DDP5.1.x264-GalaxyRG.mkv": {
+      "torrent_id": "74CAL7AU4GF7O",
+      "id": "1",
+      "name": "The.Sandlot.1993.2160p.WEBRip.3500MB.DDP5.1.x264-GalaxyRG.mkv",
+      "size": 3764103353,
+      "is_rar": false,
+      "path": "The.Sandlot.1993.2160p.WEBRip.3500MB.DDP5.1.x264-GalaxyRG.mkv",
+      "link": "https://real-debrid.com/d/SQRHWPX7TT3Z2F72",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-02T22:48:03.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/SQRHWPX7TT3Z2F72"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-02T22:48:03Z",
+  "is_complete": true,
+  "bad": false
+}

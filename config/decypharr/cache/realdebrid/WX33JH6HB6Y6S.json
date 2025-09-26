@@ -1,0 +1,40 @@
+{
+  "id": "WX33JH6HB6Y6S",
+  "info_hash": "70b487b9e21e2869af831397851f45a00d3ea7ca",
+  "name": "Iron.Man.3.2013.1080p.BluRay.x264.YIFY.mp4",
+  "folder": "Iron Man 3 (2013) [1080p]",
+  "filename": "Iron.Man.3.2013.1080p.BluRay.x264.YIFY.mp4",
+  "original_filename": "Iron Man 3 (2013) [1080p]",
+  "size": 0,
+  "bytes": 2095937578,
+  "magnet": null,
+  "files": {
+    "Iron.Man.3.2013.1080p.BluRay.x264.YIFY.mp4": {
+      "torrent_id": "WX33JH6HB6Y6S",
+      "id": "1",
+      "name": "Iron.Man.3.2013.1080p.BluRay.x264.YIFY.mp4",
+      "size": 2095937578,
+      "is_rar": false,
+      "path": "Iron.Man.3.2013.1080p.BluRay.x264.YIFY.mp4",
+      "link": "https://real-debrid.com/d/5DBXGTROZ5TW22CC",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-02-21T07:33:11.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/5DBXGTROZ5TW22CC"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-02-21T07:33:11Z",
+  "is_complete": true,
+  "bad": false
+}

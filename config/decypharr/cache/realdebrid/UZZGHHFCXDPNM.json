@@ -1,0 +1,40 @@
+{
+  "id": "UZZGHHFCXDPNM",
+  "info_hash": "99f7bd97ea9eb7338d9278ba8a24276453d96c14",
+  "name": "The Elder Scrolls IV Oblivion Remastered [DODI Repack]",
+  "folder": "The Elder Scrolls IV Oblivion Remastered [DODI Repack]",
+  "filename": "The Elder Scrolls IV Oblivion Remastered [DODI Repack]",
+  "original_filename": "The Elder Scrolls IV Oblivion Remastered [DODI Repack]",
+  "size": 0,
+  "bytes": 116506346991,
+  "magnet": null,
+  "files": {
+    "The Elder Scrolls IV Oblivion Remastered [DODI Repack].rar": {
+      "torrent_id": "UZZGHHFCXDPNM",
+      "id": "0",
+      "name": "The Elder Scrolls IV Oblivion Remastered [DODI Repack].rar",
+      "size": 116506346991,
+      "is_rar": true,
+      "path": "The Elder Scrolls IV Oblivion Remastered [DODI Repack].rar",
+      "link": "https://real-debrid.com/d/KELCTESDMVFK2525",
+      "account_id": "",
+      "generated": "2025-09-25T19:09:07.718683977-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-17T21:41:00.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/KELCTESDMVFK2525"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-17T21:41:00Z",
+  "is_complete": true,
+  "bad": false
+}

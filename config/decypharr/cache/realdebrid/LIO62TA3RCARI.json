@@ -1,0 +1,40 @@
+{
+  "id": "LIO62TA3RCARI",
+  "info_hash": "23aea01f4446aeafce460a7250dfeaad5535064d",
+  "name": "Super Mario 3D World + Bowser's Fury [010028600EBDA000] + [v1.1.0]",
+  "folder": "Super Mario 3D World + Bowser's Fury [010028600EBDA000] + [v1.1.0]",
+  "filename": "Super Mario 3D World + Bowser's Fury [010028600EBDA000] + [v1.1.0]",
+  "original_filename": "Super Mario 3D World + Bowser's Fury [010028600EBDA000] + [v1.1.0]",
+  "size": 0,
+  "bytes": 3177032192,
+  "magnet": null,
+  "files": {
+    "Super Mario 3D World + Bowsers Fury [010028600EBDA000]+[v1.1.0].xci": {
+      "torrent_id": "LIO62TA3RCARI",
+      "id": "1",
+      "name": "Super Mario 3D World + Bowsers Fury [010028600EBDA000]+[v1.1.0].xci",
+      "size": 3177032192,
+      "is_rar": false,
+      "path": "Super Mario 3D World + Bowsers Fury [010028600EBDA000]+[v1.1.0].xci",
+      "link": "https://real-debrid.com/d/RLSB43GUZKASYB6A",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T10:35:20.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/RLSB43GUZKASYB6A"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T10:35:20Z",
+  "is_complete": true,
+  "bad": false
+}

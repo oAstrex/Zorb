@@ -1,0 +1,40 @@
+{
+  "id": "YLSIQ6HJCBVMS",
+  "info_hash": "5386ce17cceafe51ceb78bc09bfd48b4fef9fa05",
+  "name": "PS2.chd-y6",
+  "folder": "PS2.chd-y6",
+  "filename": "PS2.chd-y6",
+  "original_filename": "PS2.chd-y6",
+  "size": 0,
+  "bytes": 56862478457,
+  "magnet": null,
+  "files": {
+    "PS2.chd-y6.rar": {
+      "torrent_id": "YLSIQ6HJCBVMS",
+      "id": "0",
+      "name": "PS2.chd-y6.rar",
+      "size": 56862478457,
+      "is_rar": true,
+      "path": "PS2.chd-y6.rar",
+      "link": "https://real-debrid.com/d/5KD2T6NZIKC5IC5F",
+      "account_id": "",
+      "generated": "2025-09-25T19:07:09.649551682-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-13T21:56:00.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/5KD2T6NZIKC5IC5F"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-13T21:56:00Z",
+  "is_complete": true,
+  "bad": false
+}

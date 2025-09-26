@@ -1,0 +1,40 @@
+{
+  "id": "XJQVWLG4E4MEM",
+  "info_hash": "7c81187b9c9107ed28b2b56d05487bb7d211d533",
+  "name": "Thunderbolts.2025.1080p.CAM.EN.FR-RGB.mkv",
+  "folder": "Thunderbolts.2025.1080p.CAM.EN.FR-RGB",
+  "filename": "Thunderbolts.2025.1080p.CAM.EN.FR-RGB.mkv",
+  "original_filename": "Thunderbolts.2025.1080p.CAM.EN.FR-RGB",
+  "size": 0,
+  "bytes": 9914306871,
+  "magnet": null,
+  "files": {
+    "Thunderbolts.2025.1080p.CAM.EN.FR-RGB.mkv": {
+      "torrent_id": "XJQVWLG4E4MEM",
+      "id": "1",
+      "name": "Thunderbolts.2025.1080p.CAM.EN.FR-RGB.mkv",
+      "size": 9914306871,
+      "is_rar": false,
+      "path": "Thunderbolts.2025.1080p.CAM.EN.FR-RGB.mkv",
+      "link": "https://real-debrid.com/d/AJOLWBJDFHYPUFE0",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-02T23:56:01.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/AJOLWBJDFHYPUFE0"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-02T23:56:01Z",
+  "is_complete": true,
+  "bad": false
+}

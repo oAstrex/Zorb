@@ -1,0 +1,40 @@
+{
+  "id": "RYYAQLKE62NO6",
+  "info_hash": "cb4c25b496e544a65f6d7c367fb9f291672ded1d",
+  "name": "Happy Gilmore 2.mkv",
+  "folder": "Happy Gilmore 2 2025 WEB-DL 2160p HDR10 DV HEVC DDP Atmos 5.1 x265-E",
+  "filename": "Happy Gilmore 2.mkv",
+  "original_filename": "Happy Gilmore 2 2025 WEB-DL 2160p HDR10 DV HEVC DDP Atmos 5.1 x265-E",
+  "size": 0,
+  "bytes": 19442581180,
+  "magnet": null,
+  "files": {
+    "Happy Gilmore 2.mkv": {
+      "torrent_id": "RYYAQLKE62NO6",
+      "id": "1",
+      "name": "Happy Gilmore 2.mkv",
+      "size": 19442581180,
+      "is_rar": false,
+      "path": "Happy Gilmore 2.mkv",
+      "link": "https://real-debrid.com/d/6V7EXSVPENQ4E690",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-27T02:26:56.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/6V7EXSVPENQ4E690"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-27T02:26:56Z",
+  "is_complete": true,
+  "bad": false
+}

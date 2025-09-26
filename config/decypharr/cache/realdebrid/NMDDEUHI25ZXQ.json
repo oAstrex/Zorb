@@ -1,0 +1,40 @@
+{
+  "id": "NMDDEUHI25ZXQ",
+  "info_hash": "853282de865e510bdcfa43537502740169662e22",
+  "name": "Baylen.Out.Loud.S01.E08.1080p.WEB.H264.TheGliz.mkv",
+  "folder": "Baylen.Out.Loud.S01.E08.1080p.WEB.H264.TheGliz",
+  "filename": "Baylen.Out.Loud.S01.E08.1080p.WEB.H264.TheGliz.mkv",
+  "original_filename": "Baylen.Out.Loud.S01.E08.1080p.WEB.H264.TheGliz",
+  "size": 0,
+  "bytes": 1834018666,
+  "magnet": null,
+  "files": {
+    "Baylen.Out.Loud.S01.E08.1080p.WEB.H264.TheGliz.mkv": {
+      "torrent_id": "NMDDEUHI25ZXQ",
+      "id": "1",
+      "name": "Baylen.Out.Loud.S01.E08.1080p.WEB.H264.TheGliz.mkv",
+      "size": 1834018666,
+      "is_rar": false,
+      "path": "Baylen.Out.Loud.S01.E08.1080p.WEB.H264.TheGliz.mkv",
+      "link": "https://real-debrid.com/d/ZTMSHVQBNX2R455C",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-09-12T19:24:58.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ZTMSHVQBNX2R455C"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-09-12T19:24:58Z",
+  "is_complete": true,
+  "bad": false
+}

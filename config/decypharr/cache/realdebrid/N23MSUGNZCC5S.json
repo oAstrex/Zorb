@@ -1,0 +1,40 @@
+{
+  "id": "N23MSUGNZCC5S",
+  "info_hash": "7fcf90ed15ee58ee67016da62d156225d51428ca",
+  "name": "Super Mario Maker 2 [NSP + XCI + Update 3.0.0]",
+  "folder": "Super Mario Maker 2 [NSP + XCI + Update 3.0.0]",
+  "filename": "Super Mario Maker 2 [NSP + XCI + Update 3.0.0]",
+  "original_filename": "Super Mario Maker 2 [NSP + XCI + Update 3.0.0]",
+  "size": 0,
+  "bytes": 3108553216,
+  "magnet": null,
+  "files": {
+    "Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).xci": {
+      "torrent_id": "N23MSUGNZCC5S",
+      "id": "3",
+      "name": "Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).xci",
+      "size": 3108553216,
+      "is_rar": false,
+      "path": "Super Mario Maker 2 [01009B90006DC000][v131072] (1G+1U).xci",
+      "link": "https://real-debrid.com/d/26TFXLEXVFQTAFBE",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T10:34:54.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/26TFXLEXVFQTAFBE"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T10:34:54Z",
+  "is_complete": true,
+  "bad": false
+}

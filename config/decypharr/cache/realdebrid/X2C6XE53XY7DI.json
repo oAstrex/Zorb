@@ -1,0 +1,53 @@
+{
+  "id": "X2C6XE53XY7DI",
+  "info_hash": "7d30c1cfe3c2c091998281c84f09bc37ee3962ac",
+  "name": "Gladiator.II.2024.HDR.2160p.WEB.h265-ETHEL[TGx]",
+  "folder": "Gladiator.II.2024.HDR.2160p.WEB.h265-ETHEL[TGx]",
+  "filename": "Gladiator.II.2024.HDR.2160p.WEB.h265-ETHEL[TGx]",
+  "original_filename": "Gladiator.II.2024.HDR.2160p.WEB.h265-ETHEL[TGx]",
+  "size": 0,
+  "bytes": 17442690176,
+  "magnet": null,
+  "files": {
+    "Gladiator.II.2024.HDR.2160p.WEB.h265-ETHEL.mkv": {
+      "torrent_id": "X2C6XE53XY7DI",
+      "id": "1",
+      "name": "Gladiator.II.2024.HDR.2160p.WEB.h265-ETHEL.mkv",
+      "size": 17325403235,
+      "is_rar": false,
+      "path": "Gladiator.II.2024.HDR.2160p.WEB.h265-ETHEL.mkv",
+      "link": "https://real-debrid.com/d/VGTQGFK2A4DAM80F",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "gladiator.ii.2024.hdr.2160p.web.h265-ethel.sample.mkv": {
+      "torrent_id": "X2C6XE53XY7DI",
+      "id": "2",
+      "name": "gladiator.ii.2024.hdr.2160p.web.h265-ethel.sample.mkv",
+      "size": 117286941,
+      "is_rar": false,
+      "path": "gladiator.ii.2024.hdr.2160p.web.h265-ethel.sample.mkv",
+      "link": "https://real-debrid.com/d/I24QKT3OW6OGQF40",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-19T05:07:08.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/VGTQGFK2A4DAM80F",
+    "https://real-debrid.com/d/I24QKT3OW6OGQF40"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-19T05:07:08Z",
+  "is_complete": true,
+  "bad": false
+}

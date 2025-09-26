@@ -1,0 +1,40 @@
+{
+  "id": "V3M26TWITALPM",
+  "info_hash": "5434836afdf000f59812caf6ebd44e35fc3bd8ee",
+  "name": "Crash_Bandicoot_4_Its_About_Time_NSW-VENOM",
+  "folder": "Crash_Bandicoot_4_Its_About_Time_NSW-VENOM",
+  "filename": "Crash_Bandicoot_4_Its_About_Time_NSW-VENOM",
+  "original_filename": "Crash_Bandicoot_4_Its_About_Time_NSW-VENOM",
+  "size": 0,
+  "bytes": 11035997789,
+  "magnet": null,
+  "files": {
+    "Crash_Bandicoot_4_Its_About_Time_NSW-VENOM.rar": {
+      "torrent_id": "V3M26TWITALPM",
+      "id": "0",
+      "name": "Crash_Bandicoot_4_Its_About_Time_NSW-VENOM.rar",
+      "size": 11035997789,
+      "is_rar": true,
+      "path": "Crash_Bandicoot_4_Its_About_Time_NSW-VENOM.rar",
+      "link": "https://real-debrid.com/d/SEG55NEQ3XG6GAA9",
+      "account_id": "",
+      "generated": "2025-09-25T19:07:40.58404567-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T10:38:57.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/SEG55NEQ3XG6GAA9"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T10:38:57Z",
+  "is_complete": true,
+  "bad": false
+}

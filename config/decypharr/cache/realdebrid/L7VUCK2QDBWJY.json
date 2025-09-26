@@ -1,0 +1,53 @@
+{
+  "id": "L7VUCK2QDBWJY",
+  "info_hash": "6a5625346a5f798a6d15e308c578e754617e9d9a",
+  "name": "Coco.2017.2160p.UHD.BluRay.x265-WhiteRhino",
+  "folder": "Coco.2017.2160p.UHD.BluRay.x265-WhiteRhino",
+  "filename": "Coco.2017.2160p.UHD.BluRay.x265-WhiteRhino",
+  "original_filename": "Coco.2017.2160p.UHD.BluRay.x265-WhiteRhino",
+  "size": 0,
+  "bytes": 15341525129,
+  "magnet": null,
+  "files": {
+    "Coco.2017.2160p.UHD.BluRay.x265-WhiteRhino.mkv": {
+      "torrent_id": "L7VUCK2QDBWJY",
+      "id": "1",
+      "name": "Coco.2017.2160p.UHD.BluRay.x265-WhiteRhino.mkv",
+      "size": 15088332356,
+      "is_rar": false,
+      "path": "Coco.2017.2160p.UHD.BluRay.x265-WhiteRhino.mkv",
+      "link": "https://real-debrid.com/d/77DCVX4K5BW4W64E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "coco.2017.2160p.uhd.bluray.x265-whiterhino.sample.mkv": {
+      "torrent_id": "L7VUCK2QDBWJY",
+      "id": "3",
+      "name": "coco.2017.2160p.uhd.bluray.x265-whiterhino.sample.mkv",
+      "size": 253192773,
+      "is_rar": false,
+      "path": "coco.2017.2160p.uhd.bluray.x265-whiterhino.sample.mkv",
+      "link": "https://real-debrid.com/d/6DA5JN7MQG7KE3FC",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-05T03:21:04.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/77DCVX4K5BW4W64E",
+    "https://real-debrid.com/d/6DA5JN7MQG7KE3FC"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-05T03:21:04Z",
+  "is_complete": true,
+  "bad": false
+}

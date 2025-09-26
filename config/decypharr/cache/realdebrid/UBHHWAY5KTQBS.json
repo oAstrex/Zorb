@@ -1,0 +1,40 @@
+{
+  "id": "UBHHWAY5KTQBS",
+  "info_hash": "7979246d71d97e53e7af0d06251680abfaf43323",
+  "name": "Luigi’s Mansion 3 [NSP + XCI + NSZ + Update 1.2.0]",
+  "folder": "Luigi’s Mansion 3 [NSP + XCI + NSZ + Update 1.2.0]",
+  "filename": "Luigi’s Mansion 3 [NSP + XCI + NSZ + Update 1.2.0]",
+  "original_filename": "Luigi’s Mansion 3 [NSP + XCI + NSZ + Update 1.2.0]",
+  "size": 0,
+  "bytes": 7095724014,
+  "magnet": null,
+  "files": {
+    "Luigi’s Mansion 3 [NSP + XCI + NSZ + Update 1.2.0].rar": {
+      "torrent_id": "UBHHWAY5KTQBS",
+      "id": "0",
+      "name": "Luigi’s Mansion 3 [NSP + XCI + NSZ + Update 1.2.0].rar",
+      "size": 7095724014,
+      "is_rar": true,
+      "path": "Luigi’s Mansion 3 [NSP + XCI + NSZ + Update 1.2.0].rar",
+      "link": "https://real-debrid.com/d/FJ2GMZKGG7QS6EF5",
+      "account_id": "",
+      "generated": "2025-09-25T19:07:40.332188596-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T10:39:19.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/FJ2GMZKGG7QS6EF5"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T10:39:19Z",
+  "is_complete": true,
+  "bad": false
+}

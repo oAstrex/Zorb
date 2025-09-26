@@ -1,0 +1,53 @@
+{
+  "id": "XVDVBJ7CMNST6",
+  "info_hash": "1895c95c959c346407f3d325b19c5c7d1dbe084f",
+  "name": "Smurfs.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "folder": "Smurfs.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "filename": "Smurfs.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "original_filename": "Smurfs.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "size": 0,
+  "bytes": 17099687698,
+  "magnet": null,
+  "files": {
+    "Sample.mkv": {
+      "torrent_id": "XVDVBJ7CMNST6",
+      "id": "2",
+      "name": "Sample.mkv",
+      "size": 367358783,
+      "is_rar": false,
+      "path": "Sample.mkv",
+      "link": "https://real-debrid.com/d/ILKLGUJRLKYK6D32",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Smurfs.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv": {
+      "torrent_id": "XVDVBJ7CMNST6",
+      "id": "11",
+      "name": "Smurfs.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+      "size": 16732328915,
+      "is_rar": false,
+      "path": "Smurfs.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+      "link": "https://real-debrid.com/d/5VBN5YAZN4OXWADE",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-13T20:58:55.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ILKLGUJRLKYK6D32",
+    "https://real-debrid.com/d/5VBN5YAZN4OXWADE"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-13T20:58:55Z",
+  "is_complete": true,
+  "bad": false
+}

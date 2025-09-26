@@ -1,0 +1,40 @@
+{
+  "id": "NZQI7IDJ7EHEO",
+  "info_hash": "d2332411f9fdeb54e692ac0f2c1f9b938cb537f5",
+  "name": "CODA.2021.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+  "folder": "CODA (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+  "filename": "CODA.2021.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+  "original_filename": "CODA (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+  "size": 0,
+  "bytes": 5354024515,
+  "magnet": null,
+  "files": {
+    "CODA.2021.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv": {
+      "torrent_id": "NZQI7IDJ7EHEO",
+      "id": "1",
+      "name": "CODA.2021.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+      "size": 5354024515,
+      "is_rar": false,
+      "path": "CODA.2021.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+      "link": "https://real-debrid.com/d/TH6XEFODXKSWI26A",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-17T06:42:33.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/TH6XEFODXKSWI26A"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-17T06:42:33Z",
+  "is_complete": true,
+  "bad": false
+}

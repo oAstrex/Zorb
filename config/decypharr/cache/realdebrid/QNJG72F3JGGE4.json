@@ -1,0 +1,79 @@
+{
+  "id": "QNJG72F3JGGE4",
+  "info_hash": "67db9f6b4617545eed46e5d90e72142d60225791",
+  "name": "Thunderbolts [2025] 1080p SDRip x264 AC3 (UKB)",
+  "folder": "Thunderbolts [2025] 1080p SDRip x264 AC3 (UKB)",
+  "filename": "Thunderbolts [2025] 1080p SDRip x264 AC3 (UKB)",
+  "original_filename": "Thunderbolts [2025] 1080p SDRip x264 AC3 (UKB)",
+  "size": 0,
+  "bytes": 4490844722,
+  "magnet": null,
+  "files": {
+    "Thunderbolts [2025].mkv": {
+      "torrent_id": "5C3LCESSIV3EK",
+      "id": "1",
+      "name": "Thunderbolts [2025].mkv",
+      "size": 4222172782,
+      "is_rar": false,
+      "path": "Thunderbolts [2025].mkv",
+      "link": "https://real-debrid.com/d/XTTTNUXH3RPJ2EFA",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "sample.mkv": {
+      "torrent_id": "5C3LCESSIV3EK",
+      "id": "5",
+      "name": "sample.mkv",
+      "size": 79815097,
+      "is_rar": false,
+      "path": "sample.mkv",
+      "link": "https://real-debrid.com/d/L5T2XAEPQKIIQDEE",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "sample2.mkv": {
+      "torrent_id": "5C3LCESSIV3EK",
+      "id": "6",
+      "name": "sample2.mkv",
+      "size": 96452428,
+      "is_rar": false,
+      "path": "sample2.mkv",
+      "link": "https://real-debrid.com/d/R2CNXO74R54XOD92",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "sample3.mkv": {
+      "torrent_id": "5C3LCESSIV3EK",
+      "id": "7",
+      "name": "sample3.mkv",
+      "size": 92404415,
+      "is_rar": false,
+      "path": "sample3.mkv",
+      "link": "https://real-debrid.com/d/U6UNOJHH45WZY136",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-09T23:36:29.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/XTTTNUXH3RPJ2EFA",
+    "https://real-debrid.com/d/L5T2XAEPQKIIQDEE",
+    "https://real-debrid.com/d/R2CNXO74R54XOD92",
+    "https://real-debrid.com/d/U6UNOJHH45WZY136"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-09T23:36:29Z",
+  "is_complete": true,
+  "bad": false
+}

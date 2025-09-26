@@ -1,0 +1,66 @@
+{
+  "id": "JMKMNTA7EDRCI",
+  "info_hash": "824fb2d0898ad6f608e80331e812230067ed4948",
+  "name": "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC",
+  "folder": "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC",
+  "filename": "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC",
+  "original_filename": "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC",
+  "size": 0,
+  "bytes": 10265554028,
+  "magnet": null,
+  "files": {
+    "Sample1.mkv": {
+      "torrent_id": "JMKMNTA7EDRCI",
+      "id": "2",
+      "name": "Sample1.mkv",
+      "size": 94846948,
+      "is_rar": false,
+      "path": "Sample1.mkv",
+      "link": "https://real-debrid.com/d/WV2N4LHP2RCS6B39",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Sample2.mkv": {
+      "torrent_id": "JMKMNTA7EDRCI",
+      "id": "3",
+      "name": "Sample2.mkv",
+      "size": 95792934,
+      "is_rar": false,
+      "path": "Sample2.mkv",
+      "link": "https://real-debrid.com/d/TTGDAG27HXHJ2DBE",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC.mkv": {
+      "torrent_id": "JMKMNTA7EDRCI",
+      "id": "11",
+      "name": "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC.mkv",
+      "size": 10074914146,
+      "is_rar": false,
+      "path": "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC.mkv",
+      "link": "https://real-debrid.com/d/VNOKB3EWQ6FO6252",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-21T12:43:16.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/WV2N4LHP2RCS6B39",
+    "https://real-debrid.com/d/TTGDAG27HXHJ2DBE",
+    "https://real-debrid.com/d/VNOKB3EWQ6FO6252"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-21T12:43:16Z",
+  "is_complete": true,
+  "bad": false
+}

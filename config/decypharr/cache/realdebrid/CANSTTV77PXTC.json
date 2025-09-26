@@ -1,0 +1,40 @@
+{
+  "id": "CANSTTV77PXTC",
+  "info_hash": "53b4bd64defc69f5a1eb0ccd031332e9dc06f4da",
+  "name": "hairspray.live.2016.720p.hdtv.x264-crooks[ettv].mkv",
+  "folder": "Hairspray.Live.2016.720p.HDTV.x264-CROOKS[ettv]",
+  "filename": "hairspray.live.2016.720p.hdtv.x264-crooks[ettv].mkv",
+  "original_filename": "Hairspray.Live.2016.720p.HDTV.x264-CROOKS[ettv]",
+  "size": 0,
+  "bytes": 3589760230,
+  "magnet": null,
+  "files": {
+    "hairspray.live.2016.720p.hdtv.x264-crooks[ettv].mkv": {
+      "torrent_id": "CANSTTV77PXTC",
+      "id": "2",
+      "name": "hairspray.live.2016.720p.hdtv.x264-crooks[ettv].mkv",
+      "size": 3589760230,
+      "is_rar": false,
+      "path": "hairspray.live.2016.720p.hdtv.x264-crooks[ettv].mkv",
+      "link": "https://real-debrid.com/d/6XUZXS6V2OYPE330",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-23T13:03:20.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/6XUZXS6V2OYPE330"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-23T13:03:20Z",
+  "is_complete": true,
+  "bad": false
+}

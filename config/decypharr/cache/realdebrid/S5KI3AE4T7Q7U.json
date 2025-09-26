@@ -1,0 +1,40 @@
+{
+  "id": "S5KI3AE4T7Q7U",
+  "info_hash": "136715134da16e188ac18ba9181864aa31d51e18",
+  "name": "Highest 2 Lowest 2025.mkv",
+  "folder": "Highest 2 Lowest 2025 WEB-DL 2160p HDR10+ DV HEVC DDP Atmos 5.1 x265-e",
+  "filename": "Highest 2 Lowest 2025.mkv",
+  "original_filename": "Highest 2 Lowest 2025 WEB-DL 2160p HDR10+ DV HEVC DDP Atmos 5.1 x265-e",
+  "size": 0,
+  "bytes": 20927597266,
+  "magnet": null,
+  "files": {
+    "Highest 2 Lowest 2025.mkv": {
+      "torrent_id": "S5KI3AE4T7Q7U",
+      "id": "1",
+      "name": "Highest 2 Lowest 2025.mkv",
+      "size": 20927597266,
+      "is_rar": false,
+      "path": "Highest 2 Lowest 2025.mkv",
+      "link": "https://real-debrid.com/d/QAUUEP3LRSXQK9D8",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-09-08T05:58:11.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/QAUUEP3LRSXQK9D8"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-09-08T05:58:11Z",
+  "is_complete": true,
+  "bad": false
+}

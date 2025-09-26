@@ -1,0 +1,40 @@
+{
+  "id": "PDUXSEXOVUULA",
+  "info_hash": "31a74587db0a21438e8cbc1e2163d0235459755c",
+  "name": "Mario Kart 8 Deluxe [DODI Repack]",
+  "folder": "Mario Kart 8 Deluxe [DODI Repack]",
+  "filename": "Mario Kart 8 Deluxe [DODI Repack]",
+  "original_filename": "Mario Kart 8 Deluxe [DODI Repack]",
+  "size": 0,
+  "bytes": 12634068518,
+  "magnet": null,
+  "files": {
+    "Mario Kart 8 Deluxe [DODI Repack].rar": {
+      "torrent_id": "PDUXSEXOVUULA",
+      "id": "0",
+      "name": "Mario Kart 8 Deluxe [DODI Repack].rar",
+      "size": 12634068518,
+      "is_rar": true,
+      "path": "Mario Kart 8 Deluxe [DODI Repack].rar",
+      "link": "https://real-debrid.com/d/UWEBQV5VWB4IK72C",
+      "account_id": "",
+      "generated": "2025-09-25T19:10:00.993267881-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-16T09:48:41.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/UWEBQV5VWB4IK72C"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-16T09:48:41Z",
+  "is_complete": true,
+  "bad": false
+}

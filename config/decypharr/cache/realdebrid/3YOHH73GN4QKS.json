@@ -1,0 +1,40 @@
+{
+  "id": "3YOHH73GN4QKS",
+  "info_hash": "33d03061f627385e93517aae38c006e4ad963de0",
+  "name": "Super Mario Bros Wonder [XCI]",
+  "folder": "Super Mario Bros Wonder [XCI]",
+  "filename": "Super Mario Bros Wonder [XCI]",
+  "original_filename": "Super Mario Bros Wonder [XCI]",
+  "size": 0,
+  "bytes": 3769099776,
+  "magnet": null,
+  "files": {
+    "Super Mario Bros. Wonder [010015100B514000][v0][US].xci": {
+      "torrent_id": "3YOHH73GN4QKS",
+      "id": "1",
+      "name": "Super Mario Bros. Wonder [010015100B514000][v0][US].xci",
+      "size": 3769099776,
+      "is_rar": false,
+      "path": "Super Mario Bros. Wonder [010015100B514000][v0][US].xci",
+      "link": "https://real-debrid.com/d/57RBUFKALLU7W933",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T09:28:31.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/57RBUFKALLU7W933"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T09:28:31Z",
+  "is_complete": true,
+  "bad": false
+}

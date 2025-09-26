@@ -1,0 +1,40 @@
+{
+  "id": "3OAMNFV252XQY",
+  "info_hash": "a336b7a600609fab8a985aef3237f60a72954836",
+  "name": "Drop 2025 2160p AMZN WEB-DL Dual-Audio DDP5.1 10bit HDR x265-TBMovies.mkv",
+  "folder": "Drop 2025 2160p AMZN WEB-DL Dual-Audio DDP5.1 10bit HDR x265-TBMovies.mkv",
+  "filename": "Drop 2025 2160p AMZN WEB-DL Dual-Audio DDP5.1 10bit HDR x265-TBMovies.mkv",
+  "original_filename": "Drop 2025 2160p AMZN WEB-DL Dual-Audio DDP5.1 10bit HDR x265-TBMovies.mkv",
+  "size": 0,
+  "bytes": 11561073262,
+  "magnet": null,
+  "files": {
+    "Drop 2025 2160p AMZN WEB-DL Dual-Audio DDP5.1 10bit HDR x265-TBMovies.mkv": {
+      "torrent_id": "3OAMNFV252XQY",
+      "id": "1",
+      "name": "Drop 2025 2160p AMZN WEB-DL Dual-Audio DDP5.1 10bit HDR x265-TBMovies.mkv",
+      "size": 11561073262,
+      "is_rar": false,
+      "path": "Drop 2025 2160p AMZN WEB-DL Dual-Audio DDP5.1 10bit HDR x265-TBMovies.mkv",
+      "link": "https://real-debrid.com/d/V4A2LZCIDEBH69AD",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-04T04:31:24.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/V4A2LZCIDEBH69AD"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-04T04:31:24Z",
+  "is_complete": true,
+  "bad": false
+}

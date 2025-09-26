@@ -1,0 +1,40 @@
+{
+  "id": "EI6344Y5X4JMW",
+  "info_hash": "c7d395f2e501b49af971dad634baceb84178cfb0",
+  "name": "TiviMate v2.1.5 [Premium WOptional Logo]",
+  "folder": "TiviMate v2.1.5 [Premium WOptional Logo]",
+  "filename": "TiviMate v2.1.5 [Premium WOptional Logo]",
+  "original_filename": "TiviMate v2.1.5 [Premium WOptional Logo]",
+  "size": 0,
+  "bytes": 10681144,
+  "magnet": null,
+  "files": {
+    "TiviMate v2.1.5 [Premium WOptional Logo].rar": {
+      "torrent_id": "EI6344Y5X4JMW",
+      "id": "0",
+      "name": "TiviMate v2.1.5 [Premium WOptional Logo].rar",
+      "size": 10681144,
+      "is_rar": true,
+      "path": "TiviMate v2.1.5 [Premium WOptional Logo].rar",
+      "link": "https://real-debrid.com/d/COFQUYUTMCONOFC0",
+      "account_id": "",
+      "generated": "2025-09-25T19:06:31.454824488-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-13T07:21:47.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/COFQUYUTMCONOFC0"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-13T07:21:47Z",
+  "is_complete": true,
+  "bad": false
+}

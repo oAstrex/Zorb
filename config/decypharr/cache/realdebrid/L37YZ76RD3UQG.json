@@ -1,0 +1,40 @@
+{
+  "id": "L37YZ76RD3UQG",
+  "info_hash": "2254b1258af59ff763b4d6a361d1be4ec42b24aa",
+  "name": "Materialists 2025.mkv",
+  "folder": "Materialists 2025 WEB-DL 2160p HDR10+ DV HEVC DDP 5.1 x265-E",
+  "filename": "Materialists 2025.mkv",
+  "original_filename": "Materialists 2025 WEB-DL 2160p HDR10+ DV HEVC DDP 5.1 x265-E",
+  "size": 0,
+  "bytes": 18242631729,
+  "magnet": null,
+  "files": {
+    "Materialists 2025.mkv": {
+      "torrent_id": "L37YZ76RD3UQG",
+      "id": "1",
+      "name": "Materialists 2025.mkv",
+      "size": 18242631729,
+      "is_rar": false,
+      "path": "Materialists 2025.mkv",
+      "link": "https://real-debrid.com/d/5MSR3H545BA3U6E7",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-27T06:51:24.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/5MSR3H545BA3U6E7"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-27T06:51:24Z",
+  "is_complete": true,
+  "bad": false
+}

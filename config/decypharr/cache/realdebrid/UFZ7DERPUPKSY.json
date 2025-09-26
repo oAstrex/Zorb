@@ -1,0 +1,53 @@
+{
+  "id": "UFZ7DERPUPKSY",
+  "info_hash": "d61abc67a6e2669e5fc2f23bb45ebbbe71490594",
+  "name": "One.of.Them.Days.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC",
+  "folder": "One.of.Them.Days.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC",
+  "filename": "One.of.Them.Days.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC",
+  "original_filename": "One.of.Them.Days.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC",
+  "size": 0,
+  "bytes": 9500159242,
+  "magnet": null,
+  "files": {
+    "One.of.Them.Days.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv": {
+      "torrent_id": "UFZ7DERPUPKSY",
+      "id": "2",
+      "name": "One.of.Them.Days.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv",
+      "size": 9131221656,
+      "is_rar": false,
+      "path": "One.of.Them.Days.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv",
+      "link": "https://real-debrid.com/d/XAZNERAU2AQOSED3",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Sample.mkv": {
+      "torrent_id": "UFZ7DERPUPKSY",
+      "id": "3",
+      "name": "Sample.mkv",
+      "size": 368937586,
+      "is_rar": false,
+      "path": "Sample.mkv",
+      "link": "https://real-debrid.com/d/ZARWBOSBTRW3Q93A",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-19T04:59:55.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/XAZNERAU2AQOSED3",
+    "https://real-debrid.com/d/ZARWBOSBTRW3Q93A"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-19T04:59:55Z",
+  "is_complete": true,
+  "bad": false
+}

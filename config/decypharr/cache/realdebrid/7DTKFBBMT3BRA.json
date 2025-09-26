@@ -1,0 +1,53 @@
+{
+  "id": "7DTKFBBMT3BRA",
+  "info_hash": "1df027a69cad85c9cd0394a795284a01dba559ee",
+  "name": "Straw.2025.2160p.MULTI.WEB-DL.SDR.H265-AOC",
+  "folder": "Straw.2025.2160p.MULTI.WEB-DL.SDR.H265-AOC",
+  "filename": "Straw.2025.2160p.MULTI.WEB-DL.SDR.H265-AOC",
+  "original_filename": "Straw.2025.2160p.MULTI.WEB-DL.SDR.H265-AOC",
+  "size": 0,
+  "bytes": 14824896074,
+  "magnet": null,
+  "files": {
+    "Sample.mkv": {
+      "torrent_id": "7DTKFBBMT3BRA",
+      "id": "2",
+      "name": "Sample.mkv",
+      "size": 368351416,
+      "is_rar": false,
+      "path": "Sample.mkv",
+      "link": "https://real-debrid.com/d/7FF67XAGDUQLIAC6",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Straw.2025.2160p.MULTI.WEB-DL.SDR.H265-AOC.mkv": {
+      "torrent_id": "7DTKFBBMT3BRA",
+      "id": "10",
+      "name": "Straw.2025.2160p.MULTI.WEB-DL.SDR.H265-AOC.mkv",
+      "size": 14456544658,
+      "is_rar": false,
+      "path": "Straw.2025.2160p.MULTI.WEB-DL.SDR.H265-AOC.mkv",
+      "link": "https://real-debrid.com/d/CGUQILOBMPGHU875",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-15T15:19:54.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/7FF67XAGDUQLIAC6",
+    "https://real-debrid.com/d/CGUQILOBMPGHU875"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-15T15:19:54Z",
+  "is_complete": true,
+  "bad": false
+}

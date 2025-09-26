@@ -1,0 +1,40 @@
+{
+  "id": "WDCAZ3N7N7JTS",
+  "info_hash": "ab33b0e99dbba5b40c08da0ae361fdcdfa258d4f",
+  "name": "The Last of Us Part I.(v.1.1.4.0).(2023) [Decepticon] RePack",
+  "folder": "The Last of Us Part I.(v.1.1.4.0).(2023) [Decepticon] RePack",
+  "filename": "The Last of Us Part I.(v.1.1.4.0).(2023) [Decepticon] RePack",
+  "original_filename": "The Last of Us Part I.(v.1.1.4.0).(2023) [Decepticon] RePack",
+  "size": 0,
+  "bytes": 46180723285,
+  "magnet": null,
+  "files": {
+    "The Last of Us Part I.(v.1.1.4.0).(2023) [Decepticon] RePack.rar": {
+      "torrent_id": "WDCAZ3N7N7JTS",
+      "id": "0",
+      "name": "The Last of Us Part I.(v.1.1.4.0).(2023) [Decepticon] RePack.rar",
+      "size": 46180723285,
+      "is_rar": true,
+      "path": "The Last of Us Part I.(v.1.1.4.0).(2023) [Decepticon] RePack.rar",
+      "link": "https://real-debrid.com/d/FV3DSSJVUFPKQ8EC",
+      "account_id": "",
+      "generated": "2025-09-25T19:10:00.513229864-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-22T04:27:42.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/FV3DSSJVUFPKQ8EC"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-22T04:27:42Z",
+  "is_complete": true,
+  "bad": false
+}

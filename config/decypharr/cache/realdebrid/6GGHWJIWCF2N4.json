@@ -1,0 +1,40 @@
+{
+  "id": "6GGHWJIWCF2N4",
+  "info_hash": "c534b6e919c43db0dfc77a7fa0adcaa4df8c50a6",
+  "name": "Flight.Risk.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-APEX.mkv",
+  "folder": "Flight.Risk.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-APEX.mkv",
+  "filename": "Flight.Risk.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-APEX.mkv",
+  "original_filename": "Flight.Risk.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-APEX.mkv",
+  "size": 0,
+  "bytes": 10520978239,
+  "magnet": null,
+  "files": {
+    "Flight.Risk.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-APEX.mkv": {
+      "torrent_id": "6GGHWJIWCF2N4",
+      "id": "1",
+      "name": "Flight.Risk.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-APEX.mkv",
+      "size": 10520978239,
+      "is_rar": false,
+      "path": "Flight.Risk.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-APEX.mkv",
+      "link": "https://real-debrid.com/d/AOYERKGDISAUUDE2",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-02-21T18:13:34.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/AOYERKGDISAUUDE2"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-02-21T18:13:34Z",
+  "is_complete": true,
+  "bad": false
+}

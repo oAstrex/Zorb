@@ -1,0 +1,53 @@
+{
+  "id": "UEKS4SLI6N3ZS",
+  "info_hash": "553df83e05b0daf864ee2487ef9abd6498e8f0e2",
+  "name": "Jumanji.Welcome.To.The.Jungle.2017.2160p.UHD.BluRay.x265-EMERALD",
+  "folder": "Jumanji.Welcome.To.The.Jungle.2017.2160p.UHD.BluRay.x265-EMERALD",
+  "filename": "Jumanji.Welcome.To.The.Jungle.2017.2160p.UHD.BluRay.x265-EMERALD",
+  "original_filename": "Jumanji.Welcome.To.The.Jungle.2017.2160p.UHD.BluRay.x265-EMERALD",
+  "size": 0,
+  "bytes": 16581073614,
+  "magnet": null,
+  "files": {
+    "emd-jumanjiwelcometothejungle.2160p-sample.mkv": {
+      "torrent_id": "UEKS4SLI6N3ZS",
+      "id": "2",
+      "name": "emd-jumanjiwelcometothejungle.2160p-sample.mkv",
+      "size": 118639859,
+      "is_rar": false,
+      "path": "emd-jumanjiwelcometothejungle.2160p-sample.mkv",
+      "link": "https://real-debrid.com/d/A32K6YRLOLS6ADC5",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "emd-jumanjiwelcometothejungle.mkv": {
+      "torrent_id": "UEKS4SLI6N3ZS",
+      "id": "3",
+      "name": "emd-jumanjiwelcometothejungle.mkv",
+      "size": 16462433755,
+      "is_rar": false,
+      "path": "emd-jumanjiwelcometothejungle.mkv",
+      "link": "https://real-debrid.com/d/DFQOACKFPRDOWE4C",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-18T20:19:57.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/A32K6YRLOLS6ADC5",
+    "https://real-debrid.com/d/DFQOACKFPRDOWE4C"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-18T20:19:57Z",
+  "is_complete": true,
+  "bad": false
+}

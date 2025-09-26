@@ -1,0 +1,40 @@
+{
+  "id": "6HXJVCZLVIOJK",
+  "info_hash": "aa292d9563095a97a8956d86e4e202e33ee4b3a2",
+  "name": "Sinners (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]",
+  "folder": "Sinners (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]",
+  "filename": "Sinners (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]",
+  "original_filename": "Sinners (2025) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX]",
+  "size": 0,
+  "bytes": 2259811402,
+  "magnet": null,
+  "files": {
+    "Sinners.2025.1080p.WEBRip.x265.10bit.AAC5.1-[YTS.MX].mp4": {
+      "torrent_id": "6HXJVCZLVIOJK",
+      "id": "1",
+      "name": "Sinners.2025.1080p.WEBRip.x265.10bit.AAC5.1-[YTS.MX].mp4",
+      "size": 2259811402,
+      "is_rar": false,
+      "path": "Sinners.2025.1080p.WEBRip.x265.10bit.AAC5.1-[YTS.MX].mp4",
+      "link": "https://real-debrid.com/d/7GDDR5LUQWP5Q82E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-21T12:42:28.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/7GDDR5LUQWP5Q82E"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-21T12:42:28Z",
+  "is_complete": true,
+  "bad": false
+}

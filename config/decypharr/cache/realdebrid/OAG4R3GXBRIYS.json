@@ -1,0 +1,40 @@
+{
+  "id": "OAG4R3GXBRIYS",
+  "info_hash": "10c28d2a986c000f8dbc22441abb31158eff11aa",
+  "name": "Life (1999) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc",
+  "folder": "Life (1999) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc",
+  "filename": "Life (1999) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc",
+  "original_filename": "Life (1999) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc",
+  "size": 0,
+  "bytes": 4167630672,
+  "magnet": null,
+  "files": {
+    "Life (1999) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc.mkv": {
+      "torrent_id": "OAG4R3GXBRIYS",
+      "id": "1",
+      "name": "Life (1999) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc.mkv",
+      "size": 4167630672,
+      "is_rar": false,
+      "path": "Life (1999) 1080p 10bit Bluray x265 HEVC [Org DD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc.mkv",
+      "link": "https://real-debrid.com/d/SR4CBDICRRT2W6E4",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-31T19:42:52.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/SR4CBDICRRT2W6E4"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-31T19:42:52Z",
+  "is_complete": true,
+  "bad": false
+}

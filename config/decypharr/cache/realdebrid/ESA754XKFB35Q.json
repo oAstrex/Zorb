@@ -1,0 +1,40 @@
+{
+  "id": "ESA754XKFB35Q",
+  "info_hash": "081cb63865489df6507a2db825d679d60094552f",
+  "name": "Tenet.2020.IMAX.UHD.BluRay.2160p.DDP.5.1.DV.HDR.x265-hallowed.mkv",
+  "folder": "Tenet.2020.IMAX.UHD.BluRay.2160p.DDP.5.1.DV.HDR.x265-hallowed.mkv",
+  "filename": "Tenet.2020.IMAX.UHD.BluRay.2160p.DDP.5.1.DV.HDR.x265-hallowed.mkv",
+  "original_filename": "Tenet.2020.IMAX.UHD.BluRay.2160p.DDP.5.1.DV.HDR.x265-hallowed.mkv",
+  "size": 0,
+  "bytes": 21110715318,
+  "magnet": null,
+  "files": {
+    "Tenet.2020.IMAX.UHD.BluRay.2160p.DDP.5.1.DV.HDR.x265-hallowed.mkv": {
+      "torrent_id": "ESA754XKFB35Q",
+      "id": "1",
+      "name": "Tenet.2020.IMAX.UHD.BluRay.2160p.DDP.5.1.DV.HDR.x265-hallowed.mkv",
+      "size": 21110715318,
+      "is_rar": false,
+      "path": "Tenet.2020.IMAX.UHD.BluRay.2160p.DDP.5.1.DV.HDR.x265-hallowed.mkv",
+      "link": "https://real-debrid.com/d/P3NIRV6MKNWAAC63",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-04T05:50:44.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/P3NIRV6MKNWAAC63"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-04T05:50:44Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "DPL6BKUJWVOMM",
+  "info_hash": "7c3d93b75ea483290535a6acd8ad4f3ee1914004",
+  "name": "Watson.S01E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "folder": "Watson.S01E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "filename": "Watson.S01E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "original_filename": "Watson.S01E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "size": 0,
+  "bytes": 409228243,
+  "magnet": null,
+  "files": {
+    "Watson.S01E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv": {
+      "torrent_id": "DPL6BKUJWVOMM",
+      "id": "1",
+      "name": "Watson.S01E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "size": 409228243,
+      "is_rar": false,
+      "path": "Watson.S01E07.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "link": "https://real-debrid.com/d/ZMLLDI7PQ3T5GD08",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-26T04:54:19.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ZMLLDI7PQ3T5GD08"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-26T04:54:19Z",
+  "is_complete": true,
+  "bad": false
+}

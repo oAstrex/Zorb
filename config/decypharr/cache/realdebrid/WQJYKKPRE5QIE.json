@@ -1,0 +1,40 @@
+{
+  "id": "WQJYKKPRE5QIE",
+  "info_hash": "81169406b9cc17eeb147437aaf170bddafad7ab5",
+  "name": "The.Hangover.2009.ITA.ENG.FR.2160p.UHD.HDR.WEBRip.x265.XFM.mkv",
+  "folder": "The.Hangover.2009.ITA.ENG.FR.2160p.UHD.HDR.WEBRip.x265.XFM.mkv",
+  "filename": "The.Hangover.2009.ITA.ENG.FR.2160p.UHD.HDR.WEBRip.x265.XFM.mkv",
+  "original_filename": "The.Hangover.2009.ITA.ENG.FR.2160p.UHD.HDR.WEBRip.x265.XFM.mkv",
+  "size": 0,
+  "bytes": 21606855007,
+  "magnet": null,
+  "files": {
+    "The.Hangover.2009.ITA.ENG.FR.2160p.UHD.HDR.WEBRip.x265.XFM.mkv": {
+      "torrent_id": "WQJYKKPRE5QIE",
+      "id": "1",
+      "name": "The.Hangover.2009.ITA.ENG.FR.2160p.UHD.HDR.WEBRip.x265.XFM.mkv",
+      "size": 21606855007,
+      "is_rar": false,
+      "path": "The.Hangover.2009.ITA.ENG.FR.2160p.UHD.HDR.WEBRip.x265.XFM.mkv",
+      "link": "https://real-debrid.com/d/TDB3GZ3XHB6QIE1C",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-03T04:51:07.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/TDB3GZ3XHB6QIE1C"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-03T04:51:07Z",
+  "is_complete": true,
+  "bad": false
+}

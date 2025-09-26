@@ -1,0 +1,40 @@
+{
+  "id": "KAJ7SQZ4KMTHU",
+  "info_hash": "da024f5fb74397bce0b93473ca329c6fe3c67af4",
+  "name": "House Of Gucci (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+  "folder": "House Of Gucci (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+  "filename": "House Of Gucci (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+  "original_filename": "House Of Gucci (2021) [1080p] [WEBRip] [5.1] [YTS.MX]",
+  "size": 0,
+  "bytes": 3122965235,
+  "magnet": null,
+  "files": {
+    "House.Of.Gucci.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4": {
+      "torrent_id": "KAJ7SQZ4KMTHU",
+      "id": "1",
+      "name": "House.Of.Gucci.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4",
+      "size": 3122965235,
+      "is_rar": false,
+      "path": "House.Of.Gucci.2021.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4",
+      "link": "https://real-debrid.com/d/6R2EXXLEKO2IU85C",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-29T01:13:10.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/6R2EXXLEKO2IU85C"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-29T01:13:10Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2KGK6RX5Y5P5O",
+  "info_hash": "0f35d8b6c6c44c211a8b8684719a1eade79875cf",
+  "name": "Watson.S01E05.1080p.AV1.10bit-MeGusta.mkv",
+  "folder": "www.Torrenting.com - Watson.S01E05.1080p.AV1.10bit-MeGusta",
+  "filename": "Watson.S01E05.1080p.AV1.10bit-MeGusta.mkv",
+  "original_filename": "www.Torrenting.com - Watson.S01E05.1080p.AV1.10bit-MeGusta",
+  "size": 0,
+  "bytes": 376137336,
+  "magnet": null,
+  "files": {
+    "Watson.S01E05.1080p.AV1.10bit-MeGusta.mkv": {
+      "torrent_id": "2KGK6RX5Y5P5O",
+      "id": "5",
+      "name": "Watson.S01E05.1080p.AV1.10bit-MeGusta.mkv",
+      "size": 376137336,
+      "is_rar": false,
+      "path": "Watson.S01E05.1080p.AV1.10bit-MeGusta.mkv",
+      "link": "https://real-debrid.com/d/OHDIMVI7SEIY4176",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-24T03:30:25.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/OHDIMVI7SEIY4176"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-24T03:30:25Z",
+  "is_complete": true,
+  "bad": false
+}

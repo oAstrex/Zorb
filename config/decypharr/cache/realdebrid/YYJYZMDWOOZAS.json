@@ -1,0 +1,40 @@
+{
+  "id": "YYJYZMDWOOZAS",
+  "info_hash": "2a060eb915272f9c24c96fe049a0fdf4142eba2a",
+  "name": "Pokemon Shield [NSP + NSZ + XCI + Expansion Pass + Update 1.1.0]",
+  "folder": "Pokemon Shield [NSP + NSZ + XCI + Expansion Pass + Update 1.1.0]",
+  "filename": "Pokemon Shield [NSP + NSZ + XCI + Expansion Pass + Update 1.1.0]",
+  "original_filename": "Pokemon Shield [NSP + NSZ + XCI + Expansion Pass + Update 1.1.0]",
+  "size": 0,
+  "bytes": 10622705664,
+  "magnet": null,
+  "files": {
+    "Pokemon Shield [World] [En,Fr,It,Pt,De,Es,Zh,Tw] [01008DB008C2C000][v0].xci": {
+      "torrent_id": "YYJYZMDWOOZAS",
+      "id": "8",
+      "name": "Pokemon Shield [World] [En,Fr,It,Pt,De,Es,Zh,Tw] [01008DB008C2C000][v0].xci",
+      "size": 10622705664,
+      "is_rar": false,
+      "path": "Pokemon Shield [World] [En,Fr,It,Pt,De,Es,Zh,Tw] [01008DB008C2C000][v0].xci",
+      "link": "https://real-debrid.com/d/IJNEENSWDYKWQ6D0",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T10:35:53.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/IJNEENSWDYKWQ6D0"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T10:35:53Z",
+  "is_complete": true,
+  "bad": false
+}

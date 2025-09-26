@@ -1,0 +1,40 @@
+{
+  "id": "A4VOZRJYEO26O",
+  "info_hash": "d56e2ab54ac78aa1630cabc34b9177545230fa99",
+  "name": "God of War Ragnarok (2022-2024)",
+  "folder": "God of War Ragnarok (2022-2024)",
+  "filename": "God of War Ragnarok (2022-2024)",
+  "original_filename": "God of War Ragnarok (2022-2024)",
+  "size": 0,
+  "bytes": 191175723783,
+  "magnet": null,
+  "files": {
+    "God of War Ragnarok (2022-2024).rar": {
+      "torrent_id": "A4VOZRJYEO26O",
+      "id": "0",
+      "name": "God of War Ragnarok (2022-2024).rar",
+      "size": 191175723783,
+      "is_rar": true,
+      "path": "God of War Ragnarok (2022-2024).rar",
+      "link": "https://real-debrid.com/d/DHYO7GTJC7TOG623",
+      "account_id": "",
+      "generated": "2025-09-25T19:09:56.692050095-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-07T02:32:17.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/DHYO7GTJC7TOG623"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-07T02:32:17Z",
+  "is_complete": true,
+  "bad": false
+}

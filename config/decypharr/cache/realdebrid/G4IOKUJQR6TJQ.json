@@ -1,0 +1,79 @@
+{
+  "id": "G4IOKUJQR6TJQ",
+  "info_hash": "9d9fd2475b2621ced3030bb290d46bb8d34e715d",
+  "name": "[S01] Ms.Rachel [CUK]",
+  "folder": "[S01] Ms.Rachel [CUK]",
+  "filename": "[S01] Ms.Rachel [CUK]",
+  "original_filename": "[S01] Ms.Rachel [CUK]",
+  "size": 0,
+  "bytes": 7022590577,
+  "magnet": null,
+  "files": {
+    "[S1.Ep1] Ms. Rachel - Learn to Talk - “What’s in the box” Speech and Toddler Learning - [CUK].mp4": {
+      "torrent_id": "G4IOKUJQR6TJQ",
+      "id": "4",
+      "name": "[S1.Ep1] Ms. Rachel - Learn to Talk - “What’s in the box” Speech and Toddler Learning - [CUK].mp4",
+      "size": 1417252048,
+      "is_rar": false,
+      "path": "[S1.Ep1] Ms. Rachel - Learn to Talk - “What’s in the box” Speech and Toddler Learning - [CUK].mp4",
+      "link": "https://real-debrid.com/d/2TW6YDKMTOZKEDA5",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "[S1.Ep2] Ms. Rachel - Baby Learning - First words, Milestones, Nursery Rhymes and Songs - [CUK].mp4": {
+      "torrent_id": "G4IOKUJQR6TJQ",
+      "id": "2",
+      "name": "[S1.Ep2] Ms. Rachel - Baby Learning - First words, Milestones, Nursery Rhymes and Songs - [CUK].mp4",
+      "size": 1826271649,
+      "is_rar": false,
+      "path": "[S1.Ep2] Ms. Rachel - Baby Learning - First words, Milestones, Nursery Rhymes and Songs - [CUK].mp4",
+      "link": "https://real-debrid.com/d/PGQ6N5BHNBITECA5",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "[S1.Ep3] Ms. Rachel - Learn to Read - Phonics, ABCs, and Preschool Learning - [CUK].mp4": {
+      "torrent_id": "G4IOKUJQR6TJQ",
+      "id": "3",
+      "name": "[S1.Ep3] Ms. Rachel - Learn to Read - Phonics, ABCs, and Preschool Learning - [CUK].mp4",
+      "size": 1169192095,
+      "is_rar": false,
+      "path": "[S1.Ep3] Ms. Rachel - Learn to Read - Phonics, ABCs, and Preschool Learning - [CUK].mp4",
+      "link": "https://real-debrid.com/d/UEFWIKDP6AEC2B8F",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "[S1.Ep4] Ms. Rachel - Hop Little Bunnies Plus More Songs and Nursery Rhymes - [CUK].mp4": {
+      "torrent_id": "G4IOKUJQR6TJQ",
+      "id": "1",
+      "name": "[S1.Ep4] Ms. Rachel - Hop Little Bunnies Plus More Songs and Nursery Rhymes - [CUK].mp4",
+      "size": 2609874785,
+      "is_rar": false,
+      "path": "[S1.Ep4] Ms. Rachel - Hop Little Bunnies Plus More Songs and Nursery Rhymes - [CUK].mp4",
+      "link": "https://real-debrid.com/d/VTGII27HG4FFED67",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-09-11T01:13:58.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/VTGII27HG4FFED67",
+    "https://real-debrid.com/d/PGQ6N5BHNBITECA5",
+    "https://real-debrid.com/d/UEFWIKDP6AEC2B8F",
+    "https://real-debrid.com/d/2TW6YDKMTOZKEDA5"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-09-11T01:13:58Z",
+  "is_complete": true,
+  "bad": false
+}

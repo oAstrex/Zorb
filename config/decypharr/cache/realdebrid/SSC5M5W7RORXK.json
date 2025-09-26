@@ -1,0 +1,40 @@
+{
+  "id": "SSC5M5W7RORXK",
+  "info_hash": "09b44828b0bdd2645f23a8dfcb9d603902fd14e2",
+  "name": "Captain Underpants The First Epic Movie (2017) [1080p] [YTS.AG]",
+  "folder": "Captain Underpants The First Epic Movie (2017) [1080p] [YTS.AG]",
+  "filename": "Captain Underpants The First Epic Movie (2017) [1080p] [YTS.AG]",
+  "original_filename": "Captain Underpants The First Epic Movie (2017) [1080p] [YTS.AG]",
+  "size": 0,
+  "bytes": 1448398518,
+  "magnet": null,
+  "files": {
+    "Captain.Underpants.The.First.Epic.Movie.2017.1080p.BluRay.x264-[YTS.AG].mp4": {
+      "torrent_id": "SSC5M5W7RORXK",
+      "id": "2",
+      "name": "Captain.Underpants.The.First.Epic.Movie.2017.1080p.BluRay.x264-[YTS.AG].mp4",
+      "size": 1448398518,
+      "is_rar": false,
+      "path": "Captain.Underpants.The.First.Epic.Movie.2017.1080p.BluRay.x264-[YTS.AG].mp4",
+      "link": "https://real-debrid.com/d/RIZQZET4WCMTK566",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-02-21T07:36:00.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/RIZQZET4WCMTK566"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-02-21T07:36:00Z",
+  "is_complete": true,
+  "bad": false
+}

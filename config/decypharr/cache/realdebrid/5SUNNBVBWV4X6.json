@@ -1,0 +1,40 @@
+{
+  "id": "5SUNNBVBWV4X6",
+  "info_hash": "58095bd8d3dfcea2317a8deec5e4885454d97952",
+  "name": "Grafted.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv",
+  "folder": "www.SceneTime.com - Grafted.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov",
+  "filename": "Grafted.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv",
+  "original_filename": "www.SceneTime.com - Grafted.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov",
+  "size": 0,
+  "bytes": 1550719598,
+  "magnet": null,
+  "files": {
+    "Grafted.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv": {
+      "torrent_id": "5SUNNBVBWV4X6",
+      "id": "1",
+      "name": "Grafted.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv",
+      "size": 1550719598,
+      "is_rar": false,
+      "path": "Grafted.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv",
+      "link": "https://real-debrid.com/d/4Y4M5GFRXLU3GD0F",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-08T04:15:40.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/4Y4M5GFRXLU3GD0F"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-08T04:15:40Z",
+  "is_complete": true,
+  "bad": false
+}

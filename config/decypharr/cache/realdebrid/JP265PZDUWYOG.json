@@ -1,0 +1,40 @@
+{
+  "id": "JP265PZDUWYOG",
+  "info_hash": "d1fe98013b65917c1f9dc5f7a2bc6841af57d4cc",
+  "name": "Marvels SpiderMan Remastered [DODI Repack]",
+  "folder": "Marvels SpiderMan Remastered [DODI Repack]",
+  "filename": "Marvels SpiderMan Remastered [DODI Repack]",
+  "original_filename": "Marvels SpiderMan Remastered [DODI Repack]",
+  "size": 0,
+  "bytes": 55101422292,
+  "magnet": null,
+  "files": {
+    "Marvels SpiderMan Remastered [DODI Repack].rar": {
+      "torrent_id": "JP265PZDUWYOG",
+      "id": "0",
+      "name": "Marvels SpiderMan Remastered [DODI Repack].rar",
+      "size": 55101422292,
+      "is_rar": true,
+      "path": "Marvels SpiderMan Remastered [DODI Repack].rar",
+      "link": "https://real-debrid.com/d/56JSFU76KTCDKCC8",
+      "account_id": "",
+      "generated": "2025-09-25T19:09:58.596190308-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-07T01:56:45.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/56JSFU76KTCDKCC8"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-07T01:56:45Z",
+  "is_complete": true,
+  "bad": false
+}

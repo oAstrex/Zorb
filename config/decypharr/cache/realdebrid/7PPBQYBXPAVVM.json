@@ -1,0 +1,40 @@
+{
+  "id": "7PPBQYBXPAVVM",
+  "info_hash": "4284cd55bc811ba335f43b436abc7a50ec937fcc",
+  "name": "Hairspray.2007.1080p.BluRay.x264.DTS-FGT.mkv",
+  "folder": "Hairspray.2007.1080p.BluRay.x264.DTS-FGT",
+  "filename": "Hairspray.2007.1080p.BluRay.x264.DTS-FGT.mkv",
+  "original_filename": "Hairspray.2007.1080p.BluRay.x264.DTS-FGT",
+  "size": 0,
+  "bytes": 9390234486,
+  "magnet": null,
+  "files": {
+    "Hairspray.2007.1080p.BluRay.x264.DTS-FGT.mkv": {
+      "torrent_id": "7PPBQYBXPAVVM",
+      "id": "1",
+      "name": "Hairspray.2007.1080p.BluRay.x264.DTS-FGT.mkv",
+      "size": 9390234486,
+      "is_rar": false,
+      "path": "Hairspray.2007.1080p.BluRay.x264.DTS-FGT.mkv",
+      "link": "https://real-debrid.com/d/YWCVI5KAVNN2U5A3",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-22T23:41:46.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/YWCVI5KAVNN2U5A3"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-22T23:41:46Z",
+  "is_complete": true,
+  "bad": false
+}

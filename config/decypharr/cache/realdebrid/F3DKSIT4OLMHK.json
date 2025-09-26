@@ -1,0 +1,40 @@
+{
+  "id": "F3DKSIT4OLMHK",
+  "info_hash": "1ae0a78f03bbfade2c431ef8a1bf3e22cbb86e0a",
+  "name": "Good.Burger.2.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]",
+  "folder": "Good.Burger.2.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]",
+  "filename": "Good.Burger.2.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]",
+  "original_filename": "Good.Burger.2.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]",
+  "size": 0,
+  "bytes": 1505828793,
+  "magnet": null,
+  "files": {
+    "Good.Burger.2.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv": {
+      "torrent_id": "F3DKSIT4OLMHK",
+      "id": "1",
+      "name": "Good.Burger.2.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv",
+      "size": 1505828793,
+      "is_rar": false,
+      "path": "Good.Burger.2.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv",
+      "link": "https://real-debrid.com/d/3VM4CODJOSVP6EC8",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-17T15:09:50.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/3VM4CODJOSVP6EC8"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-17T15:09:50Z",
+  "is_complete": true,
+  "bad": false
+}

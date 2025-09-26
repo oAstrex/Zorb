@@ -1,0 +1,40 @@
+{
+  "id": "U6GGKH2K62FPQ",
+  "info_hash": "36f5e9a5a8de759a5a3c12252a66030a31343aef",
+  "name": "Ruby.Gillman.Teenage.Kraken.2023.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-XEBEC[TGx]",
+  "folder": "Ruby.Gillman.Teenage.Kraken.2023.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-XEBEC[TGx]",
+  "filename": "Ruby.Gillman.Teenage.Kraken.2023.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-XEBEC[TGx]",
+  "original_filename": "Ruby.Gillman.Teenage.Kraken.2023.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-XEBEC[TGx]",
+  "size": 0,
+  "bytes": 10608297740,
+  "magnet": null,
+  "files": {
+    "Ruby.Gillman.Teenage.Kraken.2023.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-XEBEC.mkv": {
+      "torrent_id": "U6GGKH2K62FPQ",
+      "id": "2",
+      "name": "Ruby.Gillman.Teenage.Kraken.2023.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-XEBEC.mkv",
+      "size": 10608297740,
+      "is_rar": false,
+      "path": "Ruby.Gillman.Teenage.Kraken.2023.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-XEBEC.mkv",
+      "link": "https://real-debrid.com/d/7DCHX6PVTIQS6C0E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-09-04T02:47:13.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/7DCHX6PVTIQS6C0E"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-09-04T02:47:13Z",
+  "is_complete": true,
+  "bad": false
+}

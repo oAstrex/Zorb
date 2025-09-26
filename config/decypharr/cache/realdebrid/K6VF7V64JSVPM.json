@@ -1,0 +1,40 @@
+{
+  "id": "K6VF7V64JSVPM",
+  "info_hash": "11f7c6833b905c21985a4ba0912d72a175f505b1",
+  "name": "Inception.2010.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR",
+  "folder": "Inception.2010.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR",
+  "filename": "Inception.2010.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR",
+  "original_filename": "Inception.2010.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR",
+  "size": 0,
+  "bytes": 71140082403,
+  "magnet": null,
+  "files": {
+    "Inception.2010.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR.mkv": {
+      "torrent_id": "K6VF7V64JSVPM",
+      "id": "1",
+      "name": "Inception.2010.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR.mkv",
+      "size": 71140082403,
+      "is_rar": false,
+      "path": "Inception.2010.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR.mkv",
+      "link": "https://real-debrid.com/d/JH6TGGOWE4CT4232",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-31T19:57:04.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/JH6TGGOWE4CT4232"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-31T19:57:04Z",
+  "is_complete": true,
+  "bad": false
+}

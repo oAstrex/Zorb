@@ -1,0 +1,40 @@
+{
+  "id": "FQH2RPKZTIEQM",
+  "info_hash": "e8887847b45dff32b3e4e825ae807e990dd4cef2",
+  "name": "Horton.Hears.A.Who.2008.1080p.BRrip.x264.YIFY.mp4",
+  "folder": "Horton Hears A Who (2008) [1080p]",
+  "filename": "Horton.Hears.A.Who.2008.1080p.BRrip.x264.YIFY.mp4",
+  "original_filename": "Horton Hears A Who (2008) [1080p]",
+  "size": 0,
+  "bytes": 1286328472,
+  "magnet": null,
+  "files": {
+    "Horton.Hears.A.Who.2008.1080p.BRrip.x264.YIFY.mp4": {
+      "torrent_id": "FQH2RPKZTIEQM",
+      "id": "1",
+      "name": "Horton.Hears.A.Who.2008.1080p.BRrip.x264.YIFY.mp4",
+      "size": 1286328472,
+      "is_rar": false,
+      "path": "Horton.Hears.A.Who.2008.1080p.BRrip.x264.YIFY.mp4",
+      "link": "https://real-debrid.com/d/UCUGKE7F2TYZ487C",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-13T05:34:50.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/UCUGKE7F2TYZ487C"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-13T05:34:50Z",
+  "is_complete": true,
+  "bad": false
+}

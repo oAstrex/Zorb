@@ -1,0 +1,53 @@
+{
+  "id": "XSYVC5IPVWZMQ",
+  "info_hash": "4489088a37b14029446b818cda3fac7c8544f2e3",
+  "name": "Happy.Gilmore.2.2025.2160p.Hybrid.MULTI.WEB-DL.DV.HDR.H265-AOC",
+  "folder": "Happy.Gilmore.2.2025.2160p.Hybrid.MULTI.WEB-DL.DV.HDR.H265-AOC",
+  "filename": "Happy.Gilmore.2.2025.2160p.Hybrid.MULTI.WEB-DL.DV.HDR.H265-AOC",
+  "original_filename": "Happy.Gilmore.2.2025.2160p.Hybrid.MULTI.WEB-DL.DV.HDR.H265-AOC",
+  "size": 0,
+  "bytes": 22165905621,
+  "magnet": null,
+  "files": {
+    "Happy.Gilmore.2.2025.2160p.Hybrid.MULTI.WEB-DL.DV.HDR.H265-AOC.mkv": {
+      "torrent_id": "XSYVC5IPVWZMQ",
+      "id": "2",
+      "name": "Happy.Gilmore.2.2025.2160p.Hybrid.MULTI.WEB-DL.DV.HDR.H265-AOC.mkv",
+      "size": 21791512153,
+      "is_rar": false,
+      "path": "Happy.Gilmore.2.2025.2160p.Hybrid.MULTI.WEB-DL.DV.HDR.H265-AOC.mkv",
+      "link": "https://real-debrid.com/d/TN75CUCJNJZ4S708",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Sample.mkv": {
+      "torrent_id": "XSYVC5IPVWZMQ",
+      "id": "3",
+      "name": "Sample.mkv",
+      "size": 374393468,
+      "is_rar": false,
+      "path": "Sample.mkv",
+      "link": "https://real-debrid.com/d/N4P4OX2U3QKLUC61",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-19T00:49:45.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/TN75CUCJNJZ4S708",
+    "https://real-debrid.com/d/N4P4OX2U3QKLUC61"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-19T00:49:45Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "HGGCWQAN52VSS",
+  "info_hash": "793457ae2760f1e849b51882620677e2d9923a3d",
+  "name": "Watson.S01E10.1080p.AV1.10bit-MeGusta.mkv",
+  "folder": "www.UIndex.org    -    Watson.S01E10.1080p.AV1.10bit-MeGusta",
+  "filename": "Watson.S01E10.1080p.AV1.10bit-MeGusta.mkv",
+  "original_filename": "www.UIndex.org    -    Watson.S01E10.1080p.AV1.10bit-MeGusta",
+  "size": 0,
+  "bytes": 365751871,
+  "magnet": null,
+  "files": {
+    "Watson.S01E10.1080p.AV1.10bit-MeGusta.mkv": {
+      "torrent_id": "HGGCWQAN52VSS",
+      "id": "5",
+      "name": "Watson.S01E10.1080p.AV1.10bit-MeGusta.mkv",
+      "size": 365751871,
+      "is_rar": false,
+      "path": "Watson.S01E10.1080p.AV1.10bit-MeGusta.mkv",
+      "link": "https://real-debrid.com/d/7EAWU4NBTHXCYE6F",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-26T07:04:51.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/7EAWU4NBTHXCYE6F"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-26T07:04:51Z",
+  "is_complete": true,
+  "bad": false
+}

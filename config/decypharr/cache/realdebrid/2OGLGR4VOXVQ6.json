@@ -1,0 +1,40 @@
+{
+  "id": "2OGLGR4VOXVQ6",
+  "info_hash": "8a46d726cfccceea7ad032160565fb47b6e1c024",
+  "name": "Paper Mario The Origami King [NSP][XCI]",
+  "folder": "Paper Mario The Origami King [NSP][XCI]",
+  "filename": "Paper Mario The Origami King [NSP][XCI]",
+  "original_filename": "Paper Mario The Origami King [NSP][XCI]",
+  "size": 0,
+  "bytes": 7323757874,
+  "magnet": null,
+  "files": {
+    "Paper Mario The Origami King (XCI).rar": {
+      "torrent_id": "2OGLGR4VOXVQ6",
+      "id": "4",
+      "name": "Paper Mario The Origami King (XCI).rar",
+      "size": 7323757874,
+      "is_rar": false,
+      "path": "Paper Mario The Origami King (XCI).rar",
+      "link": "https://real-debrid.com/d/MYZPSUS52PZJQ308",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T10:35:32.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/MYZPSUS52PZJQ308"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T10:35:32Z",
+  "is_complete": true,
+  "bad": false
+}

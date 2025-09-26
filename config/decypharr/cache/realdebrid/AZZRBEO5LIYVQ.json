@@ -1,0 +1,40 @@
+{
+  "id": "AZZRBEO5LIYVQ",
+  "info_hash": "8337151f1a5070e0a3ccb51b3c765158221287f8",
+  "name": "Happy.Gilmore.2.2025.HDR.2160p.WEB.h265-ETHEL.mkv",
+  "folder": "Happy.Gilmore.2.2025.HDR.2160p.WEB.h265-ETHEL",
+  "filename": "Happy.Gilmore.2.2025.HDR.2160p.WEB.h265-ETHEL.mkv",
+  "original_filename": "Happy.Gilmore.2.2025.HDR.2160p.WEB.h265-ETHEL",
+  "size": 0,
+  "bytes": 17237107928,
+  "magnet": null,
+  "files": {
+    "Happy.Gilmore.2.2025.HDR.2160p.WEB.h265-ETHEL.mkv": {
+      "torrent_id": "AZZRBEO5LIYVQ",
+      "id": "1",
+      "name": "Happy.Gilmore.2.2025.HDR.2160p.WEB.h265-ETHEL.mkv",
+      "size": 17237107928,
+      "is_rar": false,
+      "path": "Happy.Gilmore.2.2025.HDR.2160p.WEB.h265-ETHEL.mkv",
+      "link": "https://real-debrid.com/d/VEI6DPRUXBNQ2476",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-15T11:10:22.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/VEI6DPRUXBNQ2476"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-15T11:10:22Z",
+  "is_complete": true,
+  "bad": false
+}

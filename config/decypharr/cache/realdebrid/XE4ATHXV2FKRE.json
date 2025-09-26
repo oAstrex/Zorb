@@ -1,0 +1,53 @@
+{
+  "id": "XE4ATHXV2FKRE",
+  "info_hash": "4fcbcee17a7ab35a77ff9efe971580cfccbcede8",
+  "name": "The.Last.Dragon.1985.30th.Anniv.Bluray.1080p.DTS-HD.x264-Grym",
+  "folder": "The.Last.Dragon.1985.30th.Anniv.Bluray.1080p.DTS-HD.x264-Grym",
+  "filename": "The.Last.Dragon.1985.30th.Anniv.Bluray.1080p.DTS-HD.x264-Grym",
+  "original_filename": "The.Last.Dragon.1985.30th.Anniv.Bluray.1080p.DTS-HD.x264-Grym",
+  "size": 0,
+  "bytes": 15214530883,
+  "magnet": null,
+  "files": {
+    "Return.of.the.Dragon-Grym.mkv": {
+      "torrent_id": "XE4ATHXV2FKRE",
+      "id": "1",
+      "name": "Return.of.the.Dragon-Grym.mkv",
+      "size": 627317588,
+      "is_rar": false,
+      "path": "Return.of.the.Dragon-Grym.mkv",
+      "link": "https://real-debrid.com/d/7676AJH2JAWO69F1",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "The.Last.Dragon.1985.30th.Anniv.Bluray.1080p.DTS-HD.x264-Grym.mkv": {
+      "torrent_id": "XE4ATHXV2FKRE",
+      "id": "2",
+      "name": "The.Last.Dragon.1985.30th.Anniv.Bluray.1080p.DTS-HD.x264-Grym.mkv",
+      "size": 14587213295,
+      "is_rar": false,
+      "path": "The.Last.Dragon.1985.30th.Anniv.Bluray.1080p.DTS-HD.x264-Grym.mkv",
+      "link": "https://real-debrid.com/d/YB24BO3VT6UJMB5F",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-01T06:19:24.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/7676AJH2JAWO69F1",
+    "https://real-debrid.com/d/YB24BO3VT6UJMB5F"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-01T06:19:24Z",
+  "is_complete": true,
+  "bad": false
+}

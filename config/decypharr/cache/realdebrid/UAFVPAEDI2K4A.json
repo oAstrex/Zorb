@@ -1,0 +1,53 @@
+{
+  "id": "UAFVPAEDI2K4A",
+  "info_hash": "59bb238127ab713dc36ac50aa2bac6427bc5e358",
+  "name": "John Wick 2014 UHD 4K BluRay 2160p HDR10 TrueHD 7.1 Atmos H.265-MgB",
+  "folder": "John Wick 2014 UHD 4K BluRay 2160p HDR10 TrueHD 7.1 Atmos H.265-MgB",
+  "filename": "John Wick 2014 UHD 4K BluRay 2160p HDR10 TrueHD 7.1 Atmos H.265-MgB",
+  "original_filename": "John Wick 2014 UHD 4K BluRay 2160p HDR10 TrueHD 7.1 Atmos H.265-MgB",
+  "size": 0,
+  "bytes": 10472503172,
+  "magnet": null,
+  "files": {
+    "John Wick 2014 UHD 4K BluRay 2160p HDR10 TrueHD 7.1 Atmos H.265-MgB (Sample).mkv": {
+      "torrent_id": "UAFVPAEDI2K4A",
+      "id": "12",
+      "name": "John Wick 2014 UHD 4K BluRay 2160p HDR10 TrueHD 7.1 Atmos H.265-MgB (Sample).mkv",
+      "size": 84212280,
+      "is_rar": false,
+      "path": "John Wick 2014 UHD 4K BluRay 2160p HDR10 TrueHD 7.1 Atmos H.265-MgB (Sample).mkv",
+      "link": "https://real-debrid.com/d/V4Q4AJU7MRLGK699",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "John Wick 2014 UHD 4K BluRay 2160p HDR10 TrueHD 7.1 Atmos H.265-MgB.mkv": {
+      "torrent_id": "UAFVPAEDI2K4A",
+      "id": "25",
+      "name": "John Wick 2014 UHD 4K BluRay 2160p HDR10 TrueHD 7.1 Atmos H.265-MgB.mkv",
+      "size": 10388290892,
+      "is_rar": false,
+      "path": "John Wick 2014 UHD 4K BluRay 2160p HDR10 TrueHD 7.1 Atmos H.265-MgB.mkv",
+      "link": "https://real-debrid.com/d/MN4SHYPD2Q55C9A6",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-16T20:46:27.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/V4Q4AJU7MRLGK699",
+    "https://real-debrid.com/d/MN4SHYPD2Q55C9A6"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-16T20:46:27Z",
+  "is_complete": true,
+  "bad": false
+}

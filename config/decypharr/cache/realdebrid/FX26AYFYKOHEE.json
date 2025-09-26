@@ -1,0 +1,52 @@
+{
+  "id": "FX26AYFYKOHEE",
+  "info_hash": "4b035fdd1ead9754b445f6779119ffd9bbca3c9c",
+  "name": "Sinners.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4",
+  "folder": "Sinners.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN",
+  "filename": "Sinners.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4",
+  "original_filename": "Sinners.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN",
+  "size": 0,
+  "bytes": 26771362547,
+  "magnet": null,
+  "files": {
+    "Sinners.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN.rar": {
+      "torrent_id": "FX26AYFYKOHEE",
+      "id": "0",
+      "name": "Sinners.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN.rar",
+      "size": 26771363306,
+      "is_rar": true,
+      "path": "Sinners.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN.rar",
+      "link": "https://real-debrid.com/d/VSTYDJ53SLUMYC96",
+      "account_id": "",
+      "generated": "2025-09-25T19:07:12.513194245-04:00",
+      "deleted": false
+    },
+    "Sinners.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4": {
+      "torrent_id": "FX26AYFYKOHEE",
+      "id": "3",
+      "name": "Sinners.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4",
+      "size": 26771362547,
+      "is_rar": false,
+      "path": "Sinners.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4",
+      "link": "https://real-debrid.com/d/XFRBXZRUSYZJ41EB",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-07T10:17:28.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/XFRBXZRUSYZJ41EB"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-07T10:17:28Z",
+  "is_complete": true,
+  "bad": false
+}

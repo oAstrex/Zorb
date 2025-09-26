@@ -1,0 +1,40 @@
+{
+  "id": "P6XFOU47M64RM",
+  "info_hash": "8fa540e830b15235b491c5fd904d619296f62c27",
+  "name": "Smurfs.2025.1080p.WEBRip.AAC5.1.10bits.x265-Rapta.mkv",
+  "folder": "Smurfs.2025.1080p.WEBRip.AAC5.1.10bits.x265-Rapta.mkv",
+  "filename": "Smurfs.2025.1080p.WEBRip.AAC5.1.10bits.x265-Rapta.mkv",
+  "original_filename": "Smurfs.2025.1080p.WEBRip.AAC5.1.10bits.x265-Rapta.mkv",
+  "size": 0,
+  "bytes": 1476922063,
+  "magnet": null,
+  "files": {
+    "Smurfs.2025.1080p.WEBRip.AAC5.1.10bits.x265-Rapta.mkv": {
+      "torrent_id": "P6XFOU47M64RM",
+      "id": "1",
+      "name": "Smurfs.2025.1080p.WEBRip.AAC5.1.10bits.x265-Rapta.mkv",
+      "size": 1476922063,
+      "is_rar": false,
+      "path": "Smurfs.2025.1080p.WEBRip.AAC5.1.10bits.x265-Rapta.mkv",
+      "link": "https://real-debrid.com/d/VZDHC3EMZBGWW863",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-13T21:02:17.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/VZDHC3EMZBGWW863"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-13T21:02:17Z",
+  "is_complete": true,
+  "bad": false
+}

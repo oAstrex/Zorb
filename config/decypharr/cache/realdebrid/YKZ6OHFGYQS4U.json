@@ -1,0 +1,40 @@
+{
+  "id": "YKZ6OHFGYQS4U",
+  "info_hash": "2849211f150e966ef7924f43aec22727a644e10d",
+  "name": "Inception.2010.PROPER.Bluray.2160p.AV1.HDR10.OPUS.5.1-UH.mkv",
+  "folder": "Inception.2010.PROPER.Bluray.2160p.AV1.HDR10.OPUS.5.1-UH.mkv",
+  "filename": "Inception.2010.PROPER.Bluray.2160p.AV1.HDR10.OPUS.5.1-UH.mkv",
+  "original_filename": "Inception.2010.PROPER.Bluray.2160p.AV1.HDR10.OPUS.5.1-UH.mkv",
+  "size": 0,
+  "bytes": 9563173563,
+  "magnet": null,
+  "files": {
+    "Inception.2010.PROPER.Bluray.2160p.AV1.HDR10.OPUS.5.1-UH.mkv": {
+      "torrent_id": "YKZ6OHFGYQS4U",
+      "id": "1",
+      "name": "Inception.2010.PROPER.Bluray.2160p.AV1.HDR10.OPUS.5.1-UH.mkv",
+      "size": 9563173563,
+      "is_rar": false,
+      "path": "Inception.2010.PROPER.Bluray.2160p.AV1.HDR10.OPUS.5.1-UH.mkv",
+      "link": "https://real-debrid.com/d/PRETXOWHWXXBWE73",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-03T21:55:33.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/PRETXOWHWXXBWE73"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-03T21:55:33Z",
+  "is_complete": true,
+  "bad": false
+}

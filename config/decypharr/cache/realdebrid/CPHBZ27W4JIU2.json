@@ -1,0 +1,40 @@
+{
+  "id": "CPHBZ27W4JIU2",
+  "info_hash": "d56d5e4ccd82dcdbde9cf528d805c39c50d1e253",
+  "name": "Deep.Cover.2025.2160p.AMZN.WEB-DL.HDR10+.DDP5.1.H265-BEN.THE.MEN",
+  "folder": "Deep.Cover.2025.2160p.AMZN.WEB-DL.HDR10+.DDP5.1.H265-BEN.THE.MEN",
+  "filename": "Deep.Cover.2025.2160p.AMZN.WEB-DL.HDR10+.DDP5.1.H265-BEN.THE.MEN",
+  "original_filename": "Deep.Cover.2025.2160p.AMZN.WEB-DL.HDR10+.DDP5.1.H265-BEN.THE.MEN",
+  "size": 0,
+  "bytes": 15463176024,
+  "magnet": null,
+  "files": {
+    "Deep.Cover.2025.2160p.AMZN.WEB-DL.HDR10+[Ben The Men].mkv": {
+      "torrent_id": "CPHBZ27W4JIU2",
+      "id": "1",
+      "name": "Deep.Cover.2025.2160p.AMZN.WEB-DL.HDR10+[Ben The Men].mkv",
+      "size": 15463176024,
+      "is_rar": false,
+      "path": "Deep.Cover.2025.2160p.AMZN.WEB-DL.HDR10+[Ben The Men].mkv",
+      "link": "https://real-debrid.com/d/3DALKOQ3RPKG427E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-27T04:33:58.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/3DALKOQ3RPKG427E"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-27T04:33:58Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": "QRZYHQOYSLZF6",
+  "info_hash": "cceab93e75be396a4dfa43c75cf1a6ff9655b2b2",
+  "name": "John Wick Chapter 4 2023 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB",
+  "folder": "John Wick Chapter 4 2023 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB",
+  "filename": "John Wick Chapter 4 2023 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB",
+  "original_filename": "John Wick Chapter 4 2023 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB",
+  "size": 0,
+  "bytes": 9603866080,
+  "magnet": null,
+  "files": {
+    "John Wick Chapter 4 2023 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB (Sample).mkv": {
+      "torrent_id": "QRZYHQOYSLZF6",
+      "id": "16",
+      "name": "John Wick Chapter 4 2023 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB (Sample).mkv",
+      "size": 45928069,
+      "is_rar": false,
+      "path": "John Wick Chapter 4 2023 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB (Sample).mkv",
+      "link": "https://real-debrid.com/d/COKY6OO6Q2KEUE7E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "John Wick Chapter 4 2023 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB.mkv": {
+      "torrent_id": "QRZYHQOYSLZF6",
+      "id": "30",
+      "name": "John Wick Chapter 4 2023 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB.mkv",
+      "size": 9557938011,
+      "is_rar": false,
+      "path": "John Wick Chapter 4 2023 UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265-MgB.mkv",
+      "link": "https://real-debrid.com/d/SH6YIX7X2254W1DC",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-19T08:27:00.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/COKY6OO6Q2KEUE7E",
+    "https://real-debrid.com/d/SH6YIX7X2254W1DC"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-19T08:27:00Z",
+  "is_complete": true,
+  "bad": false
+}

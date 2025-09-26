@@ -1,0 +1,40 @@
+{
+  "id": "ZW5E6NORUNWMQ",
+  "info_hash": "1c5a5a083675a43902d51f222b28d6692f4c35ca",
+  "name": "gimp-2.10.38-arm64-1.dmg",
+  "folder": "gimp-2.10.38-arm64-1.dmg",
+  "filename": "gimp-2.10.38-arm64-1.dmg",
+  "original_filename": "gimp-2.10.38-arm64-1.dmg",
+  "size": 0,
+  "bytes": 295103793,
+  "magnet": null,
+  "files": {
+    "gimp-2.10.38-arm64-1.dmg": {
+      "torrent_id": "ZW5E6NORUNWMQ",
+      "id": "1",
+      "name": "gimp-2.10.38-arm64-1.dmg",
+      "size": 295103793,
+      "is_rar": false,
+      "path": "gimp-2.10.38-arm64-1.dmg",
+      "link": "https://real-debrid.com/d/D57MRPQ7FTNVYA20",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-10T19:05:28.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/D57MRPQ7FTNVYA20"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-10T19:05:28Z",
+  "is_complete": true,
+  "bad": false
+}

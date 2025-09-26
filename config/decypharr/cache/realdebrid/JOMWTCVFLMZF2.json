@@ -1,0 +1,54 @@
+{
+  "id": "JOMWTCVFLMZF2",
+  "info_hash": "A5FC2E0AC62E290C9C62FBD47A2462E96A84F52C",
+  "name": "The.Dark.Knight.2008.2160p.UHD.BluRay.X265-IAMABLE",
+  "folder": "The.Dark.Knight.2008.2160p.UHD.BluRay.X265-IAMABLE",
+  "filename": "The.Dark.Knight.2008.2160p.UHD.BluRay.X265-IAMABLE",
+  "original_filename": "The.Dark.Knight.2008.2160p.UHD.BluRay.X265-IAMABLE",
+  "size": 0,
+  "bytes": 23159188655,
+  "magnet": {
+    "name": "The.Dark.Knight.2008.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5",
+    "infoHash": "A5FC2E0AC62E290C9C62FBD47A2462E96A84F52C",
+    "size": 0,
+    "link": "magnet:?xt=urn:btih:A5FC2E0AC62E290C9C62FBD47A2462E96A84F52C\u0026dn=The.Dark.Knight.2008.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce"
+  },
+  "files": {
+    "The.Dark.Knight.2008.2160p.UHD.BluRay.X265-IAMABLE.mkv": {
+      "torrent_id": "JOMWTCVFLMZF2",
+      "id": "3",
+      "name": "The.Dark.Knight.2008.2160p.UHD.BluRay.X265-IAMABLE.mkv",
+      "size": 23159188655,
+      "is_rar": false,
+      "path": "The.Dark.Knight.2008.2160p.UHD.BluRay.X265-IAMABLE.mkv",
+      "link": "https://real-debrid.com/d/VXVDCHILB4GW42A2",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/VXVDCHILB4GW42A2"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": {
+    "name": "radarr",
+    "host": "http://radarr:7878",
+    "token": "1b16dd5299fb40699be2933d7c84a53a",
+    "type": "radarr",
+    "cleanup": true,
+    "skip_repair": true,
+    "download_uncached": false,
+    "source": "auto"
+  },
+  "added_on": "2025-09-26T10:53:26.048238853-04:00",
+  "is_complete": true,
+  "bad": false
+}

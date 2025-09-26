@@ -1,0 +1,40 @@
+{
+  "id": "Z4OFOB5YRMNQK",
+  "info_hash": "99908409806ae2bba915770c5ddefb6347b319a7",
+  "name": "bmf.s04e01.2160p.web.h265-lazycunts.mkv",
+  "folder": "www.UIndex.org    -    BMF.S04E01.2160p.WEB.H265-LAZYCUNTS",
+  "filename": "bmf.s04e01.2160p.web.h265-lazycunts.mkv",
+  "original_filename": "www.UIndex.org    -    BMF.S04E01.2160p.WEB.H265-LAZYCUNTS",
+  "size": 0,
+  "bytes": 5937222629,
+  "magnet": null,
+  "files": {
+    "bmf.s04e01.2160p.web.h265-lazycunts.mkv": {
+      "torrent_id": "Z4OFOB5YRMNQK",
+      "id": "1",
+      "name": "bmf.s04e01.2160p.web.h265-lazycunts.mkv",
+      "size": 5937222629,
+      "is_rar": false,
+      "path": "bmf.s04e01.2160p.web.h265-lazycunts.mkv",
+      "link": "https://real-debrid.com/d/EVVNP4O7D53YIC01",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-07T05:32:52.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/EVVNP4O7D53YIC01"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-07T05:32:52Z",
+  "is_complete": true,
+  "bad": false
+}

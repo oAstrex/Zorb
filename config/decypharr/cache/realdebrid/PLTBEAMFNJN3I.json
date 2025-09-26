@@ -1,0 +1,40 @@
+{
+  "id": "PLTBEAMFNJN3I",
+  "info_hash": "d56eda7df95aae4e24045bd0f0d1825c3f639f86",
+  "name": "Draft Day (2014) [1080p]",
+  "folder": "Draft Day (2014) [1080p]",
+  "filename": "Draft Day (2014) [1080p]",
+  "original_filename": "Draft Day (2014) [1080p]",
+  "size": 0,
+  "bytes": 1773111797,
+  "magnet": null,
+  "files": {
+    "Draft.Day.2014.1080p.BluRay.x264.YIFY.mp4": {
+      "torrent_id": "PLTBEAMFNJN3I",
+      "id": "1",
+      "name": "Draft.Day.2014.1080p.BluRay.x264.YIFY.mp4",
+      "size": 1773111797,
+      "is_rar": false,
+      "path": "Draft.Day.2014.1080p.BluRay.x264.YIFY.mp4",
+      "link": "https://real-debrid.com/d/P47XXPCVODABO72D",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-23T08:41:01.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/P47XXPCVODABO72D"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-23T08:41:01Z",
+  "is_complete": true,
+  "bad": false
+}

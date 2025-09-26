@@ -1,0 +1,40 @@
+{
+  "id": "EWWYYK5WRR6TY",
+  "info_hash": "009ff50e5e81bc5d82bb22fa0620d338d00f4bc6",
+  "name": "Highest.2.Lowest.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv",
+  "folder": "Highest.2.Lowest.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv",
+  "filename": "Highest.2.Lowest.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv",
+  "original_filename": "Highest.2.Lowest.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv",
+  "size": 0,
+  "bytes": 2072132819,
+  "magnet": null,
+  "files": {
+    "Highest.2.Lowest.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv": {
+      "torrent_id": "EWWYYK5WRR6TY",
+      "id": "1",
+      "name": "Highest.2.Lowest.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv",
+      "size": 2072132819,
+      "is_rar": false,
+      "path": "Highest.2.Lowest.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv",
+      "link": "https://real-debrid.com/d/Y3UD5EWME2VK6C89",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-09-08T05:59:20.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/Y3UD5EWME2VK6C89"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-09-08T05:59:20Z",
+  "is_complete": true,
+  "bad": false
+}

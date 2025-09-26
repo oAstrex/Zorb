@@ -1,0 +1,40 @@
+{
+  "id": "FISXILXULFXEE",
+  "info_hash": "fd616f0819f5f7e93685f6eafcac58fc4063bf8a",
+  "name": "Crash Team Racing Nitro-Fueled [NSP + XCI + DLCs + Update 1.0.13]",
+  "folder": "Crash Team Racing Nitro-Fueled [NSP + XCI + DLCs + Update 1.0.13]",
+  "filename": "Crash Team Racing Nitro-Fueled [NSP + XCI + DLCs + Update 1.0.13]",
+  "original_filename": "Crash Team Racing Nitro-Fueled [NSP + XCI + DLCs + Update 1.0.13]",
+  "size": 0,
+  "bytes": 6572715915,
+  "magnet": null,
+  "files": {
+    "Crash Team Racing Nitro-Fueled [NSP + XCI + DLCs + Update 1.0.13].rar": {
+      "torrent_id": "FISXILXULFXEE",
+      "id": "0",
+      "name": "Crash Team Racing Nitro-Fueled [NSP + XCI + DLCs + Update 1.0.13].rar",
+      "size": 6572715915,
+      "is_rar": true,
+      "path": "Crash Team Racing Nitro-Fueled [NSP + XCI + DLCs + Update 1.0.13].rar",
+      "link": "https://real-debrid.com/d/FR3SU74RIBRAM9F6",
+      "account_id": "",
+      "generated": "2025-09-25T19:07:43.221520919-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T10:37:47.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/FR3SU74RIBRAM9F6"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T10:37:47Z",
+  "is_complete": true,
+  "bad": false
+}

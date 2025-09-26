@@ -1,0 +1,40 @@
+{
+  "id": "J54XQT5IFOFGG",
+  "info_hash": "7ecd29882656b18742277fa5206492be7d741391",
+  "name": "The.Gorge.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+  "folder": "The.Gorge.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "filename": "The.Gorge.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+  "original_filename": "The.Gorge.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "size": 0,
+  "bytes": 23466159630,
+  "magnet": null,
+  "files": {
+    "The.Gorge.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv": {
+      "torrent_id": "J54XQT5IFOFGG",
+      "id": "10",
+      "name": "The.Gorge.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+      "size": 23466159630,
+      "is_rar": false,
+      "path": "The.Gorge.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+      "link": "https://real-debrid.com/d/FKMLM3LTM72AID67",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-02-21T18:13:14.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/FKMLM3LTM72AID67"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-02-21T18:13:14Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "FVLRZ4B6UIGPO",
+  "info_hash": "77a6dc841037ba4dfe8ab4df5d2c02d022afd99a",
+  "name": "The Phoenician Scheme (2025).mkv",
+  "folder": "The Phoenician Scheme 2025 WEB-DL 2160p HDR10+ H.265 DDP 5.1 Atmos x265-E",
+  "filename": "The Phoenician Scheme (2025).mkv",
+  "original_filename": "The Phoenician Scheme 2025 WEB-DL 2160p HDR10+ H.265 DDP 5.1 Atmos x265-E",
+  "size": 0,
+  "bytes": 15918524911,
+  "magnet": null,
+  "files": {
+    "The Phoenician Scheme (2025).mkv": {
+      "torrent_id": "FVLRZ4B6UIGPO",
+      "id": "1",
+      "name": "The Phoenician Scheme (2025).mkv",
+      "size": 15918524911,
+      "is_rar": false,
+      "path": "The Phoenician Scheme (2025).mkv",
+      "link": "https://real-debrid.com/d/EI5H2PGG624Y25A8",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-08T03:05:08.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/EI5H2PGG624Y25A8"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-08T03:05:08Z",
+  "is_complete": true,
+  "bad": false
+}

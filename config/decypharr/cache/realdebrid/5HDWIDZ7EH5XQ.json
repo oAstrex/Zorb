@@ -1,0 +1,40 @@
+{
+  "id": "5HDWIDZ7EH5XQ",
+  "info_hash": "33d7442cdd6462f9a8901579649531142a62e153",
+  "name": "Boo!.A.Madea.Halloween.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+  "folder": "Boo! A Madea Halloween (2016) [1080p] [YTS.AG]",
+  "filename": "Boo!.A.Madea.Halloween.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+  "original_filename": "Boo! A Madea Halloween (2016) [1080p] [YTS.AG]",
+  "size": 0,
+  "bytes": 1681924053,
+  "magnet": null,
+  "files": {
+    "Boo!.A.Madea.Halloween.2016.1080p.BluRay.x264-[YTS.AG].mp4": {
+      "torrent_id": "5HDWIDZ7EH5XQ",
+      "id": "2",
+      "name": "Boo!.A.Madea.Halloween.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+      "size": 1681924053,
+      "is_rar": false,
+      "path": "Boo!.A.Madea.Halloween.2016.1080p.BluRay.x264-[YTS.AG].mp4",
+      "link": "https://real-debrid.com/d/R2QLFVMKP66UU883",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-14T23:06:20.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/R2QLFVMKP66UU883"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-14T23:06:20Z",
+  "is_complete": true,
+  "bad": false
+}

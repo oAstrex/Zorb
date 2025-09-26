@@ -1,0 +1,53 @@
+{
+  "id": "2LOMBC7UUVYVS",
+  "info_hash": "4dd6ccb33905cc8e4f0d6413a196d6f358428f97",
+  "name": "The.Phoenician.Scheme.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "folder": "The.Phoenician.Scheme.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "filename": "The.Phoenician.Scheme.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "original_filename": "The.Phoenician.Scheme.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "size": 0,
+  "bytes": 19255310442,
+  "magnet": null,
+  "files": {
+    "Sample.mkv": {
+      "torrent_id": "2LOMBC7UUVYVS",
+      "id": "2",
+      "name": "Sample.mkv",
+      "size": 371304045,
+      "is_rar": false,
+      "path": "Sample.mkv",
+      "link": "https://real-debrid.com/d/MKQRTO25YUNO2901",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "The.Phoenician.Scheme.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv": {
+      "torrent_id": "2LOMBC7UUVYVS",
+      "id": "10",
+      "name": "The.Phoenician.Scheme.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+      "size": 18884006397,
+      "is_rar": false,
+      "path": "The.Phoenician.Scheme.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+      "link": "https://real-debrid.com/d/LXGFPNPXJK6B4C92",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-08T03:36:42.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/MKQRTO25YUNO2901",
+    "https://real-debrid.com/d/LXGFPNPXJK6B4C92"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-08T03:36:42Z",
+  "is_complete": true,
+  "bad": false
+}

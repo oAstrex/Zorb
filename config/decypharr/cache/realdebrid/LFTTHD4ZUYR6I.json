@@ -1,0 +1,52 @@
+{
+  "id": "LFTTHD4ZUYR6I",
+  "info_hash": "cfdc888bb1bc76a63d2132a261c2d9e059e4f643",
+  "name": "Superman.2025.1080p.BluRay.x264.AAC-LAMA.mp4",
+  "folder": "www.UIndex.org    -    Superman (2025) 1080p BluRay-LAMA",
+  "filename": "Superman.2025.1080p.BluRay.x264.AAC-LAMA.mp4",
+  "original_filename": "www.UIndex.org    -    Superman (2025) 1080p BluRay-LAMA",
+  "size": 0,
+  "bytes": 2128353663,
+  "magnet": null,
+  "files": {
+    "Superman.2025.1080p.BluRay.x264.AAC-LAMA.mp4": {
+      "torrent_id": "LFTTHD4ZUYR6I",
+      "id": "1",
+      "name": "Superman.2025.1080p.BluRay.x264.AAC-LAMA.mp4",
+      "size": 2128353663,
+      "is_rar": false,
+      "path": "Superman.2025.1080p.BluRay.x264.AAC-LAMA.mp4",
+      "link": "https://real-debrid.com/d/GGGABTIZYMA7C5D7",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "www.UIndex.org    -    Superman (2025) 1080p BluRay-LAMA.rar": {
+      "torrent_id": "LFTTHD4ZUYR6I",
+      "id": "0",
+      "name": "www.UIndex.org    -    Superman (2025) 1080p BluRay-LAMA.rar",
+      "size": 2128357846,
+      "is_rar": true,
+      "path": "www.UIndex.org    -    Superman (2025) 1080p BluRay-LAMA.rar",
+      "link": "https://real-debrid.com/d/IPES2LWZQAP62B00",
+      "account_id": "",
+      "generated": "2025-09-25T19:06:59.213834792-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-24T01:13:56.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/GGGABTIZYMA7C5D7"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-24T01:13:56Z",
+  "is_complete": true,
+  "bad": false
+}

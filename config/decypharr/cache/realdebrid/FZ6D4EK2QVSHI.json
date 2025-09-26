@@ -1,0 +1,66 @@
+{
+  "id": "FZ6D4EK2QVSHI",
+  "info_hash": "b9d66f2a1d639358e51693d9146a0f6031135f75",
+  "name": "www.UIndex.org    -    Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC",
+  "folder": "www.UIndex.org    -    Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC",
+  "filename": "www.UIndex.org    -    Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC",
+  "original_filename": "www.UIndex.org    -    Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC",
+  "size": 0,
+  "bytes": 10265554028,
+  "magnet": null,
+  "files": {
+    "Sample1.mkv": {
+      "torrent_id": "FZ6D4EK2QVSHI",
+      "id": "2",
+      "name": "Sample1.mkv",
+      "size": 94846948,
+      "is_rar": false,
+      "path": "Sample1.mkv",
+      "link": "https://real-debrid.com/d/GDCS464YSN7FAA7B",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Sample2.mkv": {
+      "torrent_id": "FZ6D4EK2QVSHI",
+      "id": "3",
+      "name": "Sample2.mkv",
+      "size": 95792934,
+      "is_rar": false,
+      "path": "Sample2.mkv",
+      "link": "https://real-debrid.com/d/HD4XJHBB7ZBJ41DF",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC.mkv": {
+      "torrent_id": "FZ6D4EK2QVSHI",
+      "id": "11",
+      "name": "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC.mkv",
+      "size": 10074914146,
+      "is_rar": false,
+      "path": "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC.mkv",
+      "link": "https://real-debrid.com/d/GPUM63TNTN3NY96C",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-25T17:53:26.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/GDCS464YSN7FAA7B",
+    "https://real-debrid.com/d/HD4XJHBB7ZBJ41DF",
+    "https://real-debrid.com/d/GPUM63TNTN3NY96C"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-25T17:53:26Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,54 @@
+{
+  "id": "NA6KTHYJJ4MWQ",
+  "info_hash": "30EAC3C754D06C29AEFF9EAA5E97E567BB285BB8",
+  "name": "Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv",
+  "folder": "www.UIndex.org    -    Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb",
+  "filename": "Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv",
+  "original_filename": "www.UIndex.org    -    Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb",
+  "size": 0,
+  "bytes": 2696100575,
+  "magnet": {
+    "name": "Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb",
+    "infoHash": "30EAC3C754D06C29AEFF9EAA5E97E567BB285BB8",
+    "size": 0,
+    "link": "magnet:?xt=urn:btih:30EAC3C754D06C29AEFF9EAA5E97E567BB285BB8\u0026dn=Peacemaker+S02E06+Ignorance+is+Chris+1080p+AMZN+WEB-DL+DDP5+1+H+264-NTb\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce"
+  },
+  "files": {
+    "Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv": {
+      "torrent_id": "NA6KTHYJJ4MWQ",
+      "id": "1",
+      "name": "Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv",
+      "size": 2696100575,
+      "is_rar": false,
+      "path": "Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv",
+      "link": "https://real-debrid.com/d/ETQBBU4JQU4H4ECA",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ETQBBU4JQU4H4ECA"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": {
+    "name": "tv",
+    "host": "http://sonarr:8989",
+    "token": "3db93f0a4711480792c0f3c38b0d7c15",
+    "type": "sonarr",
+    "cleanup": false,
+    "skip_repair": false,
+    "download_uncached": false,
+    "source": "auto"
+  },
+  "added_on": "2025-09-26T15:21:04.627793476-04:00",
+  "is_complete": true,
+  "bad": false
+}

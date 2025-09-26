@@ -1,0 +1,52 @@
+{
+  "id": "4383281",
+  "info_hash": "9FEDBA5B6F986BE41DD5C34A63C7C11CDB2E308B",
+  "name": "War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv",
+  "folder": "War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv",
+  "filename": "War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv",
+  "original_filename": "War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83",
+  "size": 0,
+  "bytes": 13900960319,
+  "magnet": {
+    "name": "[bitsearch.to] War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv",
+    "infoHash": "9FEDBA5B6F986BE41DD5C34A63C7C11CDB2E308B",
+    "size": 0,
+    "link": "magnet:?xt=urn:btih:9FEDBA5B6F986BE41DD5C34A63C7C11CDB2E308B\u0026dn=%5Bbitsearch.to%5D%20War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce"
+  },
+  "files": {
+    "War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv": {
+      "torrent_id": "4383281",
+      "id": "0",
+      "name": "War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv",
+      "size": 13900960319,
+      "is_rar": false,
+      "path": "War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv",
+      "link": "torbox://4383281/0",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": null,
+  "mount_path": "/mounts/TorBox",
+  "deleted_files": null,
+  "debrid": "torbox",
+  "arr": {
+    "name": "radarr",
+    "host": "http://radarr:7878",
+    "token": "1b16dd5299fb40699be2933d7c84a53a",
+    "type": "radarr",
+    "cleanup": true,
+    "skip_repair": true,
+    "download_uncached": false,
+    "source": "auto"
+  },
+  "added_on": "2025-09-26T10:53:36.859153811-04:00",
+  "is_complete": true,
+  "bad": false
+}

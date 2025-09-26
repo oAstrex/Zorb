@@ -1,0 +1,40 @@
+{
+  "id": "USJPDKOKL7BCW",
+  "info_hash": "4299005db7372d1cb92814fa4e3fc50ae27c1e1c",
+  "name": "Good Burger 2 (2023) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+  "folder": "Good Burger 2 (2023) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+  "filename": "Good Burger 2 (2023) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+  "original_filename": "Good Burger 2 (2023) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+  "size": 0,
+  "bytes": 4331557794,
+  "magnet": null,
+  "files": {
+    "Good.Burger.2.2023.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv": {
+      "torrent_id": "USJPDKOKL7BCW",
+      "id": "1",
+      "name": "Good.Burger.2.2023.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+      "size": 4331557794,
+      "is_rar": false,
+      "path": "Good.Burger.2.2023.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+      "link": "https://real-debrid.com/d/YJOUSFMK52WOQ3C6",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-17T15:08:08.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/YJOUSFMK52WOQ3C6"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-17T15:08:08Z",
+  "is_complete": true,
+  "bad": false
+}

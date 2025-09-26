@@ -1,0 +1,40 @@
+{
+  "id": "S7LBHZFEJMOZW",
+  "info_hash": "856da403b4895357364ceef4e12a17a1942bb9c9",
+  "name": "A.Normal.Woman.2025.1080p.WEBRip.x264.AAC5.1-WORLD.mp4",
+  "folder": "www.UIndex.org    -    A Normal Woman (2025) 1080p WEBRip 5.1-WORLD",
+  "filename": "A.Normal.Woman.2025.1080p.WEBRip.x264.AAC5.1-WORLD.mp4",
+  "original_filename": "www.UIndex.org    -    A Normal Woman (2025) 1080p WEBRip 5.1-WORLD",
+  "size": 0,
+  "bytes": 2190954860,
+  "magnet": null,
+  "files": {
+    "A.Normal.Woman.2025.1080p.WEBRip.x264.AAC5.1-WORLD.mp4": {
+      "torrent_id": "S7LBHZFEJMOZW",
+      "id": "1",
+      "name": "A.Normal.Woman.2025.1080p.WEBRip.x264.AAC5.1-WORLD.mp4",
+      "size": 2190954860,
+      "is_rar": false,
+      "path": "A.Normal.Woman.2025.1080p.WEBRip.x264.AAC5.1-WORLD.mp4",
+      "link": "https://real-debrid.com/d/MQOX6RW7SWLPEA67",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-31T03:29:03.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/MQOX6RW7SWLPEA67"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-31T03:29:03Z",
+  "is_complete": true,
+  "bad": false
+}

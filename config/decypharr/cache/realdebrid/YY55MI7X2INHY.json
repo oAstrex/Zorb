@@ -1,0 +1,53 @@
+{
+  "id": "YY55MI7X2INHY",
+  "info_hash": "1cfa6feef133181542d268065190954c8fcaf155",
+  "name": "Now.You.See.Me.2013.2160p.UHD.BluRay.X265-IAMABLE",
+  "folder": "Now.You.See.Me.2013.2160p.UHD.BluRay.X265-IAMABLE",
+  "filename": "Now.You.See.Me.2013.2160p.UHD.BluRay.X265-IAMABLE",
+  "original_filename": "Now.You.See.Me.2013.2160p.UHD.BluRay.X265-IAMABLE",
+  "size": 0,
+  "bytes": 27242321818,
+  "magnet": null,
+  "files": {
+    "Now.You.See.Me.2013.2160p.UHD.BluRay.X265-IAMABLE.mkv": {
+      "torrent_id": "YY55MI7X2INHY",
+      "id": "1",
+      "name": "Now.You.See.Me.2013.2160p.UHD.BluRay.X265-IAMABLE.mkv",
+      "size": 26962681805,
+      "is_rar": false,
+      "path": "Now.You.See.Me.2013.2160p.UHD.BluRay.X265-IAMABLE.mkv",
+      "link": "https://real-debrid.com/d/T3H5HNC5QD6J24D7",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "now.you.see.me.2013.2160p.uhd.bluray.x265-iamable-sample.mkv": {
+      "torrent_id": "YY55MI7X2INHY",
+      "id": "3",
+      "name": "now.you.see.me.2013.2160p.uhd.bluray.x265-iamable-sample.mkv",
+      "size": 279640013,
+      "is_rar": false,
+      "path": "now.you.see.me.2013.2160p.uhd.bluray.x265-iamable-sample.mkv",
+      "link": "https://real-debrid.com/d/L7IDT2QYSXDBC5E3",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-11T05:32:32.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/T3H5HNC5QD6J24D7",
+    "https://real-debrid.com/d/L7IDT2QYSXDBC5E3"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-11T05:32:32Z",
+  "is_complete": true,
+  "bad": false
+}

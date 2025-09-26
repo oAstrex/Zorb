@@ -1,0 +1,40 @@
+{
+  "id": "QDATW7WFHENP2",
+  "info_hash": "cf6ebc61dd5225cee35f32db3be7cf10f4241b97",
+  "name": "Sesame.Street.S51e35.x265.webdl.1080p.mp4",
+  "folder": "Sesame.Street.S51e35.x265.webdl.1080p.mp4",
+  "filename": "Sesame.Street.S51e35.x265.webdl.1080p.mp4",
+  "original_filename": "Sesame.Street.S51e35.x265.webdl.1080p.mp4",
+  "size": 0,
+  "bytes": 459415658,
+  "magnet": null,
+  "files": {
+    "Sesame.Street.S51e35.x265.webdl.1080p.mp4": {
+      "torrent_id": "QDATW7WFHENP2",
+      "id": "1",
+      "name": "Sesame.Street.S51e35.x265.webdl.1080p.mp4",
+      "size": 459415658,
+      "is_rar": false,
+      "path": "Sesame.Street.S51e35.x265.webdl.1080p.mp4",
+      "link": "https://real-debrid.com/d/LVP54TGO7IV5O437",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-30T20:27:16.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/LVP54TGO7IV5O437"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-30T20:27:16Z",
+  "is_complete": true,
+  "bad": false
+}

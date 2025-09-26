@@ -1,0 +1,40 @@
+{
+  "id": "LWH7EAUEY4EWA",
+  "info_hash": "4f06d92f9ce481493cb91d40bfa300e9f9de3f90",
+  "name": "BMF.S04E10.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+  "folder": "BMF.S04E10.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+  "filename": "BMF.S04E10.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+  "original_filename": "BMF.S04E10.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+  "size": 0,
+  "bytes": 4000050574,
+  "magnet": null,
+  "files": {
+    "BMF.S04E10.1080p.WEB.h264-ETHEL[EZTVx.to].mkv": {
+      "torrent_id": "LWH7EAUEY4EWA",
+      "id": "1",
+      "name": "BMF.S04E10.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+      "size": 4000050574,
+      "is_rar": false,
+      "path": "BMF.S04E10.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+      "link": "https://real-debrid.com/d/762IYPOF3XPHU81A",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-16T03:00:42.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/762IYPOF3XPHU81A"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-16T03:00:42Z",
+  "is_complete": true,
+  "bad": false
+}

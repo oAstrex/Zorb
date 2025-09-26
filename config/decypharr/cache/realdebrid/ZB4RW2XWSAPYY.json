@@ -1,0 +1,40 @@
+{
+  "id": "ZB4RW2XWSAPYY",
+  "info_hash": "00c9be44a6349b60dbf77d1411e976493391f5e9",
+  "name": "Long Way Down by Jason Reynolds EPUB",
+  "folder": "Long Way Down by Jason Reynolds EPUB",
+  "filename": "Long Way Down by Jason Reynolds EPUB",
+  "original_filename": "Long Way Down by Jason Reynolds EPUB",
+  "size": 0,
+  "bytes": 3170951,
+  "magnet": null,
+  "files": {
+    "Long Way Down by Jason Reynolds.epub": {
+      "torrent_id": "ZB4RW2XWSAPYY",
+      "id": "1",
+      "name": "Long Way Down by Jason Reynolds.epub",
+      "size": 3170951,
+      "is_rar": false,
+      "path": "Long Way Down by Jason Reynolds.epub",
+      "link": "https://real-debrid.com/d/G4DRBX73SHBW6642",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-28T19:40:49.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/G4DRBX73SHBW6642"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-28T19:40:49Z",
+  "is_complete": true,
+  "bad": false
+}

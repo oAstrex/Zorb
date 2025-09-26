@@ -1,0 +1,40 @@
+{
+  "id": "HFWBZNIEBBQQG",
+  "info_hash": "ffd26ae2ae9569e5f54e610324b57789f5fb69aa",
+  "name": "DOOM Eternal [DODI Repack]",
+  "folder": "DOOM Eternal [DODI Repack]",
+  "filename": "DOOM Eternal [DODI Repack]",
+  "original_filename": "DOOM Eternal [DODI Repack]",
+  "size": 0,
+  "bytes": 75911313739,
+  "magnet": null,
+  "files": {
+    "DOOM Eternal [DODI Repack].rar": {
+      "torrent_id": "HFWBZNIEBBQQG",
+      "id": "0",
+      "name": "DOOM Eternal [DODI Repack].rar",
+      "size": 75911313739,
+      "is_rar": true,
+      "path": "DOOM Eternal [DODI Repack].rar",
+      "link": "https://real-debrid.com/d/ZNGOEO54BWMI44E3",
+      "account_id": "",
+      "generated": "2025-09-25T19:09:07.950298794-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-17T21:40:17.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ZNGOEO54BWMI44E3"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-17T21:40:17Z",
+  "is_complete": true,
+  "bad": false
+}

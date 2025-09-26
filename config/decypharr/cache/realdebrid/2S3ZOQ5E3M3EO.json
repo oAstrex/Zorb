@@ -1,0 +1,40 @@
+{
+  "id": "2S3ZOQ5E3M3EO",
+  "info_hash": "6c610ae42ec1a125bfd0cb323b24f55572d0089c",
+  "name": "Smurfs.2025.HDR.2160p.WEB.h265-ETHEL.mkv",
+  "folder": "Smurfs.2025.HDR.2160p.WEB.h265-ETHEL.mkv",
+  "filename": "Smurfs.2025.HDR.2160p.WEB.h265-ETHEL.mkv",
+  "original_filename": "Smurfs.2025.HDR.2160p.WEB.h265-ETHEL.mkv",
+  "size": 0,
+  "bytes": 16704288215,
+  "magnet": null,
+  "files": {
+    "Smurfs.2025.HDR.2160p.WEB.h265-ETHEL.mkv": {
+      "torrent_id": "2S3ZOQ5E3M3EO",
+      "id": "1",
+      "name": "Smurfs.2025.HDR.2160p.WEB.h265-ETHEL.mkv",
+      "size": 16704288215,
+      "is_rar": false,
+      "path": "Smurfs.2025.HDR.2160p.WEB.h265-ETHEL.mkv",
+      "link": "https://real-debrid.com/d/MHTW35G5I7H7G6FC",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-13T09:36:27.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/MHTW35G5I7H7G6FC"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-13T09:36:27Z",
+  "is_complete": true,
+  "bad": false
+}

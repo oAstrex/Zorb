@@ -1,0 +1,52 @@
+{
+  "id": "V2LGGZXVKLUFM",
+  "info_hash": "67e69cc949426b926096fc2c73f8daa284495d98",
+  "name": "The.Accountant.2.2025.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE",
+  "folder": "The.Accountant.2.2025.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE",
+  "filename": "The.Accountant.2.2025.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE",
+  "original_filename": "The.Accountant.2.2025.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE",
+  "size": 0,
+  "bytes": 4358575734,
+  "magnet": null,
+  "files": {
+    "The.Accountant.2.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE.mkv": {
+      "torrent_id": "EJYDG4OIREWQK",
+      "id": "1",
+      "name": "The.Accountant.2.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE.mkv",
+      "size": 4294802118,
+      "is_rar": false,
+      "path": "The.Accountant.2.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE.mkv",
+      "link": "https://real-debrid.com/d/PPOAEOM3NXFVG54F",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "The.Accountant.2.2025.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE.rar": {
+      "torrent_id": "EJYDG4OIREWQK",
+      "id": "0",
+      "name": "The.Accountant.2.2025.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE.rar",
+      "size": 4358575734,
+      "is_rar": true,
+      "path": "The.Accountant.2.2025.1080p.WebRip.Repack.Read.Note.X264.COLLECTiVE.rar",
+      "link": "https://real-debrid.com/d/6VURO5R5R4FRSE54",
+      "account_id": "",
+      "generated": "2025-09-25T19:09:08.683341845-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-16T23:43:47.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/6VURO5R5R4FRSE54"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-16T23:43:47Z",
+  "is_complete": true,
+  "bad": false
+}

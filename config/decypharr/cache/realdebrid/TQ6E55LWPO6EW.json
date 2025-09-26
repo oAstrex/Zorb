@@ -1,0 +1,40 @@
+{
+  "id": "TQ6E55LWPO6EW",
+  "info_hash": "36d3d25c15a5126b4e181be05ab4d28d1e48801c",
+  "name": "The Last Dragon (1985)",
+  "folder": "The Last Dragon (1985)",
+  "filename": "The Last Dragon (1985)",
+  "original_filename": "The Last Dragon (1985)",
+  "size": 0,
+  "bytes": 849246654,
+  "magnet": null,
+  "files": {
+    "The.Last.Dragon.1985.720p.BluRay.x264.YIFY.mp4": {
+      "torrent_id": "TQ6E55LWPO6EW",
+      "id": "1",
+      "name": "The.Last.Dragon.1985.720p.BluRay.x264.YIFY.mp4",
+      "size": 849246654,
+      "is_rar": false,
+      "path": "The.Last.Dragon.1985.720p.BluRay.x264.YIFY.mp4",
+      "link": "https://real-debrid.com/d/HSEL6RGKEHXPC3A2",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-01T04:58:24.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/HSEL6RGKEHXPC3A2"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-01T04:58:24Z",
+  "is_complete": true,
+  "bad": false
+}

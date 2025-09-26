@@ -1,0 +1,40 @@
+{
+  "id": "CSMNPD5UUEWEO",
+  "info_hash": "3dd163ca9f506d1137021e7d8418fd99f231a164",
+  "name": "Plankton The Movie (2025) [1080p] [WEBRip] [5.1] [YTS.MX]",
+  "folder": "Plankton The Movie (2025) [1080p] [WEBRip] [5.1] [YTS.MX]",
+  "filename": "Plankton The Movie (2025) [1080p] [WEBRip] [5.1] [YTS.MX]",
+  "original_filename": "Plankton The Movie (2025) [1080p] [WEBRip] [5.1] [YTS.MX]",
+  "size": 0,
+  "bytes": 1736394334,
+  "magnet": null,
+  "files": {
+    "Plankton.The.Movie.2025.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4": {
+      "torrent_id": "CSMNPD5UUEWEO",
+      "id": "1",
+      "name": "Plankton.The.Movie.2025.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4",
+      "size": 1736394334,
+      "is_rar": false,
+      "path": "Plankton.The.Movie.2025.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4",
+      "link": "https://real-debrid.com/d/4YNQSG2OTUPNM820",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-29T00:34:40.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/4YNQSG2OTUPNM820"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-29T00:34:40Z",
+  "is_complete": true,
+  "bad": false
+}

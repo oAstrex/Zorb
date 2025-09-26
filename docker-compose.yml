@@ -84,33 +84,30 @@ services:
     networks:
       - media-stack
 
-  autostrm:
-    build:
-      context: ./services/autostrm
-    container_name: autostrm
+  
+
+  # Decypharr for TorBox use with *arrs
+  decypharr:
+    image: cy01/blackhole:latest
+    container_name: decypharr
     environment:
       - PUID=501
       - PGID=20
       - TZ=America/New_York
-      - AUTH_USERNAME=${AUTH_USERNAME:-autostrm}
-      - AUTH_PASSWORD=${AUTH_PASSWORD:-autostrm}
-      - TORBOX_BASE_URL=${TORBOX_BASE_URL}
-      - TORBOX_API_KEY=${TORBOX_API_KEY}
-      # Match Radarr/Sonarr container paths
-      - MEDIA_TV_PATH=/series
-      - MEDIA_MOVIES_PATH=/movies
-      - CATEGORY_TV=tv
-      - CATEGORY_MOVIES=movies
-      - AUTOSTRM_BIND=0.0.0.0
-      - AUTOSTRM_PORT=6500
     ports:
-      - "6500:6500"
+      - "8282:8282"
     volumes:
-      - ./config/autostrm:/config
-      # Mount media at the same in-container paths as Radarr/Sonarr
-      - ./data/media/series:/series
-      - ./data/media/movies:/movies
+      - ./data/downloads:/downloads
+      - ./mounts/:/mounts/
+      - /mnt/:/mnt:rshared
+      - ./config/decypharr:/app
     restart: unless-stopped
+    devices:
+      - /dev/fuse:/dev/fuse:rwm
+    cap_add:
+      - SYS_ADMIN
+    security_opt:
+      - apparmor:unconfined
     networks:
       - media-stack
 

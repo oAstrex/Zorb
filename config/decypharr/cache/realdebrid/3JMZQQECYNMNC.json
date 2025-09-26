@@ -1,0 +1,53 @@
+{
+  "id": "3JMZQQECYNMNC",
+  "info_hash": "ce2337df366b9048c260dc716da5f1208662348b",
+  "name": "Sinners.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "folder": "Sinners.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "filename": "Sinners.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "original_filename": "Sinners.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "size": 0,
+  "bytes": 26129744749,
+  "magnet": null,
+  "files": {
+    "Sample.mkv": {
+      "torrent_id": "3JMZQQECYNMNC",
+      "id": "2",
+      "name": "Sample.mkv",
+      "size": 370160455,
+      "is_rar": false,
+      "path": "Sample.mkv",
+      "link": "https://real-debrid.com/d/ZQADDMYLNL7LI3A3",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Sinners.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv": {
+      "torrent_id": "3JMZQQECYNMNC",
+      "id": "10",
+      "name": "Sinners.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+      "size": 25759584294,
+      "is_rar": false,
+      "path": "Sinners.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+      "link": "https://real-debrid.com/d/ZTA3LCN6GARRK377",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-22T01:06:42.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ZQADDMYLNL7LI3A3",
+    "https://real-debrid.com/d/ZTA3LCN6GARRK377"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-22T01:06:42Z",
+  "is_complete": true,
+  "bad": false
+}

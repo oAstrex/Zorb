@@ -1,0 +1,40 @@
+{
+  "id": "CUOU6VHOV66VO",
+  "info_hash": "63c5ccb162b7a691013e1d11b137300109866cb8",
+  "name": "Horton.Hears.a.Who.2008.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv",
+  "folder": "Horton.Hears.a.Who.2008.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv",
+  "filename": "Horton.Hears.a.Who.2008.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv",
+  "original_filename": "Horton.Hears.a.Who.2008.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv",
+  "size": 0,
+  "bytes": 2301522825,
+  "magnet": null,
+  "files": {
+    "Horton.Hears.a.Who.2008.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv": {
+      "torrent_id": "CUOU6VHOV66VO",
+      "id": "1",
+      "name": "Horton.Hears.a.Who.2008.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv",
+      "size": 2301522825,
+      "is_rar": false,
+      "path": "Horton.Hears.a.Who.2008.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv",
+      "link": "https://real-debrid.com/d/NIKGJIGTOYJXMEF7",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-22T11:17:30.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/NIKGJIGTOYJXMEF7"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-22T11:17:30Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "MTWIL3HWNX3ZY",
+  "info_hash": "3f7bede6dcb7eaf941070a612a8615cee36da293",
+  "name": "TiviMate_IPTV_Player_v2.8.0_Premium_Mod_Apk_APKISM",
+  "folder": "TiviMate_IPTV_Player_v2.8.0_Premium_Mod_Apk_APKISM",
+  "filename": "TiviMate_IPTV_Player_v2.8.0_Premium_Mod_Apk_APKISM",
+  "original_filename": "TiviMate_IPTV_Player_v2.8.0_Premium_Mod_Apk_APKISM",
+  "size": 0,
+  "bytes": 19062839,
+  "magnet": null,
+  "files": {
+    "_TiviMate_2.8.0_Premium.apk": {
+      "torrent_id": "MTWIL3HWNX3ZY",
+      "id": "1",
+      "name": "_TiviMate_2.8.0_Premium.apk",
+      "size": 19062839,
+      "is_rar": false,
+      "path": "_TiviMate_2.8.0_Premium.apk",
+      "link": "https://real-debrid.com/d/7IP5XYGSBNUTU479",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-13T07:21:14.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/7IP5XYGSBNUTU479"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-13T07:21:14Z",
+  "is_complete": true,
+  "bad": false
+}

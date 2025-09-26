@@ -1,0 +1,54 @@
+{
+  "id": "BPV3CBJ67QOHC",
+  "info_hash": "873F8598478B513504DDEA2C343BA5217874C22A",
+  "name": "Jurassic World Rebirth (1).mkv",
+  "folder": "Jurassic World Rebirth 2025 USA UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E",
+  "filename": "Jurassic World Rebirth (1).mkv",
+  "original_filename": "Jurassic World Rebirth 2025 USA UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E",
+  "size": 0,
+  "bytes": 25843277890,
+  "magnet": {
+    "name": "[bitsearch.to] Jurassic World Rebirth 2025 USA UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E",
+    "infoHash": "873F8598478B513504DDEA2C343BA5217874C22A",
+    "size": 0,
+    "link": "magnet:?xt=urn:btih:873F8598478B513504DDEA2C343BA5217874C22A\u0026dn=%5Bbitsearch.to%5D%20Jurassic%20World%20Rebirth%202025%20USA%20UHD%20BluRay%202160p%20HDR10%20DV%20HEVC%20TrueHD%20Atmos%207.1%20x265-E\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce"
+  },
+  "files": {
+    "Jurassic World Rebirth (1).mkv": {
+      "torrent_id": "BPV3CBJ67QOHC",
+      "id": "1",
+      "name": "Jurassic World Rebirth (1).mkv",
+      "size": 25843277890,
+      "is_rar": false,
+      "path": "Jurassic World Rebirth (1).mkv",
+      "link": "https://real-debrid.com/d/LKCZC2N2LT32QD98",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/LKCZC2N2LT32QD98"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": {
+    "name": "radarr",
+    "host": "http://radarr:7878",
+    "token": "1b16dd5299fb40699be2933d7c84a53a",
+    "type": "radarr",
+    "cleanup": true,
+    "skip_repair": true,
+    "download_uncached": false,
+    "source": "auto"
+  },
+  "added_on": "2025-09-26T10:54:45.357037499-04:00",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "HZNOME5L2CNG2",
+  "info_hash": "5a1778e5def49d27f1d7e98dec5a08b6f1a33936",
+  "name": "CODA.2021.2160p.UHD.BluRay.x265-SURCODE.mkv",
+  "folder": "CODA.2021.2160p.UHD.BluRay.x265-SURCODE",
+  "filename": "CODA.2021.2160p.UHD.BluRay.x265-SURCODE.mkv",
+  "original_filename": "CODA.2021.2160p.UHD.BluRay.x265-SURCODE",
+  "size": 0,
+  "bytes": 39108545145,
+  "magnet": null,
+  "files": {
+    "CODA.2021.2160p.UHD.BluRay.x265-SURCODE.mkv": {
+      "torrent_id": "HZNOME5L2CNG2",
+      "id": "1",
+      "name": "CODA.2021.2160p.UHD.BluRay.x265-SURCODE.mkv",
+      "size": 39108545145,
+      "is_rar": false,
+      "path": "CODA.2021.2160p.UHD.BluRay.x265-SURCODE.mkv",
+      "link": "https://real-debrid.com/d/5RAA7X7HFZA34EAF",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-17T06:41:57.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/5RAA7X7HFZA34EAF"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-17T06:41:57Z",
+  "is_complete": true,
+  "bad": false
+}

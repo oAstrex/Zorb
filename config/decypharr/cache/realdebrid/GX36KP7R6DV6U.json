@@ -1,0 +1,40 @@
+{
+  "id": "GX36KP7R6DV6U",
+  "info_hash": "42b8a358eb5a04fae176e4d8b11260f0a342d2c7",
+  "name": "windows-98-se-isofile",
+  "folder": "windows-98-se-isofile",
+  "filename": "windows-98-se-isofile",
+  "original_filename": "windows-98-se-isofile",
+  "size": 0,
+  "bytes": 655591424,
+  "magnet": null,
+  "files": {
+    "Windows 98 Second Edition.iso": {
+      "torrent_id": "GX36KP7R6DV6U",
+      "id": "1",
+      "name": "Windows 98 Second Edition.iso",
+      "size": 655591424,
+      "is_rar": false,
+      "path": "Windows 98 Second Edition.iso",
+      "link": "https://real-debrid.com/d/CZNANU3RTE4KO6A3",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-11T14:40:29.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/CZNANU3RTE4KO6A3"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-11T14:40:29Z",
+  "is_complete": true,
+  "bad": false
+}

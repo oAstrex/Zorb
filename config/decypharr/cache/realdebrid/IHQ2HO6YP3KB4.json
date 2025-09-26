@@ -1,0 +1,40 @@
+{
+  "id": "IHQ2HO6YP3KB4",
+  "info_hash": "a5c8778ab098bad010e8d47fbf5ee02d66cd4ffb",
+  "name": "the.last.dragon.1985.2160p.uhd.bluray.x265-b0mbardiers.mkv",
+  "folder": "the.last.dragon.1985.2160p.uhd.bluray.x265-b0mbardiers.mkv",
+  "filename": "the.last.dragon.1985.2160p.uhd.bluray.x265-b0mbardiers.mkv",
+  "original_filename": "the.last.dragon.1985.2160p.uhd.bluray.x265-b0mbardiers.mkv",
+  "size": 0,
+  "bytes": 34986322686,
+  "magnet": null,
+  "files": {
+    "the.last.dragon.1985.2160p.uhd.bluray.x265-b0mbardiers.mkv": {
+      "torrent_id": "IHQ2HO6YP3KB4",
+      "id": "1",
+      "name": "the.last.dragon.1985.2160p.uhd.bluray.x265-b0mbardiers.mkv",
+      "size": 34986322686,
+      "is_rar": false,
+      "path": "the.last.dragon.1985.2160p.uhd.bluray.x265-b0mbardiers.mkv",
+      "link": "https://real-debrid.com/d/IYZO2QDHSU3PEF9D",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-01T06:16:38.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/IYZO2QDHSU3PEF9D"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-01T06:16:38Z",
+  "is_complete": true,
+  "bad": false
+}

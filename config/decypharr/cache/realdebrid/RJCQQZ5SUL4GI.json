@@ -1,0 +1,40 @@
+{
+  "id": "RJCQQZ5SUL4GI",
+  "info_hash": "50c9644aa76c036247f5c989761633f016672cdc",
+  "name": "reasonable.doubt.s01e01.dv.2160p.web.h265-glhf.mkv",
+  "folder": "Reasonable.Doubt.S01E01.2160p.HULU.WEB-DL.x265.10bit.HDR10Plus.DDP5.1-GLHF[rartv]",
+  "filename": "reasonable.doubt.s01e01.dv.2160p.web.h265-glhf.mkv",
+  "original_filename": "Reasonable.Doubt.S01E01.2160p.HULU.WEB-DL.x265.10bit.HDR10Plus.DDP5.1-GLHF[rartv]",
+  "size": 0,
+  "bytes": 6169524366,
+  "magnet": null,
+  "files": {
+    "reasonable.doubt.s01e01.dv.2160p.web.h265-glhf.mkv": {
+      "torrent_id": "RJCQQZ5SUL4GI",
+      "id": "2",
+      "name": "reasonable.doubt.s01e01.dv.2160p.web.h265-glhf.mkv",
+      "size": 6169524366,
+      "is_rar": false,
+      "path": "reasonable.doubt.s01e01.dv.2160p.web.h265-glhf.mkv",
+      "link": "https://real-debrid.com/d/L72Q3SI6XC3SM9E5",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-09-22T18:13:02.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/L72Q3SI6XC3SM9E5"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-09-22T18:13:02Z",
+  "is_complete": true,
+  "bad": false
+}

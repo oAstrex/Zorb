@@ -1,0 +1,40 @@
+{
+  "id": "PK7GPH2UD33X6",
+  "info_hash": "5b390bf4ea76337467b2d3f5b9eb81f1a7e35f6a",
+  "name": "Tears of the Kingdom [XCI].7z",
+  "folder": "Tears of the Kingdom [XCI].7z",
+  "filename": "Tears of the Kingdom [XCI].7z",
+  "original_filename": "Tears of the Kingdom [XCI].7z",
+  "size": 0,
+  "bytes": 17989042997,
+  "magnet": null,
+  "files": {
+    "Tears of the Kingdom [XCI].7z": {
+      "torrent_id": "PK7GPH2UD33X6",
+      "id": "1",
+      "name": "Tears of the Kingdom [XCI].7z",
+      "size": 17989042997,
+      "is_rar": false,
+      "path": "Tears of the Kingdom [XCI].7z",
+      "link": "https://real-debrid.com/d/OLJZEHNKANFPOCA2",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T19:37:59.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/OLJZEHNKANFPOCA2"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T19:37:59Z",
+  "is_complete": true,
+  "bad": false
+}

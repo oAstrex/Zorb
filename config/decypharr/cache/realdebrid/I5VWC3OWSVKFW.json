@@ -1,0 +1,40 @@
+{
+  "id": "I5VWC3OWSVKFW",
+  "info_hash": "81fb914ab74ec72bf992f11efc9cdbc4736a8bc0",
+  "name": "Sinners 2025 1080p HDRip HEVC x265-RMTeam.mkv",
+  "folder": "Sinners 2025 1080p HDRip HEVC x265-RMTeam.mkv",
+  "filename": "Sinners 2025 1080p HDRip HEVC x265-RMTeam.mkv",
+  "original_filename": "Sinners 2025 1080p HDRip HEVC x265-RMTeam.mkv",
+  "size": 0,
+  "bytes": 1184935223,
+  "magnet": null,
+  "files": {
+    "Sinners 2025 1080p HDRip HEVC x265-RMTeam.mkv": {
+      "torrent_id": "I5VWC3OWSVKFW",
+      "id": "1",
+      "name": "Sinners 2025 1080p HDRip HEVC x265-RMTeam.mkv",
+      "size": 1184935223,
+      "is_rar": false,
+      "path": "Sinners 2025 1080p HDRip HEVC x265-RMTeam.mkv",
+      "link": "https://real-debrid.com/d/MD3FYAHPIUI264EC",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-21T12:42:04.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/MD3FYAHPIUI264EC"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-21T12:42:04Z",
+  "is_complete": true,
+  "bad": false
+}

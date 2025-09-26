@@ -1,0 +1,40 @@
+{
+  "id": "64BORH7T64KZI",
+  "info_hash": "2fa74fe2a8de0ff1a46d77bdb22067ff1e5356a8",
+  "name": "xiczcix-goodnight-punpun",
+  "folder": "xiczcix-goodnight-punpun",
+  "filename": "xiczcix-goodnight-punpun",
+  "original_filename": "xiczcix-goodnight-punpun",
+  "size": 0,
+  "bytes": 3447717888,
+  "magnet": null,
+  "files": {
+    "xiczcix-goodnight-punpun.rar": {
+      "torrent_id": "64BORH7T64KZI",
+      "id": "0",
+      "name": "xiczcix-goodnight-punpun.rar",
+      "size": 3447717888,
+      "is_rar": true,
+      "path": "xiczcix-goodnight-punpun.rar",
+      "link": "https://real-debrid.com/d/ELIX7TPI7R2FS29D",
+      "account_id": "",
+      "generated": "2025-09-25T19:08:09.875389323-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-04T04:15:50.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ELIX7TPI7R2FS29D"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-04T04:15:50Z",
+  "is_complete": true,
+  "bad": false
+}

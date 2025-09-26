@@ -1,0 +1,53 @@
+{
+  "id": "KPLFVYLBZYGYM",
+  "info_hash": "313e4dbaca4e38d513f81bce337b33460817404c",
+  "name": "Cars.2006.2160p.UHD.BluRay.x265-TERMiNAL",
+  "folder": "Cars.2006.2160p.UHD.BluRay.x265-TERMiNAL",
+  "filename": "Cars.2006.2160p.UHD.BluRay.x265-TERMiNAL",
+  "original_filename": "Cars.2006.2160p.UHD.BluRay.x265-TERMiNAL",
+  "size": 0,
+  "bytes": 16594926604,
+  "magnet": null,
+  "files": {
+    "cars.2006.2160p.uhd.bluray.x265-terminal.mkv": {
+      "torrent_id": "KPLFVYLBZYGYM",
+      "id": "3",
+      "name": "cars.2006.2160p.uhd.bluray.x265-terminal.mkv",
+      "size": 16398009971,
+      "is_rar": false,
+      "path": "cars.2006.2160p.uhd.bluray.x265-terminal.mkv",
+      "link": "https://real-debrid.com/d/Y6YZCORS2EP7Y8D8",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "cars.2006.2160p.uhd.bluray.x265-terminal.sample.mkv": {
+      "torrent_id": "KPLFVYLBZYGYM",
+      "id": "2",
+      "name": "cars.2006.2160p.uhd.bluray.x265-terminal.sample.mkv",
+      "size": 196916633,
+      "is_rar": false,
+      "path": "cars.2006.2160p.uhd.bluray.x265-terminal.sample.mkv",
+      "link": "https://real-debrid.com/d/M3THXBQBGCYCE24E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-26T04:40:13.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/M3THXBQBGCYCE24E",
+    "https://real-debrid.com/d/Y6YZCORS2EP7Y8D8"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-26T04:40:13Z",
+  "is_complete": true,
+  "bad": false
+}

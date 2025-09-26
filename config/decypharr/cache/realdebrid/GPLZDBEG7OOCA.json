@@ -1,0 +1,40 @@
+{
+  "id": "GPLZDBEG7OOCA",
+  "info_hash": "118e68adc928e3c3064095601a337a8d085ddbc6",
+  "name": "Creed (2015).mkv",
+  "folder": "Creed.2015.UHD.BluRay.2160p.DTS-HD.MA.7.1.DV.HEVC.x265-E",
+  "filename": "Creed (2015).mkv",
+  "original_filename": "Creed.2015.UHD.BluRay.2160p.DTS-HD.MA.7.1.DV.HEVC.x265-E",
+  "size": 0,
+  "bytes": 32222871797,
+  "magnet": null,
+  "files": {
+    "Creed (2015).mkv": {
+      "torrent_id": "GPLZDBEG7OOCA",
+      "id": "1",
+      "name": "Creed (2015).mkv",
+      "size": 32222871797,
+      "is_rar": false,
+      "path": "Creed (2015).mkv",
+      "link": "https://real-debrid.com/d/AMCZNOTMS5JDE1E0",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-16T23:05:02.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/AMCZNOTMS5JDE1E0"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-16T23:05:02Z",
+  "is_complete": true,
+  "bad": false
+}

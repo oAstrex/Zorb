@@ -1,0 +1,40 @@
+{
+  "id": "TIYUVSKRZQ23O",
+  "info_hash": "968c26ddf4e7929438a53a2b77de482046989f71",
+  "name": "Akeelah And The Bee (2006) [BluRay] [1080p] [YTS.LT]",
+  "folder": "Akeelah And The Bee (2006) [BluRay] [1080p] [YTS.LT]",
+  "filename": "Akeelah And The Bee (2006) [BluRay] [1080p] [YTS.LT]",
+  "original_filename": "Akeelah And The Bee (2006) [BluRay] [1080p] [YTS.LT]",
+  "size": 0,
+  "bytes": 1948230217,
+  "magnet": null,
+  "files": {
+    "Akeelah.And.The.Bee.2006.1080p.BluRay.x264-[YTS.LT].mp4": {
+      "torrent_id": "TIYUVSKRZQ23O",
+      "id": "1",
+      "name": "Akeelah.And.The.Bee.2006.1080p.BluRay.x264-[YTS.LT].mp4",
+      "size": 1948230217,
+      "is_rar": false,
+      "path": "Akeelah.And.The.Bee.2006.1080p.BluRay.x264-[YTS.LT].mp4",
+      "link": "https://real-debrid.com/d/CX6DYG6IJZFVW2A4",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T00:54:07.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/CX6DYG6IJZFVW2A4"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T00:54:07Z",
+  "is_complete": true,
+  "bad": false
+}

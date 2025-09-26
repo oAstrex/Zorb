@@ -1,0 +1,40 @@
+{
+  "id": "EUCFZJJY5EM2Q",
+  "info_hash": "52013effa3299769450771b5918d75303b43362f",
+  "name": "Central Intelligence (2016) (2160p BluRay x265 HEVC 10bit HDR AAC 5.1 SAMPA)",
+  "folder": "Central Intelligence (2016) (2160p BluRay x265 HEVC 10bit HDR AAC 5.1 SAMPA)",
+  "filename": "Central Intelligence (2016) (2160p BluRay x265 HEVC 10bit HDR AAC 5.1 SAMPA)",
+  "original_filename": "Central Intelligence (2016) (2160p BluRay x265 HEVC 10bit HDR AAC 5.1 SAMPA)",
+  "size": 0,
+  "bytes": 8831670125,
+  "magnet": null,
+  "files": {
+    "Central Intelligence (2016) (2160p BluRay x265 HDR SAMPA).mkv": {
+      "torrent_id": "EUCFZJJY5EM2Q",
+      "id": "1",
+      "name": "Central Intelligence (2016) (2160p BluRay x265 HDR SAMPA).mkv",
+      "size": 8831670125,
+      "is_rar": false,
+      "path": "Central Intelligence (2016) (2160p BluRay x265 HDR SAMPA).mkv",
+      "link": "https://real-debrid.com/d/ECG5OGGE7FD4Y139",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-12T04:31:01.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ECG5OGGE7FD4Y139"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-12T04:31:01Z",
+  "is_complete": true,
+  "bad": false
+}

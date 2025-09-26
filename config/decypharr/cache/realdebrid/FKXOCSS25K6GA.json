@@ -1,0 +1,40 @@
+{
+  "id": "FKXOCSS25K6GA",
+  "info_hash": "d7981f7a1ccd8f619bb416689fa6162886ff8102",
+  "name": "The Show Documentary (1995).avi",
+  "folder": "The Show Documentary (1995).avi",
+  "filename": "The Show Documentary (1995).avi",
+  "original_filename": "The Show Documentary (1995).avi",
+  "size": 0,
+  "bytes": 734799872,
+  "magnet": null,
+  "files": {
+    "The Show Documentary (1995).avi": {
+      "torrent_id": "FKXOCSS25K6GA",
+      "id": "1",
+      "name": "The Show Documentary (1995).avi",
+      "size": 734799872,
+      "is_rar": false,
+      "path": "The Show Documentary (1995).avi",
+      "link": "https://real-debrid.com/d/KNTJQ5BBUNRJG39D",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-30T03:52:23.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/KNTJQ5BBUNRJG39D"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-30T03:52:23Z",
+  "is_complete": true,
+  "bad": false
+}

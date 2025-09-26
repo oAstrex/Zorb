@@ -1,0 +1,53 @@
+{
+  "id": "CP3DQ5PL7ISWQ",
+  "info_hash": "e96ca4ac0b6b9f9f67e9fe41614610f9e12e5e19",
+  "name": "Juror.2024.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.H265-AOC",
+  "folder": "Juror.2024.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.H265-AOC",
+  "filename": "Juror.2024.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.H265-AOC",
+  "original_filename": "Juror.2024.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.H265-AOC",
+  "size": 0,
+  "bytes": 21283425431,
+  "magnet": null,
+  "files": {
+    "Juror.2024.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.H265-AOC.mkv": {
+      "torrent_id": "CP3DQ5PL7ISWQ",
+      "id": "2",
+      "name": "Juror.2024.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.H265-AOC.mkv",
+      "size": 20913627626,
+      "is_rar": false,
+      "path": "Juror.2024.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.H265-AOC.mkv",
+      "link": "https://real-debrid.com/d/L5LVTHF7CXAVCD9E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Sample.mkv": {
+      "torrent_id": "CP3DQ5PL7ISWQ",
+      "id": "3",
+      "name": "Sample.mkv",
+      "size": 369797805,
+      "is_rar": false,
+      "path": "Sample.mkv",
+      "link": "https://real-debrid.com/d/IBQHPOUFJK7KK462",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-28T04:38:27.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/L5LVTHF7CXAVCD9E",
+    "https://real-debrid.com/d/IBQHPOUFJK7KK462"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-28T04:38:27Z",
+  "is_complete": true,
+  "bad": false
+}

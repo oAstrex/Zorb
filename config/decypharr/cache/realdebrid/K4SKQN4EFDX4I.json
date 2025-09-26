@@ -1,0 +1,40 @@
+{
+  "id": "K4SKQN4EFDX4I",
+  "info_hash": "1de0d14e19ad62cd39773c54cdcf6c41cb2dc89a",
+  "name": "Nine Sols (2024)",
+  "folder": "Nine Sols (2024)",
+  "filename": "Nine Sols (2024)",
+  "original_filename": "Nine Sols (2024)",
+  "size": 0,
+  "bytes": 9435928585,
+  "magnet": null,
+  "files": {
+    "Nine Sols (2024).rar": {
+      "torrent_id": "K4SKQN4EFDX4I",
+      "id": "0",
+      "name": "Nine Sols (2024).rar",
+      "size": 9435928585,
+      "is_rar": true,
+      "path": "Nine Sols (2024).rar",
+      "link": "https://real-debrid.com/d/HNJYSTJ56BBSCA63",
+      "account_id": "",
+      "generated": "2025-09-25T19:10:00.059369519-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-22T04:35:05.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/HNJYSTJ56BBSCA63"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-22T04:35:05Z",
+  "is_complete": true,
+  "bad": false
+}

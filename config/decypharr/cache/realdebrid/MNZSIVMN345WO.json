@@ -1,0 +1,40 @@
+{
+  "id": "MNZSIVMN345WO",
+  "info_hash": "1bb3a7bf985b205bc4bdcba8aac3f9687c1b8d71",
+  "name": "Cars.2006.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR",
+  "folder": "Cars.2006.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR",
+  "filename": "Cars.2006.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR",
+  "original_filename": "Cars.2006.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR",
+  "size": 0,
+  "bytes": 43032538458,
+  "magnet": null,
+  "files": {
+    "Cars.2006.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR.mkv": {
+      "torrent_id": "MNZSIVMN345WO",
+      "id": "1",
+      "name": "Cars.2006.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR.mkv",
+      "size": 43032538458,
+      "is_rar": false,
+      "path": "Cars.2006.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR.mkv",
+      "link": "https://real-debrid.com/d/A6XYZ2G4OC2QUC05",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-26T04:39:13.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/A6XYZ2G4OC2QUC05"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-26T04:39:13Z",
+  "is_complete": true,
+  "bad": false
+}

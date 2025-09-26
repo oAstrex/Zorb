@@ -1,0 +1,40 @@
+{
+  "id": "SGSUVDQP6QJN6",
+  "info_hash": "635d402b8525113098532dcf79c1a788ce0ec19c",
+  "name": "Nobody (2021).mkv",
+  "folder": "Nobody 2021 UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E",
+  "filename": "Nobody (2021).mkv",
+  "original_filename": "Nobody 2021 UHD BluRay 2160p HDR10 DV HEVC TrueHD Atmos 7.1 x265-E",
+  "size": 0,
+  "bytes": 16601886430,
+  "magnet": null,
+  "files": {
+    "Nobody (2021).mkv": {
+      "torrent_id": "SGSUVDQP6QJN6",
+      "id": "1",
+      "name": "Nobody (2021).mkv",
+      "size": 16601886430,
+      "is_rar": false,
+      "path": "Nobody (2021).mkv",
+      "link": "https://real-debrid.com/d/33GPKTSIYIAEAA0D",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-03T18:03:04.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/33GPKTSIYIAEAA0D"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-03T18:03:04Z",
+  "is_complete": true,
+  "bad": false
+}

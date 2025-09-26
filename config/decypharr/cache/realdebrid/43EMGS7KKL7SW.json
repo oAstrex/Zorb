@@ -1,0 +1,40 @@
+{
+  "id": "43EMGS7KKL7SW",
+  "info_hash": "ec638da299abd82b53620505f158c245b901d287",
+  "name": "Palmer (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+  "folder": "Palmer (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+  "filename": "Palmer (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+  "original_filename": "Palmer (2021) [2160p] [4K] [WEB] [5.1] [YTS.MX]",
+  "size": 0,
+  "bytes": 5318335169,
+  "magnet": null,
+  "files": {
+    "Palmer.2021.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv": {
+      "torrent_id": "43EMGS7KKL7SW",
+      "id": "1",
+      "name": "Palmer.2021.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+      "size": 5318335169,
+      "is_rar": false,
+      "path": "Palmer.2021.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX].mkv",
+      "link": "https://real-debrid.com/d/TY3LYONC6U2L64BB",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-17T06:57:46.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/TY3LYONC6U2L64BB"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-17T06:57:46Z",
+  "is_complete": true,
+  "bad": false
+}

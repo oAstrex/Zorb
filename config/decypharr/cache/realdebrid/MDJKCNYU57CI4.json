@@ -1,0 +1,40 @@
+{
+  "id": "MDJKCNYU57CI4",
+  "info_hash": "5aeb4d996286286816914443ba7c6d236a7880a7",
+  "name": "PEAK",
+  "folder": "PEAK",
+  "filename": "PEAK",
+  "original_filename": "PEAK",
+  "size": 0,
+  "bytes": 1595819068,
+  "magnet": null,
+  "files": {
+    "PEAK.rar": {
+      "torrent_id": "MDJKCNYU57CI4",
+      "id": "0",
+      "name": "PEAK.rar",
+      "size": 1595819068,
+      "is_rar": true,
+      "path": "PEAK.rar",
+      "link": "https://real-debrid.com/d/OL2PSGCJIBNJK7EE",
+      "account_id": "",
+      "generated": "2025-09-25T19:06:15.447134754-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-09-25T01:21:11.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/OL2PSGCJIBNJK7EE"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-09-25T01:21:11Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": "CGAAUEJZDHGHU",
+  "info_hash": "73c95f630f50b18d2a38c5e52f873f57c1aefd3b",
+  "name": "Juror.2.2024.HDR.2160p.WEB.H265-HuzzahItsPeter[TGx]",
+  "folder": "Juror.2.2024.HDR.2160p.WEB.H265-HuzzahItsPeter[TGx]",
+  "filename": "Juror.2.2024.HDR.2160p.WEB.H265-HuzzahItsPeter[TGx]",
+  "original_filename": "Juror.2.2024.HDR.2160p.WEB.H265-HuzzahItsPeter[TGx]",
+  "size": 0,
+  "bytes": 20869732551,
+  "magnet": null,
+  "files": {
+    "Juror.2.2024.HDR.2160p.WEB.H265-HuzzahItsPeter[TGx].rar": {
+      "torrent_id": "CGAAUEJZDHGHU",
+      "id": "0",
+      "name": "Juror.2.2024.HDR.2160p.WEB.H265-HuzzahItsPeter[TGx].rar",
+      "size": 20869732551,
+      "is_rar": true,
+      "path": "Juror.2.2024.HDR.2160p.WEB.H265-HuzzahItsPeter[TGx].rar",
+      "link": "https://real-debrid.com/d/T5BFDA4PD4PSC59B",
+      "account_id": "",
+      "generated": "2025-09-25T19:06:48.986402786-04:00",
+      "deleted": false
+    },
+    "juror.2.2024.hdr.2160p.web.h265-huzzahitspeter.mkv": {
+      "torrent_id": "CGAAUEJZDHGHU",
+      "id": "3",
+      "name": "juror.2.2024.hdr.2160p.web.h265-huzzahitspeter.mkv",
+      "size": 20662934973,
+      "is_rar": false,
+      "path": "juror.2.2024.hdr.2160p.web.h265-huzzahitspeter.mkv",
+      "link": "https://real-debrid.com/d/HYM3BYF5JDQFAD39",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-28T03:34:44.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/T5BFDA4PD4PSC59B"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-28T03:34:44Z",
+  "is_complete": true,
+  "bad": false
+}

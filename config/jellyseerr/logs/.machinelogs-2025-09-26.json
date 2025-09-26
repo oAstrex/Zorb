@@ -1,0 +1,1120 @@
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:56.458Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"842a02b6-295e-4856-9dba-62bf379393ed","timestamp":"2025-09-26T04:46:56.500Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:56.588Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d6c4ec69-a4bd-45d9-bc65-e3e3ff97e382","timestamp":"2025-09-26T04:46:56.589Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:56.592Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:56.667Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"9ef2a621-667c-4075-be24-9034adc205ba","timestamp":"2025-09-26T04:46:56.668Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:56.669Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:56.769Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"bb7dcf6e-3981-4395-ac2a-6f0172c23867","timestamp":"2025-09-26T04:46:56.772Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:56.791Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:56.948Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d47eb3ac-d901-466d-b840-2013af31ff5d","timestamp":"2025-09-26T04:46:56.949Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:56.951Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:57.012Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:57.026Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d4f26802-63c8-46b6-b056-5f9817803736","timestamp":"2025-09-26T04:46:57.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:57.060Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:57.068Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"55d51f27-26af-4252-b7cb-b7bb137f3a90","timestamp":"2025-09-26T04:46:57.069Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.086Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:57.112Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.114Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:57.118Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b0a7b4ec-f4f5-4185-b85f-f3c602ce61f0","timestamp":"2025-09-26T04:46:57.119Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.202Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:57.224Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:57.254Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b86396df-2b36-401d-89d5-e15daedb6c23","timestamp":"2025-09-26T04:46:57.254Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.344Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.364Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:57.379Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"7c3fe879-1e33-44fd-b2b7-0203963b2016","timestamp":"2025-09-26T04:46:57.380Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:57.383Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.399Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.416Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.419Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:57.459Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"0e7bae24-e511-41c4-b511-a6577ea97daa","timestamp":"2025-09-26T04:46:57.461Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:57.465Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:57.524Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T04:46:57.538Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"53f4e0ce-a31e-4f83-895b-68da85ee2d92","timestamp":"2025-09-26T04:46:57.539Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.566Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T04:46:57.579Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.601Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T04:46:57.678Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T04:47:02.150Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T04:47:13.161Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.100Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"ce4b2d44-ae3c-4b50-a97c-c0afc8ad8101","timestamp":"2025-09-26T05:47:57.103Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.198Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"93f8fa12-6c7b-4bc2-bb03-6bbda5cf5d1c","timestamp":"2025-09-26T05:47:57.202Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:57.210Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.306Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"ab343b3e-74ee-4c74-b609-e935f0d77f3a","timestamp":"2025-09-26T05:47:57.306Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:57.308Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Download Sync Reset","timestamp":"2025-09-26T05:47:57.316Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:57.378Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.384Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"89a4eaea-033d-4e54-bb57-ca0272dd1b66","timestamp":"2025-09-26T05:47:57.384Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.440Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b98bff3b-4d6a-4ac7-bb7f-6398ac1b1afd","timestamp":"2025-09-26T05:47:57.441Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:57.443Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.506Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"38a46e4c-c309-4873-8c00-574dea1b8d12","timestamp":"2025-09-26T05:47:57.509Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:57.539Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.659Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"eaacc639-786f-4c35-8eb4-b132ef66f116","timestamp":"2025-09-26T05:47:57.660Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:57.663Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:57.693Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:57.693Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:57.723Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:57.724Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.727Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"3e8cfe50-09b2-43de-b8c8-ad9f00daebac","timestamp":"2025-09-26T05:47:57.727Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:57.781Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.795Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"51b60271-dd6d-4d6d-add3-0a4baa226017","timestamp":"2025-09-26T05:47:57.795Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:57.860Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:57.873Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.895Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"c120eaf1-3e6d-4437-8178-c985048deda0","timestamp":"2025-09-26T05:47:57.896Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:57.896Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:57.901Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:57.902Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:57.921Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:57.926Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"742c77eb-ffbc-42ae-bfae-1b9091b0146f","timestamp":"2025-09-26T05:47:57.927Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:57.976Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:58.004Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T05:47:58.013Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"919c1f22-803c-4381-b1c0-f0f1faf77984","timestamp":"2025-09-26T05:47:58.014Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:58.048Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T05:47:58.054Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:58.056Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T05:47:58.129Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T05:48:02.666Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T05:48:14.081Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:04:00.881Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"cb46a2d4-a461-4334-a713-e5751b1a5caf","timestamp":"2025-09-26T06:04:00.884Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:04:00.918Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:04:00.924Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"9679987e-5b10-4c8d-a1e9-cda238d989cd","timestamp":"2025-09-26T06:04:00.924Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:04:00.940Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:04:00.944Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"40ca00c7-b88c-428e-a0f4-fd365aa01e09","timestamp":"2025-09-26T06:04:00.944Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:04:00.988Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T06:04:01.333Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T06:04:01.391Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T06:04:05.924Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T06:04:16.697Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:49:14.741Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"852f856e-2a82-4580-b895-7b4fd5250d66","timestamp":"2025-09-26T06:49:14.743Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:49:14.822Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"79cb78e6-6e77-49e9-b592-655118bb813e","timestamp":"2025-09-26T06:49:14.823Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:49:14.830Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:49:14.911Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:49:14.923Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"91d738ba-9dd2-4e04-ad83-233d000b8347","timestamp":"2025-09-26T06:49:14.924Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:49:14.985Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:49:14.990Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"edbba967-963d-40f1-a83d-0c29bfb19c31","timestamp":"2025-09-26T06:49:14.991Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:49:15.039Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"ad268ffd-f150-417a-ab06-dc145b58226a","timestamp":"2025-09-26T06:49:15.040Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:49:15.042Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:49:15.076Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"16f9a99b-e9cf-434a-8bf0-cdc2ab7434ba","timestamp":"2025-09-26T06:49:15.076Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:49:15.078Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:49:15.221Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:49:15.237Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b4496df8-b994-4bd0-9c14-af9c5531ed42","timestamp":"2025-09-26T06:49:15.238Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T06:49:15.297Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T06:49:15.303Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:49:15.337Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"76957aff-81ec-4691-91fa-6a2a239589f9","timestamp":"2025-09-26T06:49:15.337Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T06:49:15.338Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:49:15.338Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T06:49:15.388Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T06:49:15.406Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T06:49:15.412Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"764cc655-3896-405f-bf7c-3eb588fc93a1","timestamp":"2025-09-26T06:49:15.416Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:49:15.419Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T06:49:15.450Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T06:49:15.472Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T06:49:15.475Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T06:49:15.526Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T06:49:19.958Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T06:49:29.780Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:12:50.061Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"a66a7b5c-2657-4966-b433-b4c62a3d5ec8","timestamp":"2025-09-26T07:12:50.063Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:12:50.128Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"893771fa-f39b-4715-ada2-f3a167ba1370","timestamp":"2025-09-26T07:12:50.129Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:12:50.131Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:12:50.189Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:12:50.194Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"ca56bd1b-ef1c-46bc-90b8-95cd7d60f190","timestamp":"2025-09-26T07:12:50.194Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Full Scan","timestamp":"2025-09-26T07:12:50.201Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"5a6755be-3bc5-4adf-90e2-e42187d23436","timestamp":"2025-09-26T07:12:50.201Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:12:50.245Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process library: Movies","timestamp":"2025-09-26T07:12:50.261Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:12:50.267Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"88cfb005-4b80-4938-bcae-90a89d131d06","timestamp":"2025-09-26T07:12:50.267Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:12:50.283Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:12:50.288Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d331900e-5933-4268-9c65-f058b7e03d43","timestamp":"2025-09-26T07:12:50.289Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:12:50.303Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:12:51.211Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:12:51.213Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:12:51.222Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:12:51.240Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T07:12:56.420Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process library: Shows","timestamp":"2025-09-26T07:12:56.457Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T07:13:05.982Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Full Scan Complete","timestamp":"2025-09-26T07:13:05.988Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:50:21.053Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"9b320e01-8b7a-46dc-b9b4-03a7802c9693","timestamp":"2025-09-26T07:50:21.057Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:50:21.150Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"940fe93e-e09d-436c-a46e-df4521068b50","timestamp":"2025-09-26T07:50:21.151Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:50:21.158Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:50:21.227Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b9850238-e7c2-4286-a874-527514e53bbb","timestamp":"2025-09-26T07:50:21.228Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:50:21.229Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:50:21.292Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:50:21.306Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"74bfed3a-61bf-4f10-80e5-19aa008e3e3e","timestamp":"2025-09-26T07:50:21.306Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:50:21.352Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"94d8a634-167a-4fcc-a760-e5dcbed4e1f4","timestamp":"2025-09-26T07:50:21.353Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:50:21.355Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:50:21.427Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"e37b0ae6-1255-41b6-afb6-650539c1b10c","timestamp":"2025-09-26T07:50:21.427Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:50:21.429Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T07:50:21.586Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:50:21.587Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"23f35162-303a-4478-9386-d37c9a99dca4","timestamp":"2025-09-26T07:50:21.588Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:50:21.591Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:50:21.597Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:50:21.600Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:50:21.628Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:50:21.645Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T07:50:21.650Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"28dbb8b4-d5bd-45fd-9d11-756b922cbd1c","timestamp":"2025-09-26T07:50:21.651Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:50:21.679Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T07:50:21.679Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:50:21.698Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:50:21.722Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T07:50:21.755Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T07:50:26.188Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T08:07:22.893Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.059Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"cc5b9e77-b8c8-4217-b26c-527e6230834b","timestamp":"2025-09-26T08:50:27.066Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.147Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"65168950-b64b-400d-be2a-6c718b54fa90","timestamp":"2025-09-26T08:50:27.148Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.151Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Radarr Scan","timestamp":"2025-09-26T08:50:27.163Z"}
+{"label":"Radarr Scan","level":"info","message":"Scan starting","sessionId":"6974924e-61e8-4e91-8644-9da7d1f354d3","timestamp":"2025-09-26T08:50:27.164Z"}
+{"label":"Radarr Scan","level":"info","message":"Beginning to process Radarr server: Radarr","timestamp":"2025-09-26T08:50:27.164Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.236Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.247Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"6b03a3cb-7d3b-4f8f-be59-fa5b3ef608d5","timestamp":"2025-09-26T08:50:27.247Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.308Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.313Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"9fc160de-fce2-41d7-8729-fca4944f9065","timestamp":"2025-09-26T08:50:27.313Z"}
+{"label":"Radarr Scan","level":"info","message":"Media for How to Train Your Dragon exists. Changes were detected and the title will be updated.","timestamp":"2025-09-26T08:50:27.351Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.352Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.369Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"c1d74846-1777-401b-a5cc-1557c3ddb15a","timestamp":"2025-09-26T08:50:27.370Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.551Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"82711901-03a7-49a5-ab15-9f163e772496","timestamp":"2025-09-26T08:50:27.552Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.553Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.595Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.602Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"e07fba69-efd1-4094-b855-db71b08a1708","timestamp":"2025-09-26T08:50:27.602Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:27.612Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:27.612Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.630Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d7f02f80-9f19-4aed-a60b-e260a97e011f","timestamp":"2025-09-26T08:50:27.630Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Sonarr Scan","timestamp":"2025-09-26T08:50:27.632Z"}
+{"label":"Sonarr Scan","level":"info","message":"Scan starting","sessionId":"398beff6-1c82-4df9-ae3a-2cb2bd88d228","timestamp":"2025-09-26T08:50:27.633Z"}
+{"label":"Sonarr Scan","level":"info","message":"Beginning to process Sonarr server: sonarr","timestamp":"2025-09-26T08:50:27.634Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.636Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.690Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.697Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"caedeb52-db19-4c53-aeb8-403bc6678829","timestamp":"2025-09-26T08:50:27.698Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:27.706Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:27.760Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.787Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.806Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"f8fc2c52-1ab4-46bf-8d87-7f4d35ae1fec","timestamp":"2025-09-26T08:50:27.806Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:27.829Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:27.854Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.941Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.944Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"92730cae-a576-4c46-939a-0ed8522fe7ad","timestamp":"2025-09-26T08:50:27.944Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:27.953Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:27.966Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:27.975Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.976Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T08:50:27.978Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"1d63d67e-1edc-4c00-8f2c-1463a11de5f5","timestamp":"2025-09-26T08:50:27.978Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T08:50:27.995Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:28.139Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T08:50:28.140Z"}
+{"label":"Radarr Scan","level":"info","message":"Radarr scan complete","timestamp":"2025-09-26T08:50:31.368Z"}
+{"label":"Sonarr Scan","level":"info","message":"Sonarr scan complete","timestamp":"2025-09-26T08:50:31.991Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T08:50:32.785Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T08:50:46.440Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.063Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"957bf389-676e-421d-b7b3-00abe9a2e7f6","timestamp":"2025-09-26T09:51:57.070Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.140Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"e35a747a-8f7d-4da9-826a-b77fb55349e5","timestamp":"2025-09-26T09:51:57.141Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.147Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Image Cache Cleanup","timestamp":"2025-09-26T09:51:57.167Z"}
+{"label":"Image Cache","level":"error","message":"ENOENT: no such file or directory, scandir '/app/config/cache/images/tmdb'","timestamp":"2025-09-26T09:51:57.182Z"}
+{"label":"Image Cache","level":"info","message":"Cleared 0 stale image(s) from cache 'tmdb'","timestamp":"2025-09-26T09:51:57.182Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Media Availability Sync","timestamp":"2025-09-26T09:51:57.187Z"}
+{"label":"Availability Sync","level":"info","message":"Starting availability sync...","timestamp":"2025-09-26T09:51:57.187Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.236Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.269Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"51391c5a-b3a6-4187-9cbb-2acd2c8acd6c","timestamp":"2025-09-26T09:51:57.271Z"}
+{"label":"Image Cache","level":"info","message":"Cleared 1 stale image(s) from cache 'avatar'","timestamp":"2025-09-26T09:51:57.296Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.321Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"06ba0bf3-733e-45aa-ba8b-267e6a87d35c","timestamp":"2025-09-26T09:51:57.322Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.324Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.361Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2aabb91b-bbef-4399-88d1-76eea4c43479","timestamp":"2025-09-26T09:51:57.361Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.364Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.480Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d9fe2121-1ee2-456b-be34-31a1d381bf39","timestamp":"2025-09-26T09:51:57.483Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.494Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.566Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.573Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b6da171c-e184-431f-be90-0a898c7b000d","timestamp":"2025-09-26T09:51:57.574Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.585Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.611Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.632Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.644Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"48fcd3ce-5c44-4ea7-a799-e7a9b0013faf","timestamp":"2025-09-26T09:51:57.645Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.702Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.727Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.732Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"9d4ddcaa-7d20-4609-9170-82b8f705e1a9","timestamp":"2025-09-26T09:51:57.735Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.746Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.755Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.760Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d23c5c1a-8696-4e98-9d8d-515d14e5583e","timestamp":"2025-09-26T09:51:57.760Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.761Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.787Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"923bcb4d-3704-43d8-ab4e-e359695e31e5","timestamp":"2025-09-26T09:51:57.788Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.789Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T09:51:57.825Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"e2e5a897-77c9-4c2a-9615-da901d3ee149","timestamp":"2025-09-26T09:51:57.825Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.826Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.829Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.832Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T09:51:57.860Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.902Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K movie [TMDB ID 1061474] still exists. Preventing removal.","timestamp":"2025-09-26T09:51:57.902Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.956Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.968Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:51:57.980Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K movie [TMDB ID 575265] still exists. Preventing removal.","timestamp":"2025-09-26T09:51:58.038Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K movie [TMDB ID 1078605] was not found in any Radarr and jellyfin instance. Status will be changed to deleted.","timestamp":"2025-09-26T09:51:58.155Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K movie [TMDB ID 1007734] still exists. Preventing removal.","timestamp":"2025-09-26T09:51:58.305Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K movie [TMDB ID 911430] still exists. Preventing removal.","timestamp":"2025-09-26T09:51:58.429Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K show [TMDB ID 282238] still exists. Preventing removal.","timestamp":"2025-09-26T09:51:58.684Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K show [TMDB ID 43183] still exists. Preventing removal.","timestamp":"2025-09-26T09:51:58.987Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K movie [TMDB ID 1233413] still exists. Preventing removal.","timestamp":"2025-09-26T09:51:59.155Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K movie [TMDB ID 803796] still exists. Preventing removal.","timestamp":"2025-09-26T09:51:59.307Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K show [TMDB ID 157239] still exists. Preventing removal.","timestamp":"2025-09-26T09:51:59.621Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K movie [TMDB ID 617126] still exists. Preventing removal.","timestamp":"2025-09-26T09:51:59.787Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K show [TMDB ID 85552] still exists. Preventing removal.","timestamp":"2025-09-26T09:52:00.045Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K show [TMDB ID 79744] still exists. Preventing removal.","timestamp":"2025-09-26T09:52:00.311Z"}
+{"label":"AvailabilitySync","level":"info","message":"The non-4K show [TMDB ID 1416] still exists. Preventing removal.","timestamp":"2025-09-26T09:52:00.612Z"}
+{"label":"Availability Sync","level":"info","message":"Availability sync complete.","timestamp":"2025-09-26T09:52:00.616Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T09:52:02.497Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: socket hang up","timestamp":"2025-09-26T09:52:02.541Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T09:52:02.542Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:27:24.086Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"57db9b56-7ea2-416f-b5ea-460585cbc4fb","timestamp":"2025-09-26T10:27:24.091Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:27:24.184Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"1af87eb4-9c72-4569-bb3e-f6240cfa03fd","timestamp":"2025-09-26T10:27:24.185Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:27:24.192Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:27:24.311Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:27:24.316Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"84129811-ba65-4fc9-b06b-c60f240329c2","timestamp":"2025-09-26T10:27:24.317Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:27:24.339Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:27:24.350Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"aa3a57d7-26f6-4f06-a9f1-a80f52b6198b","timestamp":"2025-09-26T10:27:24.351Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:27:24.552Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:27:24.573Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"4df67b3f-d9cb-4feb-baeb-82da7b43da1d","timestamp":"2025-09-26T10:27:24.574Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T10:27:24.793Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T10:27:24.795Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T10:27:24.839Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T10:27:24.840Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:27:24.865Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T10:27:24.889Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T10:27:24.890Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:27:24.932Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"828b7da8-16cc-401f-a4b0-91611b2e46f5","timestamp":"2025-09-26T10:27:24.934Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T10:27:25.029Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T10:27:25.031Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:27:25.074Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"3ee43cd5-1e84-49c8-9b94-2aad9cd52cd4","timestamp":"2025-09-26T10:27:25.074Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:27:25.075Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:27:25.105Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T10:27:25.125Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T10:27:25.130Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T10:27:25.130Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T10:27:25.167Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T10:27:25.168Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:36:57.189Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"cb10e709-fd24-4897-8e81-6bbaada0c6fa","timestamp":"2025-09-26T10:36:57.191Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:36:57.259Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2473b997-6dfa-41a9-9443-f2632542a693","timestamp":"2025-09-26T10:36:57.259Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:36:57.277Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:36:57.314Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T10:36:57.633Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T10:37:03.296Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T10:37:16.457Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:52:33.533Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"eb25caef-939e-4854-a068-7672430facca","timestamp":"2025-09-26T10:52:33.537Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:52:33.577Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"5b9e8364-df76-4522-a61d-2e3eab79fb03","timestamp":"2025-09-26T10:52:33.579Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:52:33.595Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:52:33.670Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b301271e-e5bb-44e6-a204-67410892f97a","timestamp":"2025-09-26T10:52:33.671Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:52:33.673Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:52:33.706Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T10:52:34.001Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T10:52:34.002Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T10:52:38.483Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T10:52:51.099Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T10:55:00.051Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"c7be1a55-093c-40f4-97fb-5875a8f1b279","timestamp":"2025-09-26T10:55:00.057Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T10:55:00.097Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T10:55:04.746Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting the list of seasons from the Jellyfin server: socket hang up","timestamp":"2025-09-26T10:55:05.901Z"}
+{"errorMessage":"","jellyfinitem":{"AirDays":[],"BackdropImageTags":["e70ddfa58f48061ccea5d50627b1d0f5"],"ChannelId":null,"ChildCount":60,"CommunityRating":8.22,"EndDate":"2025-05-15T00:00:00.0000000Z","Id":"eb19a62cdf033e8a6a4e3f7c7dedce38","ImageBlurHashes":{"Backdrop":{"e70ddfa58f48061ccea5d50627b1d0f5":"WYO3d~%1?Z-;%M?b~UnltRxtRjjY?a%1oLW=RPWB~WoJa#t7t6t7"},"Logo":{"7e3ff3149f00363a269d9b551aaf28ac":"HJLz{osU%2.8.8%MIU%MIUo}_N-;MxIUay%Mfkj["},"Primary":{"310b70f3ce2450aa5ecd1723305b40be":"deHLYsogI;tR~VS5NIf6%LNLRkn$-;RkWCs:%MM|ocof"},"Thumb":{"1c4f13d98b79ad4a09cd8f12fc550edc":"WdOfx+~Uo}V{t6-;^jRkoyWEWrt7-;s.NGxut7R*~W%2t7oef+j]"}},"ImageTags":{"Logo":"7e3ff3149f00363a269d9b551aaf28ac","Primary":"310b70f3ce2450aa5ecd1723305b40be","Thumb":"1c4f13d98b79ad4a09cd8f12fc550edc"},"IsFolder":true,"LocationType":"FileSystem","MediaType":"Unknown","Name":"Grey's Anatomy","OfficialRating":"TV-14","PremiereDate":"2005-03-27T00:00:00.0000000Z","ProductionYear":2005,"RunTimeTicks":0,"ServerId":"47d75fdc816a440db000776248b28e32","Status":"Continuing","Type":"Series","UserData":{"IsFavorite":false,"ItemId":"00000000000000000000000000000000","Key":"73762","PlayCount":0,"PlaybackPositionTicks":0,"Played":false,"UnplayedItemCount":412}},"label":"Jellyfin Sync","level":"error","message":"Failed to process Jellyfin item. Id: eb19a62cdf033e8a6a4e3f7c7dedce38","timestamp":"2025-09-26T10:55:05.905Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T10:55:09.917Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T11:10:58.802Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"7d563a9d-10bf-43a8-987c-e391a32541f9","timestamp":"2025-09-26T11:10:58.803Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T11:10:58.837Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"729581f3-49ad-4f5a-ab5a-66460c692811","timestamp":"2025-09-26T11:10:58.837Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T11:10:58.848Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T11:10:58.894Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"4290694e-d5bd-4e62-a7c7-1d9243db7ef1","timestamp":"2025-09-26T11:10:58.894Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T11:10:58.896Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T11:10:58.946Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T11:10:59.174Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T11:10:59.174Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T11:11:03.691Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T11:11:14.301Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T11:24:29.546Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"48da5735-6cc0-4e5b-84c7-e127aeba4401","timestamp":"2025-09-26T11:24:29.554Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T11:24:29.655Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"165f47a9-1a61-47eb-a06c-e0aa3276eb6a","timestamp":"2025-09-26T11:24:29.655Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T11:24:29.661Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T11:24:29.768Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T11:24:34.719Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T11:24:34.728Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T11:24:34.783Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T11:24:34.783Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T11:25:00.050Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2323698a-8df9-41c7-9e62-a8dc8e6c15dc","timestamp":"2025-09-26T11:25:00.051Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T11:25:00.083Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T11:25:05.100Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T11:25:05.102Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:39.071Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"a59c00bc-a1e4-4aa4-a5fc-562af347fb03","timestamp":"2025-09-26T12:29:39.084Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:39.162Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:39.183Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"3f2e4f89-8b5e-428e-8737-f257a00d89f6","timestamp":"2025-09-26T12:29:39.183Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:39.232Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:39.242Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"662bfb27-9b7e-4b65-9fef-7cb5e0e5079a","timestamp":"2025-09-26T12:29:39.242Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: ","timestamp":"2025-09-26T12:29:39.262Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:39.263Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: ","timestamp":"2025-09-26T12:29:39.277Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:39.277Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:39.337Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:39.361Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b2444e03-260a-4a24-894c-51b6987cbaf0","timestamp":"2025-09-26T12:29:39.361Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: ","timestamp":"2025-09-26T12:29:39.425Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:39.426Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:39.503Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"7e813137-f8fc-4237-8cc5-c3f602000f75","timestamp":"2025-09-26T12:29:39.504Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:39.505Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: ","timestamp":"2025-09-26T12:29:39.538Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:39.541Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:39.568Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:39.578Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"e653eed5-a0a6-4631-841d-ee511c189e4f","timestamp":"2025-09-26T12:29:39.578Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:39.612Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"28e8f253-b9fd-476b-bd47-efee1964f7d8","timestamp":"2025-09-26T12:29:39.613Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:39.615Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:39.691Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:39.703Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"15d0bc4a-58a5-4fcf-8bbc-9403f4d3bc69","timestamp":"2025-09-26T12:29:39.704Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T12:29:39.814Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:39.829Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:39.901Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:39.923Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"cf904bd1-1b6e-4b2b-9105-239263cf6ba0","timestamp":"2025-09-26T12:29:39.926Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T12:29:39.938Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:39.939Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T12:29:40.017Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:40.018Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T12:29:40.041Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:40.043Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:40.050Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:40.062Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"a6d00539-bee2-492a-a48c-60bff0155641","timestamp":"2025-09-26T12:29:40.066Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T12:29:40.130Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:40.131Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:40.138Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"60ff6269-c8d9-466e-8895-0d3c33999dc6","timestamp":"2025-09-26T12:29:40.139Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:40.145Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T12:29:40.237Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:40.237Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:29:40.241Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"f6ffcb8f-e0c3-4c82-89c1-bf016ff91173","timestamp":"2025-09-26T12:29:40.242Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:40.246Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T12:29:40.315Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:40.318Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:29:40.343Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T12:29:40.395Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T12:29:40.397Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:30:00.041Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"4895e221-67c7-4da4-8365-b8e709f2816e","timestamp":"2025-09-26T12:30:00.043Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:30:00.075Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T12:30:04.955Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T12:30:14.522Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:35:00.078Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"c918932f-62db-43e2-9d53-504e350863bd","timestamp":"2025-09-26T12:35:00.087Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:35:00.107Z"}
+{"errorMessage":"[TMDB] Failed to find media using external IMDb ID: [TMDB] Failed to find by external ID: Client network socket disconnected before secure TLS connection was established","jellyfinitem":{"BackdropImageTags":["b7c0f922c1546ef3f853bd8a7a97d406"],"ChannelId":null,"ChildCount":0,"CommunityRating":7.485,"Container":"mkv","CriticRating":83,"HasSubtitles":true,"Id":"70038a57e18a68fff65f4f700c5c97f1","ImageBlurHashes":{"Backdrop":{"b7c0f922c1546ef3f853bd8a7a97d406":"WPHew.xc1SgjVCE75vohI9V[wawuE3XTvxM{-l$y-rkD${xaR-jE"},"Logo":{"5d35d1b450ec2af85a4d0ec766cd57a9":"OhDIEzf70%kA-mahWD=va#I=ocodWCs-Ria#oJj?WBWCoJ"},"Primary":{"3c03374aaeb3f0ff56b77a7f6ef4adbc":"duIgvD9FWYt8~qMwafX9-:slM{n+%1t3RPR*xujEV@WB"},"Thumb":{"66848b0fafc61b5bba3a6435eb44c3bc":"WuFre#D+n2rpkDjs.AIpaIjDX9f5Ivs.jrkAoMbaIYxZs:W.aLt6"}},"ImageTags":{"Logo":"5d35d1b450ec2af85a4d0ec766cd57a9","Primary":"3c03374aaeb3f0ff56b77a7f6ef4adbc","Thumb":"66848b0fafc61b5bba3a6435eb44c3bc"},"IsFolder":false,"LocationType":"FileSystem","MediaType":"Video","Name":"Superman","OfficialRating":"PG-13","PremiereDate":"2025-07-09T00:00:00.0000000Z","ProductionYear":2025,"RunTimeTicks":77629010000,"ServerId":"47d75fdc816a440db000776248b28e32","Type":"Movie","UserData":{"IsFavorite":false,"ItemId":"00000000000000000000000000000000","Key":"1061474","PlayCount":0,"PlaybackPositionTicks":0,"Played":false},"VideoType":"VideoFile"},"label":"Jellyfin Sync","level":"error","message":"Failed to process Jellyfin item, id: 70038a57e18a68fff65f4f700c5c97f1","timestamp":"2025-09-26T12:35:11.854Z"}
+{"errorMessage":"[TMDB] Failed to find media using external IMDb ID: [TMDB] Failed to find by external ID: getaddrinfo EAI_AGAIN api.themoviedb.org","jellyfinitem":{"BackdropImageTags":["afe5a7f68890816368fd94bc69d33c3e"],"ChannelId":null,"ChildCount":0,"CommunityRating":4.9,"Container":"mkv","HasSubtitles":true,"Id":"92b5164603e0e15bba697e30500df963","ImageBlurHashes":{"Backdrop":{"afe5a7f68890816368fd94bc69d33c3e":"WJAyBI5Zt7yENGtm_N9vxDogW=jE-oE2%1s+IpxZyZIp$%ofNIxZ"},"Logo":{"25bd8f9b6b162f5c300612914c8b94cf":"NHHLl1fQ4nIUIUM{xuWBt7Rjxuxu00xu9Ft7WBj["},"Primary":{"9ff1d29487beb34c94cc58ea926d8f04":"dJDww4%$sko~_NT0IqIWlAM|IpX9gixBsm%1JC$y%2t7"},"Thumb":{"9b55834b23aa515e3ba2896c30c41cd5":"WUDKooX.tQS%R-n$~pS6xtWBRjjFxuI=xue-NGW=tmNKxWozNKS4"}},"ImageTags":{"Logo":"25bd8f9b6b162f5c300612914c8b94cf","Primary":"9ff1d29487beb34c94cc58ea926d8f04","Thumb":"9b55834b23aa515e3ba2896c30c41cd5"},"IsFolder":false,"LocationType":"FileSystem","MediaType":"Video","Name":"Marvel Studios' The Fantastic Four: First Steps - World Premiere","OfficialRating":"PG-13","PremiereDate":"2025-07-21T00:00:00.0000000Z","ProductionYear":2025,"RunTimeTicks":68752500000,"ServerId":"47d75fdc816a440db000776248b28e32","Type":"Movie","UserData":{"IsFavorite":false,"ItemId":"00000000000000000000000000000000","Key":"92b51646-03e0-e15b-ba69-7e30500df963","PlayCount":0,"PlaybackPositionTicks":0,"Played":false},"VideoType":"VideoFile"},"label":"Jellyfin Sync","level":"error","message":"Failed to process Jellyfin item, id: 92b5164603e0e15bba697e30500df963","timestamp":"2025-09-26T12:35:11.955Z"}
+{"errorMessage":"[TMDB] Failed to find media using external IMDb ID: [TMDB] Failed to find by external ID: getaddrinfo EAI_AGAIN api.themoviedb.org","jellyfinitem":{"BackdropImageTags":["1de580a19aef6c27d77b0381cecd951a"],"ChannelId":null,"ChildCount":0,"CommunityRating":7.221,"Container":"mkv","CriticRating":78,"HasSubtitles":true,"Id":"d289c42cbd80b2950665dcb8d2270912","ImageBlurHashes":{"Backdrop":{"1de580a19aef6c27d77b0381cecd951a":"WrF%lCpJKkkqrWofu6X9OskXsRkCSinNNHbcs-aeyDr;NaX8jEj?"},"Logo":{"2a5ecbed86a80c622a16783a70d589bc":"PON9fZ~69xM~$~E5t4NI$~IrWDWDR,NIxYIrWDIrodNIj@R,Rmt4"},"Primary":{"710bd6f50cffcd08f22dceca869c1897":"dlI5b+%gGvt,Y8bcTKbwg3V@NKa~axe-W;X8E3bbxYs:"},"Thumb":{"7145cac7d19655582cbecf876eea3c0c":"W#Ho]]xuNefSoIxu%%t7g4f+aJjbXojZtRbcadWXozj@RjR-jYjY"}},"ImageTags":{"Logo":"2a5ecbed86a80c622a16783a70d589bc","Primary":"710bd6f50cffcd08f22dceca869c1897","Thumb":"7145cac7d19655582cbecf876eea3c0c"},"IsFolder":false,"LocationType":"FileSystem","MediaType":"Video","Name":"Nobody 2","OfficialRating":"R","PremiereDate":"2025-08-13T00:00:00.0000000Z","ProductionYear":2025,"RunTimeTicks":1075650000,"ServerId":"47d75fdc816a440db000776248b28e32","Type":"Movie","UserData":{"IsFavorite":false,"ItemId":"00000000000000000000000000000000","Key":"1007734","PlayCount":0,"PlaybackPositionTicks":0,"Played":false},"VideoType":"VideoFile"},"label":"Jellyfin Sync","level":"error","message":"Failed to process Jellyfin item, id: d289c42cbd80b2950665dcb8d2270912","timestamp":"2025-09-26T12:35:11.958Z"}
+{"errorMessage":"[TMDB] Failed to find media using external IMDb ID: [TMDB] Failed to find by external ID: ","jellyfinitem":{"BackdropImageTags":["9ec5f32053cd1f1a5b9e79f2f9e19b38"],"ChannelId":null,"ChildCount":0,"CommunityRating":7.285,"Container":"mkv","CriticRating":80,"HasSubtitles":true,"Id":"2c602f0b15fb32e0f029d4c859437612","ImageBlurHashes":{"Backdrop":{"9ec5f32053cd1f1a5b9e79f2f9e19b38":"WuKUZj~q-;IUxuxu%Mt7ofRjofofIUt7t7ofRjWB%Mt7ofWBofof"},"Logo":{"fd431344841ab5889dac6e76a400628e":"H~Q@^?s:WBoLkWozbHn%bHHXoLWVn%kCkCfknibH"},"Primary":{"f9553273f2a199a278c22784ae7e046c":"dLCG41t7_N?bELWBR5Rj00Rj4nIU_3of.8%MtlWV%2of"},"Thumb":{"f4791a33613fe59aaa440330c67aa964":"WhNTar4.9Z-p%M?b~qtQRjWBofxu%#R6i_bbWVj[?vt7nioft7xu"}},"ImageTags":{"Logo":"fd431344841ab5889dac6e76a400628e","Primary":"f9553273f2a199a278c22784ae7e046c","Thumb":"f4791a33613fe59aaa440330c67aa964"},"IsFolder":false,"LocationType":"FileSystem","MediaType":"Video","Name":"Mission: Impossible - The Final Reckoning","OfficialRating":"PG-13","PremiereDate":"2025-05-17T00:00:00.0000000Z","ProductionYear":2025,"RunTimeTicks":103749760000,"ServerId":"47d75fdc816a440db000776248b28e32","Type":"Movie","UserData":{"IsFavorite":false,"ItemId":"00000000000000000000000000000000","Key":"575265","PlayCount":0,"PlaybackPositionTicks":0,"Played":false},"VideoType":"VideoFile"},"label":"Jellyfin Sync","level":"error","message":"Failed to process Jellyfin item, id: 2c602f0b15fb32e0f029d4c859437612","timestamp":"2025-09-26T12:36:22.741Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T12:36:26.759Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T12:36:37.559Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T12:39:00.219Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:40:00.067Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"eee2f3b0-551f-435e-a5ee-77dc646eadee","timestamp":"2025-09-26T12:40:00.069Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:40:00.096Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T12:40:07.232Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T12:40:21.930Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:45:00.032Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"cc24ee47-567b-41c3-8dba-963aed048756","timestamp":"2025-09-26T12:45:00.034Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:45:00.066Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T12:45:06.109Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T12:45:38.781Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:50:00.052Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2eba955c-520d-4847-8836-808f79bfe15c","timestamp":"2025-09-26T12:50:00.055Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:50:00.072Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T12:50:05.234Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T12:50:16.781Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T12:55:00.069Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"59ed1794-f3c0-4d52-840e-981ff4cb3bfc","timestamp":"2025-09-26T12:55:00.071Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T12:55:00.094Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T12:55:05.147Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T12:55:16.615Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T13:00:00.082Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"9c79cd71-f97f-438f-922c-8d73f47af8cb","timestamp":"2025-09-26T13:00:00.084Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T13:00:00.123Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T13:00:05.423Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T13:00:17.252Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T13:05:00.053Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"28476bf8-ee43-4a46-81d1-e0ff96a1257b","timestamp":"2025-09-26T13:05:00.057Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T13:05:00.107Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T13:05:05.155Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T13:05:16.520Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T13:10:00.056Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"ce5cb30c-17fa-4f8f-a8f7-226e4fe80f76","timestamp":"2025-09-26T13:10:00.059Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T13:10:00.076Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T13:10:05.104Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T13:10:16.436Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T13:15:00.068Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2b5ae7b4-9e70-4839-bc9e-4454d71c4dce","timestamp":"2025-09-26T13:15:00.070Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T13:15:00.087Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T13:15:05.271Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T13:15:16.991Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T13:20:00.075Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"657f21bf-4476-4523-814a-3b1491765e1b","timestamp":"2025-09-26T13:20:00.086Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T13:20:00.146Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T13:20:05.336Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T13:20:16.697Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:23:00.159Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:24:00.113Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T13:25:00.041Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"5541005b-3348-47d4-bd67-54231a5602ae","timestamp":"2025-09-26T13:25:00.042Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T13:25:00.054Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:25:00.098Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T13:25:05.055Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T13:25:16.551Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:26:00.083Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:27:00.102Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:28:00.102Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:29:00.097Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T13:30:00.103Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"f2643f69-f7be-41e0-b7a4-bd4312bedfe5","timestamp":"2025-09-26T13:30:00.105Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T13:30:00.128Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:30:00.150Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T13:30:05.211Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T13:30:16.531Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:31:00.106Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:32:00.100Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:33:00.108Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T13:34:00.138Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2025-09-26T13:34:00.603Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T13:35:00.063Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"988550e6-4b7b-4984-9623-fa26f31ccea3","timestamp":"2025-09-26T13:35:00.070Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T13:35:00.104Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T13:35:05.250Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T13:35:16.902Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T13:40:00.047Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"4a10a3e2-64fe-45cd-b259-03c7a3021be3","timestamp":"2025-09-26T13:40:00.050Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T13:40:00.096Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T13:40:05.545Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T13:40:17.000Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2025-09-26T13:42:00.130Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T13:45:00.066Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"32fdf5cf-4ab3-4b61-a0a6-40bfd0d7ec69","timestamp":"2025-09-26T13:45:00.069Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T13:45:00.119Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T13:45:04.964Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T13:45:16.775Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:07:42.828Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"1855ddc5-3278-4540-be70-e427c559b0e8","timestamp":"2025-09-26T14:07:42.846Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:07:43.033Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"873417df-83ce-4731-b23d-5d3bc55371b9","timestamp":"2025-09-26T14:07:43.038Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:07:43.069Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:07:43.542Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:07:43.574Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"e64a037c-6f97-4e80-aa51-cd046b9c29a7","timestamp":"2025-09-26T14:07:43.574Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:07:43.685Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"cf51ccfb-24a8-4c43-96db-9abf523193d7","timestamp":"2025-09-26T14:07:43.686Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:07:43.707Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:07:43.785Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T14:07:44.268Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T14:07:44.292Z"}
+{"errorMessage":"New session was started. Old session aborted.","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T14:07:44.295Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T14:07:50.172Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T14:08:03.932Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:10:00.105Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"4e4aef75-1291-48a7-870d-9a3b01d0e4bc","timestamp":"2025-09-26T14:10:00.108Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:10:00.129Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T14:10:05.241Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T14:10:17.854Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:15:00.072Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d246b168-4000-4b91-bde1-48d90177e358","timestamp":"2025-09-26T14:15:00.079Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:15:00.097Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T14:15:05.151Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T14:15:05.161Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:20:00.179Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"dd44c13a-edbc-4897-8754-dd21bcca4ac2","timestamp":"2025-09-26T14:20:00.182Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:20:00.204Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T14:20:05.230Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T14:20:05.231Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:25:00.043Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"4009ea55-3edf-46fb-89c5-82f54d47d0fc","timestamp":"2025-09-26T14:25:00.047Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:25:00.069Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T14:25:05.085Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T14:25:05.089Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T14:29:00.171Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:30:00.084Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"0ba79b60-3fd6-4442-a0d1-d300b4c2ba1f","timestamp":"2025-09-26T14:30:00.085Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:30:00.115Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T14:30:00.142Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T14:30:05.434Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T14:30:18.671Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T14:31:00.140Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:35:00.071Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b82acd7a-58fd-42a2-8dd5-2e12fff41e90","timestamp":"2025-09-26T14:35:00.076Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:35:00.156Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Shows","timestamp":"2025-09-26T14:35:05.122Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Recently Added Scan Complete","timestamp":"2025-09-26T14:35:18.279Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2025-09-26T14:40:47.327Z"}
+{"level":"info","message":"Starting Jellyseerr version 2.7.3","timestamp":"2025-09-26T14:40:47.904Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2025-09-26T14:40:56.578Z"}
+{"level":"info","message":"Starting Jellyseerr version 2.7.3","timestamp":"2025-09-26T14:40:56.978Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2025-09-26T14:40:57.828Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2025-09-26T14:40:57.881Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2025-09-26T14:40:58.099Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:45:00.062Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"062e3d6b-8961-4edf-aed1-7736efbae71b","timestamp":"2025-09-26T14:45:00.070Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:45:00.083Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T14:45:00.368Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T14:45:00.369Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:50:00.049Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"77fcee74-18ce-4a4e-bef5-c6b1e500f47d","timestamp":"2025-09-26T14:50:00.052Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:50:00.067Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T14:50:00.428Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T14:50:00.428Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Alice in Borderland (2020)","timestamp":"2025-09-26T14:52:45.690Z"}
+{"label":"Media Request","level":"info","mediaId":27,"message":"Sent request to Sonarr","requestId":18,"timestamp":"2025-09-26T14:52:45.700Z"}
+{"label":"Sonarr","level":"info","message":"Sonarr accepted request","timestamp":"2025-09-26T14:52:48.295Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"House of Guinness (2025)","timestamp":"2025-09-26T14:52:50.581Z"}
+{"label":"Media Request","level":"info","mediaId":28,"message":"Sent request to Sonarr","requestId":19,"timestamp":"2025-09-26T14:52:50.601Z"}
+{"label":"Sonarr","level":"info","message":"Sonarr accepted request","timestamp":"2025-09-26T14:52:51.325Z"}
+{"label":"Media Request","level":"info","mediaId":29,"message":"Request has an override quality profile ID: 5","requestId":20,"timestamp":"2025-09-26T14:52:56.839Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"One Battle After Another (2025)","timestamp":"2025-09-26T14:52:56.873Z"}
+{"label":"Media Request","level":"info","mediaId":29,"message":"Sent request to Radarr","requestId":20,"timestamp":"2025-09-26T14:52:56.896Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2025-09-26T14:52:59.012Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Marvel Zombies (2025)","timestamp":"2025-09-26T14:53:02.210Z"}
+{"label":"Media Request","level":"info","mediaId":30,"message":"Sent request to Sonarr","requestId":21,"timestamp":"2025-09-26T14:53:02.248Z"}
+{"label":"Sonarr","level":"info","message":"Sonarr accepted request","timestamp":"2025-09-26T14:53:02.958Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Peacemaker (2022)","timestamp":"2025-09-26T14:53:11.793Z"}
+{"label":"Media Request","level":"info","mediaId":31,"message":"Sent request to Sonarr","requestId":22,"timestamp":"2025-09-26T14:53:11.858Z"}
+{"label":"Sonarr","level":"info","message":"Sonarr accepted request","timestamp":"2025-09-26T14:53:12.972Z"}
+{"label":"Media Request","level":"info","mediaId":32,"message":"Request has an override quality profile ID: 5","requestId":23,"timestamp":"2025-09-26T14:53:16.749Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"The Dark Knight (2008)","timestamp":"2025-09-26T14:53:16.808Z"}
+{"label":"Media Request","level":"info","mediaId":32,"message":"Sent request to Radarr","requestId":23,"timestamp":"2025-09-26T14:53:16.830Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2025-09-26T14:53:17.980Z"}
+{"label":"Media Request","level":"info","mediaId":2,"message":"Request has an override quality profile ID: 5","requestId":24,"timestamp":"2025-09-26T14:53:31.438Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"War of the Worlds (2025)","timestamp":"2025-09-26T14:53:31.497Z"}
+{"label":"Media Request","level":"info","mediaId":2,"message":"Sent request to Radarr","requestId":24,"timestamp":"2025-09-26T14:53:31.540Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2025-09-26T14:53:32.225Z"}
+{"label":"Media Request","level":"info","mediaId":33,"message":"Request has an override quality profile ID: 5","requestId":25,"timestamp":"2025-09-26T14:53:40.239Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Valiant One (2025)","timestamp":"2025-09-26T14:53:40.261Z"}
+{"label":"Media Request","level":"info","mediaId":33,"message":"Sent request to Radarr","requestId":25,"timestamp":"2025-09-26T14:53:40.270Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2025-09-26T14:53:41.044Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"As Good as Dead (2022)","timestamp":"2025-09-26T14:54:21.886Z"}
+{"label":"Media Request","level":"info","mediaId":34,"message":"Sent request to Radarr","requestId":26,"timestamp":"2025-09-26T14:54:21.893Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2025-09-26T14:54:22.230Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Jurassic World Rebirth (2025)","timestamp":"2025-09-26T14:54:40.057Z"}
+{"label":"Media Request","level":"info","mediaId":35,"message":"Sent request to Radarr","requestId":27,"timestamp":"2025-09-26T14:54:40.065Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2025-09-26T14:54:40.491Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T14:55:00.081Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"9ff099bf-a95c-49c3-921b-7ddb902c74b9","timestamp":"2025-09-26T14:55:00.091Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T14:55:00.117Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T14:55:00.390Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T14:55:00.390Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:00:00.031Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"284bea51-435c-413f-8581-077e8eb2be6c","timestamp":"2025-09-26T15:00:00.032Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:00:00.047Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T15:00:00.391Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:00:00.391Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2025-09-26T15:01:27.694Z"}
+{"level":"info","message":"Starting Jellyseerr version 2.7.3","timestamp":"2025-09-26T15:01:28.275Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2025-09-26T15:01:28.949Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2025-09-26T15:01:28.984Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2025-09-26T15:01:29.151Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2025-09-26T15:01:43.817Z"}
+{"level":"info","message":"Starting Jellyseerr version 2.7.3","timestamp":"2025-09-26T15:01:44.393Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2025-09-26T15:01:45.441Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2025-09-26T15:01:45.493Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2025-09-26T15:01:45.742Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2025-09-26T15:02:45.482Z"}
+{"level":"info","message":"Starting Jellyseerr version 2.7.3","timestamp":"2025-09-26T15:02:46.191Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2025-09-26T15:02:47.205Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2025-09-26T15:02:47.253Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2025-09-26T15:02:47.521Z"}
+{"errorMessage":"getaddrinfo ENOTFOUND api.github.com","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Jellyseerr can't check if it's on the latest version.","timestamp":"2025-09-26T15:03:05.651Z"}
+{"errorMessage":"getaddrinfo ENOTFOUND api.github.com","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Jellyseerr can't check if it's on the latest version.","timestamp":"2025-09-26T15:03:06.459Z"}
+{"errorMessage":"getaddrinfo ENOTFOUND api.github.com","label":"GitHub API","level":"warn","message":"Failed to retrieve GitHub releases. This may be an issue on GitHub's end. Jellyseerr can't check if it's on the latest version.","timestamp":"2025-09-26T15:03:07.754Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:05:00.062Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"9417aea3-9809-48e1-97b9-b737c4d0cb03","timestamp":"2025-09-26T15:05:00.065Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:05:00.074Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo ENOTFOUND jellyfin.zaetrix.org","timestamp":"2025-09-26T15:05:00.084Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:05:00.086Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2025-09-26T15:10:02.168Z"}
+{"level":"info","message":"Starting Jellyseerr version 2.7.3","timestamp":"2025-09-26T15:10:02.606Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2025-09-26T15:10:03.707Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2025-09-26T15:10:12.827Z"}
+{"level":"info","message":"Starting Jellyseerr version 2.7.3","timestamp":"2025-09-26T15:10:13.638Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2025-09-26T15:10:14.370Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2025-09-26T15:10:14.389Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2025-09-26T15:10:14.463Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:16:09.919Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"edda5c29-683d-44a6-a39c-3c4d5d54adac","timestamp":"2025-09-26T15:16:09.927Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:16:09.961Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T15:16:15.037Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:16:15.039Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:20:04.084Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2855828a-6a41-4672-94cd-db9f8b389321","timestamp":"2025-09-26T15:20:04.087Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:20:04.118Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T15:20:09.140Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:20:09.141Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:26:33.043Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"124e4516-dd5e-4576-b576-5920cb7478ee","timestamp":"2025-09-26T15:26:33.046Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:26:33.077Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T15:26:33.887Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:26:33.889Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:30:00.085Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"31786ff4-4579-40c9-b21d-2e4910a78327","timestamp":"2025-09-26T15:30:00.087Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:30:00.102Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T15:30:00.413Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:30:00.415Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:50:24.024Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"67caddc8-7f75-49bd-960d-e738c24e7741","timestamp":"2025-09-26T15:50:24.026Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:50:24.076Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"7e14cbed-1879-4bc6-b403-14ae131c1862","timestamp":"2025-09-26T15:50:24.077Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:50:24.082Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:50:24.109Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:50:24.191Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"a4df42c8-7eb8-4f5f-92bb-fa8e0bc8b928","timestamp":"2025-09-26T15:50:24.191Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:50:24.485Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b33bd60b-55f1-4835-bac9-9828319a6967","timestamp":"2025-09-26T15:50:24.486Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:50:24.488Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:50:24.538Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T15:50:24.562Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:50:24.562Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T15:50:24.562Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:50:24.562Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T15:50:24.726Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:50:24.727Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T15:50:24.751Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:50:24.751Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T15:59:57.061Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"912e68d9-664e-4ea0-ac92-08207555f700","timestamp":"2025-09-26T15:59:57.064Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T15:59:57.091Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T15:59:57.421Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T15:59:57.423Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:00:00.041Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"7cbc72cb-fa5a-4335-a39f-0aa6340227ff","timestamp":"2025-09-26T16:00:00.047Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:00:00.067Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:00:00.152Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:00:00.152Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:13:54.201Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"eb823ce4-3317-434b-aa0d-8889a4b63848","timestamp":"2025-09-26T16:13:54.202Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:13:54.237Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"60168a88-5680-4d35-a968-8c23f9c79ace","timestamp":"2025-09-26T16:13:54.239Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:13:54.241Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:13:54.281Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:13:54.574Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:13:54.576Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:13:54.582Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:13:54.583Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:15:00.067Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"13ff932c-d6c8-44a7-870c-54da823e0c7e","timestamp":"2025-09-26T16:15:00.070Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:15:00.100Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:15:00.397Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:15:00.399Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:20:00.072Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"6bab94ba-b9c3-43d9-8945-d129e86c2eaa","timestamp":"2025-09-26T16:20:00.076Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:20:00.096Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:20:02.825Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:20:02.827Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:45:03.809Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"51b64e5c-41a3-4854-afd0-0221076e8d5e","timestamp":"2025-09-26T16:45:03.816Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:45:03.897Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"c1be2e86-6496-4693-98f2-793ee2551ca2","timestamp":"2025-09-26T16:45:03.897Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:45:03.900Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:45:03.954Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"33498fa7-6cfc-45a3-8770-bd68f84acb66","timestamp":"2025-09-26T16:45:03.955Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:45:03.956Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:45:04.017Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"05d787c4-db28-4aa4-bd99-ade8a14de631","timestamp":"2025-09-26T16:45:04.017Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:45:04.020Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:45:04.054Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"04bf5470-d510-499a-9b08-6cf2b04a508b","timestamp":"2025-09-26T16:45:04.055Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:45:04.057Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:45:04.076Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:45:04.271Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:45:04.271Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:45:04.326Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:45:04.328Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:45:04.342Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:45:04.343Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:45:04.367Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:45:04.368Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:45:04.409Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:45:04.410Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:50:00.071Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"85c1cf6a-c158-48ca-8219-7320e7f80e5c","timestamp":"2025-09-26T16:50:00.075Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:50:00.095Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:50:00.393Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:50:00.394Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T16:55:00.055Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"ef572019-0397-422d-912a-f3a0fbd6e363","timestamp":"2025-09-26T16:55:00.058Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T16:55:00.080Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T16:55:00.426Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T16:55:00.427Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T17:00:00.066Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"6a010b01-7391-4b73-a5ba-2be88da27ce8","timestamp":"2025-09-26T17:00:00.072Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T17:00:00.093Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T17:00:00.399Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T17:00:00.399Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T17:05:00.058Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"05130abf-9d88-4c0b-9565-ede690e7efc9","timestamp":"2025-09-26T17:05:00.060Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T17:05:00.076Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T17:05:00.409Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T17:05:00.410Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T17:10:00.047Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"47c793e6-2452-472d-aa16-ff101565861b","timestamp":"2025-09-26T17:10:00.049Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T17:10:00.063Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T17:10:00.326Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T17:10:00.327Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T17:19:44.375Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"1fed821d-8cd1-4dff-80a3-e8184a6bc447","timestamp":"2025-09-26T17:19:44.378Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T17:19:44.422Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T17:19:45.062Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T17:19:45.064Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T17:20:00.016Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"57181d14-d383-4580-804a-85ecdaf9ab9f","timestamp":"2025-09-26T17:20:00.017Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T17:20:00.030Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T17:20:00.305Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T17:20:00.305Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.052Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d05b2559-a185-4635-bb56-6ad29b073bf5","timestamp":"2025-09-26T18:25:47.054Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.108Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"1594e422-0bd5-48a4-8ef4-633d5e8472d4","timestamp":"2025-09-26T18:25:47.113Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.120Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T18:25:47.275Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T18:25:47.276Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.281Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"a208b577-7acd-4ea6-af96-23286ce64401","timestamp":"2025-09-26T18:25:47.282Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.283Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Sonarr server: sonarr","timestamp":"2025-09-26T18:25:47.289Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.355Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"7cc0fb2d-a53e-4937-ade4-a8833dd4f61e","timestamp":"2025-09-26T18:25:47.355Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.357Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.398Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"917f5c22-f473-4719-b729-0c6b444ee155","timestamp":"2025-09-26T18:25:47.399Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.399Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.428Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.431Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"c011fb08-ad3c-480b-ba4a-65359215cf33","timestamp":"2025-09-26T18:25:47.431Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.451Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"1c748781-e011-4040-8241-5a0c05e054d5","timestamp":"2025-09-26T18:25:47.451Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.453Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.469Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"a168dd7b-f7a8-415a-b5d2-3af23869be7f","timestamp":"2025-09-26T18:25:47.469Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.470Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.485Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.490Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"9edd1f10-b970-45c1-a600-a64d5848c49d","timestamp":"2025-09-26T18:25:47.490Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.507Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"66873379-d742-49ac-b66c-d507c332f4d0","timestamp":"2025-09-26T18:25:47.507Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.508Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2025-09-26T18:25:47.546Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.550Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d1a98d40-4094-490d-be4c-5f4e97241b10","timestamp":"2025-09-26T18:25:47.550Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.551Z"}
+{"label":"Download Tracker","level":"error","message":"Unable to get queue from Radarr server: Radarr","timestamp":"2025-09-26T18:25:47.555Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.574Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"5bc458e1-88b3-443b-9867-8e0c31f998fe","timestamp":"2025-09-26T18:25:47.574Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.575Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:25:47.593Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"6c4fca6c-7f3e-4d40-891a-f1ab25273a12","timestamp":"2025-09-26T18:25:47.594Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.594Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:25:47.603Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:25:52.141Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:25:52.142Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:25:52.304Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:25:52.304Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:34:42.142Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:34:42.146Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:34:42.316Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:34:42.316Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:34:45.045Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2b4615b1-8fce-46f7-a349-1edf4c344adb","timestamp":"2025-09-26T18:34:45.045Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:34:45.063Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:34:47.165Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:34:47.165Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:34:47.325Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:34:47.325Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:34:52.178Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:34:52.180Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:34:52.330Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:34:52.331Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:34:57.189Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:34:57.191Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:34:57.343Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:34:57.343Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:35:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2eec77a9-7932-45a4-a104-96e070503237","timestamp":"2025-09-26T18:35:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:35:00.036Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo ENOTFOUND jellyfin.zaetrix.org","timestamp":"2025-09-26T18:35:02.135Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:35:02.138Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo ENOTFOUND jellyfin.zaetrix.org","timestamp":"2025-09-26T18:35:02.139Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:35:02.139Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:35:07.135Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:35:07.136Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:35:07.139Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:35:07.140Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: getaddrinfo EAI_AGAIN jellyfin.zaetrix.org","timestamp":"2025-09-26T18:35:12.147Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:35:12.148Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:45:14.039Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"9eb9581a-546f-40be-a7c9-199fcadf33dc","timestamp":"2025-09-26T18:45:14.041Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:45:14.059Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"8a74d027-ba1f-4e7d-8326-fe9fc20ddc9d","timestamp":"2025-09-26T18:45:14.061Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:45:14.063Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:45:14.076Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T18:45:14.324Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:45:14.324Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T18:45:14.329Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:45:14.329Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:50:00.084Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"45fbdc24-84d7-406e-9c85-1b0982c63b1b","timestamp":"2025-09-26T18:50:00.087Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:50:00.130Z"}
+{"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: ","timestamp":"2025-09-26T18:50:00.267Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:50:00.268Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T18:55:00.021Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"719f3303-0614-4005-910e-cd2fcf8b8f68","timestamp":"2025-09-26T18:55:00.023Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T18:55:00.041Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T18:55:00.471Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T18:55:00.472Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T19:00:00.024Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2c876489-215c-4ec4-8e9b-1e795b6e0388","timestamp":"2025-09-26T19:00:00.027Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T19:00:00.052Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T19:00:00.359Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T19:00:00.360Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T19:05:00.029Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"451062ee-ff5f-4093-a3ae-4e044a6d2555","timestamp":"2025-09-26T19:05:00.032Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T19:05:00.058Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T19:05:00.410Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T19:05:00.411Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T19:10:00.033Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"77188bc3-b2a5-48a5-90fb-3e00315af97a","timestamp":"2025-09-26T19:10:00.034Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T19:10:00.063Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T19:10:00.362Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T19:10:00.363Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T19:15:00.065Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"4423cbcb-3497-4261-9f93-829817cc368f","timestamp":"2025-09-26T19:15:00.067Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T19:15:00.095Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T19:15:00.486Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T19:15:00.487Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T19:20:00.052Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d99df3c1-411a-41c8-bc3a-061fcbc31ce9","timestamp":"2025-09-26T19:20:00.056Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T19:20:00.080Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T19:20:00.353Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T19:20:00.353Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T19:25:00.057Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2c2bc1d2-9201-4c47-9d30-12f7ec884bf1","timestamp":"2025-09-26T19:25:00.066Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T19:25:00.095Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T19:25:00.502Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T19:25:00.503Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T19:30:19.053Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"b8d26faa-80ad-4cde-8f2e-47f54869acf7","timestamp":"2025-09-26T19:30:19.062Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T19:30:19.080Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T19:30:19.500Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T19:30:19.502Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.053Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"bf67aca7-5e07-4029-b811-04ba9f9b384d","timestamp":"2025-09-26T20:58:13.063Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.173Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"85d629b9-689c-4bab-83a8-731509e759c4","timestamp":"2025-09-26T20:58:13.175Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.183Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.382Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.424Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"260a6c9c-49c6-4f2a-86a0-e2b47b5c0e34","timestamp":"2025-09-26T20:58:13.424Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.496Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.499Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"2358d6c8-76d7-4364-832d-740b3bca8222","timestamp":"2025-09-26T20:58:13.499Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.515Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.519Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"ba0768bf-e0fc-4fd7-8284-0206a1d63dc3","timestamp":"2025-09-26T20:58:13.519Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.529Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.532Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"0dad716c-0dd1-433a-8652-bc73b7c853c3","timestamp":"2025-09-26T20:58:13.532Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.552Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.561Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"7d801f9c-c574-4780-a42b-108f594be9d8","timestamp":"2025-09-26T20:58:13.561Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.613Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.621Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"0d7044c7-113a-400e-9002-16c7335491b4","timestamp":"2025-09-26T20:58:13.622Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.630Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.630Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.658Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.661Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"20c42d06-625a-43f6-923d-f6a227beacb7","timestamp":"2025-09-26T20:58:13.661Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.691Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.696Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"1ce81e62-49a6-4cd3-8769-f20121f70736","timestamp":"2025-09-26T20:58:13.696Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.722Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.724Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.724Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.725Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.725Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.725Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"df7c94d2-d589-44f7-9bc6-86988c495fb1","timestamp":"2025-09-26T20:58:13.725Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.751Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.752Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"caac2405-cc64-4ac2-be6c-a5264830405d","timestamp":"2025-09-26T20:58:13.752Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.778Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.779Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"cf17c1fa-a116-48fe-bf31-6d7059bd50db","timestamp":"2025-09-26T20:58:13.780Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.787Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.788Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.807Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.811Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"8ae0a5d6-7059-4518-b617-f0c0e3b421a3","timestamp":"2025-09-26T20:58:13.812Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.834Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.835Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.847Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.847Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.848Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.848Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.852Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.852Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.853Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.854Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.864Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.871Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.871Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.873Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"c7e0790a-f610-476d-b433-77fea6cb6fe6","timestamp":"2025-09-26T20:58:13.873Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.893Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.900Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.901Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.901Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"0d06d65d-e2af-4e8e-bf00-c8cc06446c99","timestamp":"2025-09-26T20:58:13.901Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.921Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T20:58:13.928Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"f9f6a247-425b-4cc2-9267-d874574bc2de","timestamp":"2025-09-26T20:58:13.928Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.930Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.930Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.933Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.933Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.938Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.938Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T20:58:13.957Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.966Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.967Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:13.988Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:13.988Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T20:58:14.029Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T20:58:14.029Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T21:03:20.083Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"6508557f-9686-4632-864e-d9b5e7af9c1a","timestamp":"2025-09-26T21:03:20.089Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T21:03:20.131Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T21:03:20.862Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T21:03:20.864Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T21:05:00.028Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"a0b51532-7921-45c3-9e10-6ddd36e78a0b","timestamp":"2025-09-26T21:05:00.029Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T21:05:00.046Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T21:05:00.283Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T21:05:00.283Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T21:10:00.020Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"d685badc-6919-4402-a661-8a2c2db3d962","timestamp":"2025-09-26T21:10:00.022Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T21:10:00.042Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T21:10:00.290Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T21:10:00.290Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T21:31:31.368Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"c72cc445-c9d5-40e7-80d6-879a873dd9bd","timestamp":"2025-09-26T21:31:31.370Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T21:31:31.398Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"46abd4a4-9cc3-4803-9ceb-646a53b611b1","timestamp":"2025-09-26T21:31:31.398Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T21:31:31.400Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T21:31:31.430Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"7e921051-a7bb-4fee-a8ca-b7f5beb3e607","timestamp":"2025-09-26T21:31:31.430Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T21:31:31.431Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T21:31:31.517Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"933a0a1f-fed8-44a6-ada0-496170cce26e","timestamp":"2025-09-26T21:31:31.518Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T21:31:31.523Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T21:31:31.599Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T21:31:32.007Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T21:31:32.009Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T21:31:32.167Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T21:31:32.168Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T21:31:32.344Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T21:31:32.345Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T21:31:32.347Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T21:31:32.348Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Jellyfin Recently Added Scan","timestamp":"2025-09-26T21:35:00.048Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Jellyfin Sync Starting","sessionId":"cf451ae4-2143-4216-9f40-c9f0b34d1d20","timestamp":"2025-09-26T21:35:00.050Z"}
+{"label":"Jellyfin Sync","level":"info","message":"Beginning to process recently added for library: Movies","timestamp":"2025-09-26T21:35:00.064Z"}
+{"error":530,"label":"Jellyfin API","level":"error","message":"Something went wrong while getting library content from the Jellyfin server: Request failed with status code 530","timestamp":"2025-09-26T21:35:00.303Z"}
+{"errorMessage":"","label":"Jellyfin Sync","level":"error","message":"Sync interrupted","timestamp":"2025-09-26T21:35:00.304Z"}

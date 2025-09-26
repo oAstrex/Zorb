@@ -1,0 +1,53 @@
+{
+  "id": "424PGLTBSYGUM",
+  "info_hash": "76b550ae5ec93576962b71dbf6d6c4b4837d8a94",
+  "name": "Life.1999.1080p.BluRay.x264.AC3-ETRG",
+  "folder": "Life.1999.1080p.BluRay.x264.AC3-ETRG",
+  "filename": "Life.1999.1080p.BluRay.x264.AC3-ETRG",
+  "original_filename": "Life.1999.1080p.BluRay.x264.AC3-ETRG",
+  "size": 0,
+  "bytes": 4326736954,
+  "magnet": null,
+  "files": {
+    "Life.1999.1080p.BluRay.x264.AC3-ETRG.Sample.mp4": {
+      "torrent_id": "424PGLTBSYGUM",
+      "id": "2",
+      "name": "Life.1999.1080p.BluRay.x264.AC3-ETRG.Sample.mp4",
+      "size": 42908091,
+      "is_rar": false,
+      "path": "Life.1999.1080p.BluRay.x264.AC3-ETRG.Sample.mp4",
+      "link": "https://real-debrid.com/d/2UOV4LXDPQFBM6DA",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Life.1999.1080p.BluRay.x264.AC3-ETRG.mp4": {
+      "torrent_id": "424PGLTBSYGUM",
+      "id": "3",
+      "name": "Life.1999.1080p.BluRay.x264.AC3-ETRG.mp4",
+      "size": 4283828863,
+      "is_rar": false,
+      "path": "Life.1999.1080p.BluRay.x264.AC3-ETRG.mp4",
+      "link": "https://real-debrid.com/d/PKWTCTKL3C5ECA5D",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-31T19:45:47.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/2UOV4LXDPQFBM6DA",
+    "https://real-debrid.com/d/PKWTCTKL3C5ECA5D"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-31T19:45:47Z",
+  "is_complete": true,
+  "bad": false
+}

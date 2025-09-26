@@ -1,0 +1,53 @@
+{
+  "id": "BIYRONYMDCZ2W",
+  "info_hash": "015e886cbeb25c3acc7713902a4f8ad0169514ab",
+  "name": "Drop.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "folder": "Drop.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "filename": "Drop.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "original_filename": "Drop.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC",
+  "size": 0,
+  "bytes": 18096305505,
+  "magnet": null,
+  "files": {
+    "Drop.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv": {
+      "torrent_id": "BIYRONYMDCZ2W",
+      "id": "2",
+      "name": "Drop.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+      "size": 17718037498,
+      "is_rar": false,
+      "path": "Drop.2025.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+      "link": "https://real-debrid.com/d/RBPJ2N4PG75EUA9D",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Sample.mkv": {
+      "torrent_id": "BIYRONYMDCZ2W",
+      "id": "3",
+      "name": "Sample.mkv",
+      "size": 378268007,
+      "is_rar": false,
+      "path": "Sample.mkv",
+      "link": "https://real-debrid.com/d/EPI6MFCYGDZEUCB9",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-04T04:24:40.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/RBPJ2N4PG75EUA9D",
+    "https://real-debrid.com/d/EPI6MFCYGDZEUCB9"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-04T04:24:40Z",
+  "is_complete": true,
+  "bad": false
+}

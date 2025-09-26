@@ -1,0 +1,40 @@
+{
+  "id": "RME5X4TT2H5CM",
+  "info_hash": "7970b1f29839b7f1c55f04bc4c89f684811045ff",
+  "name": "The.Real.Housewives.of.Atlanta.S16E09.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "folder": "The.Real.Housewives.of.Atlanta.S16E09.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "filename": "The.Real.Housewives.of.Atlanta.S16E09.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "original_filename": "The.Real.Housewives.of.Atlanta.S16E09.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+  "size": 0,
+  "bytes": 586019484,
+  "magnet": null,
+  "files": {
+    "The.Real.Housewives.of.Atlanta.S16E09.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv": {
+      "torrent_id": "RME5X4TT2H5CM",
+      "id": "1",
+      "name": "The.Real.Housewives.of.Atlanta.S16E09.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "size": 586019484,
+      "is_rar": false,
+      "path": "The.Real.Housewives.of.Atlanta.S16E09.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
+      "link": "https://real-debrid.com/d/M6C2MLGNVIY4W17E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-07T10:21:21.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/M6C2MLGNVIY4W17E"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-07T10:21:21Z",
+  "is_complete": true,
+  "bad": false
+}

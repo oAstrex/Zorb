@@ -1,0 +1,40 @@
+{
+  "id": "ARPF3CQLDCOFA",
+  "info_hash": "78f1fdfe3b4cd13d3a0319386864fed7e686c60a",
+  "name": "Cars (2006) (2160p BluRay x265 10bit HDR Tigole).mkv",
+  "folder": "Cars (2006) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)",
+  "filename": "Cars (2006) (2160p BluRay x265 10bit HDR Tigole).mkv",
+  "original_filename": "Cars (2006) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)",
+  "size": 0,
+  "bytes": 9525231073,
+  "magnet": null,
+  "files": {
+    "Cars (2006) (2160p BluRay x265 10bit HDR Tigole).mkv": {
+      "torrent_id": "ARPF3CQLDCOFA",
+      "id": "1",
+      "name": "Cars (2006) (2160p BluRay x265 10bit HDR Tigole).mkv",
+      "size": 9525231073,
+      "is_rar": false,
+      "path": "Cars (2006) (2160p BluRay x265 10bit HDR Tigole).mkv",
+      "link": "https://real-debrid.com/d/THA2FFXSX7XOM564",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-28T15:38:58.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/THA2FFXSX7XOM564"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-28T15:38:58Z",
+  "is_complete": true,
+  "bad": false
+}

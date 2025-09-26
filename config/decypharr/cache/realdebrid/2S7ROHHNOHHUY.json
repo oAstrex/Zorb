@@ -1,0 +1,53 @@
+{
+  "id": "2S7ROHHNOHHUY",
+  "info_hash": "70daeaba19b1e5000740e5187cc21473958e7b2e",
+  "name": "Creed 2015 UHD 4K BluRay 2160p HDR10 HEVC DTS-HD MA 7.1 x265-MgB",
+  "folder": "Creed 2015 UHD 4K BluRay 2160p HDR10 HEVC DTS-HD MA 7.1 x265-MgB",
+  "filename": "Creed 2015 UHD 4K BluRay 2160p HDR10 HEVC DTS-HD MA 7.1 x265-MgB",
+  "original_filename": "Creed 2015 UHD 4K BluRay 2160p HDR10 HEVC DTS-HD MA 7.1 x265-MgB",
+  "size": 0,
+  "bytes": 19801282411,
+  "magnet": null,
+  "files": {
+    "Creed 2015 UHD 4K BluRay 2160p HDR10 HEVC DTS-HD MA 7.1 x265-MgB (Sample).mkv": {
+      "torrent_id": "2S7ROHHNOHHUY",
+      "id": "9",
+      "name": "Creed 2015 UHD 4K BluRay 2160p HDR10 HEVC DTS-HD MA 7.1 x265-MgB (Sample).mkv",
+      "size": 131463872,
+      "is_rar": false,
+      "path": "Creed 2015 UHD 4K BluRay 2160p HDR10 HEVC DTS-HD MA 7.1 x265-MgB (Sample).mkv",
+      "link": "https://real-debrid.com/d/RP2H3N37X64ESD6C",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Creed 2015 UHD 4K BluRay 2160p HDR10 HEVC DTS-HD MA 7.1 x265-MgB.mkv": {
+      "torrent_id": "2S7ROHHNOHHUY",
+      "id": "25",
+      "name": "Creed 2015 UHD 4K BluRay 2160p HDR10 HEVC DTS-HD MA 7.1 x265-MgB.mkv",
+      "size": 19669818539,
+      "is_rar": false,
+      "path": "Creed 2015 UHD 4K BluRay 2160p HDR10 HEVC DTS-HD MA 7.1 x265-MgB.mkv",
+      "link": "https://real-debrid.com/d/UGFBKYKSGF2AUDD2",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-16T23:02:35.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/RP2H3N37X64ESD6C",
+    "https://real-debrid.com/d/UGFBKYKSGF2AUDD2"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-16T23:02:35Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "A7O6S7Q5GI57W",
+  "info_hash": "a67de493e0bef4d1fd525560fccd831c3484b922",
+  "name": "Animal Crossing New Horizons [XCI] [NSP]",
+  "folder": "Animal Crossing New Horizons [XCI] [NSP]",
+  "filename": "Animal Crossing New Horizons [XCI] [NSP]",
+  "original_filename": "Animal Crossing New Horizons [XCI] [NSP]",
+  "size": 0,
+  "bytes": 13775430121,
+  "magnet": null,
+  "files": {
+    "Animal Crossing New Horizons [XCI] [NSP].rar": {
+      "torrent_id": "A7O6S7Q5GI57W",
+      "id": "0",
+      "name": "Animal Crossing New Horizons [XCI] [NSP].rar",
+      "size": 13775430121,
+      "is_rar": true,
+      "path": "Animal Crossing New Horizons [XCI] [NSP].rar",
+      "link": "https://real-debrid.com/d/74HMO6R6A5HHE190",
+      "account_id": "",
+      "generated": "2025-09-25T19:07:40.139041273-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-24T10:40:19.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/74HMO6R6A5HHE190"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-24T10:40:19Z",
+  "is_complete": true,
+  "bad": false
+}

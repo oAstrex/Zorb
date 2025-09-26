@@ -1,0 +1,76 @@
+{
+  "id": "7OIL3DOKUPUO2",
+  "info_hash": "106804ce43b5521aeb209dac993a285289da8f83",
+  "name": "Ms.Rachel.S01E02.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv",
+  "folder": "www.Torrenting.com - Ms.Rachel.S01.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE",
+  "filename": "Ms.Rachel.S01E02.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv",
+  "original_filename": "www.Torrenting.com - Ms.Rachel.S01.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE",
+  "size": 0,
+  "bytes": 1232102795,
+  "magnet": null,
+  "files": {
+    "Ms.Rachel.S01E01.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv": {
+      "torrent_id": "6ZUQBR6E2EVEE",
+      "id": "1",
+      "name": "Ms.Rachel.S01E01.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv",
+      "size": 919771100,
+      "is_rar": false,
+      "path": "Ms.Rachel.S01E01.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv",
+      "link": "https://real-debrid.com/d/4RJGNNOCCLXLU801",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Ms.Rachel.S01E02.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv": {
+      "torrent_id": "6ZUQBR6E2EVEE",
+      "id": "2",
+      "name": "Ms.Rachel.S01E02.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv",
+      "size": 1232102795,
+      "is_rar": false,
+      "path": "Ms.Rachel.S01E02.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv",
+      "link": "https://real-debrid.com/d/RRFXXKLXW2D7KA85",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Ms.Rachel.S01E03.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv": {
+      "torrent_id": "6ZUQBR6E2EVEE",
+      "id": "3",
+      "name": "Ms.Rachel.S01E03.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv",
+      "size": 720688026,
+      "is_rar": false,
+      "path": "Ms.Rachel.S01E03.1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv",
+      "link": "https://real-debrid.com/d/Z5MZQUEQ7GCWO84D",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Ms.Rachel.S01E04..1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv": {
+      "torrent_id": "6ZUQBR6E2EVEE",
+      "id": "4",
+      "name": "Ms.Rachel.S01E04..1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv",
+      "size": 1817707384,
+      "is_rar": false,
+      "path": "Ms.Rachel.S01E04..1080p.NF.WEB-DL.AAC2.0.H.264-SNAKE.mkv",
+      "link": "https://real-debrid.com/d/HLDJZGOHSLP6Q456",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-26T03:18:03.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/25FIXOUS6QB4QDB1"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-26T03:18:03Z",
+  "is_complete": true,
+  "bad": false
+}

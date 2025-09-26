@@ -1,0 +1,40 @@
+{
+  "id": "3PSAVONBNNBDQ",
+  "info_hash": "43536fabde31794754978ac5fdb5e59508a83b73",
+  "name": "Mickey 17 (2025) (2160p BluRay x265 10bit DV HDR10+ r00t).mkv",
+  "folder": "Mickey 17 (2025) (2160p BluRay x265 10bit DV HDR10+ TrueHD Atmos 7.1 r00t)",
+  "filename": "Mickey 17 (2025) (2160p BluRay x265 10bit DV HDR10+ r00t).mkv",
+  "original_filename": "Mickey 17 (2025) (2160p BluRay x265 10bit DV HDR10+ TrueHD Atmos 7.1 r00t)",
+  "size": 0,
+  "bytes": 27161090863,
+  "magnet": null,
+  "files": {
+    "Mickey 17 (2025) (2160p BluRay x265 10bit DV HDR10+ r00t).mkv": {
+      "torrent_id": "3PSAVONBNNBDQ",
+      "id": "1",
+      "name": "Mickey 17 (2025) (2160p BluRay x265 10bit DV HDR10+ r00t).mkv",
+      "size": 27161090863,
+      "is_rar": false,
+      "path": "Mickey 17 (2025) (2160p BluRay x265 10bit DV HDR10+ r00t).mkv",
+      "link": "https://real-debrid.com/d/DF4Z7GEUOZZ765CF",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-29T23:26:53.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/DF4Z7GEUOZZ765CF"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-29T23:26:53Z",
+  "is_complete": true,
+  "bad": false
+}

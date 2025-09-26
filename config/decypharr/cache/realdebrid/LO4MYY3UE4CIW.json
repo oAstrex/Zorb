@@ -1,0 +1,40 @@
+{
+  "id": "LO4MYY3UE4CIW",
+  "info_hash": "71754637fd29b4be433723a4a559086e2bc083dc",
+  "name": "Iron Man [1080p]",
+  "folder": "Iron Man [1080p]",
+  "filename": "Iron Man [1080p]",
+  "original_filename": "Iron Man [1080p]",
+  "size": 0,
+  "bytes": 1773975793,
+  "magnet": null,
+  "files": {
+    "Iron.Man.2008.1080p.BrRip.x264.YIFY.mp4": {
+      "torrent_id": "LO4MYY3UE4CIW",
+      "id": "1",
+      "name": "Iron.Man.2008.1080p.BrRip.x264.YIFY.mp4",
+      "size": 1773975793,
+      "is_rar": false,
+      "path": "Iron.Man.2008.1080p.BrRip.x264.YIFY.mp4",
+      "link": "https://real-debrid.com/d/VYQ2PRGHGTKT2C7A",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-02-21T07:33:12.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/VYQ2PRGHGTKT2C7A"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-02-21T07:33:12Z",
+  "is_complete": true,
+  "bad": false
+}

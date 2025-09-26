@@ -1,0 +1,40 @@
+{
+  "id": "XEX5VKEQ37P3G",
+  "info_hash": "68e2196aedacd4aaa15de6f6b25838a838faf249",
+  "name": "debian-12.9.0-arm64-DVD-1.iso",
+  "folder": "debian-12.9.0-arm64-DVD-1.iso",
+  "filename": "debian-12.9.0-arm64-DVD-1.iso",
+  "original_filename": "debian-12.9.0-arm64-DVD-1.iso",
+  "size": 0,
+  "bytes": 3955863552,
+  "magnet": null,
+  "files": {
+    "debian-12.9.0-arm64-DVD-1.iso": {
+      "torrent_id": "XEX5VKEQ37P3G",
+      "id": "1",
+      "name": "debian-12.9.0-arm64-DVD-1.iso",
+      "size": 3955863552,
+      "is_rar": false,
+      "path": "debian-12.9.0-arm64-DVD-1.iso",
+      "link": "https://real-debrid.com/d/TIGOCS7PMXUDQ4F7",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-13T14:34:57.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/TIGOCS7PMXUDQ4F7"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-13T14:34:57Z",
+  "is_complete": true,
+  "bad": false
+}

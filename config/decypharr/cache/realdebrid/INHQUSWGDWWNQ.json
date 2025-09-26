@@ -1,0 +1,40 @@
+{
+  "id": "INHQUSWGDWWNQ",
+  "info_hash": "f5612e57a8fa38d974094b71fbca90e328d1d544",
+  "name": "Parasite (2019) (2160p BluRay x265 10bit HDR Bandi).mkv",
+  "folder": "Parasite (2019) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Bandi)",
+  "filename": "Parasite (2019) (2160p BluRay x265 10bit HDR Bandi).mkv",
+  "original_filename": "Parasite (2019) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Bandi)",
+  "size": 0,
+  "bytes": 16906261572,
+  "magnet": null,
+  "files": {
+    "Parasite (2019) (2160p BluRay x265 10bit HDR Bandi).mkv": {
+      "torrent_id": "INHQUSWGDWWNQ",
+      "id": "1",
+      "name": "Parasite (2019) (2160p BluRay x265 10bit HDR Bandi).mkv",
+      "size": 16906261572,
+      "is_rar": false,
+      "path": "Parasite (2019) (2160p BluRay x265 10bit HDR Bandi).mkv",
+      "link": "https://real-debrid.com/d/CIPM5HBDU5CEO911",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-15T00:30:13.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/CIPM5HBDU5CEO911"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-15T00:30:13Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "GE47SQLEG27SI",
+  "info_hash": "321f47baeefe3e7d7b6ba3a5ef439076c529396a",
+  "name": "Watson.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+  "folder": "Watson.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+  "filename": "Watson.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+  "original_filename": "Watson.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+  "size": 0,
+  "bytes": 3374491664,
+  "magnet": null,
+  "files": {
+    "Watson.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv": {
+      "torrent_id": "GE47SQLEG27SI",
+      "id": "1",
+      "name": "Watson.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+      "size": 3374491664,
+      "is_rar": false,
+      "path": "Watson.S01E05.1080p.WEB.h264-ETHEL[EZTVx.to].mkv",
+      "link": "https://real-debrid.com/d/HZ3GF3ZHE4V7617F",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-04-24T03:43:21.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/HZ3GF3ZHE4V7617F"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-04-24T03:43:21Z",
+  "is_complete": true,
+  "bad": false
+}

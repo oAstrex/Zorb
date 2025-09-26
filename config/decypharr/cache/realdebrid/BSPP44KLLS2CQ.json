@@ -1,0 +1,52 @@
+{
+  "id": "BSPP44KLLS2CQ",
+  "info_hash": "dcc916ef58d856e6381867cf63c9780a1b030ba0",
+  "name": "www.UIndex.org    -    Sinners (2025) 1080p WEBRip x265 10bit 5.1",
+  "folder": "www.UIndex.org    -    Sinners (2025) 1080p WEBRip x265 10bit 5.1",
+  "filename": "www.UIndex.org    -    Sinners (2025) 1080p WEBRip x265 10bit 5.1",
+  "original_filename": "www.UIndex.org    -    Sinners (2025) 1080p WEBRip x265 10bit 5.1",
+  "size": 0,
+  "bytes": 2259817055,
+  "magnet": null,
+  "files": {
+    "Sinners.2025.1080p.WEBRip.x265.10bit.AAC5.1-.mp4": {
+      "torrent_id": "BSPP44KLLS2CQ",
+      "id": "1",
+      "name": "Sinners.2025.1080p.WEBRip.x265.10bit.AAC5.1-.mp4",
+      "size": 2259811402,
+      "is_rar": false,
+      "path": "Sinners.2025.1080p.WEBRip.x265.10bit.AAC5.1-.mp4",
+      "link": "https://real-debrid.com/d/D5ZO65RZQ5VNI64D",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "www.UIndex.org    -    Sinners (2025) 1080p WEBRip x265 10bit 5.1.rar": {
+      "torrent_id": "BSPP44KLLS2CQ",
+      "id": "0",
+      "name": "www.UIndex.org    -    Sinners (2025) 1080p WEBRip x265 10bit 5.1.rar",
+      "size": 2259817055,
+      "is_rar": true,
+      "path": "www.UIndex.org    -    Sinners (2025) 1080p WEBRip x265 10bit 5.1.rar",
+      "link": "https://real-debrid.com/d/FQJPAY2IK7OCMB70",
+      "account_id": "",
+      "generated": "2025-09-25T19:08:59.53756326-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-21T12:43:07.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/FQJPAY2IK7OCMB70"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-21T12:43:07Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "CT2PBP62WSNK6",
+  "info_hash": "ea50a355c45f6edbe5cc2d18d3ee275fd129daa0",
+  "name": "STRAW.(2025).1080p.10BIt.HDR.NF.WEB-DL.Multi.DDP5.1.Atmos.H.265-themoviesboss.mkv",
+  "folder": "STRAW.(2025).1080p.10BIt.HDR.NF.WEB-DL.Multi.DDP5.1.Atmos.H.265-themoviesboss.mkv",
+  "filename": "STRAW.(2025).1080p.10BIt.HDR.NF.WEB-DL.Multi.DDP5.1.Atmos.H.265-themoviesboss.mkv",
+  "original_filename": "STRAW.(2025).1080p.10BIt.HDR.NF.WEB-DL.Multi.DDP5.1.Atmos.H.265-themoviesboss.mkv",
+  "size": 0,
+  "bytes": 3599916935,
+  "magnet": null,
+  "files": {
+    "STRAW.(2025).1080p.10BIt.HDR.NF.WEB-DL.Multi.DDP5.1.Atmos.H.265-themoviesboss.mkv": {
+      "torrent_id": "CT2PBP62WSNK6",
+      "id": "1",
+      "name": "STRAW.(2025).1080p.10BIt.HDR.NF.WEB-DL.Multi.DDP5.1.Atmos.H.265-themoviesboss.mkv",
+      "size": 3599916935,
+      "is_rar": false,
+      "path": "STRAW.(2025).1080p.10BIt.HDR.NF.WEB-DL.Multi.DDP5.1.Atmos.H.265-themoviesboss.mkv",
+      "link": "https://real-debrid.com/d/FVPZ7ME7AYPFI1A5",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-14T15:47:05.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/FVPZ7ME7AYPFI1A5"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-14T15:47:05Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "BO7LBBHMGHJLU",
+  "info_hash": "af9c4501de08d591611b3717c82a0b0fe3e1e0e9",
+  "name": "Interstellar.2014.2160p.BluRay.HEVC.HDR.DTS-HD.MA.5.1.IVA(6xRUS.UKR.ENG)_proper.mkv",
+  "folder": "Interstellar.2014.2160p.BluRay.HEVC.HDR.DTS-HD.MA.5.1.IVA(6xRUS.UKR.ENG)_proper.mkv",
+  "filename": "Interstellar.2014.2160p.BluRay.HEVC.HDR.DTS-HD.MA.5.1.IVA(6xRUS.UKR.ENG)_proper.mkv",
+  "original_filename": "Interstellar.2014.2160p.BluRay.HEVC.HDR.DTS-HD.MA.5.1.IVA(6xRUS.UKR.ENG)_proper.mkv",
+  "size": 0,
+  "bytes": 95871788974,
+  "magnet": null,
+  "files": {
+    "Interstellar.2014.2160p.BluRay.HEVC.HDR.DTS-HD.MA.5.1.IVA(6xRUS.UKR.ENG)_proper.mkv": {
+      "torrent_id": "BO7LBBHMGHJLU",
+      "id": "1",
+      "name": "Interstellar.2014.2160p.BluRay.HEVC.HDR.DTS-HD.MA.5.1.IVA(6xRUS.UKR.ENG)_proper.mkv",
+      "size": 95871788974,
+      "is_rar": false,
+      "path": "Interstellar.2014.2160p.BluRay.HEVC.HDR.DTS-HD.MA.5.1.IVA(6xRUS.UKR.ENG)_proper.mkv",
+      "link": "https://real-debrid.com/d/EPG5PUKL73XYC2F1",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-13T06:47:18.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/EPG5PUKL73XYC2F1"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-13T06:47:18Z",
+  "is_complete": true,
+  "bad": false
+}

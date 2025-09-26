@@ -1,0 +1,40 @@
+{
+  "id": "OKHKXUZVX2TUW",
+  "info_hash": "760245da5a04e71e0c7a62c009622b4bce46c1da",
+  "name": "The.Banker.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
+  "folder": "The Banker (2020) [720p] [WEBRip] [YTS.MX]",
+  "filename": "The.Banker.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
+  "original_filename": "The Banker (2020) [720p] [WEBRip] [YTS.MX]",
+  "size": 0,
+  "bytes": 1159539439,
+  "magnet": null,
+  "files": {
+    "The.Banker.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4": {
+      "torrent_id": "OKHKXUZVX2TUW",
+      "id": "1",
+      "name": "The.Banker.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
+      "size": 1159539439,
+      "is_rar": false,
+      "path": "The.Banker.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4",
+      "link": "https://real-debrid.com/d/QNK4HO7SDYTHE492",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-09-26T07:22:51.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/QNK4HO7SDYTHE492"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-09-26T07:22:51Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "KHOSQZB7YVEH2",
+  "info_hash": "8ac5edb3d6d1aa944942aa5d56c77e2a48aba18f",
+  "name": "garuda-mokka-linux-zen-250308.iso",
+  "folder": "garuda-mokka-linux-zen-250308.iso",
+  "filename": "garuda-mokka-linux-zen-250308.iso",
+  "original_filename": "garuda-mokka-linux-zen-250308.iso",
+  "size": 0,
+  "bytes": 3145285632,
+  "magnet": null,
+  "files": {
+    "garuda-mokka-linux-zen-250308.iso": {
+      "torrent_id": "KHOSQZB7YVEH2",
+      "id": "1",
+      "name": "garuda-mokka-linux-zen-250308.iso",
+      "size": 3145285632,
+      "is_rar": false,
+      "path": "garuda-mokka-linux-zen-250308.iso",
+      "link": "https://real-debrid.com/d/MVIPLOECZV23EE1D",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-05-26T16:36:56.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/MVIPLOECZV23EE1D"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-05-26T16:36:56Z",
+  "is_complete": true,
+  "bad": false
+}

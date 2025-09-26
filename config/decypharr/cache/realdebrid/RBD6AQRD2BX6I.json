@@ -1,0 +1,66 @@
+{
+  "id": "RBD6AQRD2BX6I",
+  "info_hash": "30b08d8acead554b02f3ce158e17f43e0f3531d1",
+  "name": "CoComelon.S02.1080p.NF.WEBRip.DDP2.0.x264-NPMS[rartv]",
+  "folder": "CoComelon.S02.1080p.NF.WEBRip.DDP2.0.x264-NPMS[rartv]",
+  "filename": "CoComelon.S02.1080p.NF.WEBRip.DDP2.0.x264-NPMS[rartv]",
+  "original_filename": "CoComelon.S02.1080p.NF.WEBRip.DDP2.0.x264-NPMS[rartv]",
+  "size": 0,
+  "bytes": 7099709875,
+  "magnet": null,
+  "files": {
+    "CoComelon.S02E01.Learn.and.Play.With.J.J.1080p.NF.WEB-DL.DDP2.0.x264-NPMS.mkv": {
+      "torrent_id": "RBD6AQRD2BX6I",
+      "id": "1",
+      "name": "CoComelon.S02E01.Learn.and.Play.With.J.J.1080p.NF.WEB-DL.DDP2.0.x264-NPMS.mkv",
+      "size": 2437008097,
+      "is_rar": false,
+      "path": "CoComelon.S02E01.Learn.and.Play.With.J.J.1080p.NF.WEB-DL.DDP2.0.x264-NPMS.mkv",
+      "link": "https://real-debrid.com/d/HZGWR472TUG5W4DC",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "CoComelon.S02E02.Family.Jams.1080p.NF.WEB-DL.DDP2.0.x264-NPMS.mkv": {
+      "torrent_id": "RBD6AQRD2BX6I",
+      "id": "2",
+      "name": "CoComelon.S02E02.Family.Jams.1080p.NF.WEB-DL.DDP2.0.x264-NPMS.mkv",
+      "size": 2640539240,
+      "is_rar": false,
+      "path": "CoComelon.S02E02.Family.Jams.1080p.NF.WEB-DL.DDP2.0.x264-NPMS.mkv",
+      "link": "https://real-debrid.com/d/SBNLIMOQDAQ742D0",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "CoComelon.S02E03.Playtime.Favorites.1080p.NF.WEB-DL.DDP2.0.x264-NPMS.mkv": {
+      "torrent_id": "RBD6AQRD2BX6I",
+      "id": "3",
+      "name": "CoComelon.S02E03.Playtime.Favorites.1080p.NF.WEB-DL.DDP2.0.x264-NPMS.mkv",
+      "size": 2022162538,
+      "is_rar": false,
+      "path": "CoComelon.S02E03.Playtime.Favorites.1080p.NF.WEB-DL.DDP2.0.x264-NPMS.mkv",
+      "link": "https://real-debrid.com/d/R6Z7JSHFNHLMA69E",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-09-10T02:11:18.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/HZGWR472TUG5W4DC",
+    "https://real-debrid.com/d/SBNLIMOQDAQ742D0",
+    "https://real-debrid.com/d/R6Z7JSHFNHLMA69E"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-09-10T02:11:18Z",
+  "is_complete": true,
+  "bad": false
+}

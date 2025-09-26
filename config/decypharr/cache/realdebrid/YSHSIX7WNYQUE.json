@@ -1,0 +1,54 @@
+{
+  "id": "YSHSIX7WNYQUE",
+  "info_hash": "9BCF214996A6077618FF69B5F96A6AFAD19F5527",
+  "name": "Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv",
+  "folder": "Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC",
+  "filename": "Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv",
+  "original_filename": "Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC",
+  "size": 0,
+  "bytes": 9915889402,
+  "magnet": {
+    "name": "[bitsearch.to] Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC",
+    "infoHash": "9BCF214996A6077618FF69B5F96A6AFAD19F5527",
+    "size": 0,
+    "link": "magnet:?xt=urn:btih:9BCF214996A6077618FF69B5F96A6AFAD19F5527\u0026dn=%5Bbitsearch.to%5D%20Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC\u0026tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fconcen.org%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fbt.ktrackers.com%3A6666%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce"
+  },
+  "files": {
+    "Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv": {
+      "torrent_id": "YSHSIX7WNYQUE",
+      "id": "11",
+      "name": "Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv",
+      "size": 9915889402,
+      "is_rar": false,
+      "path": "Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv",
+      "link": "https://real-debrid.com/d/EAGEOS63ZGIPIE20",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/EAGEOS63ZGIPIE20"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": {
+    "name": "radarr",
+    "host": "http://radarr:7878",
+    "token": "1b16dd5299fb40699be2933d7c84a53a",
+    "type": "radarr",
+    "cleanup": true,
+    "skip_repair": true,
+    "download_uncached": false,
+    "source": "auto"
+  },
+  "added_on": "2025-09-26T10:53:46.114136752-04:00",
+  "is_complete": true,
+  "bad": false
+}

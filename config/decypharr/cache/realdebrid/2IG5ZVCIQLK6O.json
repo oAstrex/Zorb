@@ -1,0 +1,40 @@
+{
+  "id": "2IG5ZVCIQLK6O",
+  "info_hash": "b390b0bad4885bd1401543728adec05d0d7c29d2",
+  "name": "cachyos-desktop-linux-250530.iso",
+  "folder": "cachyos-desktop-linux-250530.iso",
+  "filename": "cachyos-desktop-linux-250530.iso",
+  "original_filename": "cachyos-desktop-linux-250530.iso",
+  "size": 0,
+  "bytes": 2827124736,
+  "magnet": null,
+  "files": {
+    "cachyos-desktop-linux-250530.iso": {
+      "torrent_id": "2IG5ZVCIQLK6O",
+      "id": "1",
+      "name": "cachyos-desktop-linux-250530.iso",
+      "size": 2827124736,
+      "is_rar": false,
+      "path": "cachyos-desktop-linux-250530.iso",
+      "link": "https://real-debrid.com/d/2GTJZSG2EY2MY75F",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-04T22:07:36.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/2GTJZSG2EY2MY75F"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-04T22:07:36Z",
+  "is_complete": true,
+  "bad": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "MVDMMTVV7LLFU",
+  "info_hash": "0e773fc303798c41c0cfa1dd050aa17704b092ec",
+  "name": "Palmer.2021.iTA-ENG.WEBDL.2160p.x265-CYBER.mkv",
+  "folder": "Palmer.2021.iTA-ENG.WEBDL.2160p.x265-CYBER.mkv",
+  "filename": "Palmer.2021.iTA-ENG.WEBDL.2160p.x265-CYBER.mkv",
+  "original_filename": "Palmer.2021.iTA-ENG.WEBDL.2160p.x265-CYBER.mkv",
+  "size": 0,
+  "bytes": 22832183649,
+  "magnet": null,
+  "files": {
+    "Palmer.2021.iTA-ENG.WEBDL.2160p.x265-CYBER.mkv": {
+      "torrent_id": "MVDMMTVV7LLFU",
+      "id": "1",
+      "name": "Palmer.2021.iTA-ENG.WEBDL.2160p.x265-CYBER.mkv",
+      "size": 22832183649,
+      "is_rar": false,
+      "path": "Palmer.2021.iTA-ENG.WEBDL.2160p.x265-CYBER.mkv",
+      "link": "https://real-debrid.com/d/ME3S47UVTWCZO2F7",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-17T06:58:37.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ME3S47UVTWCZO2F7"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-17T06:58:37Z",
+  "is_complete": true,
+  "bad": false
+}

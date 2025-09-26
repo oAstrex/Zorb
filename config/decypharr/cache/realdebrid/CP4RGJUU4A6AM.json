@@ -1,0 +1,40 @@
+{
+  "id": "CP4RGJUU4A6AM",
+  "info_hash": "a81f44db938e364d1655f72816bf6404e4de16ea",
+  "name": "Cyberpunk 2077 [DODI Repack]",
+  "folder": "Cyberpunk 2077 [DODI Repack]",
+  "filename": "Cyberpunk 2077 [DODI Repack]",
+  "original_filename": "Cyberpunk 2077 [DODI Repack]",
+  "size": 0,
+  "bytes": 134349630843,
+  "magnet": null,
+  "files": {
+    "Cyberpunk 2077 [DODI Repack].rar": {
+      "torrent_id": "CP4RGJUU4A6AM",
+      "id": "0",
+      "name": "Cyberpunk 2077 [DODI Repack].rar",
+      "size": 134349630843,
+      "is_rar": true,
+      "path": "Cyberpunk 2077 [DODI Repack].rar",
+      "link": "https://real-debrid.com/d/ACQTYBI7QAK4AF54",
+      "account_id": "",
+      "generated": "2025-09-25T19:10:01.466370951-04:00",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-15T07:08:42.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/ACQTYBI7QAK4AF54"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-15T07:08:42Z",
+  "is_complete": true,
+  "bad": false
+}

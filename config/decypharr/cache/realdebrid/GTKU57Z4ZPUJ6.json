@@ -1,0 +1,40 @@
+{
+  "id": "GTKU57Z4ZPUJ6",
+  "info_hash": "19445779a615bc46d9683b5b603efffe45d16282",
+  "name": "CODA.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+  "folder": "CODA (2021) [1080p] [BluRay] [5.1] [YTS.MX]",
+  "filename": "CODA.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+  "original_filename": "CODA (2021) [1080p] [BluRay] [5.1] [YTS.MX]",
+  "size": 0,
+  "bytes": 2219843121,
+  "magnet": null,
+  "files": {
+    "CODA.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4": {
+      "torrent_id": "GTKU57Z4ZPUJ6",
+      "id": "1",
+      "name": "CODA.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+      "size": 2219843121,
+      "is_rar": false,
+      "path": "CODA.2021.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4",
+      "link": "https://real-debrid.com/d/FKZ3AWVJFZDMM464",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-17T06:43:12.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/FKZ3AWVJFZDMM464"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-17T06:43:12Z",
+  "is_complete": true,
+  "bad": false
+}

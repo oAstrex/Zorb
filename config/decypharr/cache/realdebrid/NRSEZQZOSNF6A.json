@@ -1,0 +1,40 @@
+{
+  "id": "NRSEZQZOSNF6A",
+  "info_hash": "f127c613b6793dad079e62549b1c25c8cae45164",
+  "name": "The.Life.Of.Chuck.2024.2160p.WEB-DL.HDR10+.DDP5.1.H265.MP4-BEN.THE.MEN",
+  "folder": "The.Life.Of.Chuck.2024.2160p.WEB-DL.HDR10+.DDP5.1.H265.MP4-BEN.THE.MEN",
+  "filename": "The.Life.Of.Chuck.2024.2160p.WEB-DL.HDR10+.DDP5.1.H265.MP4-BEN.THE.MEN",
+  "original_filename": "The.Life.Of.Chuck.2024.2160p.WEB-DL.HDR10+.DDP5.1.H265.MP4-BEN.THE.MEN",
+  "size": 0,
+  "bytes": 13803547318,
+  "magnet": null,
+  "files": {
+    "The.Life.Of.Chuck.2024.2160p.WEB-DL.HDR10+[Ben The Men].mp4": {
+      "torrent_id": "NRSEZQZOSNF6A",
+      "id": "1",
+      "name": "The.Life.Of.Chuck.2024.2160p.WEB-DL.HDR10+[Ben The Men].mp4",
+      "size": 13803547318,
+      "is_rar": false,
+      "path": "The.Life.Of.Chuck.2024.2160p.WEB-DL.HDR10+[Ben The Men].mp4",
+      "link": "https://real-debrid.com/d/WZD6JHYH367JW2AC",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-31T19:47:53.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/WZD6JHYH367JW2AC"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-31T19:47:53Z",
+  "is_complete": true,
+  "bad": false
+}

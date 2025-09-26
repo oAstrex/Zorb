@@ -1,0 +1,40 @@
+{
+  "id": "TF6JNBSRLN2JG",
+  "info_hash": "1c11aca77864c563aa02828eccadc6e12e0615a1",
+  "name": "Thats.My.Boy.2012.2160p.SDR.WEBRip.DTS.5.1.EN.FR.x265-GASMASK.mkv",
+  "folder": "Thats.My.Boy.2012.2160p.WEBRip.x265.10bit.SDR.DTS.5.1-GASMASK",
+  "filename": "Thats.My.Boy.2012.2160p.SDR.WEBRip.DTS.5.1.EN.FR.x265-GASMASK.mkv",
+  "original_filename": "Thats.My.Boy.2012.2160p.WEBRip.x265.10bit.SDR.DTS.5.1-GASMASK",
+  "size": 0,
+  "bytes": 29397202026,
+  "magnet": null,
+  "files": {
+    "Thats.My.Boy.2012.2160p.SDR.WEBRip.DTS.5.1.EN.FR.x265-GASMASK.mkv": {
+      "torrent_id": "TF6JNBSRLN2JG",
+      "id": "2",
+      "name": "Thats.My.Boy.2012.2160p.SDR.WEBRip.DTS.5.1.EN.FR.x265-GASMASK.mkv",
+      "size": 29397202026,
+      "is_rar": false,
+      "path": "Thats.My.Boy.2012.2160p.SDR.WEBRip.DTS.5.1.EN.FR.x265-GASMASK.mkv",
+      "link": "https://real-debrid.com/d/VYUKUT6IV7TXG316",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-03-14T21:30:40.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/VYUKUT6IV7TXG316"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-03-14T21:30:40Z",
+  "is_complete": true,
+  "bad": false
+}

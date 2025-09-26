@@ -1,0 +1,53 @@
+{
+  "id": "LJ72DS4HUFE3A",
+  "info_hash": "4bd455b01b38a4b82d9e6cf544e73ece687c1714",
+  "name": "Spaceballs.1987.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-CoSMiC",
+  "folder": "Spaceballs.1987.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-CoSMiC",
+  "filename": "Spaceballs.1987.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-CoSMiC",
+  "original_filename": "Spaceballs.1987.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-CoSMiC",
+  "size": 0,
+  "bytes": 37901067753,
+  "magnet": null,
+  "files": {
+    "Sample-SBHM10.mkv": {
+      "torrent_id": "LJ72DS4HUFE3A",
+      "id": "2",
+      "name": "Sample-SBHM10.mkv",
+      "size": 223082841,
+      "is_rar": false,
+      "path": "Sample-SBHM10.mkv",
+      "link": "https://real-debrid.com/d/FHZE3YSDCVCZY43A",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Spaceballs.1987.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ.mkv": {
+      "torrent_id": "LJ72DS4HUFE3A",
+      "id": "3",
+      "name": "Spaceballs.1987.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ.mkv",
+      "size": 37677984912,
+      "is_rar": false,
+      "path": "Spaceballs.1987.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ.mkv",
+      "link": "https://real-debrid.com/d/WYYVAS5UOEQ7O466",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-06-19T15:07:05.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/FHZE3YSDCVCZY43A",
+    "https://real-debrid.com/d/WYYVAS5UOEQ7O466"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-06-19T15:07:05Z",
+  "is_complete": true,
+  "bad": false
+}

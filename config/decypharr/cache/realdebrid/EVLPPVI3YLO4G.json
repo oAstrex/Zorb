@@ -1,0 +1,40 @@
+{
+  "id": "EVLPPVI3YLO4G",
+  "info_hash": "4b8750d3b2b4087309b17cd03d43fcb61441c37b",
+  "name": "The.Pickup.2025.2160p.WEB-DL.DV.HDR10+.MULTi.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN",
+  "folder": "The.Pickup.2025.2160p.WEB-DL.DV.HDR10+.MULTi.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN",
+  "filename": "The.Pickup.2025.2160p.WEB-DL.DV.HDR10+.MULTi.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN",
+  "original_filename": "The.Pickup.2025.2160p.WEB-DL.DV.HDR10+.MULTi.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN",
+  "size": 0,
+  "bytes": 14529659533,
+  "magnet": null,
+  "files": {
+    "The.Pickup.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4": {
+      "torrent_id": "EVLPPVI3YLO4G",
+      "id": "7",
+      "name": "The.Pickup.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4",
+      "size": 14529659533,
+      "is_rar": false,
+      "path": "The.Pickup.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4",
+      "link": "https://real-debrid.com/d/FEVCGNN6BTUWC1FB",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-08-19T22:20:50.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/FEVCGNN6BTUWC1FB"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-08-19T22:20:50Z",
+  "is_complete": true,
+  "bad": false
+}

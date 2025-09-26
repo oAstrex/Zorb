@@ -1,0 +1,40 @@
+{
+  "id": "CASN7PL65HZOK",
+  "info_hash": "12dca1477081e566918bac5a30f04dc4ee2a0ec6",
+  "name": "plane.2023.hdr.2160p.web.h265-naisu.mkv",
+  "folder": "Plane.2023.HDR.2160p.WEB.H265-NAISU[TGx]",
+  "filename": "plane.2023.hdr.2160p.web.h265-naisu.mkv",
+  "original_filename": "Plane.2023.HDR.2160p.WEB.H265-NAISU[TGx]",
+  "size": 0,
+  "bytes": 12283946707,
+  "magnet": null,
+  "files": {
+    "plane.2023.hdr.2160p.web.h265-naisu.mkv": {
+      "torrent_id": "CASN7PL65HZOK",
+      "id": "3",
+      "name": "plane.2023.hdr.2160p.web.h265-naisu.mkv",
+      "size": 12283946707,
+      "is_rar": false,
+      "path": "plane.2023.hdr.2160p.web.h265-naisu.mkv",
+      "link": "https://real-debrid.com/d/UBTSNJUQ44FJQ722",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "2025-07-22T04:54:41.000Z",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": [
+    "https://real-debrid.com/d/UBTSNJUQ44FJQ722"
+  ],
+  "mount_path": "/mounts/Real-Debrid",
+  "deleted_files": null,
+  "debrid": "realdebrid",
+  "arr": null,
+  "added_on": "2025-07-22T04:54:41Z",
+  "is_complete": true,
+  "bad": false
+}
