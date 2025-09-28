@@ -46,14 +46,6 @@
   },
   "arrs": [
     {
-      "name": "radarr",
-      "host": "http://radarr:7878/",
-      "token": "1b16dd5299fb40699be2933d7c84a53a",
-      "cleanup": true,
-      "skip_repair": true,
-      "download_uncached": false
-    },
-    {
       "name": "tv",
       "host": "http://sonarr:8989",
       "token": "3db93f0a4711480792c0f3c38b0d7c15",

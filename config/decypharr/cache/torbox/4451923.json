@@ -1,0 +1,52 @@
+{
+  "id": "4451923",
+  "info_hash": "FEB85D94401CDE8D738CFD34F7B8F4528E74133B",
+  "name": "Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E",
+  "folder": "Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E",
+  "filename": "Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E",
+  "original_filename": "Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E",
+  "size": 0,
+  "bytes": 26658460656,
+  "magnet": {
+    "name": "[bitsearch.to] Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E",
+    "infoHash": "FEB85D94401CDE8D738CFD34F7B8F4528E74133B",
+    "size": 0,
+    "link": "magnet:?xt=urn:btih:FEB85D94401CDE8D738CFD34F7B8F4528E74133B\u0026dn=%5Bbitsearch.to%5D%20Tron%201982%20UHD%20BluRay%202160p%20HDR10%20DV%20HEVC%20TRueHD%20Atmos%207.1%20x265-E\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce"
+  },
+  "files": {
+    "Tron 1982.mkv": {
+      "torrent_id": "4451923",
+      "id": "0",
+      "name": "Tron 1982.mkv",
+      "size": 26658460656,
+      "is_rar": false,
+      "path": "Tron 1982.mkv",
+      "link": "torbox://4451923/0",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": null,
+  "mount_path": "/mounts/TorBox",
+  "deleted_files": null,
+  "debrid": "torbox",
+  "arr": {
+    "name": "radarr",
+    "host": "http://radarr:7878",
+    "token": "1b16dd5299fb40699be2933d7c84a53a",
+    "type": "radarr",
+    "cleanup": false,
+    "skip_repair": false,
+    "download_uncached": false,
+    "source": "auto"
+  },
+  "added_on": "2025-09-28T15:35:22.019510276-04:00",
+  "is_complete": true,
+  "bad": false
+}

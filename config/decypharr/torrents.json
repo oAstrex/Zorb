@@ -1,116 +1,78 @@
 {
-  "30eac3c754d06c29aeff9eaa5e97e567bb285bb8|tv": {
-    "id": "29bf92f8-d314-40b5-b12f-d08759966e7d",
-    "debrid_id": "NA6KTHYJJ4MWQ",
-    "debrid": "realdebrid",
-    "files": [
-      {
-        "name": "Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv",
-        "size": 2696100575
-      }
-    ],
-    "added_on": 1758914464,
-    "amount_left": 0,
-    "auto_tmm": false,
-    "category": "tv",
-    "completed": 2696100575,
-    "content_path": "/downloads/tv/Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv/",
-    "dl_limit": -1,
-    "dlspeed": 0,
-    "downloaded": 2696100575,
-    "downloaded_session": 2696100575,
-    "eta": 0,
-    "hash": "30eac3c754d06c29aeff9eaa5e97e567bb285bb8",
-    "magnet_uri": "magnet:?xt=urn:btih:30EAC3C754D06C29AEFF9EAA5E97E567BB285BB8\u0026dn=Peacemaker+S02E06+Ignorance+is+Chris+1080p+AMZN+WEB-DL+DDP5+1+H+264-NTb\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce",
-    "name": "Peacemaker S02E06 Ignorance is Chris 1080p AMZN WEB-DL DDP5 1 H 264-NTb.mkv",
-    "progress": 1,
-    "ratio": 1,
-    "ratio_limit": 1,
-    "save_path": "/downloads/tv/",
-    "seq_dl": false,
-    "size": 2696100575,
-    "state": "downloading",
-    "super_seeding": false,
-    "tracker": "udp://tracker.opentrackr.org:1337",
-    "up_limit": -1,
-    "uploaded": 2696100575,
-    "uploaded_session": 2696100575,
-    "source": "qbit"
-  },
-  "3f1b43186d880aaa20ccdbbd770040606ea824fd|radarr": {
-    "id": "798a6c0c-ebb9-4b04-863e-8e565a05cb75",
-    "debrid_id": "4367658",
+  "28d353fe35650b121f71d5120a8f95ac38d5d2da|radarr": {
+    "id": "07cf2c0b-5716-42d3-9930-4d78aa004c33",
+    "debrid_id": "4452081",
     "debrid": "torbox",
     "files": [
       {
-        "name": "Weapons.2025.4K.HDR.DV.2160p WEBDL Ita Eng x265-NAHOM.mkv",
-        "size": 24583048283
+        "name": "The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv",
+        "size": 2984570567
       }
     ],
-    "added_on": 1758841358,
+    "added_on": 1759088466,
     "amount_left": 0,
     "auto_tmm": false,
     "category": "radarr",
-    "completed": 24583191797,
-    "content_path": "/downloads/radarr/Weapons.2025.4K.HDR.DV.2160p WEBDL Ita Eng x265-NAHOM/",
+    "completed": 2984570600,
+    "content_path": "/downloads/radarr/The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA/",
     "dl_limit": -1,
     "dlspeed": 0,
-    "downloaded": 24583191797,
-    "downloaded_session": 24583191797,
+    "downloaded": 2984570600,
+    "downloaded_session": 2984570600,
     "eta": 0,
-    "hash": "3f1b43186d880aaa20ccdbbd770040606ea824fd",
-    "magnet_uri": "magnet:?xt=urn:btih:3F1B43186D880AAA20CCDBBD770040606EA824FD\u0026dn=Weapons.2025.4K.HDR.DV.2160p+WEBDL+Ita+Eng+x265-NAHOM\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
-    "name": "Weapons.2025.4K.HDR.DV.2160p WEBDL Ita Eng x265-NAHOM",
+    "hash": "28d353fe35650b121f71d5120a8f95ac38d5d2da",
+    "magnet_uri": "magnet:?xt=urn:btih:28D353FE35650B121F71D5120A8F95AC38D5D2DA\u0026dn=The+Bad+Guys+2.2025+2160p+HDR10Plus+DV+WEBRip+6CH+x265+HEVC-PSA\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce",
+    "name": "The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA",
     "progress": 1,
     "ratio": 1,
     "ratio_limit": 1,
     "save_path": "/downloads/radarr/",
     "seq_dl": false,
-    "size": 24583191797,
+    "size": 2984570600,
     "state": "downloading",
     "super_seeding": false,
     "tracker": "udp://tracker.opentrackr.org:1337",
     "up_limit": -1,
-    "uploaded": 24583191797,
-    "uploaded_session": 24583191797,
-    "source": "api"
+    "uploaded": 2984570600,
+    "uploaded_session": 2984570600,
+    "source": "qbit"
   },
   "4f25b63a8f171a62ef8939d53eb081377fe75385|tv": {
-    "id": "1dca8aef-40df-46a5-b9ab-0b139dac2bec",
-    "debrid_id": "BHBZT2LSAUPB2",
-    "debrid": "realdebrid",
+    "id": "129347fe-1bca-4dfb-9182-bdcbbbd61f29",
+    "debrid_id": "4424227",
+    "debrid": "torbox",
     "files": [
       {
-        "name": "Alice.in.Borderland.S03E05.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
-        "size": 1282002931
-      },
-      {
-        "index": 1,
-        "name": "Alice.in.Borderland.S03E06.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
-        "size": 1096970771
-      },
-      {
-        "index": 2,
         "name": "Alice.in.Borderland.S03E01.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
         "size": 820163068
       },
       {
-        "index": 3,
+        "index": 1,
         "name": "Alice.in.Borderland.S03E02.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
         "size": 825678423
       },
       {
-        "index": 4,
+        "index": 2,
         "name": "Alice.in.Borderland.S03E03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
         "size": 866949424
       },
       {
-        "index": 5,
+        "index": 3,
         "name": "Alice.in.Borderland.S03E04.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
         "size": 1050621914
+      },
+      {
+        "index": 4,
+        "name": "Alice.in.Borderland.S03E05.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+        "size": 1282002931
+      },
+      {
+        "index": 5,
+        "name": "Alice.in.Borderland.S03E06.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+        "size": 1096970771
       }
     ],
-    "added_on": 1758898434,
+    "added_on": 1759012195,
     "amount_left": 0,
     "auto_tmm": false,
     "category": "tv",
@@ -122,7 +84,7 @@
     "downloaded_session": 5942386531,
     "eta": 0,
     "hash": "4f25b63a8f171a62ef8939d53eb081377fe75385",
-    "magnet_uri": "magnet:?xt=urn:btih:4F25B63A8F171A62EF8939D53EB081377FE75385\u0026dn=Alice+in+Borderland+S03+1080p+NF+WEB-DL+AAC5+1+H+265-REL1VIN\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce",
+    "magnet_uri": "magnet:?xt=urn:btih:4F25B63A8F171A62EF8939D53EB081377FE75385\u0026dn=%5Bbitsearch.to%5D%20Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce",
     "name": "Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN",
     "progress": 1,
     "ratio": 1,
@@ -138,466 +100,42 @@
     "uploaded_session": 5942386531,
     "source": "qbit"
   },
-  "555c1785f212ae355a58bc50817abf1bc68558ab|tv": {
-    "id": "e63ce62e-b766-49d3-a186-b0af3e141f3c",
-    "debrid_id": "7J36BJ676QAPE",
-    "debrid": "realdebrid",
-    "files": [
-      {
-        "name": "Marvel.Zombies.1x01.Episodio.1.ITA.ENG.1080p.DSNP.WEBRip.AAC.x265-Pir8.mkv",
-        "size": 276168169
-      },
-      {
-        "index": 1,
-        "name": "Marvel.Zombies.1x04.Episodio.4.ITA.ENG.1080p.DSNP.WEBRip.AAC.x265-Pir8.mkv",
-        "size": 297540640
-      },
-      {
-        "index": 2,
-        "name": "Marvel.Zombies.1x02.Episodio.2.ITA.ENG.1080p.DSNP.WEBRip.AAC.x265-Pir8.mkv",
-        "size": 293770860
-      },
-      {
-        "index": 3,
-        "name": "Marvel.Zombies.1x03.Episodio.3.ITA.ENG.1080p.DSNP.WEBRip.AAC.x265-Pir8.mkv",
-        "size": 280425942
-      }
-    ],
-    "added_on": 1758898428,
-    "amount_left": 0,
-    "auto_tmm": false,
-    "category": "tv",
-    "completed": 1147905611,
-    "content_path": "/downloads/tv/Marvel.Zombies.S01.ITA.ENG.1080p.DSNP.WEBRip.AAC.x265-Pir8/",
-    "dl_limit": -1,
-    "dlspeed": 0,
-    "downloaded": 1147905611,
-    "downloaded_session": 1147905611,
-    "eta": 0,
-    "hash": "555c1785f212ae355a58bc50817abf1bc68558ab",
-    "magnet_uri": "magnet:?xt=urn:btih:555C1785F212AE355A58BC50817ABF1BC68558AB\u0026dn=%5Bbitsearch.to%5D%20Marvel.Zombies.S01.ITA.ENG.1080p.DSNP.WEBRip.AAC.x265-Pir8\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce",
-    "name": "Marvel.Zombies.S01.ITA.ENG.1080p.DSNP.WEBRip.AAC.x265-Pir8",
-    "progress": 1,
-    "ratio": 1,
-    "ratio_limit": 1,
-    "save_path": "/downloads/tv/",
-    "seq_dl": false,
-    "size": 1147905611,
-    "state": "downloading",
-    "super_seeding": false,
-    "tracker": "udp://tracker.opentrackr.org:1337",
-    "up_limit": -1,
-    "uploaded": 1147905611,
-    "uploaded_session": 1147905611,
-    "source": "qbit"
-  },
-  "582c342f9b864966d1605839bf50e80cc0755ddd|tv": {
-    "id": "d5b9bc87-0cd8-42c2-ae3b-6de5813397b7",
-    "debrid_id": "SOCCMR4Z7VXMA",
-    "debrid": "realdebrid",
-    "files": [
-      {
-        "name": "Peacemaker.2022.S01E04.1080p.BluRay.x265-RARBG[eztv.re].mp4",
-        "size": 781794294
-      },
-      {
-        "index": 1,
-        "name": "Peacemaker.2022.S01E05.1080p.BluRay.x265-RARBG[eztv.re].mp4",
-        "size": 710848599
-      },
-      {
-        "index": 2,
-        "name": "Peacemaker.2022.S01E06.1080p.BluRay.x265-RARBG[eztv.re].mp4",
-        "size": 785269366
-      },
-      {
-        "index": 3,
-        "name": "Peacemaker.2022.S01E07.1080p.BluRay.x265-RARBG[eztv.re].mp4",
-        "size": 652067536
-      },
-      {
-        "index": 4,
-        "name": "Peacemaker.2022.S01E08.1080p.BluRay.x265-RARBG[eztv.re].mp4",
-        "size": 747620289
-      },
-      {
-        "index": 5,
-        "name": "Peacemaker.2022.S01E02.1080p.BluRay.x265-RARBG[eztv.re].mp4",
-        "size": 678763974
-      },
-      {
-        "index": 6,
-        "name": "Peacemaker.2022.S01E01.1080p.BluRay.x265-RARBG[eztv.re].mp4",
-        "size": 780426560
-      },
-      {
-        "index": 7,
-        "name": "Peacemaker.2022.S01E03.1080p.BluRay.x265-RARBG[eztv.re].mp4",
-        "size": 660641372
-      }
-    ],
-    "added_on": 1758898436,
-    "amount_left": 0,
-    "auto_tmm": false,
-    "category": "tv",
-    "completed": 5797431990,
-    "content_path": "/downloads/tv/Peacemaker.2022.S01.1080p.BluRay.x265[eztv.re]/",
-    "dl_limit": -1,
-    "dlspeed": 0,
-    "downloaded": 5797431990,
-    "downloaded_session": 5797431990,
-    "eta": 0,
-    "hash": "582c342f9b864966d1605839bf50e80cc0755ddd",
-    "magnet_uri": "magnet:?xt=urn:btih:582C342F9B864966D1605839BF50E80CC0755DDD\u0026dn=Peacemaker+2022+S01+1080p+BluRay+x265\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce",
-    "name": "Peacemaker.2022.S01.1080p.BluRay.x265[eztv.re]",
-    "progress": 1,
-    "ratio": 1,
-    "ratio_limit": 1,
-    "save_path": "/downloads/tv/",
-    "seq_dl": false,
-    "size": 5797431990,
-    "state": "downloading",
-    "super_seeding": false,
-    "tracker": "udp://tracker.opentrackr.org:1337",
-    "up_limit": -1,
-    "uploaded": 5797431990,
-    "uploaded_session": 5797431990,
-    "source": "qbit"
-  },
-  "873f8598478b513504ddea2c343ba5217874c22a|radarr": {
-    "id": "ad08cd0d-26d8-4170-ba56-5c4deb94be8d",
-    "debrid_id": "BPV3CBJ67QOHC",
-    "debrid": "realdebrid",
-    "files": [
-      {
-        "name": "Jurassic World Rebirth (1).mkv",
-        "size": 25843277890
-      }
-    ],
-    "added_on": 1758898485,
-    "amount_left": 0,
-    "auto_tmm": false,
-    "category": "radarr",
-    "completed": 25843277890,
-    "content_path": "/downloads/radarr/Jurassic World Rebirth (1).mkv/",
-    "dl_limit": -1,
-    "dlspeed": 0,
-    "downloaded": 25843277890,
-    "downloaded_session": 25843277890,
-    "eta": 0,
-    "hash": "873f8598478b513504ddea2c343ba5217874c22a",
-    "magnet_uri": "magnet:?xt=urn:btih:873F8598478B513504DDEA2C343BA5217874C22A\u0026dn=%5Bbitsearch.to%5D%20Jurassic%20World%20Rebirth%202025%20USA%20UHD%20BluRay%202160p%20HDR10%20DV%20HEVC%20TrueHD%20Atmos%207.1%20x265-E\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce",
-    "name": "Jurassic World Rebirth (1).mkv",
-    "progress": 1,
-    "ratio": 1,
-    "ratio_limit": 1,
-    "save_path": "/downloads/radarr/",
-    "seq_dl": false,
-    "size": 25843277890,
-    "state": "downloading",
-    "super_seeding": false,
-    "tracker": "udp://tracker.opentrackr.org:1337",
-    "up_limit": -1,
-    "uploaded": 25843277890,
-    "uploaded_session": 25843277890,
-    "source": "qbit"
-  },
-  "94f6fa26c1edcf710f908ff1492e71428bb6742b|tv": {
-    "id": "08674a27-9163-4996-9c50-9a9da8e35267",
-    "debrid_id": "GS5OEWJ2DYOH6",
-    "debrid": "realdebrid",
-    "files": [
-      {
-        "name": "Alice in Borderland - S02E03 - Episode 3.mkv",
-        "size": 708053231
-      },
-      {
-        "index": 1,
-        "name": "Alice in Borderland - S02E04 - Episode 4.mkv",
-        "size": 627690264
-      },
-      {
-        "index": 2,
-        "name": "Alice in Borderland - S02E05 - Episode 5.mkv",
-        "size": 990184367
-      },
-      {
-        "index": 3,
-        "name": "Alice in Borderland - S02E06 - Episode 6.mkv",
-        "size": 852566369
-      },
-      {
-        "index": 4,
-        "name": "Alice in Borderland - S02E07 - Episode 7.mkv",
-        "size": 905677061
-      },
-      {
-        "index": 5,
-        "name": "Alice in Borderland - S02E08 - Episode 8.mkv",
-        "size": 928951917
-      },
-      {
-        "index": 6,
-        "name": "Alice in Borderland - S02E01 - Episode 1.mkv",
-        "size": 702142071
-      },
-      {
-        "index": 7,
-        "name": "Alice in Borderland - S02E02 - Episode 2.mkv",
-        "size": 765036016
-      }
-    ],
-    "added_on": 1758898423,
-    "amount_left": 0,
-    "auto_tmm": false,
-    "category": "tv",
-    "completed": 6480301296,
-    "content_path": "/downloads/tv/Alice in Borderland - Season 2 (2022)/",
-    "dl_limit": -1,
-    "dlspeed": 0,
-    "downloaded": 6480301296,
-    "downloaded_session": 6480301296,
-    "eta": 0,
-    "hash": "94f6fa26c1edcf710f908ff1492e71428bb6742b",
-    "magnet_uri": "magnet:?xt=urn:btih:94F6FA26C1EDCF710F908FF1492E71428BB6742B\u0026dn=Alice+in+Borderland+S02+S02+2022+1080p+NF+WEBRip+AAC5.1+10bits+x265-Rapta\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce",
-    "name": "Alice in Borderland - Season 2 (2022)",
-    "progress": 1,
-    "ratio": 1,
-    "ratio_limit": 1,
-    "save_path": "/downloads/tv/",
-    "seq_dl": false,
-    "size": 6480301296,
-    "state": "downloading",
-    "super_seeding": false,
-    "tracker": "udp://tracker.opentrackr.org:1337",
-    "up_limit": -1,
-    "uploaded": 6480301296,
-    "uploaded_session": 6480301296,
-    "source": "qbit"
-  },
-  "9bcf214996a6077618ff69b5f96a6afad19f5527|radarr": {
-    "id": "d76d8dcb-f98f-4e5a-8b9e-5cf71e786fe8",
-    "debrid_id": "YSHSIX7WNYQUE",
-    "debrid": "realdebrid",
-    "files": [
-      {
-        "name": "Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv",
-        "size": 9915889402
-      }
-    ],
-    "added_on": 1758898426,
-    "amount_left": 0,
-    "auto_tmm": false,
-    "category": "radarr",
-    "completed": 9915889402,
-    "content_path": "/downloads/radarr/Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv/",
-    "dl_limit": -1,
-    "dlspeed": 0,
-    "downloaded": 9915889402,
-    "downloaded_session": 9915889402,
-    "eta": 0,
-    "hash": "9bcf214996a6077618ff69b5f96a6afad19f5527",
-    "magnet_uri": "magnet:?xt=urn:btih:9BCF214996A6077618FF69B5F96A6AFAD19F5527\u0026dn=%5Bbitsearch.to%5D%20Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC\u0026tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fconcen.org%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.tryhackx.org%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fbt.ktrackers.com%3A6666%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce",
-    "name": "Valiant.One.2025.2160p.WEB-DL.DDP5.1.SDR.H265-AOC.mkv",
-    "progress": 1,
-    "ratio": 1,
-    "ratio_limit": 1,
-    "save_path": "/downloads/radarr/",
-    "seq_dl": false,
-    "size": 9915889402,
-    "state": "downloading",
-    "super_seeding": false,
-    "tracker": "udp://tracker.opentrackr.org:1337",
-    "up_limit": -1,
-    "uploaded": 9915889402,
-    "uploaded_session": 9915889402,
-    "source": "qbit"
-  },
-  "9fedba5b6f986be41dd5c34a63c7c11cdb2e308b|radarr": {
-    "id": "fe73ed77-2000-4953-8a28-83141a3a2143",
-    "debrid_id": "4383281",
+  "feb85d94401cde8d738cfd34f7b8f4528e74133b|radarr": {
+    "id": "60a0f0d2-5db5-4006-b45d-0274cfbc10b5",
+    "debrid_id": "4451923",
     "debrid": "torbox",
     "files": [
       {
-        "name": "War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv",
-        "size": 13900960319
+        "name": "Tron 1982.mkv",
+        "size": 26658460656
       }
     ],
-    "added_on": 1758898416,
+    "added_on": 1759088122,
     "amount_left": 0,
     "auto_tmm": false,
     "category": "radarr",
-    "completed": 13900960319,
-    "content_path": "/downloads/radarr/War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv/",
+    "completed": 26658460656,
+    "content_path": "/downloads/radarr/Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E/",
     "dl_limit": -1,
     "dlspeed": 0,
-    "downloaded": 13900960319,
-    "downloaded_session": 13900960319,
+    "downloaded": 26658460656,
+    "downloaded_session": 26658460656,
     "eta": 0,
-    "hash": "9fedba5b6f986be41dd5c34a63c7c11cdb2e308b",
-    "magnet_uri": "magnet:?xt=urn:btih:9FEDBA5B6F986BE41DD5C34A63C7C11CDB2E308B\u0026dn=%5Bbitsearch.to%5D%20War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce",
-    "name": "War.of.the.Worlds.2025.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1-K83.mkv",
+    "hash": "feb85d94401cde8d738cfd34f7b8f4528e74133b",
+    "magnet_uri": "magnet:?xt=urn:btih:FEB85D94401CDE8D738CFD34F7B8F4528E74133B\u0026dn=%5Bbitsearch.to%5D%20Tron%201982%20UHD%20BluRay%202160p%20HDR10%20DV%20HEVC%20TRueHD%20Atmos%207.1%20x265-E\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce",
+    "name": "Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E",
     "progress": 1,
     "ratio": 1,
     "ratio_limit": 1,
     "save_path": "/downloads/radarr/",
     "seq_dl": false,
-    "size": 13900960319,
+    "size": 26658460656,
     "state": "downloading",
     "super_seeding": false,
     "tracker": "udp://tracker.opentrackr.org:1337",
     "up_limit": -1,
-    "uploaded": 13900960319,
-    "uploaded_session": 13900960319,
-    "source": "qbit"
-  },
-  "a1ac3a044dae2c42abfb87aa27709166212109b2|radarr": {
-    "id": "fa3f0697-f8ab-492d-bc45-5af4ebb50b1d",
-    "debrid_id": "4367986",
-    "debrid": "torbox",
-    "files": [
-      {
-        "name": "How.To.Train.Your.Dragon.2025.2160p.AMZN.WEB-DL.DV.HDR10+[Ben The Men].mp4",
-        "size": 25649674933
-      }
-    ],
-    "added_on": 1758842362,
-    "amount_left": 0,
-    "auto_tmm": false,
-    "category": "radarr",
-    "completed": 25649674933,
-    "content_path": "/downloads/radarr/How.To.Train.Your.Dragon.2025.2160p.WEB.DV.HDR10+.ENG.LATINO.HINDI.H265.MP4-BTM/",
-    "dl_limit": -1,
-    "dlspeed": 0,
-    "downloaded": 25649674933,
-    "downloaded_session": 25649674933,
-    "eta": 0,
-    "hash": "a1ac3a044dae2c42abfb87aa27709166212109b2",
-    "magnet_uri": "magnet:?xt=urn:btih:A1AC3A044DAE2C42ABFB87AA27709166212109B2\u0026dn=How.To.Train.Your.Dragon.2025.2160p.WEB.DV.HDR10%2b.ENG.LATINO.HINDI.H265.MP4-BTM\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce",
-    "name": "How.To.Train.Your.Dragon.2025.2160p.WEB.DV.HDR10+.ENG.LATINO.HINDI.H265.MP4-BTM",
-    "progress": 1,
-    "ratio": 1,
-    "ratio_limit": 1,
-    "save_path": "/downloads/radarr/",
-    "seq_dl": false,
-    "size": 25649674933,
-    "state": "downloading",
-    "super_seeding": false,
-    "tracker": "udp://tracker.opentrackr.org:1337",
-    "up_limit": -1,
-    "uploaded": 25649674933,
-    "uploaded_session": 25649674933,
-    "source": "qbit"
-  },
-  "a5fc2e0ac62e290c9c62fbd47a2462e96a84f52c|radarr": {
-    "id": "245a510f-15f7-45c0-a7de-a8c418405fe7",
-    "debrid_id": "JOMWTCVFLMZF2",
-    "debrid": "realdebrid",
-    "files": [
-      {
-        "name": "The.Dark.Knight.2008.2160p.UHD.BluRay.X265-IAMABLE.mkv",
-        "size": 23159188655
-      }
-    ],
-    "added_on": 1758898406,
-    "amount_left": 0,
-    "auto_tmm": false,
-    "category": "radarr",
-    "completed": 23159188655,
-    "content_path": "/downloads/radarr/The.Dark.Knight.2008.2160p.UHD.BluRay.X265-IAMABLE/",
-    "dl_limit": -1,
-    "dlspeed": 0,
-    "downloaded": 23159188655,
-    "downloaded_session": 23159188655,
-    "eta": 0,
-    "hash": "a5fc2e0ac62e290c9c62fbd47a2462e96a84f52c",
-    "magnet_uri": "magnet:?xt=urn:btih:A5FC2E0AC62E290C9C62FBD47A2462E96A84F52C\u0026dn=The.Dark.Knight.2008.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce",
-    "name": "The.Dark.Knight.2008.2160p.UHD.BluRay.X265-IAMABLE",
-    "progress": 1,
-    "ratio": 1,
-    "ratio_limit": 1,
-    "save_path": "/downloads/radarr/",
-    "seq_dl": false,
-    "size": 23159188655,
-    "state": "downloading",
-    "super_seeding": false,
-    "tracker": "udp://tracker.opentrackr.org:1337",
-    "up_limit": -1,
-    "uploaded": 23159188655,
-    "uploaded_session": 23159188655,
-    "source": "qbit"
-  },
-  "aabfeeba25dc2734d19c61fbeb9ad3d8d7d28e18|tv": {
-    "id": "862f3882-e0e1-4f62-9ffa-7ebb1f90f5fb",
-    "debrid_id": "37IXIPVRMR44I",
-    "debrid": "realdebrid",
-    "files": [
-      {
-        "name": "Alice.in.Borderland.S01E02.JAPANESE.1080p.WEBRip.x265-RARBG[eztv.re].mp4",
-        "size": 849375395
-      },
-      {
-        "index": 1,
-        "name": "Alice.in.Borderland.S01E01.JAPANESE.1080p.WEBRip.x265-RARBG[eztv.re].mp4",
-        "size": 812688129
-      },
-      {
-        "index": 2,
-        "name": "Alice.in.Borderland.S01E03.JAPANESE.1080p.WEBRip.x265-RARBG[eztv.re].mp4",
-        "size": 712385695
-      },
-      {
-        "index": 3,
-        "name": "Alice.in.Borderland.S01E04.JAPANESE.1080p.WEBRip.x265-RARBG[eztv.re].mp4",
-        "size": 791516572
-      },
-      {
-        "index": 4,
-        "name": "Alice.in.Borderland.S01E05.JAPANESE.1080p.WEBRip.x265-RARBG[eztv.re].mp4",
-        "size": 866359808
-      },
-      {
-        "index": 5,
-        "name": "Alice.in.Borderland.S01E06.JAPANESE.1080p.WEBRip.x265-RARBG[eztv.re].mp4",
-        "size": 697225665
-      },
-      {
-        "index": 6,
-        "name": "Alice.in.Borderland.S01E07.JAPANESE.1080p.WEBRip.x265-RARBG[eztv.re].mp4",
-        "size": 808389938
-      },
-      {
-        "index": 7,
-        "name": "Alice.in.Borderland.S01E08.JAPANESE.1080p.WEBRip.x265-RARBG[eztv.re].mp4",
-        "size": 886946587
-      }
-    ],
-    "added_on": 1758898416,
-    "amount_left": 0,
-    "auto_tmm": false,
-    "category": "tv",
-    "completed": 6424887789,
-    "content_path": "/downloads/tv/Alice.in.Borderland.S01.JAPANESE.1080p.WEBRip.x265-RARBG[eztv.re]/",
-    "dl_limit": -1,
-    "dlspeed": 0,
-    "downloaded": 6424887789,
-    "downloaded_session": 6424887789,
-    "eta": 0,
-    "hash": "aabfeeba25dc2734d19c61fbeb9ad3d8d7d28e18",
-    "magnet_uri": "magnet:?xt=urn:btih:AABFEEBA25DC2734D19C61FBEB9AD3D8D7D28E18\u0026dn=Alice+in+Borderland+S01+JAPANESE+1080p+WEBRip+x265-\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce",
-    "name": "Alice.in.Borderland.S01.JAPANESE.1080p.WEBRip.x265-RARBG[eztv.re]",
-    "progress": 1,
-    "ratio": 1,
-    "ratio_limit": 1,
-    "save_path": "/downloads/tv/",
-    "seq_dl": false,
-    "size": 6424887789,
-    "state": "downloading",
-    "super_seeding": false,
-    "tracker": "udp://tracker.opentrackr.org:1337",
-    "up_limit": -1,
-    "uploaded": 6424887789,
-    "uploaded_session": 6424887789,
+    "uploaded": 26658460656,
+    "uploaded_session": 26658460656,
     "source": "qbit"
   }
 }

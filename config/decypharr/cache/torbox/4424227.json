@@ -1,0 +1,112 @@
+{
+  "id": "4424227",
+  "info_hash": "4F25B63A8F171A62EF8939D53EB081377FE75385",
+  "name": "Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN",
+  "folder": "Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN",
+  "filename": "Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN",
+  "original_filename": "Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN",
+  "size": 0,
+  "bytes": 5942386531,
+  "magnet": {
+    "name": "[bitsearch.to] Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN",
+    "infoHash": "4F25B63A8F171A62EF8939D53EB081377FE75385",
+    "size": 0,
+    "link": "magnet:?xt=urn:btih:4F25B63A8F171A62EF8939D53EB081377FE75385\u0026dn=%5Bbitsearch.to%5D%20Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN\u0026tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce\u0026tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce\u0026tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce\u0026tr=udp%3A%2F%2Ftracker.bitsearch.to%3A1337%2Fannounce"
+  },
+  "files": {
+    "Alice.in.Borderland.S03E01.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv": {
+      "torrent_id": "4424227",
+      "id": "2",
+      "name": "Alice.in.Borderland.S03E01.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "size": 820163068,
+      "is_rar": false,
+      "path": "Alice.in.Borderland.S03E01.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "link": "torbox://4424227/2",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Alice.in.Borderland.S03E02.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv": {
+      "torrent_id": "4424227",
+      "id": "1",
+      "name": "Alice.in.Borderland.S03E02.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "size": 825678423,
+      "is_rar": false,
+      "path": "Alice.in.Borderland.S03E02.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "link": "torbox://4424227/1",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Alice.in.Borderland.S03E03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv": {
+      "torrent_id": "4424227",
+      "id": "5",
+      "name": "Alice.in.Borderland.S03E03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "size": 866949424,
+      "is_rar": false,
+      "path": "Alice.in.Borderland.S03E03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "link": "torbox://4424227/5",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Alice.in.Borderland.S03E04.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv": {
+      "torrent_id": "4424227",
+      "id": "0",
+      "name": "Alice.in.Borderland.S03E04.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "size": 1050621914,
+      "is_rar": false,
+      "path": "Alice.in.Borderland.S03E04.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "link": "torbox://4424227/0",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Alice.in.Borderland.S03E05.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv": {
+      "torrent_id": "4424227",
+      "id": "3",
+      "name": "Alice.in.Borderland.S03E05.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "size": 1282002931,
+      "is_rar": false,
+      "path": "Alice.in.Borderland.S03E05.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "link": "torbox://4424227/3",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    },
+    "Alice.in.Borderland.S03E06.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv": {
+      "torrent_id": "4424227",
+      "id": "4",
+      "name": "Alice.in.Borderland.S03E06.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "size": 1096970771,
+      "is_rar": false,
+      "path": "Alice.in.Borderland.S03E06.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN.mkv",
+      "link": "torbox://4424227/4",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": null,
+  "mount_path": "/mounts/TorBox",
+  "deleted_files": null,
+  "debrid": "torbox",
+  "arr": {
+    "name": "tv",
+    "host": "http://sonarr:8989",
+    "token": "3db93f0a4711480792c0f3c38b0d7c15",
+    "type": "sonarr",
+    "cleanup": false,
+    "skip_repair": false,
+    "download_uncached": false,
+    "source": "auto"
+  },
+  "added_on": "2025-09-27T18:29:55.334052468-04:00",
+  "is_complete": true,
+  "bad": false
+}

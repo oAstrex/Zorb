@@ -37,9 +37,9 @@
  },
  "jellyfin": {
   "name": "Mac",
-  "ip": "jellyfin.zaetrix.org",
-  "port": 443,
-  "useSsl": true,
+  "ip": "192.168.12.184",
+  "port": 8096,
+  "useSsl": false,
   "urlBase": "",
   "externalHostname": "",
   "jellyfinForgotPasswordUrl": "",

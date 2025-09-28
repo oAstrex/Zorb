@@ -1,0 +1,52 @@
+{
+  "id": "4452081",
+  "info_hash": "28D353FE35650B121F71D5120A8F95AC38D5D2DA",
+  "name": "The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA",
+  "folder": "The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA",
+  "filename": "The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA",
+  "original_filename": "The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA",
+  "size": 0,
+  "bytes": 2984570600,
+  "magnet": {
+    "name": "The Bad Guys 2.2025 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA",
+    "infoHash": "28D353FE35650B121F71D5120A8F95AC38D5D2DA",
+    "size": 0,
+    "link": "magnet:?xt=urn:btih:28D353FE35650B121F71D5120A8F95AC38D5D2DA\u0026dn=The+Bad+Guys+2.2025+2160p+HDR10Plus+DV+WEBRip+6CH+x265+HEVC-PSA\u0026tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.auctor.tv%3a6969%2fannounce\u0026tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce\u0026tr=https%3a%2f%2fopentracker.i2p.rocks%3a443%2fannounce\u0026tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce\u0026tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce\u0026tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce\u0026tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce\u0026tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2fuploads.gamecoast.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker1.bt.moack.co.kr%3a80%2fannounce\u0026tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.theoks.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce\u0026tr=udp%3a%2f%2ftracker-udp.gbitt.info%3a80%2fannounce\u0026tr=udp%3a%2f%2fopen.tracker.ink%3a6969%2fannounce\u0026tr=udp%3a%2f%2fmovies.zsw.ca%3a6969%2fannounce"
+  },
+  "files": {
+    "The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv": {
+      "torrent_id": "4452081",
+      "id": "1",
+      "name": "The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv",
+      "size": 2984570567,
+      "is_rar": false,
+      "path": "The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA.mkv",
+      "link": "torbox://4452081/1",
+      "account_id": "",
+      "generated": "0001-01-01T00:00:00Z",
+      "deleted": false
+    }
+  },
+  "status": "downloaded",
+  "added": "",
+  "progress": 100,
+  "speed": 0,
+  "seeders": 0,
+  "links": null,
+  "mount_path": "/mounts/TorBox",
+  "deleted_files": null,
+  "debrid": "torbox",
+  "arr": {
+    "name": "radarr",
+    "host": "http://radarr:7878",
+    "token": "1b16dd5299fb40699be2933d7c84a53a",
+    "type": "radarr",
+    "cleanup": false,
+    "skip_repair": false,
+    "download_uncached": false,
+    "source": "auto"
+  },
+  "added_on": "2025-09-28T15:41:06.917659966-04:00",
+  "is_complete": true,
+  "bad": false
+}
