@@ -1,9 +1,21 @@
-# =====================================================================
-#     Personalized Media Server Stack for Alec (UID: 501, GID: 20)
-# =====================================================================
 version: "3.8"
 
 services:
+  jellyfin:
+    image: linuxserver/jellyfin
+    container-name: jellyfin
+    environment:
+      - LOG_LEVEL=info
+      - TZ=America/New_York
+    ports:
+      - "8096:8096"
+    volumes:
+      - ./config/jellyfin:/config
+      - ./data/media/series:/series
+      - ./data/media/movies:/movies
+    restart: unless-stopped
+    networks:
+      - media-stack
   # Jellyseerr - For browsing and requesting media
   jellyseerr:
     image: fallenbagel/jellyseerr:latest
