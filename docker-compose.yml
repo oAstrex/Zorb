@@ -3,7 +3,7 @@ version: "3.8"
 services:
   jellyfin:
     image: linuxserver/jellyfin
-    container-name: jellyfin
+    container_name: jellyfin
     environment:
       - LOG_LEVEL=info
       - TZ=America/New_York
@@ -111,7 +111,6 @@ services:
     volumes:
       - ./data/downloads:/downloads
       - ./mounts/:/mounts/
-      - /mnt/:/mnt:rshared
       - ./config/decypharr:/app
     restart: unless-stopped
     devices:

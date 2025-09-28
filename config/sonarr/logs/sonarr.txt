@@ -402,3 +402,57 @@ attempt to write a readonly database
    at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
    at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Sonarr.Core/Messaging/Commands/CommandExecutor.cs:line 42
 
+2025-09-28 15:50:03.2|Info|RssSyncService|Starting RSS Sync
+2025-09-28 15:50:04.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/8/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/28/2025 16:05:03 due to recent failures." />
+2025-09-28 15:50:04.1|Warn|Torznab|API Request Limit reached for LimeTorrents (Prowlarr). Disabled for 00:15:00
+2025-09-28 15:50:04.6|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 09/28/2025 19:18:49 and 09/28/2025 19:22:04 UTC. Search may be required.
+2025-09-28 15:50:10.6|Info|DownloadDecisionMaker|Processing 43 releases
+2025-09-28 15:50:10.7|Info|RssSyncService|RSS Sync Completed. Reports found: 43, Reports grabbed: 0
+2025-09-28 16:04:51.1|Error|CommandExecutor|Error occurred while executing task ImportListSync
+
+[v4.0.15.2941] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2858
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 581
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Sonarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Sonarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand](TCommand command, CommandModel commandModel) in ./Sonarr.Core/Messaging/Commands/CommandExecutor.cs:line 116
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Sonarr.Core/Messaging/Commands/CommandExecutor.cs:line 42
+
+2025-09-28 16:04:51.1|Error|CommandExecutor|Error occurred while executing task MessagingCleanup
+
+[v4.0.15.2941] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2858
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 581
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Sonarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Sonarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Update(CommandModel command, CommandStatus status, String message) in ./Sonarr.Core/Messaging/Commands/CommandQueueManager.cs:line 259
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Fail(CommandModel command, String message, Exception e) in ./Sonarr.Core/Messaging/Commands/CommandQueueManager.cs:line 214
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand](TCommand command, CommandModel commandModel) in ./Sonarr.Core/Messaging/Commands/CommandExecutor.cs:line 116
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Sonarr.Core/Messaging/Commands/CommandExecutor.cs:line 42
+
+2025-09-28 16:05:21.0|Info|RssSyncService|Starting RSS Sync
+2025-09-28 16:05:21.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/8/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/28/2025 16:35:21 due to recent failures." />
+2025-09-28 16:05:21.5|Warn|Torznab|API Request Limit reached for LimeTorrents (Prowlarr). Disabled for 00:30:00
+2025-09-28 16:05:21.5|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 09/28/2025 19:24:04 and 09/28/2025 19:46:21 UTC. Search may be required.
+2025-09-28 16:05:27.9|Info|DownloadDecisionMaker|Processing 47 releases
+2025-09-28 16:05:28.0|Info|RssSyncService|RSS Sync Completed. Reports found: 47, Reports grabbed: 0

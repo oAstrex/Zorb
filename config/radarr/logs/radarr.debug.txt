@@ -4600,3 +4600,656 @@ attempt to write a readonly database
 2025-09-28 15:46:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (10 ms)
 2025-09-28 15:46:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (10 ms)
 2025-09-28 15:46:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2025-09-28 15:47:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (69 ms)
+2025-09-28 15:47:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (13 ms)
+2025-09-28 15:47:00.1|Debug|Parser|Parsing string 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:47:00.1|Debug|Parser|Movie Parsed. The Bad Guys 2 - 2025 
+2025-09-28 15:47:00.1|Debug|Parser|Release Group parsed: PSA
+2025-09-28 15:47:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:47:00.1|Debug|QualityParser|Trying to parse quality for 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:47:00.1|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 15:47:00.1|Debug|Parser|Edition parsed: 
+2025-09-28 15:47:00.2|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:47:00.2|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:47:00.2|Debug|Parser|Parsing string 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:47:00.2|Debug|Parser|Movie Parsed. Tron - 1982 
+2025-09-28 15:47:00.2|Debug|Parser|Release Group parsed: E
+2025-09-28 15:47:00.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:47:00.2|Debug|QualityParser|Trying to parse quality for 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:47:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 15:47:00.2|Debug|Parser|Edition parsed: 
+2025-09-28 15:47:00.2|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:47:00.2|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:47:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 15:47:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:47:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (0 ms)
+2025-09-28 15:47:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:48:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (33 ms)
+2025-09-28 15:48:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (7 ms)
+2025-09-28 15:48:00.1|Debug|Parser|Parsing string 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:48:00.1|Debug|Parser|Movie Parsed. The Bad Guys 2 - 2025 
+2025-09-28 15:48:00.1|Debug|Parser|Release Group parsed: PSA
+2025-09-28 15:48:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:48:00.1|Debug|QualityParser|Trying to parse quality for 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:48:00.1|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 15:48:00.1|Debug|Parser|Edition parsed: 
+2025-09-28 15:48:00.2|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:48:00.2|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:48:00.2|Debug|Parser|Parsing string 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:48:00.2|Debug|Parser|Movie Parsed. Tron - 1982 
+2025-09-28 15:48:00.2|Debug|Parser|Release Group parsed: E
+2025-09-28 15:48:00.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:48:00.2|Debug|QualityParser|Trying to parse quality for 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:48:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 15:48:00.2|Debug|Parser|Edition parsed: 
+2025-09-28 15:48:00.2|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:48:00.2|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:48:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 15:48:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:48:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 15:48:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:48:33.2|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-28 15:48:33.3|Debug|Api|[GET] /api/v3/command: 200.OK (10 ms)
+2025-09-28 15:48:33.3|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2025-09-28 15:49:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (26 ms)
+2025-09-28 15:49:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-28 15:49:00.1|Debug|Parser|Parsing string 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:49:00.1|Debug|Parser|Movie Parsed. The Bad Guys 2 - 2025 
+2025-09-28 15:49:00.1|Debug|Parser|Release Group parsed: PSA
+2025-09-28 15:49:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:49:00.1|Debug|QualityParser|Trying to parse quality for 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:49:00.1|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 15:49:00.1|Debug|Parser|Edition parsed: 
+2025-09-28 15:49:00.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:49:00.1|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:49:00.1|Debug|Parser|Parsing string 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:49:00.1|Debug|Parser|Movie Parsed. Tron - 1982 
+2025-09-28 15:49:00.1|Debug|Parser|Release Group parsed: E
+2025-09-28 15:49:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:49:00.1|Debug|QualityParser|Trying to parse quality for 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:49:00.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 15:49:00.1|Debug|Parser|Edition parsed: 
+2025-09-28 15:49:00.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:49:00.1|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:49:00.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 15:49:00.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (0 ms)
+2025-09-28 15:49:00.1|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:49:00.1|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:50:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (40 ms)
+2025-09-28 15:50:00.1|Debug|Parser|Parsing string 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:50:00.1|Debug|Parser|Movie Parsed. The Bad Guys 2 - 2025 
+2025-09-28 15:50:00.1|Debug|Parser|Release Group parsed: PSA
+2025-09-28 15:50:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:00.1|Debug|QualityParser|Trying to parse quality for 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:50:00.1|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 15:50:00.1|Debug|Parser|Edition parsed: 
+2025-09-28 15:50:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (31 ms)
+2025-09-28 15:50:00.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:50:00.1|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:50:00.1|Debug|Parser|Parsing string 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:50:00.1|Debug|Parser|Movie Parsed. Tron - 1982 
+2025-09-28 15:50:00.1|Debug|Parser|Release Group parsed: E
+2025-09-28 15:50:00.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:00.2|Debug|QualityParser|Trying to parse quality for 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:50:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 15:50:00.2|Debug|Parser|Edition parsed: 
+2025-09-28 15:50:00.2|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:50:00.2|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:50:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:50:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:50:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 15:50:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:51:00.4|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (198 ms)
+2025-09-28 15:51:00.5|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (55 ms)
+2025-09-28 15:51:00.6|Debug|Parser|Parsing string 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:51:00.6|Debug|Parser|Movie Parsed. The Bad Guys 2 - 2025 
+2025-09-28 15:51:00.6|Debug|Parser|Release Group parsed: PSA
+2025-09-28 15:51:00.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:51:00.6|Debug|QualityParser|Trying to parse quality for 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:51:00.6|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 15:51:00.6|Debug|Parser|Edition parsed: 
+2025-09-28 15:51:00.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:51:00.7|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:51:00.7|Debug|Parser|Parsing string 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:51:00.7|Debug|Parser|Movie Parsed. Tron - 1982 
+2025-09-28 15:51:00.7|Debug|Parser|Release Group parsed: E
+2025-09-28 15:51:00.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:51:00.7|Debug|QualityParser|Trying to parse quality for 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:51:00.7|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 15:51:00.7|Debug|Parser|Edition parsed: 
+2025-09-28 15:51:00.8|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:51:00.8|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:51:01.6|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-28 15:51:01.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (8 ms)
+2025-09-28 15:51:01.6|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:51:01.6|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:54:51.9|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-28 15:54:52.0|Debug|Parser|Parsing string 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:54:52.0|Debug|Parser|Movie Parsed. The Bad Guys 2 - 2025 
+2025-09-28 15:54:52.0|Debug|Parser|Release Group parsed: PSA
+2025-09-28 15:54:52.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:54:52.0|Debug|QualityParser|Trying to parse quality for 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:54:52.0|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 15:54:52.0|Debug|Parser|Edition parsed: 
+2025-09-28 15:54:52.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:54:52.0|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:54:52.0|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2025-09-28 15:54:52.0|Debug|Api|[GET] /api/v3/command: 200.OK (7 ms)
+2025-09-28 15:54:52.1|Debug|Parser|Parsing string 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:54:52.1|Debug|Parser|Movie Parsed. Tron - 1982 
+2025-09-28 15:54:52.1|Debug|Parser|Release Group parsed: E
+2025-09-28 15:54:52.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:54:52.1|Debug|QualityParser|Trying to parse quality for 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:54:52.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 15:54:52.1|Debug|Parser|Edition parsed: 
+2025-09-28 15:54:52.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:54:52.1|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:55:58.2|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (36 ms)
+2025-09-28 15:55:58.2|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (50 ms)
+2025-09-28 15:55:58.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (1 ms)
+2025-09-28 15:55:58.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (3 ms)
+2025-09-28 15:55:58.3|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (19 ms)
+2025-09-28 15:55:58.3|Debug|Parser|Parsing string 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:55:58.3|Debug|Parser|Movie Parsed. The Bad Guys 2 - 2025 
+2025-09-28 15:55:58.3|Debug|Parser|Release Group parsed: PSA
+2025-09-28 15:55:58.3|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:55:58.3|Debug|QualityParser|Trying to parse quality for 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:55:58.3|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (21 ms)
+2025-09-28 15:55:58.3|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (21 ms)
+2025-09-28 15:55:58.3|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (24 ms)
+2025-09-28 15:55:58.3|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 15:55:58.3|Debug|Parser|Edition parsed: 
+2025-09-28 15:55:58.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:55:58.3|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:55:58.3|Debug|Parser|Parsing string 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:55:58.3|Debug|Parser|Movie Parsed. Tron - 1982 
+2025-09-28 15:55:58.3|Debug|Parser|Release Group parsed: E
+2025-09-28 15:55:58.3|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:55:58.3|Debug|QualityParser|Trying to parse quality for 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:55:58.3|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 15:55:58.3|Debug|Parser|Edition parsed: 
+2025-09-28 15:55:58.4|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:55:58.4|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:56:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (18 ms)
+2025-09-28 15:56:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-28 15:56:00.0|Debug|Parser|Parsing string 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:56:00.0|Debug|Parser|Movie Parsed. The Bad Guys 2 - 2025 
+2025-09-28 15:56:00.0|Debug|Parser|Release Group parsed: PSA
+2025-09-28 15:56:00.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:56:00.0|Debug|QualityParser|Trying to parse quality for 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 15:56:00.0|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 15:56:00.0|Debug|Parser|Edition parsed: 
+2025-09-28 15:56:00.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:56:00.0|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:56:00.0|Debug|Parser|Parsing string 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:56:00.0|Debug|Parser|Movie Parsed. Tron - 1982 
+2025-09-28 15:56:00.0|Debug|Parser|Release Group parsed: E
+2025-09-28 15:56:00.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:56:00.0|Debug|QualityParser|Trying to parse quality for 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 15:56:00.0|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 15:56:00.0|Debug|Parser|Edition parsed: 
+2025-09-28 15:56:00.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 15:56:00.1|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 15:56:00.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:56:00.1|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2025-09-28 15:56:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 15:56:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (128 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (120 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (93 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (124 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (3 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (5 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (0 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2025-09-28 16:04:49.7|Debug|Parser|Parsing string 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 16:04:49.7|Debug|Parser|Movie Parsed. The Bad Guys 2 - 2025 
+2025-09-28 16:04:49.7|Debug|Parser|Release Group parsed: PSA
+2025-09-28 16:04:49.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:49.7|Debug|QualityParser|Trying to parse quality for 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 16:04:49.8|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 16:04:49.8|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (12 ms)
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (12 ms)
+2025-09-28 16:04:49.8|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 16:04:49.8|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (17 ms)
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (2 ms)
+2025-09-28 16:04:49.8|Debug|Parser|Parsing string 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 16:04:49.8|Debug|Parser|Movie Parsed. Tron - 1982 
+2025-09-28 16:04:49.8|Debug|Parser|Release Group parsed: E
+2025-09-28 16:04:49.8|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (7 ms)
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (8 ms)
+2025-09-28 16:04:49.8|Debug|QualityParser|Trying to parse quality for 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (2 ms)
+2025-09-28 16:04:49.8|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 16:04:49.8|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (19 ms)
+2025-09-28 16:04:49.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 16:04:49.9|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 16:04:50.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 16:04:50.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (0 ms)
+2025-09-28 16:04:50.0|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 16:04:50.0|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 16:04:51.0|Debug|ImportListSyncService|No enabled import lists, skipping sync and cleaning
+2025-09-28 16:04:51.0|Info|RssSyncService|Starting RSS Sync
+2025-09-28 16:04:51.0|Debug|FetchAndParseRssService|Available indexers 3
+2025-09-28 16:04:51.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=movie&cat=2000,2070,2030,2010,2040,2060,2045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 16:04:51.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=movie&cat=2000&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 16:04:51.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/6/api?t=movie&cat=2000,2020,2040,2060,2030,2045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 16:04:51.1|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2025-09-28 16:04:51.2|Debug|Api|[GET] /api/v3/command: 200.OK (60 ms)
+2025-09-28 16:04:52.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 09/28/2025 19:22:18 and 09/28/2025 19:46:51 UTC. Search may be required.
+2025-09-28 16:04:52.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 09/28/2025 15:53:07 and 09/28/2025 16:40:36 UTC. Search may be required.
+2025-09-28 16:04:58.0|Debug|FetchAndParseRssService|Found 38 reports
+2025-09-28 16:04:58.1|Info|DownloadDecisionMaker|Processing 38 releases
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Desperation (2006) (720p AIUS DVD x265 HEVC 10bit AC3 5.1 KLRK)' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Desperation (2006) (720p AIUS DVD x265 HEVC 10bit AC3 5.1 KLRK)'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Desperation - 2006 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Desperation (2006) (720p AIUS DVD x265 HEVC 10bit AC3 5.1 KLRK)'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: DVD v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Desperation (2006)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Desperation (2006) (720p AIUS DVD x265 HEVC 10bit AC3 5.1 KLRK)' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Boys (1996) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Boys (1996) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Boys - 1996 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Boys (1996) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Boys (1996)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Boys (1996) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Dr Strange (1978) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Dr Strange (1978) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Dr Strange - 1978 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Dr Strange (1978) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Dr Strange (1978)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Dr Strange (1978) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Little Shop Of Horrors 1986 Theatrical 1080p BluRay x265 HEVC 10bit EAC3 5.1-KLRK' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Little Shop Of Horrors 1986 Theatrical 1080p BluRay x265 HEVC 10bit EAC3 5.1-KLRK'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Little Shop Of Horrors - 1986 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: KLRK
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Little Shop Of Horrors 1986 Theatrical 1080p BluRay x265 HEVC 10bit EAC3 5.1-KLRK'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: Theatrical
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Little Shop Of Horrors (1986)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Little Shop Of Horrors 1986 Theatrical 1080p BluRay x265 HEVC 10bit EAC3 5.1-KLRK' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'The Wrong Guy (1997) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'The Wrong Guy (1997) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. The Wrong Guy - 1997 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'The Wrong Guy (1997) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'The Wrong Guy (1997)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'The Wrong Guy (1997) (1080p BluRay x265 HEVC 10bit EAC3 2.0 KLRK)' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Going in Style (2017) 1080p x265 ita eng ac3 sub ita eng   MIRCrew' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Going in Style (2017) 1080p x265 ita eng ac3 sub ita eng   MIRCrew'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Going in Style - 2017 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Going in Style (2017) 1080p x265 ita eng ac3 sub ita eng   MIRCrew'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Going in Style (2017)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Going in Style (2017) 1080p x265 ita eng ac3 sub ita eng   MIRCrew' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Benvenuti a Sarajevo Welcome To Sarajevo 1997 1080p H265 ITA AC3 2.0 ENG AC3 5.1 SUB ENG NUENG-Tarek' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Benvenuti a Sarajevo Welcome To Sarajevo 1997 1080p H265 ITA AC3 2.0 ENG AC3 5.1 SUB ENG NUENG-Tarek'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Benvenuti a Sarajevo Welcome To Sarajevo - 1997 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: Tarek
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Benvenuti a Sarajevo Welcome To Sarajevo 1997 1080p H265 ITA AC3 2.0 ENG AC3 5.1 SUB ENG NUENG-Tarek'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Benvenuti a Sarajevo Welcome To Sarajevo (1997)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Benvenuti a Sarajevo Welcome To Sarajevo 1997 1080p H265 ITA AC3 2.0 ENG AC3 5.1 SUB ENG NUENG-Tarek' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Pluto Nash The Adventures of Pluto Nash 2002 AC3 5.1 Ita Eng Sub Ita artemix-MIRCRew' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Pluto Nash The Adventures of Pluto Nash 2002 AC3 5.1 Ita Eng Sub Ita artemix-MIRCRew'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Pluto Nash The Adventures of Pluto Nash - 2002 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: MIRCRew
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Pluto Nash The Adventures of Pluto Nash 2002 AC3 5.1 Ita Eng Sub Ita artemix-MIRCRew'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: Unknown v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Pluto Nash The Adventures of Pluto Nash (2002)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Pluto Nash The Adventures of Pluto Nash 2002 AC3 5.1 Ita Eng Sub Ita artemix-MIRCRew' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Vi Presento Toni Erdmann Toni Erdmann 2016 1080p H265 ITA GER AC3 5.1 SUB ITA ENG GER-Tarek' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Vi Presento Toni Erdmann Toni Erdmann 2016 1080p H265 ITA GER AC3 5.1 SUB ITA ENG GER-Tarek'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Vi Presento Toni Erdmann Toni Erdmann - 2016 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: Tarek
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Italian, German, English
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Vi Presento Toni Erdmann Toni Erdmann 2016 1080p H265 ITA GER AC3 5.1 SUB ITA ENG GER-Tarek'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Vi Presento Toni Erdmann Toni Erdmann (2016)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Vi Presento Toni Erdmann Toni Erdmann 2016 1080p H265 ITA GER AC3 5.1 SUB ITA ENG GER-Tarek' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Il ragazzo di campagna (1984) 1080p x265 ita ac3 sub ita   MIRCrew' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Il ragazzo di campagna (1984) 1080p x265 ita ac3 sub ita   MIRCrew'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Il ragazzo di campagna - 1984 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Italian
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Il ragazzo di campagna (1984) 1080p x265 ita ac3 sub ita   MIRCrew'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Il ragazzo di campagna (1984)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Il ragazzo di campagna (1984) 1080p x265 ita ac3 sub ita   MIRCrew' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Weapons.2025.UHD.2160p.10bit.iTunes.WEBRip.AV1.English.DDP5.1.ESubs-DaddyCooL' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Weapons.2025.UHD.2160p.10bit.iTunes.WEBRip.AV1.English.DDP5.1.ESubs-DaddyCooL'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Weapons - 2025 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: DaddyCooL
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: English
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Weapons.2025.UHD.2160p.10bit.iTunes.WEBRip.AV1.English.DDP5.1.ESubs-DaddyCooL'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Weapons (2025)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Weapons.2025.UHD.2160p.10bit.iTunes.WEBRip.AV1.English.DDP5.1.ESubs-DaddyCooL' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Tulsa King 3x02 The Fifty 1080p WEB-DL H265 Ita Eng AC3 5.1 Sub Ita Eng iDN_CreW' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Tulsa King 3x02 The Fifty 1080p WEB-DL H265 Ita Eng AC3 5.1 Sub Ita Eng iDN_CreW'
+2025-09-28 16:04:58.1|Debug|Parser|Unable to parse Tulsa King 3x02 The Fifty 1080p WEB-DL H265 Ita Eng AC3 5.1 Sub Ita Eng iDN_CreW
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Waist Deep (2006) 1080p x265 ita eng ac3 sub ita eng   MIRCrew' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Waist Deep (2006) 1080p x265 ita eng ac3 sub ita eng   MIRCrew'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Waist Deep - 2006 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Waist Deep (2006) 1080p x265 ita eng ac3 sub ita eng   MIRCrew'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Waist Deep (2006)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Waist Deep (2006) 1080p x265 ita eng ac3 sub ita eng   MIRCrew' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Sweeney Todd The Demon Barber of Fleet Street 2007 2160p UHD BDRip DV HDR10 x265 TrueHD 5 1 Kira-SEV' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Sweeney Todd The Demon Barber of Fleet Street 2007 2160p UHD BDRip DV HDR10 x265 TrueHD 5 1 Kira-SEV'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Sweeney Todd The Demon Barber of Fleet Street - 2007 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: SEV
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Sweeney Todd The Demon Barber of Fleet Street 2007 2160p UHD BDRip DV HDR10 x265 TrueHD 5 1 Kira-SEV'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Sweeney Todd The Demon Barber of Fleet Street (2007)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Sweeney Todd The Demon Barber of Fleet Street 2007 2160p UHD BDRip DV HDR10 x265 TrueHD 5 1 Kira-SEV' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Processing release 'Requiem for A Dream 2000 2160p UHD BDRip DV HDR10 x265 TrueHD Atmos 7 1 Kira-SEV' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.1|Debug|Parser|Parsing string 'Requiem for A Dream 2000 2160p UHD BDRip DV HDR10 x265 TrueHD Atmos 7 1 Kira-SEV'
+2025-09-28 16:04:58.1|Debug|Parser|Movie Parsed. Requiem for A Dream - 2000 
+2025-09-28 16:04:58.1|Debug|Parser|Release Group parsed: SEV
+2025-09-28 16:04:58.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.1|Debug|QualityParser|Trying to parse quality for 'Requiem for A Dream 2000 2160p UHD BDRip DV HDR10 x265 TrueHD Atmos 7 1 Kira-SEV'
+2025-09-28 16:04:58.1|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 16:04:58.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.1|Debug|ParsingService|No matching movie for titles 'Requiem for A Dream (2000)'
+2025-09-28 16:04:58.1|Debug|DownloadDecisionMaker|Release 'Requiem for A Dream 2000 2160p UHD BDRip DV HDR10 x265 TrueHD Atmos 7 1 Kira-SEV' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'Marlowe (2022) 1080p x265 ita eng ac3 sub ita eng   MIRCrew' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'Marlowe (2022) 1080p x265 ita eng ac3 sub ita eng   MIRCrew'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. Marlowe - 2022 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'Marlowe (2022) 1080p x265 ita eng ac3 sub ita eng   MIRCrew'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'Marlowe (2022)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'Marlowe (2022) 1080p x265 ita eng ac3 sub ita eng   MIRCrew' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'The Silent Hour (2024) 1080p x265 ita eng ac3 sub ita eng   MIRCrew' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'The Silent Hour (2024) 1080p x265 ita eng ac3 sub ita eng   MIRCrew'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. The Silent Hour - 2024 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'The Silent Hour (2024) 1080p x265 ita eng ac3 sub ita eng   MIRCrew'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'The Silent Hour (2024)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'The Silent Hour (2024) 1080p x265 ita eng ac3 sub ita eng   MIRCrew' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'CICADA 2018 UNRATED 720p WEB-DL x264 Eng Subs Dual Audio Hindi DDP 2.0 English DDP 2.0 Exclusive By Dr-STAR' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'CICADA 2018 UNRATED 720p WEB-DL x264 Eng Subs Dual Audio Hindi DDP 2.0 English DDP 2.0 Exclusive By Dr-STAR'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. CICADA - 2018 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: STAR
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: English, Hindi
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'CICADA 2018 UNRATED 720p WEB-DL x264 Eng Subs Dual Audio Hindi DDP 2.0 English DDP 2.0 Exclusive By Dr-STAR'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: UNRATED
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'CICADA (2018)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'CICADA 2018 UNRATED 720p WEB-DL x264 Eng Subs Dual Audio Hindi DDP 2.0 English DDP 2.0 Exclusive By Dr-STAR' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'I Spit On Your Grave 2 2013 UNRATED 1080p BluRay x264 iTA ENG AC3 5.1-iDN_CreW' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'I Spit On Your Grave 2 2013 UNRATED 1080p BluRay x264 iTA ENG AC3 5.1-iDN_CreW'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. I Spit On Your Grave 2 - 2013 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: iDN
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'I Spit On Your Grave 2 2013 UNRATED 1080p BluRay x264 iTA ENG AC3 5.1-iDN_CreW'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: Bluray-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: UNRATED
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'I Spit On Your Grave 2 (2013)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'I Spit On Your Grave 2 2013 UNRATED 1080p BluRay x264 iTA ENG AC3 5.1-iDN_CreW' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'Born a Champion (2021) 1080p x265 ita eng ac3 sub ita eng   MIRCrew' from '1337x (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'Born a Champion (2021) 1080p x265 ita eng ac3 sub ita eng   MIRCrew'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. Born a Champion - 2021 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'Born a Champion (2021) 1080p x265 ita eng ac3 sub ita eng   MIRCrew'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'Born a Champion (2021)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'Born a Champion (2021) 1080p x265 ita eng ac3 sub ita eng   MIRCrew' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'Eden Ivy - EDEN IVY Deepthroat, Gaping, A2M & DP (26.09.2025)_720p.mp4' from 'BitSearch (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'Eden Ivy - EDEN IVY Deepthroat, Gaping, A2M & DP (26.09.2025)_720p.mp4'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. Eden Ivy - EDEN IVY Deepthroat, Gaping, A2M & DP (26 09 - 2025 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: 
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'Eden Ivy - EDEN IVY Deepthroat, Gaping, A2M & DP (26.09.2025)_720p.mp4'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'Eden Ivy - EDEN IVY Deepthroat, Gaping, A2M & DP (26 09 (2025)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'Eden Ivy - EDEN IVY Deepthroat, Gaping, A2M & DP (26.09.2025)_720p.mp4' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release '[2007.01.15]血战到底(粤语)[2006年中国喜剧]（帝国出品）' from 'BitSearch (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string '[2007.01.15]血战到底(粤语)[2006年中国喜剧]（帝国出品）'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. 血战到底(粤语)[ - 2006 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: 2007.01.15
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for '[2007.01.15]血战到底(粤语)[2006年中国喜剧]（帝国出品）'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: Unknown v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles '血战到底(粤语)[ (2006)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release '[2007.01.15]血战到底(粤语)[2006年中国喜剧]（帝国出品）' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'Imagine 2012 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'Imagine 2012 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. Imagine - 2012 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'Imagine 2012 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'Imagine (2012)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'Imagine 2012 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'No Safe Spaces 2019 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'No Safe Spaces 2019 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. No Safe Spaces - 2019 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'No Safe Spaces 2019 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'No Safe Spaces (2019)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'No Safe Spaces 2019 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'Passion Fish 1992 1080p AMZN WEB-DL H264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'Passion Fish 1992 1080p AMZN WEB-DL H264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. Passion Fish - 1992 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'Passion Fish 1992 1080p AMZN WEB-DL H264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'Passion Fish (1992)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'Passion Fish 1992 1080p AMZN WEB-DL H264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'The Drone 2019 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'The Drone 2019 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. The Drone - 2019 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'The Drone 2019 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'The Drone (2019)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'The Drone 2019 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'Fifty Pills 2006 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'Fifty Pills 2006 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. Fifty Pills - 2006 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'Fifty Pills 2006 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'Fifty Pills (2006)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'Fifty Pills 2006 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'The Mod Squad 1999 1080p AMZN WEB-DL H264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'The Mod Squad 1999 1080p AMZN WEB-DL H264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. The Mod Squad - 1999 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'The Mod Squad 1999 1080p AMZN WEB-DL H264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'The Mod Squad (1999)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'The Mod Squad 1999 1080p AMZN WEB-DL H264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'Hells Angels on Wheels 1967 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'Hells Angels on Wheels 1967 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. Hells Angels on Wheels - 1967 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'Hells Angels on Wheels 1967 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'Hells Angels on Wheels (1967)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'Hells Angels on Wheels 1967 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'The Hammer 2007 1080p AMZN WEB-DL H264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'The Hammer 2007 1080p AMZN WEB-DL H264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. The Hammer - 2007 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'The Hammer 2007 1080p AMZN WEB-DL H264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'The Hammer (2007)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'The Hammer 2007 1080p AMZN WEB-DL H264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'Black Garden (2019) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'Black Garden (2019) 1080p WEBRip-LAMA'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. Black Garden - 2019 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: LAMA
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'Black Garden (2019) 1080p WEBRip-LAMA'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'Black Garden (2019)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'Black Garden (2019) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'Days of the Bagnold Summer 2020 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'Days of the Bagnold Summer 2020 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Movie Parsed. Days of the Bagnold Summer - 2020 
+2025-09-28 16:04:58.2|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.2|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.2|Debug|QualityParser|Trying to parse quality for 'Days of the Bagnold Summer 2020 1080p AMZN WEB-DL DDP5 1 H 264-GPRS'
+2025-09-28 16:04:58.2|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.2|Debug|ParsingService|No matching movie for titles 'Days of the Bagnold Summer (2020)'
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Release 'Days of the Bagnold Summer 2020 1080p AMZN WEB-DL DDP5 1 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.2|Debug|DownloadDecisionMaker|Processing release 'Last Ride (2009) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.2|Debug|Parser|Parsing string 'Last Ride (2009) 1080p WEBRip-LAMA'
+2025-09-28 16:04:58.3|Debug|Parser|Movie Parsed. Last Ride - 2009 
+2025-09-28 16:04:58.3|Debug|Parser|Release Group parsed: LAMA
+2025-09-28 16:04:58.3|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.3|Debug|QualityParser|Trying to parse quality for 'Last Ride (2009) 1080p WEBRip-LAMA'
+2025-09-28 16:04:58.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-28 16:04:58.3|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.3|Debug|ParsingService|No matching movie for titles 'Last Ride (2009)'
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Release 'Last Ride (2009) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Processing release 'The Truth About Jane (2000) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.3|Debug|Parser|Parsing string 'The Truth About Jane (2000) 1080p WEBRip-LAMA'
+2025-09-28 16:04:58.3|Debug|Parser|Movie Parsed. The Truth About Jane - 2000 
+2025-09-28 16:04:58.3|Debug|Parser|Release Group parsed: LAMA
+2025-09-28 16:04:58.3|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.3|Debug|QualityParser|Trying to parse quality for 'The Truth About Jane (2000) 1080p WEBRip-LAMA'
+2025-09-28 16:04:58.3|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-28 16:04:58.3|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.3|Debug|ParsingService|No matching movie for titles 'The Truth About Jane (2000)'
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Release 'The Truth About Jane (2000) 1080p WEBRip-LAMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Processing release 'I Am Lisa 2020 1080p AMZN WEB-DL DD 5 1 H 264-playWEB' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.3|Debug|Parser|Parsing string 'I Am Lisa 2020 1080p AMZN WEB-DL DD 5 1 H 264-playWEB'
+2025-09-28 16:04:58.3|Debug|Parser|Movie Parsed. I Am Lisa - 2020 
+2025-09-28 16:04:58.3|Debug|Parser|Release Group parsed: playWEB
+2025-09-28 16:04:58.3|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.3|Debug|QualityParser|Trying to parse quality for 'I Am Lisa 2020 1080p AMZN WEB-DL DD 5 1 H 264-playWEB'
+2025-09-28 16:04:58.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.3|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.3|Debug|ParsingService|No matching movie for titles 'I Am Lisa (2020)'
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Release 'I Am Lisa 2020 1080p AMZN WEB-DL DD 5 1 H 264-playWEB' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Processing release 'The Atticus Institute 2015 1080p AMZN WEB-DL H264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.3|Debug|Parser|Parsing string 'The Atticus Institute 2015 1080p AMZN WEB-DL H264-GPRS'
+2025-09-28 16:04:58.3|Debug|Parser|Movie Parsed. The Atticus Institute - 2015 
+2025-09-28 16:04:58.3|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.3|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.3|Debug|QualityParser|Trying to parse quality for 'The Atticus Institute 2015 1080p AMZN WEB-DL H264-GPRS'
+2025-09-28 16:04:58.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.3|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.3|Debug|ParsingService|No matching movie for titles 'The Atticus Institute (2015)'
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Release 'The Atticus Institute 2015 1080p AMZN WEB-DL H264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Processing release 'Till the Clouds Roll By 1946 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.3|Debug|Parser|Parsing string 'Till the Clouds Roll By 1946 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-28 16:04:58.3|Debug|Parser|Movie Parsed. Till the Clouds Roll By - 1946 
+2025-09-28 16:04:58.3|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.3|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.3|Debug|QualityParser|Trying to parse quality for 'Till the Clouds Roll By 1946 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-28 16:04:58.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.3|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.3|Debug|ParsingService|No matching movie for titles 'Till the Clouds Roll By (1946)'
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Release 'Till the Clouds Roll By 1946 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Processing release 'Day the World Ended 1955 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:04:58.3|Debug|Parser|Parsing string 'Day the World Ended 1955 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-28 16:04:58.3|Debug|Parser|Movie Parsed. Day the World Ended - 1955 
+2025-09-28 16:04:58.3|Debug|Parser|Release Group parsed: GPRS
+2025-09-28 16:04:58.3|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:58.3|Debug|QualityParser|Trying to parse quality for 'Day the World Ended 1955 1080p AMZN WEB-DL DDP2 0 H 264-GPRS'
+2025-09-28 16:04:58.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:58.3|Debug|Parser|Edition parsed: 
+2025-09-28 16:04:58.3|Debug|ParsingService|No matching movie for titles 'Day the World Ended (1955)'
+2025-09-28 16:04:58.3|Debug|DownloadDecisionMaker|Release 'Day the World Ended 1955 1080p AMZN WEB-DL DDP2 0 H 264-GPRS' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Movie. Unable to match to correct movie using release title.
+2025-09-28 16:04:58.3|Info|RssSyncService|RSS Sync Completed. Reports found: 38, Reports grabbed: 0
+2025-09-28 16:04:58.3|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-28 16:04:58.3|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-28 16:05:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (31 ms)
+2025-09-28 16:05:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (7 ms)
+2025-09-28 16:05:00.1|Debug|Parser|Parsing string 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 16:05:00.1|Debug|Parser|Movie Parsed. The Bad Guys 2 - 2025 
+2025-09-28 16:05:00.1|Debug|Parser|Release Group parsed: PSA
+2025-09-28 16:05:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:00.1|Debug|QualityParser|Trying to parse quality for 'The.Bad.Guys.2.2025.2160p.HDR10Plus.DV.WEBRip.6CH.x265.HEVC-PSA'
+2025-09-28 16:05:00.1|Debug|Parser|Quality parsed: WEBRip-2160p v1
+2025-09-28 16:05:00.1|Debug|Parser|Edition parsed: 
+2025-09-28 16:05:00.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 16:05:00.1|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 16:05:00.1|Debug|Parser|Parsing string 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 16:05:00.1|Debug|Parser|Movie Parsed. Tron - 1982 
+2025-09-28 16:05:00.1|Debug|Parser|Release Group parsed: E
+2025-09-28 16:05:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:00.1|Debug|QualityParser|Trying to parse quality for 'Tron 1982 UHD BluRay 2160p HDR10 DV HEVC TRueHD Atmos 7.1 x265-E'
+2025-09-28 16:05:00.2|Debug|Parser|Quality parsed: Bluray-2160p v1
+2025-09-28 16:05:00.2|Debug|Parser|Edition parsed: 
+2025-09-28 16:05:00.2|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to movie original language: English
+2025-09-28 16:05:00.2|Debug|AggregateLanguages|Selected languages: English
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (5 ms)
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (26 ms)
+2025-09-28 16:05:03.2|Debug|Api|[GET] /api/v3/health: 200.OK (10 ms)

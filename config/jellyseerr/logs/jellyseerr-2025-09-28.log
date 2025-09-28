@@ -914,3 +914,23 @@
 2025-09-28T19:45:15.344Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
 2025-09-28T19:45:20.637Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
 2025-09-28T19:45:25.881Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-28T19:50:00.083Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-28T19:50:00.086Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"80a1e3e8-afe9-4388-a5f6-5ff58621756a"}
+2025-09-28T19:50:00.118Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-28T19:50:04.348Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-28T19:50:08.921Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-28T19:55:58.277Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-28T19:55:58.284Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3a6ff9ca-b94b-49b8-82e8-65ced598b8e9"}
+2025-09-28T19:55:58.308Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-28T19:56:02.735Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-28T19:56:07.253Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-28T20:04:49.615Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-28T20:04:49.621Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"3ab7f6b5-37e1-43c3-9354-dc5dff1b9a99"}
+2025-09-28T20:04:49.670Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-28T20:04:54.167Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-28T20:04:58.719Z [info][Jellyfin Sync]: Recently Added Scan Complete 
+2025-09-28T20:05:00.045Z [info][Jobs]: Starting scheduled job: Jellyfin Recently Added Scan 
+2025-09-28T20:05:00.047Z [info][Jellyfin Sync]: Jellyfin Sync Starting {"sessionId":"5d89d028-55b3-4e68-ab4c-74b20ca55b3a"}
+2025-09-28T20:05:00.083Z [info][Jellyfin Sync]: Beginning to process recently added for library: Movies 
+2025-09-28T20:05:04.313Z [info][Jellyfin Sync]: Beginning to process recently added for library: Shows 
+2025-09-28T20:05:08.775Z [info][Jellyfin Sync]: Recently Added Scan Complete 

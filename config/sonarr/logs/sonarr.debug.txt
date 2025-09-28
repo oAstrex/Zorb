@@ -6632,3 +6632,1258 @@ attempt to write a readonly database
 2025-09-28 15:46:00.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
 2025-09-28 15:46:00.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
 2025-09-28 15:46:00.4|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2025-09-28 15:47:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (44 ms)
+2025-09-28 15:47:00.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-28 15:47:00.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:47:00.1|Debug|Parser|Episode Parsed. Alice in Borderland - Season 03 
+2025-09-28 15:47:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:47:00.1|Debug|QualityParser|Trying to parse quality for 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:47:00.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:47:00.1|Debug|Parser|Release Group parsed: REL1VIN
+2025-09-28 15:47:00.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:47:00.1|Debug|SceneMappingService|Found scene mapping for: Alice in Borderland. TVDB ID for mapping: 376472
+2025-09-28 15:47:00.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Japanese
+2025-09-28 15:47:00.1|Debug|AggregateLanguages|Selected languages: Japanese
+2025-09-28 15:47:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (5 ms)
+2025-09-28 15:47:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 15:47:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:47:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (10 ms)
+2025-09-28 15:47:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (5 ms)
+2025-09-28 15:47:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:47:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-28 15:47:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2025-09-28 15:47:33.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:33.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:47:33.3|Debug|Api|[GET] /api/v3/command: 200.OK (24 ms)
+2025-09-28 15:47:33.3|Debug|Api|[GET] /api/v3/command: 200.OK (24 ms)
+2025-09-28 15:48:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (42 ms)
+2025-09-28 15:48:00.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (4 ms)
+2025-09-28 15:48:00.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:48:00.1|Debug|Parser|Episode Parsed. Alice in Borderland - Season 03 
+2025-09-28 15:48:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:48:00.1|Debug|QualityParser|Trying to parse quality for 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:48:00.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:48:00.1|Debug|Parser|Release Group parsed: REL1VIN
+2025-09-28 15:48:00.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:48:00.1|Debug|SceneMappingService|Found scene mapping for: Alice in Borderland. TVDB ID for mapping: 376472
+2025-09-28 15:48:00.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Japanese
+2025-09-28 15:48:00.1|Debug|AggregateLanguages|Selected languages: Japanese
+2025-09-28 15:48:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-28 15:48:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (8 ms)
+2025-09-28 15:48:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2025-09-28 15:48:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (12 ms)
+2025-09-28 15:48:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:48:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 15:48:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 15:48:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 15:48:33.2|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-28 15:48:33.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:33.3|Debug|Api|[GET] /api/v3/command: 200.OK (49 ms)
+2025-09-28 15:48:33.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:48:33.3|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:49:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:49:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (62 ms)
+2025-09-28 15:49:00.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:49:00.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:49:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (14 ms)
+2025-09-28 15:49:00.1|Debug|Parser|Episode Parsed. Alice in Borderland - Season 03 
+2025-09-28 15:49:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:49:00.1|Debug|QualityParser|Trying to parse quality for 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:49:00.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:49:00.1|Debug|Parser|Release Group parsed: REL1VIN
+2025-09-28 15:49:00.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:49:00.1|Debug|SceneMappingService|Found scene mapping for: Alice in Borderland. TVDB ID for mapping: 376472
+2025-09-28 15:49:00.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Japanese
+2025-09-28 15:49:00.1|Debug|AggregateLanguages|Selected languages: Japanese
+2025-09-28 15:49:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:49:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:49:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:49:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:49:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 15:49:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:49:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:49:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:49:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (0 ms)
+2025-09-28 15:49:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:49:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (6 ms)
+2025-09-28 15:49:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:49:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:49:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:49:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:49:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:50:00.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (42 ms)
+2025-09-28 15:50:00.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (11 ms)
+2025-09-28 15:50:00.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:50:00.1|Debug|Parser|Episode Parsed. Alice in Borderland - Season 03 
+2025-09-28 15:50:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:00.1|Debug|QualityParser|Trying to parse quality for 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:50:00.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:00.1|Debug|Parser|Release Group parsed: REL1VIN
+2025-09-28 15:50:00.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:50:00.2|Debug|SceneMappingService|Found scene mapping for: Alice in Borderland. TVDB ID for mapping: 376472
+2025-09-28 15:50:00.2|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Japanese
+2025-09-28 15:50:00.2|Debug|AggregateLanguages|Selected languages: Japanese
+2025-09-28 15:50:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (5 ms)
+2025-09-28 15:50:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 15:50:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:50:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2025-09-28 15:50:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 15:50:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:50:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:50:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-28 15:50:03.2|Info|RssSyncService|Starting RSS Sync
+2025-09-28 15:50:03.3|Debug|FetchAndParseRssService|Available indexers 4
+2025-09-28 15:50:03.3|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 15:50:03.3|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 15:50:03.3|Debug|Torznab|Downloading Feed http://prowlarr:9696/6/api?t=tvsearch&cat=5000,5050,5040,5045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 15:50:03.3|Debug|Torznab|Downloading Feed http://prowlarr:9696/8/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 15:50:04.1|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/8/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/28/2025 16:05:03 due to recent failures." />
+2025-09-28 15:50:04.1|Warn|Torznab|API Request Limit reached for LimeTorrents (Prowlarr). Disabled for 00:15:00
+2025-09-28 15:50:04.6|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 09/28/2025 19:18:49 and 09/28/2025 19:22:04 UTC. Search may be required.
+2025-09-28 15:50:09.2|Debug|IndexerFactory|Temporarily ignoring indexer LimeTorrents (Prowlarr) till 09/28/2025 16:05:04 due to recent failures.
+2025-09-28 15:50:09.2|Debug|IndexerFactory|Temporarily ignoring indexer LimeTorrents (Prowlarr) till 09/28/2025 16:05:04 due to recent failures.
+2025-09-28 15:50:09.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:09.2|Debug|Api|[GET] /api/v3/health: 200.OK (10 ms)
+2025-09-28 15:50:09.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:09.3|Debug|Api|[GET] /api/v3/health: 200.OK (4 ms)
+2025-09-28 15:50:10.6|Debug|FetchAndParseRssService|Found 43 reports
+2025-09-28 15:50:10.6|Info|DownloadDecisionMaker|Processing 43 releases
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Fringe   Stagione 01 05 (2008 2013 ITA/ENG) [FULL SERIES] [Pir8][1080p]' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Fringe   Stagione 01 05 (2008 2013 ITA/ENG) [FULL SERIES] [Pir8][1080p]'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Fringe - Season 01 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Fringe   Stagione 01 05 (2008 2013 ITA/ENG) [FULL SERIES] [Pir8][1080p]'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Fringe
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Fringe   Stagione 01 05 (2008 2013 ITA/ENG) [FULL SERIES] [Pir8][1080p]' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Ghost Doctor Season 1(2022)(1080p)(ENG + 10 Language Subtitles)' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Ghost Doctor Season 1(2022)(1080p)(ENG + 10 Language Subtitles)'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Ghost Doctor Season 1(2022)()(ENG + - 010 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Ghost Doctor Season 1(2022)(1080p)(ENG + 10 Language Subtitles)'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Ghost Doctor Season 1(2022)()(ENG +
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Ghost Doctor Season 1(2022)(1080p)(ENG + 10 Language Subtitles)' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Fringe Season 01 05 2008 2013 FULL SERIES SD AMZN Rip XviD ita eng Mp3 Sub ita eng-Pir8' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Fringe Season 01 05 2008 2013 FULL SERIES SD AMZN Rip XviD ita eng Mp3 Sub ita eng-Pir8'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Fringe - Season 01 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Fringe Season 01 05 2008 2013 FULL SERIES SD AMZN Rip XviD ita eng Mp3 Sub ita eng-Pir8'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: Unknown v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: Pir8
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Fringe
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Fringe Season 01 05 2008 2013 FULL SERIES SD AMZN Rip XviD ita eng Mp3 Sub ita eng-Pir8' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Alien.Earth.S01.1080p.x265-ELiTE' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Alien.Earth.S01.1080p.x265-ELiTE'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Alien Earth - Season 01 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Alien.Earth.S01.1080p.x265-ELiTE'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: ELiTE
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Alien Earth
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Alien.Earth.S01.1080p.x265-ELiTE' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Alien.Earth.S01.720p.x264-FENiX' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Alien.Earth.S01.720p.x264-FENiX'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Alien Earth - Season 01 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Alien.Earth.S01.720p.x264-FENiX'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: FENiX
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Alien Earth
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Alien.Earth.S01.720p.x264-FENiX' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Gachiakuta.S01E12.1080p.ENG.ITA.JAP.H264-kARiDo' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Gachiakuta.S01E12.1080p.ENG.ITA.JAP.H264-kARiDo'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Gachiakuta - S01E12 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: English, Italian
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Gachiakuta.S01E12.1080p.ENG.ITA.JAP.H264-kARiDo'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: kARiDo
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Gachiakuta
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Gachiakuta.S01E12.1080p.ENG.ITA.JAP.H264-kARiDo' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Bon.Appetit.Your.Majesty.S01.(2025).1080p.WEBRIP.HEVC.AAC2.0' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Bon.Appetit.Your.Majesty.S01.(2025).1080p.WEBRIP.HEVC.AAC2.0'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Bon Appetit Your Majesty - Season 01 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Bon.Appetit.Your.Majesty.S01.(2025).1080p.WEBRIP.HEVC.AAC2.0'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Bon Appetit Your Majesty
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Bon.Appetit.Your.Majesty.S01.(2025).1080p.WEBRIP.HEVC.AAC2.0' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'WWE Main Event 2025 09 25 1080p WEB h264-HEEL' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'WWE Main Event 2025 09 25 1080p WEB h264-HEEL'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. WWE Main Event - 2025-09-25 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'WWE Main Event 2025 09 25 1080p WEB h264-HEEL'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: HEEL
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series WWE Main Event
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'WWE Main Event 2025 09 25 1080p WEB h264-HEEL' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. WWE Friday Night Smackdown - 2025-09-26 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: KYR
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR'
+2025-09-28 15:50:10.6|Debug|SceneMappingService|Found scene mapping for: WWE Friday Night Smackdown. TVDB ID for mapping: 75640
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series WWE Friday Night Smackdown
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR'
+2025-09-28 15:50:10.6|Debug|SceneMappingService|Found scene mapping for: WWE Friday Night Smackdown. TVDB ID for mapping: 75640
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] WWE Friday Night Smackdown matches an alias for series with TVDB ID: 75640
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'The Equalizer 2021 S05E06 All ultimo sangue ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'The Equalizer 2021 S05E06 All ultimo sangue ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. The Equalizer 2021 - S05E06 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'The Equalizer 2021 S05E06 All ultimo sangue ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: mkv
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series The Equalizer 2021
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'The Equalizer 2021 S05E06 All ultimo sangue ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'The Equalizer 2021 S05E05 Uccidetemi per favore ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'The Equalizer 2021 S05E05 Uccidetemi per favore ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. The Equalizer 2021 - S05E05 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'The Equalizer 2021 S05E05 Uccidetemi per favore ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: mkv
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series The Equalizer 2021
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'The Equalizer 2021 S05E05 Uccidetemi per favore ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Billy.the.Kid.S03E01.The.Beginning.Of.The.End.1080p.ENG.ITA.H265-TheBlackKing' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Billy.the.Kid.S03E01.The.Beginning.Of.The.End.1080p.ENG.ITA.H265-TheBlackKing'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Billy the Kid - S03E01 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: English, Italian
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Billy.the.Kid.S03E01.The.Beginning.Of.The.End.1080p.ENG.ITA.H265-TheBlackKing'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: TheBlackKing
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Billy the Kid
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Billy.the.Kid.S03E01.The.Beginning.Of.The.End.1080p.ENG.ITA.H265-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Sunday with Laura Kuenssberg Interview with the Prime Minister 720p HEVC subs-BigJ0554' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Sunday with Laura Kuenssberg Interview with the Prime Minister 720p HEVC subs-BigJ0554'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Sunday with Laura Kuenssberg Interview with the Prime Minister  HEVC subs-BigJ - S05E54 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Sunday with Laura Kuenssberg Interview with the Prime Minister 720p HEVC subs-BigJ0554'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: BigJ0554
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Sunday with Laura Kuenssberg Interview with the Prime Minister  HEVC subs-BigJ
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Sunday with Laura Kuenssberg Interview with the Prime Minister 720p HEVC subs-BigJ0554' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Billy.the.Kid.2022.S03E01.1080p.x265-ELiTE' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Billy.the.Kid.2022.S03E01.1080p.x265-ELiTE'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Billy the Kid 2022 - S03E01 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Billy.the.Kid.2022.S03E01.1080p.x265-ELiTE'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: ELiTE
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Billy the Kid 2022
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Billy.the.Kid.2022.S03E01.1080p.x265-ELiTE' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'The.Walking.Dead.Daryl.Dixon.S03E04.1080p.x265-ELiTE' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'The.Walking.Dead.Daryl.Dixon.S03E04.1080p.x265-ELiTE'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. The Walking Dead Daryl Dixon - S03E04 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'The.Walking.Dead.Daryl.Dixon.S03E04.1080p.x265-ELiTE'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: ELiTE
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series The Walking Dead Daryl Dixon
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'The.Walking.Dead.Daryl.Dixon.S03E04.1080p.x265-ELiTE' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Billy.the.Kid.2022.S03E01.720p.x264-FENiX' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Billy.the.Kid.2022.S03E01.720p.x264-FENiX'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Billy the Kid 2022 - S03E01 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Billy.the.Kid.2022.S03E01.720p.x264-FENiX'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: FENiX
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Billy the Kid 2022
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Billy.the.Kid.2022.S03E01.720p.x264-FENiX' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Siyah Kalp La Notte nel Cuore 2024 2025 S01E55-56 57 Mkv 1080p H264 Ita Tur Aac 2-0' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Siyah Kalp La Notte nel Cuore 2024 2025 S01E55-56 57 Mkv 1080p H264 Ita Tur Aac 2-0'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Siyah Kalp La Notte nel Cuore 2024 2025 - S01E55-56 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Italian, Turkish
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Siyah Kalp La Notte nel Cuore 2024 2025 S01E55-56 57 Mkv 1080p H264 Ita Tur Aac 2-0'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series Siyah Kalp La Notte nel Cuore 2024 2025
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'Siyah Kalp La Notte nel Cuore 2024 2025 S01E55-56 57 Mkv 1080p H264 Ita Tur Aac 2-0' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'The Goldbergs (2022) s10e02 [Mkv   1080p H264   Ita Eng Aac 2.0]' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'The Goldbergs (2022) s10e02 [Mkv   1080p H264   Ita Eng Aac 2.0]'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. The Goldbergs (2022) - S10E02 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'The Goldbergs (2022) s10e02 [Mkv   1080p H264   Ita Eng Aac 2.0]'
+2025-09-28 15:50:10.6|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.6|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.6|Debug|ParsingService|No matching series The Goldbergs (2022)
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Release 'The Goldbergs (2022) s10e02 [Mkv   1080p H264   Ita Eng Aac 2.0]' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.6|Debug|DownloadDecisionMaker|Processing release 'Tulsa.King.S03E02.2160p.ENG.ITA.H265-TheBackKing' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.6|Debug|Parser|Parsing string 'Tulsa.King.S03E02.2160p.ENG.ITA.H265-TheBackKing'
+2025-09-28 15:50:10.6|Debug|Parser|Episode Parsed. Tulsa King - S03E02 
+2025-09-28 15:50:10.6|Debug|Parser|Languages parsed: English, Italian
+2025-09-28 15:50:10.6|Debug|QualityParser|Trying to parse quality for 'Tulsa.King.S03E02.2160p.ENG.ITA.H265-TheBackKing'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: HDTV-2160p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: TheBackKing
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Tulsa King
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Tulsa.King.S03E02.2160p.ENG.ITA.H265-TheBackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Tulsa.King.S03E02.1080p.ENG.ITA.H264-TheBlackKing' from '1337x (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Tulsa.King.S03E02.1080p.ENG.ITA.H264-TheBlackKing'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Tulsa King - S03E02 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: English, Italian
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Tulsa.King.S03E02.1080p.ENG.ITA.H264-TheBlackKing'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: TheBlackKing
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Tulsa King
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Tulsa.King.S03E02.1080p.ENG.ITA.H264-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'MIDV-098 石川澪【无码流出】全神贯注舔舐肉棒的女高中生' from 'BitSearch (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'MIDV-098 石川澪【无码流出】全神贯注舔舐肉棒的女高中生'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. MIDV - 098 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'MIDV-098 石川澪【无码流出】全神贯注舔舐肉棒的女高中生'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: Unknown v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series MIDV
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'MIDV-098 石川澪【无码流出】全神贯注舔舐肉棒的女高中生' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release '爆耖老婆柳叶逼' from 'BitSearch (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string '爆耖老婆柳叶逼'
+2025-09-28 15:50:10.7|Debug|Parser|Unable to parse 爆耖老婆柳叶逼
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string '爆耖老婆柳叶逼'
+2025-09-28 15:50:10.7|Debug|Parser|Unable to parse 爆耖老婆柳叶逼
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series 爆耖老婆柳叶逼
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'FC2-PPV-4766534' from 'BitSearch (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'FC2-PPV-4766534'
+2025-09-28 15:50:10.7|Debug|Parser|Unable to parse FC2-PPV-4766534
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'FC2-PPV-4766534'
+2025-09-28 15:50:10.7|Debug|Parser|Unable to parse FC2-PPV-4766534
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series FC2-PPV-4766534
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Invicta.FC.19.WEB-DL.H264.Fight-BB.mp4' from 'BitSearch (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Invicta.FC.19.WEB-DL.H264.Fight-BB.mp4'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Invicta FC - 019 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Invicta.FC.19.WEB-DL.H264.Fight-BB.mp4'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-480p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: Fight-BB
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Invicta FC
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Invicta.FC.19.WEB-DL.H264.Fight-BB.mp4' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'ckck-015' from 'BitSearch (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'ckck-015'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. ckck - 015 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'ckck-015'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: Unknown v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series ckck
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'ckck-015' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Billy the Kid S03E01 The Beginning Of The End 720p AMZN WEB-DL DDP5 1 H 264' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Billy the Kid S03E01 The Beginning Of The End 720p AMZN WEB-DL DDP5 1 H 264'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Billy the Kid - S03E01 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Billy the Kid S03E01 The Beginning Of The End 720p AMZN WEB-DL DDP5 1 H 264'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Billy the Kid
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Billy the Kid S03E01 The Beginning Of The End 720p AMZN WEB-DL DDP5 1 H 264' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'HOTEL.INHUMANS.S01E13.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'HOTEL.INHUMANS.S01E13.1080p.WEB.H264-SKYANiME'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. HOTEL INHUMANS - S01E13 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'HOTEL.INHUMANS.S01E13.1080p.WEB.H264-SKYANiME'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series HOTEL INHUMANS
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'HOTEL.INHUMANS.S01E13.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Queen Mantis S01E07 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Queen Mantis S01E07 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Queen Mantis - S01E07 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Queen Mantis S01E07 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: Kitsune
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Queen Mantis
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Queen Mantis S01E07 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'HOTEL.INHUMANS.S01E13.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'HOTEL.INHUMANS.S01E13.720p.WEB.H264-SKYANiME'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. HOTEL INHUMANS - S01E13 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'HOTEL.INHUMANS.S01E13.720p.WEB.H264-SKYANiME'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: SKYANiME
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series HOTEL INHUMANS
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'HOTEL.INHUMANS.S01E13.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Billy the Kid S03E01 The Beginning Of The End 2160p AMZN WEB-DL DDP5 1 H 26' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Billy the Kid S03E01 The Beginning Of The End 2160p AMZN WEB-DL DDP5 1 H 26'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Billy the Kid - S03E01 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Billy the Kid S03E01 The Beginning Of The End 2160p AMZN WEB-DL DDP5 1 H 26'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Billy the Kid
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Billy the Kid S03E01 The Beginning Of The End 2160p AMZN WEB-DL DDP5 1 H 26' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Confidence Queen S01E08 1080p AMZN WEB-DL DDP2 0 H 264-BiOMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Confidence Queen S01E08 1080p AMZN WEB-DL DDP2 0 H 264-BiOMA'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Confidence Queen - S01E08 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Confidence Queen S01E08 1080p AMZN WEB-DL DDP2 0 H 264-BiOMA'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: BiOMA
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Confidence Queen
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Confidence Queen S01E08 1080p AMZN WEB-DL DDP2 0 H 264-BiOMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Bon Appetit Your Majesty S01E12 1080p NF WEB-DL AAC2 0 H 264-BiOMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Bon Appetit Your Majesty S01E12 1080p NF WEB-DL AAC2 0 H 264-BiOMA'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Bon Appetit Your Majesty - S01E12 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Bon Appetit Your Majesty S01E12 1080p NF WEB-DL AAC2 0 H 264-BiOMA'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: BiOMA
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Bon Appetit Your Majesty
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Bon Appetit Your Majesty S01E12 1080p NF WEB-DL AAC2 0 H 264-BiOMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Tulsa.King.S03E02.The.Fifty.1080p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Tulsa.King.S03E02.The.Fifty.1080p.HEVC.x265-MeGusta'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Tulsa King - S03E02 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Tulsa.King.S03E02.The.Fifty.1080p.HEVC.x265-MeGusta'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: MeGusta
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Tulsa King
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Tulsa.King.S03E02.The.Fifty.1080p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. The Chosen 2017 - Season 05 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐'
+2025-09-28 15:50:10.7|Debug|SceneMappingService|Found scene mapping for: The Chosen 2017. TVDB ID for mapping: 356992
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series The Chosen 2017
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐'
+2025-09-28 15:50:10.7|Debug|SceneMappingService|Found scene mapping for: The Chosen 2017. TVDB ID for mapping: 356992
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] The Chosen 2017 matches an alias for series with TVDB ID: 356992
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Tulsa.King.S03E02.The.Fifty.720p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Tulsa.King.S03E02.The.Fifty.720p.HEVC.x265-MeGusta'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Tulsa King - S03E02 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Tulsa.King.S03E02.The.Fifty.720p.HEVC.x265-MeGusta'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: MeGusta
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Tulsa King
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Tulsa.King.S03E02.The.Fifty.720p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Billy the Kid S03E01 The Beginning Of The End 1080p AMZN WEB-DL DDP5 1 H 26' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Billy the Kid S03E01 The Beginning Of The End 1080p AMZN WEB-DL DDP5 1 H 26'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Billy the Kid - S03E01 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Billy the Kid S03E01 The Beginning Of The End 1080p AMZN WEB-DL DDP5 1 H 26'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: 
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Billy the Kid
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Billy the Kid S03E01 The Beginning Of The End 1080p AMZN WEB-DL DDP5 1 H 26' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'MotoGP 2025 Round17 Japan Warm Up WEB-DL 1080p h264 English-MWR' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'MotoGP 2025 Round17 Japan Warm Up WEB-DL 1080p h264 English-MWR'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. MotoGP - S20E25 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: English
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'MotoGP 2025 Round17 Japan Warm Up WEB-DL 1080p h264 English-MWR'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: MWR
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series MotoGP
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'MotoGP 2025 Round17 Japan Warm Up WEB-DL 1080p h264 English-MWR' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'motogp 2025 japan warming up 720p web h264-JFF' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'motogp 2025 japan warming up 720p web h264-JFF'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. motogp - S20E25 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'motogp 2025 japan warming up 720p web h264-JFF'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: JFF
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series motogp
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'motogp 2025 japan warming up 720p web h264-JFF' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Have I Got News For You US S03E04 720p WEB H264-JFF' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Have I Got News For You US S03E04 720p WEB H264-JFF'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Have I Got News For You US - S03E04 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Have I Got News For You US S03E04 720p WEB H264-JFF'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: JFF
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Have I Got News For You US
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Have I Got News For You US S03E04 720p WEB H264-JFF' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Summertide S01E18 Episode 18 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Summertide S01E18 Episode 18 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Summertide - S01E18 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Summertide S01E18 Episode 18 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: Kitsune
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Summertide
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Summertide S01E18 Episode 18 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Summertide S01E17 Episode 17 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Summertide S01E17 Episode 17 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Summertide - S01E17 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Summertide S01E17 Episode 17 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: Kitsune
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Summertide
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Summertide S01E17 Episode 17 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Summertide S01E18 Episode 18 720p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Summertide S01E18 Episode 18 720p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Summertide - S01E18 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Summertide S01E18 Episode 18 720p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: Kitsune
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Summertide
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Summertide S01E18 Episode 18 720p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Processing release 'Summertide S01E17 Episode 17 720p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 15:50:10.7|Debug|Parser|Parsing string 'Summertide S01E17 Episode 17 720p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 15:50:10.7|Debug|Parser|Episode Parsed. Summertide - S01E17 
+2025-09-28 15:50:10.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:50:10.7|Debug|QualityParser|Trying to parse quality for 'Summertide S01E17 Episode 17 720p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 15:50:10.7|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 15:50:10.7|Debug|Parser|Release Group parsed: Kitsune
+2025-09-28 15:50:10.7|Debug|ParsingService|No matching series Summertide
+2025-09-28 15:50:10.7|Debug|DownloadDecisionMaker|Release 'Summertide S01E17 Episode 17 720p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 15:50:10.7|Info|RssSyncService|RSS Sync Completed. Reports found: 43, Reports grabbed: 0
+2025-09-28 15:50:10.7|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-28 15:50:10.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:10.8|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-28 15:50:10.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:50:10.8|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:51:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:51:00.5|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (292 ms)
+2025-09-28 15:51:00.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:51:00.7|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (59 ms)
+2025-09-28 15:51:00.7|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:51:00.7|Debug|Parser|Episode Parsed. Alice in Borderland - Season 03 
+2025-09-28 15:51:00.7|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:51:00.7|Debug|QualityParser|Trying to parse quality for 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:51:00.7|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:51:00.7|Debug|Parser|Release Group parsed: REL1VIN
+2025-09-28 15:51:00.7|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:51:00.7|Debug|SceneMappingService|Found scene mapping for: Alice in Borderland. TVDB ID for mapping: 376472
+2025-09-28 15:51:00.7|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Japanese
+2025-09-28 15:51:00.7|Debug|AggregateLanguages|Selected languages: Japanese
+2025-09-28 15:51:01.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:51:01.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (36 ms)
+2025-09-28 15:51:01.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:51:01.4|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 15:51:01.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:51:01.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:51:01.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:51:01.4|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-28 15:51:01.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:51:01.7|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:51:01.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:51:01.7|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:51:01.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:51:01.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:51:01.8|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-28 15:51:01.8|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (19 ms)
+2025-09-28 15:54:52.0|Debug|ImportListSyncService|No import lists with automatic add enabled
+2025-09-28 15:54:52.0|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:54:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.0|Debug|Parser|Episode Parsed. Alice in Borderland - Season 03 
+2025-09-28 15:54:52.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (13 ms)
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (11 ms)
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (10 ms)
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (11 ms)
+2025-09-28 15:54:52.1|Debug|QualityParser|Trying to parse quality for 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:54:52.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:54:52.1|Debug|Parser|Release Group parsed: REL1VIN
+2025-09-28 15:54:52.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:54:52.1|Debug|SceneMappingService|Found scene mapping for: Alice in Borderland. TVDB ID for mapping: 376472
+2025-09-28 15:54:52.1|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Japanese
+2025-09-28 15:54:52.1|Debug|AggregateLanguages|Selected languages: Japanese
+2025-09-28 15:54:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:54:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:54:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 15:54:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (4 ms)
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2025-09-28 15:54:52.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:54:52.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (4 ms)
+2025-09-28 15:54:52.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:55:58.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.2|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (6 ms)
+2025-09-28 15:55:58.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.2|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (40 ms)
+2025-09-28 15:55:58.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (10 ms)
+2025-09-28 15:55:58.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.3|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (7 ms)
+2025-09-28 15:55:58.3|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (10 ms)
+2025-09-28 15:55:58.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.3|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-28 15:55:58.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.3|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (15 ms)
+2025-09-28 15:55:58.3|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (1 ms)
+2025-09-28 15:55:58.3|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:55:58.3|Debug|Parser|Episode Parsed. Alice in Borderland - Season 03 
+2025-09-28 15:55:58.3|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:55:58.3|Debug|QualityParser|Trying to parse quality for 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:55:58.3|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:55:58.3|Debug|Parser|Release Group parsed: REL1VIN
+2025-09-28 15:55:58.3|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:55:58.3|Debug|SceneMappingService|Found scene mapping for: Alice in Borderland. TVDB ID for mapping: 376472
+2025-09-28 15:55:58.3|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Japanese
+2025-09-28 15:55:58.3|Debug|AggregateLanguages|Selected languages: Japanese
+2025-09-28 15:55:58.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:55:58.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:55:58.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 15:55:58.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2025-09-28 15:55:58.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 15:55:58.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:55:58.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:55:58.4|Debug|Api|[GET] /api/v3/command: 200.OK (0 ms)
+2025-09-28 15:56:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:56:00.0|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (21 ms)
+2025-09-28 15:56:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:56:00.0|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (6 ms)
+2025-09-28 15:56:00.0|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:56:00.0|Debug|Parser|Episode Parsed. Alice in Borderland - Season 03 
+2025-09-28 15:56:00.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 15:56:00.0|Debug|QualityParser|Trying to parse quality for 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:56:00.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 15:56:00.0|Debug|Parser|Release Group parsed: REL1VIN
+2025-09-28 15:56:00.0|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 15:56:00.0|Debug|SceneMappingService|Found scene mapping for: Alice in Borderland. TVDB ID for mapping: 376472
+2025-09-28 15:56:00.0|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Japanese
+2025-09-28 15:56:00.0|Debug|AggregateLanguages|Selected languages: Japanese
+2025-09-28 15:56:00.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:56:00.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:56:00.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:56:00.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 15:56:00.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:56:00.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:56:00.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (7 ms)
+2025-09-28 15:56:00.1|Debug|Api|[GET] /api/v3/command: 200.OK (8 ms)
+2025-09-28 15:56:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:56:00.2|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (2 ms)
+2025-09-28 15:56:00.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:56:00.2|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:56:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:56:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 15:56:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 15:56:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 16:04:49.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.6|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.7|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (115 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (44 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (126 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (142 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (118 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (112 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (144 ms)
+2025-09-28 16:04:49.7|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (45 ms)
+2025-09-28 16:04:49.7|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 16:04:49.8|Debug|Parser|Episode Parsed. Alice in Borderland - Season 03 
+2025-09-28 16:04:49.8|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:04:49.8|Debug|QualityParser|Trying to parse quality for 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 16:04:49.8|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:04:49.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.8|Debug|Parser|Release Group parsed: REL1VIN
+2025-09-28 16:04:49.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (29 ms)
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (33 ms)
+2025-09-28 16:04:49.8|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 16:04:49.8|Debug|SceneMappingService|Found scene mapping for: Alice in Borderland. TVDB ID for mapping: 376472
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (37 ms)
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (25 ms)
+2025-09-28 16:04:49.8|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (42 ms)
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (66 ms)
+2025-09-28 16:04:49.8|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (45 ms)
+2025-09-28 16:04:49.9|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (49 ms)
+2025-09-28 16:04:49.9|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Japanese
+2025-09-28 16:04:49.9|Debug|AggregateLanguages|Selected languages: Japanese
+2025-09-28 16:04:50.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:50.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:50.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:50.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:50.0|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 16:04:50.0|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2025-09-28 16:04:50.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (5 ms)
+2025-09-28 16:04:50.0|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (6 ms)
+2025-09-28 16:04:50.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:50.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (4 ms)
+2025-09-28 16:04:50.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:50.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:50.1|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (5 ms)
+2025-09-28 16:04:50.1|Debug|Api|[GET] /api/v3/command: 200.OK (5 ms)
+2025-09-28 16:04:50.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:50.1|Debug|Api|[GET] /api/v3/command: 200.OK (4 ms)
+2025-09-28 16:04:51.1|Error|CommandExecutor|Error occurred while executing task ImportListSync
+
+[v4.0.15.2941] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2858
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 581
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Sonarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Sonarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand](TCommand command, CommandModel commandModel) in ./Sonarr.Core/Messaging/Commands/CommandExecutor.cs:line 116
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Sonarr.Core/Messaging/Commands/CommandExecutor.cs:line 42
+
+2025-09-28 16:04:51.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:51.1|Error|CommandExecutor|Error occurred while executing task MessagingCleanup
+
+[v4.0.15.2941] code = ReadOnly (8), message = System.Data.SQLite.SQLiteException (0x800017FF): attempt to write a readonly database
+attempt to write a readonly database
+   at System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2858
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 581
+   at NzbDrone.Core.Datastore.BasicRepository`1.UpdateFields(IDbConnection connection, IDbTransaction transaction, TModel model, List`1 propertiesToUpdate) in ./Sonarr.Core/Datastore/BasicRepository.cs:line 385
+   at NzbDrone.Core.Datastore.BasicRepository`1.SetFields(TModel model, Expression`1[] properties) in ./Sonarr.Core/Datastore/BasicRepository.cs:line 335
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Update(CommandModel command, CommandStatus status, String message) in ./Sonarr.Core/Messaging/Commands/CommandQueueManager.cs:line 259
+   at NzbDrone.Core.Messaging.Commands.CommandQueueManager.Fail(CommandModel command, String message, Exception e) in ./Sonarr.Core/Messaging/Commands/CommandQueueManager.cs:line 214
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommand[TCommand](TCommand command, CommandModel commandModel) in ./Sonarr.Core/Messaging/Commands/CommandExecutor.cs:line 116
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at NzbDrone.Core.Messaging.Commands.CommandExecutor.ExecuteCommands() in ./Sonarr.Core/Messaging/Commands/CommandExecutor.cs:line 42
+
+2025-09-28 16:04:51.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:51.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:51.2|Debug|Api|[GET] /api/v3/command: 200.OK (36 ms)
+2025-09-28 16:04:51.2|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:04:51.2|Debug|Api|[GET] /api/v3/command: 200.OK (54 ms)
+2025-09-28 16:04:51.2|Debug|Api|[GET] /api/v3/command: 200.OK (58 ms)
+2025-09-28 16:04:51.2|Debug|Api|[GET] /api/v3/command: 200.OK (18 ms)
+2025-09-28 16:05:00.0|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:00.1|Debug|Api|[POST] /api/v3/command?apikey=(removed) 201.Created (34 ms)
+2025-09-28 16:05:00.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:00.1|Debug|Api|[GET] /api/v3/queue?apikey=(removed)&includeEpisode=true: 200.OK (39 ms)
+2025-09-28 16:05:00.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 16:05:00.1|Debug|Parser|Episode Parsed. Alice in Borderland - Season 03 
+2025-09-28 16:05:00.1|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:00.1|Debug|QualityParser|Trying to parse quality for 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 16:05:00.1|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:00.1|Debug|Parser|Release Group parsed: REL1VIN
+2025-09-28 16:05:00.1|Debug|Parser|Parsing string 'Alice.in.Borderland.S03.1080p.NF.WEB-DL.AAC5.1.H.265-REL1VIN'
+2025-09-28 16:05:00.1|Debug|SceneMappingService|Found scene mapping for: Alice in Borderland. TVDB ID for mapping: 376472
+2025-09-28 16:05:00.2|Debug|AggregateLanguages|Language couldn't be parsed from release, fallback to series original language: Japanese
+2025-09-28 16:05:00.2|Debug|AggregateLanguages|Selected languages: Japanese
+2025-09-28 16:05:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (18 ms)
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (15 ms)
+2025-09-28 16:05:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (12 ms)
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 16:05:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (1 ms)
+2025-09-28 16:05:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/queue/details?all=true: 200.OK (3 ms)
+2025-09-28 16:05:00.3|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:00.3|Debug|Api|[GET] /api/v3/command: 200.OK (1 ms)
+2025-09-28 16:05:00.4|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:00.4|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)
+2025-09-28 16:05:21.0|Info|RssSyncService|Starting RSS Sync
+2025-09-28 16:05:21.1|Debug|FetchAndParseRssService|Available indexers 4
+2025-09-28 16:05:21.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/2/api?t=tvsearch&cat=5000,5040,5030,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 16:05:21.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/1/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 16:05:21.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/6/api?t=tvsearch&cat=5000,5050,5040,5045&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 16:05:21.1|Debug|Torznab|Downloading Feed http://prowlarr:9696/8/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100
+2025-09-28 16:05:21.5|Warn|HttpClient|HTTP Error - Res: HTTP/1.1 [GET] http://prowlarr:9696/8/api?t=tvsearch&cat=5000,5070&extended=1&apikey=(removed)&offset=0&limit=100: 429.TooManyRequests (142 bytes)
+<?xml version="1.0" encoding="UTF-8"?>
+<error code="429" description="Indexer is disabled till 09/28/2025 16:35:21 due to recent failures." />
+2025-09-28 16:05:21.5|Warn|Torznab|API Request Limit reached for LimeTorrents (Prowlarr). Disabled for 00:30:00
+2025-09-28 16:05:21.5|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 09/28/2025 19:24:04 and 09/28/2025 19:46:21 UTC. Search may be required.
+2025-09-28 16:05:26.5|Debug|IndexerFactory|Temporarily ignoring indexer LimeTorrents (Prowlarr) till 09/28/2025 16:35:21 due to recent failures.
+2025-09-28 16:05:26.5|Debug|IndexerFactory|Temporarily ignoring indexer LimeTorrents (Prowlarr) till 09/28/2025 16:35:21 due to recent failures.
+2025-09-28 16:05:26.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:26.5|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:26.6|Debug|Api|[GET] /api/v3/health: 200.OK (10 ms)
+2025-09-28 16:05:26.6|Debug|Api|[GET] /api/v3/health: 200.OK (12 ms)
+2025-09-28 16:05:27.9|Debug|FetchAndParseRssService|Found 47 reports
+2025-09-28 16:05:27.9|Info|DownloadDecisionMaker|Processing 47 releases
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Fringe   Stagione 01 05 (2008 2013 ITA/ENG) [FULL SERIES] [Pir8][1080p]' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Fringe   Stagione 01 05 (2008 2013 ITA/ENG) [FULL SERIES] [Pir8][1080p]'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Fringe - Season 01 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Fringe   Stagione 01 05 (2008 2013 ITA/ENG) [FULL SERIES] [Pir8][1080p]'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: 
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Fringe
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Fringe   Stagione 01 05 (2008 2013 ITA/ENG) [FULL SERIES] [Pir8][1080p]' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Ghost Doctor Season 1(2022)(1080p)(ENG + 10 Language Subtitles)' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Ghost Doctor Season 1(2022)(1080p)(ENG + 10 Language Subtitles)'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Ghost Doctor Season 1(2022)()(ENG + - 010 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Ghost Doctor Season 1(2022)(1080p)(ENG + 10 Language Subtitles)'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: 
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Ghost Doctor Season 1(2022)()(ENG +
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Ghost Doctor Season 1(2022)(1080p)(ENG + 10 Language Subtitles)' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Fringe Season 01 05 2008 2013 FULL SERIES SD AMZN Rip XviD ita eng Mp3 Sub ita eng-Pir8' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Fringe Season 01 05 2008 2013 FULL SERIES SD AMZN Rip XviD ita eng Mp3 Sub ita eng-Pir8'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Fringe - Season 01 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Fringe Season 01 05 2008 2013 FULL SERIES SD AMZN Rip XviD ita eng Mp3 Sub ita eng-Pir8'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: Unknown v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: Pir8
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Fringe
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Fringe Season 01 05 2008 2013 FULL SERIES SD AMZN Rip XviD ita eng Mp3 Sub ita eng-Pir8' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Alien.Earth.S01.1080p.x265-ELiTE' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Alien.Earth.S01.1080p.x265-ELiTE'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Alien Earth - Season 01 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Alien.Earth.S01.1080p.x265-ELiTE'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: ELiTE
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Alien Earth
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Alien.Earth.S01.1080p.x265-ELiTE' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Alien.Earth.S01.720p.x264-FENiX' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Alien.Earth.S01.720p.x264-FENiX'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Alien Earth - Season 01 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Alien.Earth.S01.720p.x264-FENiX'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: FENiX
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Alien Earth
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Alien.Earth.S01.720p.x264-FENiX' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Gachiakuta.S01E12.1080p.ENG.ITA.JAP.H264-kARiDo' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Gachiakuta.S01E12.1080p.ENG.ITA.JAP.H264-kARiDo'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Gachiakuta - S01E12 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: English, Italian
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Gachiakuta.S01E12.1080p.ENG.ITA.JAP.H264-kARiDo'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: kARiDo
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Gachiakuta
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Gachiakuta.S01E12.1080p.ENG.ITA.JAP.H264-kARiDo' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Bon.Appetit.Your.Majesty.S01.(2025).1080p.WEBRIP.HEVC.AAC2.0' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Bon.Appetit.Your.Majesty.S01.(2025).1080p.WEBRIP.HEVC.AAC2.0'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Bon Appetit Your Majesty - Season 01 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Bon.Appetit.Your.Majesty.S01.(2025).1080p.WEBRIP.HEVC.AAC2.0'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: WEBRip-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: 
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Bon Appetit Your Majesty
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Bon.Appetit.Your.Majesty.S01.(2025).1080p.WEBRIP.HEVC.AAC2.0' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'WWE Main Event 2025 09 25 1080p WEB h264-HEEL' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'WWE Main Event 2025 09 25 1080p WEB h264-HEEL'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. WWE Main Event - 2025-09-25 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'WWE Main Event 2025 09 25 1080p WEB h264-HEEL'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: HEEL
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series WWE Main Event
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'WWE Main Event 2025 09 25 1080p WEB h264-HEEL' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. WWE Friday Night Smackdown - 2025-09-26 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: KYR
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR'
+2025-09-28 16:05:27.9|Debug|SceneMappingService|Found scene mapping for: WWE Friday Night Smackdown. TVDB ID for mapping: 75640
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series WWE Friday Night Smackdown
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR'
+2025-09-28 16:05:27.9|Debug|SceneMappingService|Found scene mapping for: WWE Friday Night Smackdown. TVDB ID for mapping: 75640
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'WWE Friday Night Smackdown 2025 09 26 1080p WEB h264-KYR' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] WWE Friday Night Smackdown matches an alias for series with TVDB ID: 75640
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'The Equalizer 2021 S05E06 All ultimo sangue ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'The Equalizer 2021 S05E06 All ultimo sangue ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. The Equalizer 2021 - S05E06 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'The Equalizer 2021 S05E06 All ultimo sangue ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: mkv
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series The Equalizer 2021
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'The Equalizer 2021 S05E06 All ultimo sangue ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'The Equalizer 2021 S05E05 Uccidetemi per favore ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'The Equalizer 2021 S05E05 Uccidetemi per favore ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. The Equalizer 2021 - S05E05 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'The Equalizer 2021 S05E05 Uccidetemi per favore ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: mkv
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series The Equalizer 2021
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'The Equalizer 2021 S05E05 Uccidetemi per favore ITA ENG 1080p AMZN WEB-DL DDP 5.1 H 264 MeM GP-mkv' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Billy.the.Kid.S03E01.The.Beginning.Of.The.End.1080p.ENG.ITA.H265-TheBlackKing' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Billy.the.Kid.S03E01.The.Beginning.Of.The.End.1080p.ENG.ITA.H265-TheBlackKing'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Billy the Kid - S03E01 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: English, Italian
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Billy.the.Kid.S03E01.The.Beginning.Of.The.End.1080p.ENG.ITA.H265-TheBlackKing'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: TheBlackKing
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Billy the Kid
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Billy.the.Kid.S03E01.The.Beginning.Of.The.End.1080p.ENG.ITA.H265-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Sunday with Laura Kuenssberg Interview with the Prime Minister 720p HEVC subs-BigJ0554' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Sunday with Laura Kuenssberg Interview with the Prime Minister 720p HEVC subs-BigJ0554'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Sunday with Laura Kuenssberg Interview with the Prime Minister  HEVC subs-BigJ - S05E54 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Sunday with Laura Kuenssberg Interview with the Prime Minister 720p HEVC subs-BigJ0554'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: BigJ0554
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Sunday with Laura Kuenssberg Interview with the Prime Minister  HEVC subs-BigJ
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Sunday with Laura Kuenssberg Interview with the Prime Minister 720p HEVC subs-BigJ0554' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Billy.the.Kid.2022.S03E01.1080p.x265-ELiTE' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Billy.the.Kid.2022.S03E01.1080p.x265-ELiTE'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Billy the Kid 2022 - S03E01 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Billy.the.Kid.2022.S03E01.1080p.x265-ELiTE'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: ELiTE
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Billy the Kid 2022
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Billy.the.Kid.2022.S03E01.1080p.x265-ELiTE' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'The.Walking.Dead.Daryl.Dixon.S03E04.1080p.x265-ELiTE' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'The.Walking.Dead.Daryl.Dixon.S03E04.1080p.x265-ELiTE'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. The Walking Dead Daryl Dixon - S03E04 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'The.Walking.Dead.Daryl.Dixon.S03E04.1080p.x265-ELiTE'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: ELiTE
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series The Walking Dead Daryl Dixon
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'The.Walking.Dead.Daryl.Dixon.S03E04.1080p.x265-ELiTE' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Billy.the.Kid.2022.S03E01.720p.x264-FENiX' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Billy.the.Kid.2022.S03E01.720p.x264-FENiX'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Billy the Kid 2022 - S03E01 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Billy.the.Kid.2022.S03E01.720p.x264-FENiX'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: FENiX
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Billy the Kid 2022
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Billy.the.Kid.2022.S03E01.720p.x264-FENiX' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'Siyah Kalp La Notte nel Cuore 2024 2025 S01E55-56 57 Mkv 1080p H264 Ita Tur Aac 2-0' from '1337x (Prowlarr)'
+2025-09-28 16:05:27.9|Debug|Parser|Parsing string 'Siyah Kalp La Notte nel Cuore 2024 2025 S01E55-56 57 Mkv 1080p H264 Ita Tur Aac 2-0'
+2025-09-28 16:05:27.9|Debug|Parser|Episode Parsed. Siyah Kalp La Notte nel Cuore 2024 2025 - S01E55-56 
+2025-09-28 16:05:27.9|Debug|Parser|Languages parsed: Italian, Turkish
+2025-09-28 16:05:27.9|Debug|QualityParser|Trying to parse quality for 'Siyah Kalp La Notte nel Cuore 2024 2025 S01E55-56 57 Mkv 1080p H264 Ita Tur Aac 2-0'
+2025-09-28 16:05:27.9|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:27.9|Debug|Parser|Release Group parsed: 
+2025-09-28 16:05:27.9|Debug|ParsingService|No matching series Siyah Kalp La Notte nel Cuore 2024 2025
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Release 'Siyah Kalp La Notte nel Cuore 2024 2025 S01E55-56 57 Mkv 1080p H264 Ita Tur Aac 2-0' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:27.9|Debug|DownloadDecisionMaker|Processing release 'The Goldbergs (2022) s10e02 [Mkv   1080p H264   Ita Eng Aac 2.0]' from '1337x (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'The Goldbergs (2022) s10e02 [Mkv   1080p H264   Ita Eng Aac 2.0]'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. The Goldbergs (2022) - S10E02 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Italian, English
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'The Goldbergs (2022) s10e02 [Mkv   1080p H264   Ita Eng Aac 2.0]'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: 
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series The Goldbergs (2022)
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'The Goldbergs (2022) s10e02 [Mkv   1080p H264   Ita Eng Aac 2.0]' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Tulsa.King.S03E02.2160p.ENG.ITA.H265-TheBackKing' from '1337x (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Tulsa.King.S03E02.2160p.ENG.ITA.H265-TheBackKing'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Tulsa King - S03E02 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: English, Italian
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Tulsa.King.S03E02.2160p.ENG.ITA.H265-TheBackKing'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: HDTV-2160p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: TheBackKing
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Tulsa King
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Tulsa.King.S03E02.2160p.ENG.ITA.H265-TheBackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Tulsa.King.S03E02.1080p.ENG.ITA.H264-TheBlackKing' from '1337x (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Tulsa.King.S03E02.1080p.ENG.ITA.H264-TheBlackKing'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Tulsa King - S03E02 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: English, Italian
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Tulsa.King.S03E02.1080p.ENG.ITA.H264-TheBlackKing'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: TheBlackKing
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Tulsa King
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Tulsa.King.S03E02.1080p.ENG.ITA.H264-TheBlackKing' from '1337x (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Family.Guy.S23E17.The.Fat.Lotus.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb' from 'BitSearch (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Family.Guy.S23E17.The.Fat.Lotus.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Family Guy - S23E17 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Family.Guy.S23E17.The.Fat.Lotus.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: NTb
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Family Guy
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Family.Guy.S23E17.The.Fat.Lotus.1080p.DSNP.WEB-DL.DDP5.1.H.264-NTb' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Tini - Aquí Estoy.mov' from 'BitSearch (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Tini - Aquí Estoy.mov'
+2025-09-28 16:05:28.0|Debug|Parser|Unable to parse Tini - Aquí Estoy.mov
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Tini - Aquí Estoy.mov'
+2025-09-28 16:05:28.0|Debug|Parser|Unable to parse Tini - Aquí Estoy.mov
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Tini - Aquí Estoy.mov
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release '网聊没多久的03年妹子，酒店约出来操逼，清纯外表没想到这么骚，大JB甩再小舌头上，骑乘上来操，后入肥穴我的天太爽了' from 'BitSearch (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string '网聊没多久的03年妹子，酒店约出来操逼，清纯外表没想到这么骚，大JB甩再小舌头上，骑乘上来操，后入肥穴我的天太爽了'
+2025-09-28 16:05:28.0|Debug|Parser|Unable to parse 网聊没多久的03年妹子，酒店约出来操逼，清纯外表没想到这么骚，大JB甩再小舌头上，骑乘上来操，后入肥穴我的天太爽了
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string '网聊没多久的03年妹子，酒店约出来操逼，清纯外表没想到这么骚，大JB甩再小舌头上，骑乘上来操，后入肥穴我的天太爽了'
+2025-09-28 16:05:28.0|Debug|Parser|Unable to parse 网聊没多久的03年妹子，酒店约出来操逼，清纯外表没想到这么骚，大JB甩再小舌头上，骑乘上来操，后入肥穴我的天太爽了
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series 网聊没多久的03年妹子，酒店约出来操逼，清纯外表没想到这么骚，大JB甩再小舌头上，骑乘上来操，后入肥穴我的天太爽了
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'DP Hotties 2 (1080p)' from 'BitSearch (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'DP Hotties 2 (1080p)'
+2025-09-28 16:05:28.0|Debug|Parser|Unable to parse DP Hotties 2 (1080p)
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'DP Hotties 2 (1080p)'
+2025-09-28 16:05:28.0|Debug|Parser|Unable to parse DP Hotties 2 (1080p)
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series DP Hotties 2 (1080p)
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release '完美女仆系列（14）性感的客房服务女佣被操' from 'BitSearch (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string '完美女仆系列（14）性感的客房服务女佣被操'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. 完美女仆系列 - 014 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for '完美女仆系列（14）性感的客房服务女佣被操'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: Unknown v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: 
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series 完美女仆系列
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release '完美女仆系列（14）性感的客房服务女佣被操' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Outlander.Blood.of.My.Blood.S01E03.REPACK.MULTi.1080p.WEB.H264-TFA.mkv' from 'BitSearch (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Outlander.Blood.of.My.Blood.S01E03.REPACK.MULTi.1080p.WEB.H264-TFA.mkv'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Outlander Blood of My Blood - S01E03 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Outlander.Blood.of.My.Blood.S01E03.REPACK.MULTi.1080p.WEB.H264-TFA.mkv'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v2
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: TFA
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Outlander Blood of My Blood
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Outlander.Blood.of.My.Blood.S01E03.REPACK.MULTi.1080p.WEB.H264-TFA.mkv' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release '[豪门夜宴].DVD-RMVB.[香港超强明星阵容爆笑喜剧大片]' from 'BitSearch (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string '[豪门夜宴].DVD-RMVB.[香港超强明星阵容爆笑喜剧大片]'
+2025-09-28 16:05:28.0|Debug|Parser|Unable to parse [豪门夜宴].DVD-RMVB.[香港超强明星阵容爆笑喜剧大片]
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string '[豪门夜宴].DVD-RMVB.[香港超强明星阵容爆笑喜剧大片]'
+2025-09-28 16:05:28.0|Debug|Parser|Unable to parse [豪门夜宴].DVD-RMVB.[香港超强明星阵容爆笑喜剧大片]
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series [豪门夜宴].DVD-RMVB.[香港超强明星阵容爆笑喜剧大片]
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release '【360稀有资源】超清视角-一对高颜值学生情侣周末开房过性生活 全程激情无尿点' from 'BitSearch (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string '【360稀有资源】超清视角-一对高颜值学生情侣周末开房过性生活 全程激情无尿点'
+2025-09-28 16:05:28.0|Debug|Parser|Unable to parse 【360稀有资源】超清视角-一对高颜值学生情侣周末开房过性生活 全程激情无尿点
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string '【360稀有资源】超清视角-一对高颜值学生情侣周末开房过性生活 全程激情无尿点'
+2025-09-28 16:05:28.0|Debug|Parser|Unable to parse 【360稀有资源】超清视角-一对高颜值学生情侣周末开房过性生活 全程激情无尿点
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series 【360稀有资源】超清视角-一对高颜值学生情侣周末开房过性生活 全程激情无尿点
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'The.Amazing.Race.Canada.S11E05.720p.HEVC.x265-MeGusta[EZTVx.to].mkv' from 'BitSearch (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'The.Amazing.Race.Canada.S11E05.720p.HEVC.x265-MeGusta[EZTVx.to].mkv'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. The Amazing Race Canada - S11E05 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'The.Amazing.Race.Canada.S11E05.720p.HEVC.x265-MeGusta[EZTVx.to].mkv'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: MeGusta
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series The Amazing Race Canada
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'The.Amazing.Race.Canada.S11E05.720p.HEVC.x265-MeGusta[EZTVx.to].mkv' from 'BitSearch (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Billy the Kid S03E01 The Beginning Of The End 720p AMZN WEB-DL DDP5 1 H 264' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Billy the Kid S03E01 The Beginning Of The End 720p AMZN WEB-DL DDP5 1 H 264'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Billy the Kid - S03E01 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Billy the Kid S03E01 The Beginning Of The End 720p AMZN WEB-DL DDP5 1 H 264'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: 
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Billy the Kid
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Billy the Kid S03E01 The Beginning Of The End 720p AMZN WEB-DL DDP5 1 H 264' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'HOTEL.INHUMANS.S01E13.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'HOTEL.INHUMANS.S01E13.1080p.WEB.H264-SKYANiME'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. HOTEL INHUMANS - S01E13 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'HOTEL.INHUMANS.S01E13.1080p.WEB.H264-SKYANiME'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: SKYANiME
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series HOTEL INHUMANS
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'HOTEL.INHUMANS.S01E13.1080p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Queen Mantis S01E07 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Queen Mantis S01E07 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Queen Mantis - S01E07 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Queen Mantis S01E07 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: Kitsune
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Queen Mantis
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Queen Mantis S01E07 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'HOTEL.INHUMANS.S01E13.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'HOTEL.INHUMANS.S01E13.720p.WEB.H264-SKYANiME'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. HOTEL INHUMANS - S01E13 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'HOTEL.INHUMANS.S01E13.720p.WEB.H264-SKYANiME'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: SKYANiME
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series HOTEL INHUMANS
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'HOTEL.INHUMANS.S01E13.720p.WEB.H264-SKYANiME' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Billy the Kid S03E01 The Beginning Of The End 2160p AMZN WEB-DL DDP5 1 H 26' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Billy the Kid S03E01 The Beginning Of The End 2160p AMZN WEB-DL DDP5 1 H 26'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Billy the Kid - S03E01 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Billy the Kid S03E01 The Beginning Of The End 2160p AMZN WEB-DL DDP5 1 H 26'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-2160p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: 
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Billy the Kid
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Billy the Kid S03E01 The Beginning Of The End 2160p AMZN WEB-DL DDP5 1 H 26' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Confidence Queen S01E08 1080p AMZN WEB-DL DDP2 0 H 264-BiOMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Confidence Queen S01E08 1080p AMZN WEB-DL DDP2 0 H 264-BiOMA'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Confidence Queen - S01E08 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Confidence Queen S01E08 1080p AMZN WEB-DL DDP2 0 H 264-BiOMA'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: BiOMA
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Confidence Queen
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Confidence Queen S01E08 1080p AMZN WEB-DL DDP2 0 H 264-BiOMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Bon Appetit Your Majesty S01E12 1080p NF WEB-DL AAC2 0 H 264-BiOMA' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Bon Appetit Your Majesty S01E12 1080p NF WEB-DL AAC2 0 H 264-BiOMA'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Bon Appetit Your Majesty - S01E12 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Bon Appetit Your Majesty S01E12 1080p NF WEB-DL AAC2 0 H 264-BiOMA'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: BiOMA
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Bon Appetit Your Majesty
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Bon Appetit Your Majesty S01E12 1080p NF WEB-DL AAC2 0 H 264-BiOMA' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Tulsa.King.S03E02.The.Fifty.1080p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Tulsa.King.S03E02.The.Fifty.1080p.HEVC.x265-MeGusta'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Tulsa King - S03E02 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Tulsa.King.S03E02.The.Fifty.1080p.HEVC.x265-MeGusta'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: HDTV-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: MeGusta
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Tulsa King
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Tulsa.King.S03E02.The.Fifty.1080p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. The Chosen 2017 - Season 05 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: 
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐'
+2025-09-28 16:05:28.0|Debug|SceneMappingService|Found scene mapping for: The Chosen 2017. TVDB ID for mapping: 356992
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series The Chosen 2017
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐'
+2025-09-28 16:05:28.0|Debug|SceneMappingService|Found scene mapping for: The Chosen 2017. TVDB ID for mapping: 356992
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'The Chosen.2017.s05.1080p.WEB-DL.H.264.Dual.YG⭐' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] The Chosen 2017 matches an alias for series with TVDB ID: 356992
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Tulsa.King.S03E02.The.Fifty.720p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Tulsa.King.S03E02.The.Fifty.720p.HEVC.x265-MeGusta'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Tulsa King - S03E02 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Tulsa.King.S03E02.The.Fifty.720p.HEVC.x265-MeGusta'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: HDTV-720p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: MeGusta
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Tulsa King
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Tulsa.King.S03E02.The.Fifty.720p.HEVC.x265-MeGusta' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Billy the Kid S03E01 The Beginning Of The End 1080p AMZN WEB-DL DDP5 1 H 26' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Billy the Kid S03E01 The Beginning Of The End 1080p AMZN WEB-DL DDP5 1 H 26'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Billy the Kid - S03E01 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Billy the Kid S03E01 The Beginning Of The End 1080p AMZN WEB-DL DDP5 1 H 26'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: 
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Billy the Kid
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Billy the Kid S03E01 The Beginning Of The End 1080p AMZN WEB-DL DDP5 1 H 26' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'MotoGP 2025 Round17 Japan Warm Up WEB-DL 1080p h264 English-MWR' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'MotoGP 2025 Round17 Japan Warm Up WEB-DL 1080p h264 English-MWR'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. MotoGP - S20E25 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: English
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'MotoGP 2025 Round17 Japan Warm Up WEB-DL 1080p h264 English-MWR'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: MWR
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series MotoGP
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'MotoGP 2025 Round17 Japan Warm Up WEB-DL 1080p h264 English-MWR' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'motogp 2025 japan warming up 720p web h264-JFF' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'motogp 2025 japan warming up 720p web h264-JFF'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. motogp - S20E25 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'motogp 2025 japan warming up 720p web h264-JFF'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: JFF
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series motogp
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'motogp 2025 japan warming up 720p web h264-JFF' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Have I Got News For You US S03E04 720p WEB H264-JFF' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Have I Got News For You US S03E04 720p WEB H264-JFF'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Have I Got News For You US - S03E04 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Have I Got News For You US S03E04 720p WEB H264-JFF'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: JFF
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Have I Got News For You US
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Have I Got News For You US S03E04 720p WEB H264-JFF' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Summertide S01E18 Episode 18 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Summertide S01E18 Episode 18 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Summertide - S01E18 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Summertide S01E18 Episode 18 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: Kitsune
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Summertide
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Summertide S01E18 Episode 18 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Summertide S01E17 Episode 17 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Summertide S01E17 Episode 17 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Summertide - S01E17 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Summertide S01E17 Episode 17 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-1080p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: Kitsune
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Summertide
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Summertide S01E17 Episode 17 1080p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Summertide S01E18 Episode 18 720p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Summertide S01E18 Episode 18 720p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Summertide - S01E18 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Summertide S01E18 Episode 18 720p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: Kitsune
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Summertide
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Summertide S01E18 Episode 18 720p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Processing release 'Summertide S01E17 Episode 17 720p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)'
+2025-09-28 16:05:28.0|Debug|Parser|Parsing string 'Summertide S01E17 Episode 17 720p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 16:05:28.0|Debug|Parser|Episode Parsed. Summertide - S01E17 
+2025-09-28 16:05:28.0|Debug|Parser|Languages parsed: Unknown
+2025-09-28 16:05:28.0|Debug|QualityParser|Trying to parse quality for 'Summertide S01E17 Episode 17 720p AMZN WEB-DL DDP2 0 H 264-Kitsune'
+2025-09-28 16:05:28.0|Debug|Parser|Quality parsed: WEBDL-720p v1
+2025-09-28 16:05:28.0|Debug|Parser|Release Group parsed: Kitsune
+2025-09-28 16:05:28.0|Debug|ParsingService|No matching series Summertide
+2025-09-28 16:05:28.0|Debug|DownloadDecisionMaker|Release 'Summertide S01E17 Episode 17 720p AMZN WEB-DL DDP2 0 H 264-Kitsune' from 'The Pirate Bay (Prowlarr)' rejected for the following reasons: [Permanent] Unknown Series
+2025-09-28 16:05:28.0|Info|RssSyncService|RSS Sync Completed. Reports found: 47, Reports grabbed: 0
+2025-09-28 16:05:28.0|Debug|PendingReleaseService|Removing failed releases from pending
+2025-09-28 16:05:28.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:28.1|Debug|Sonarr.Http.Authentication.ApiKeyAuthenticationHandler|AuthenticationScheme: API was successfully authenticated.
+2025-09-28 16:05:28.1|Debug|Api|[GET] /api/v3/command: 200.OK (3 ms)
+2025-09-28 16:05:28.1|Debug|Api|[GET] /api/v3/command: 200.OK (2 ms)

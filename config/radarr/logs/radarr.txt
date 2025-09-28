@@ -529,3 +529,8 @@ attempt to write a readonly database
 2025-09-28 15:41:05.7|Info|MetadataService|Movie folder does not exist, skipping metadata image creation
 2025-09-28 15:41:06.9|Info|DownloadService|Report for The Bad Guys 2 (2025) sent to qBittorrent from indexer The Pirate Bay (Prowlarr). The Bad Guys 2.2025 2160p HDR10Plus DV WEBRip 6CH x265 HEVC-PSA
 2025-09-28 15:41:06.9|Info|MovieSearchService|Completed search for 1 movies. 1 reports downloaded.
+2025-09-28 16:04:51.0|Info|RssSyncService|Starting RSS Sync
+2025-09-28 16:04:52.0|Warn|Torznab|Indexer BitSearch (Prowlarr) rss sync didn't cover the period between 09/28/2025 19:22:18 and 09/28/2025 19:46:51 UTC. Search may be required.
+2025-09-28 16:04:52.0|Warn|Torznab|Indexer The Pirate Bay (Prowlarr) rss sync didn't cover the period between 09/28/2025 15:53:07 and 09/28/2025 16:40:36 UTC. Search may be required.
+2025-09-28 16:04:58.1|Info|DownloadDecisionMaker|Processing 38 releases
+2025-09-28 16:04:58.3|Info|RssSyncService|RSS Sync Completed. Reports found: 38, Reports grabbed: 0

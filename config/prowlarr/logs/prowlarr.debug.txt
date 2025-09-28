@@ -5031,3 +5031,159 @@ FeedUrl: https://1337x.to/sort-search/Tron%201982/time/desc/1/
 2025-09-28 15:41:03.8|Debug|ReleaseSearchService|Total of 24 reports were found for Term: [Bad Guys 2 2025], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045] from 1 indexer(s)
 2025-09-28 15:41:04.3|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [Bad Guys 2 2025], Offset: 0, Limit: 100, Categories: [2000] from 1 indexer(s)
 2025-09-28 15:42:16.9|Debug|Api|[GET] /api/v1/command: 200.OK (122 ms)
+2025-09-28 15:47:31.2|Debug|Api|[GET] /api/v1/command: 200.OK (88 ms)
+2025-09-28 15:50:03.6|Info|ReleaseSearchService|Searching indexer(s): [BitSearch] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-09-28 15:50:03.6|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-09-28 15:50:03.6|Debug|Cardigann|Adding request for BitSearch: https://bitsearch.to/latest
+2025-09-28 15:50:03.6|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-09-28 15:50:03.6|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-09-28 15:50:03.6|Debug|Cardigann|Downloading Feed https://bitsearch.to/latest
+2025-09-28 15:50:03.8|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070]
+2025-09-28 15:50:03.8|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Movies/time/desc/1/
+2025-09-28 15:50:03.8|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Movies/time/desc/1/
+2025-09-28 15:50:03.8|Info|ReleaseSearchService|Searching indexer(s): [LimeTorrents] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-09-28 15:50:03.8|Debug|Cardigann|Adding request for LimeTorrents: https://www.limetorrents.fun/latest100
+2025-09-28 15:50:03.8|Debug|Cardigann|Downloading Feed https://www.limetorrents.fun/latest100
+2025-09-28 15:50:03.9|Warn|Cardigann|Unable to connect to indexer [https://www.limetorrents.fun/latest100]. This is typically caused by DNS/SSL issues. Check DNS settings, ensure IPv6 is working or disabled, and consider using different DNS servers or a VPN. See: 'https://wiki.servarr.com/prowlarr/troubleshooting#dns-ssl-connection-issues'
+
+[v2.0.5.5160] System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: Cannot determine the frame size or a corrupted frame was received.
+   at System.Net.Security.SslStream.GetFrameSize(ReadOnlySpan`1 buffer)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp2ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Core.Indexers.IndexerHttpClient.ExecuteProxiedAsync(HttpRequest request, ProviderDefinition definition) in ./Prowlarr.Core/Indexers/IndexerHttpClient.cs:line 43
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<<FetchIndexerResponse>b__57_0>d.MoveNext() in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 665
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Polly.Outcome`1.GetResultOrRethrow()
+   at Polly.ResiliencePipeline.ExecuteAsync[TResult,TState](Func`3 callback, TState state, CancellationToken cancellationToken)
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 664
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 587
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, SearchCriteriaBase searchCriteria, Boolean isRecent) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 428
+
+
+2025-09-28 15:50:04.1|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070] from 1 indexer(s)
+2025-09-28 15:50:04.4|Debug|ReleaseSearchService|Total of 18 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045] from 1 indexer(s)
+2025-09-28 15:50:04.6|Debug|ReleaseSearchService|Total of 5 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070] from 1 indexer(s)
+2025-09-28 15:50:04.6|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 15:50:04.7|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (21 ms)
+2025-09-28 15:50:05.4|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/TV/time/desc/1/
+2025-09-28 15:50:05.4|Debug|Cardigann|Downloading Feed https://1337x.to/cat/TV/time/desc/1/
+2025-09-28 15:50:06.0|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 15:50:06.5|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Music/time/desc/1/
+2025-09-28 15:50:06.5|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Music/time/desc/1/
+2025-09-28 15:50:08.1|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 15:50:08.6|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Other/time/desc/1/
+2025-09-28 15:50:08.6|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Other/time/desc/1/
+2025-09-28 15:50:09.0|Debug|Api|[GET] /api/v1/health: 200.OK (20 ms)
+2025-09-28 15:50:10.1|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 15:50:10.5|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070] from 1 indexer(s)
+2025-09-28 15:50:10.6|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (3 ms)
+2025-09-28 15:50:15.7|Debug|Api|[GET] /api/v1/health: 200.OK (7 ms)
+2025-09-28 15:54:49.7|Debug|Api|[GET] /api/v1/command: 200.OK (10 ms)
+2025-09-28 16:04:48.8|Debug|Api|[GET] /api/v1/command: 200.OK (48 ms)
+2025-09-28 16:04:51.3|Debug|IndexerFactory|Temporarily ignoring indexer LimeTorrents till 09/28/2025 16:05:03 due to recent failures.
+2025-09-28 16:04:51.3|Debug|IndexerFactory|Temporarily ignoring indexer LimeTorrents till 09/28/2025 16:05:03 due to recent failures.
+2025-09-28 16:04:51.3|Debug|IndexerFactory|Temporarily ignoring indexer LimeTorrents till 09/28/2025 16:05:03 due to recent failures.
+2025-09-28 16:04:51.3|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2070, 2030, 2010, 2040, 2060, 2045]
+2025-09-28 16:04:51.3|Info|ReleaseSearchService|Searching indexer(s): [BitSearch] for Term: [], Offset: 0, Limit: 100, Categories: [2000]
+2025-09-28 16:04:51.3|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045]
+2025-09-28 16:04:51.3|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Movies/time/desc/1/
+2025-09-28 16:04:51.3|Debug|Cardigann|Adding request for BitSearch: https://bitsearch.to/latest
+2025-09-28 16:04:51.3|Debug|Cardigann|Downloading Feed https://bitsearch.to/latest
+2025-09-28 16:04:51.3|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Movies/time/desc/1/
+2025-09-28 16:04:51.3|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-09-28 16:04:51.3|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-09-28 16:04:51.8|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 16:04:51.8|Debug|ReleaseSearchService|Total of 16 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2020, 2040, 2060, 2030, 2045] from 1 indexer(s)
+2025-09-28 16:04:51.9|Debug|ReleaseSearchService|Total of 2 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000] from 1 indexer(s)
+2025-09-28 16:04:52.5|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/TV/time/desc/1/
+2025-09-28 16:04:52.5|Debug|Cardigann|Downloading Feed https://1337x.to/cat/TV/time/desc/1/
+2025-09-28 16:04:53.5|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 16:04:54.2|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Music/time/desc/1/
+2025-09-28 16:04:54.2|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Music/time/desc/1/
+2025-09-28 16:04:55.5|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 16:04:56.0|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Other/time/desc/1/
+2025-09-28 16:04:56.0|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Other/time/desc/1/
+2025-09-28 16:04:57.5|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 16:04:58.0|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [], Offset: 0, Limit: 100, Categories: [2000, 2070, 2030, 2010, 2040, 2060, 2045] from 1 indexer(s)
+2025-09-28 16:05:21.2|Info|ReleaseSearchService|Searching indexer(s): [BitSearch] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-09-28 16:05:21.2|Info|ReleaseSearchService|Searching indexer(s): [1337x] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070]
+2025-09-28 16:05:21.2|Debug|Cardigann|Adding request for BitSearch: https://bitsearch.to/latest
+2025-09-28 16:05:21.2|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Movies/time/desc/1/
+2025-09-28 16:05:21.2|Debug|Cardigann|Downloading Feed https://bitsearch.to/latest
+2025-09-28 16:05:21.2|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Movies/time/desc/1/
+2025-09-28 16:05:21.2|Info|ReleaseSearchService|Searching indexer(s): [The Pirate Bay] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045]
+2025-09-28 16:05:21.2|Debug|Cardigann|Adding request for The Pirate Bay: https://apibay.org/precompiled/data_top100_recent.json
+2025-09-28 16:05:21.2|Debug|Cardigann|Downloading Feed https://apibay.org/precompiled/data_top100_recent.json
+2025-09-28 16:05:21.2|Info|ReleaseSearchService|Searching indexer(s): [LimeTorrents] for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070]
+2025-09-28 16:05:21.2|Debug|Cardigann|Adding request for LimeTorrents: https://www.limetorrents.fun/latest100
+2025-09-28 16:05:21.2|Debug|Cardigann|Downloading Feed https://www.limetorrents.fun/latest100
+2025-09-28 16:05:21.3|Debug|ReleaseSearchService|Total of 18 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5050, 5040, 5045] from 1 indexer(s)
+2025-09-28 16:05:21.4|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 16:05:21.3|Warn|Cardigann|Unable to connect to indexer [https://www.limetorrents.fun/latest100]. This is typically caused by DNS/SSL issues. Check DNS settings, ensure IPv6 is working or disabled, and consider using different DNS servers or a VPN. See: 'https://wiki.servarr.com/prowlarr/troubleshooting#dns-ssl-connection-issues'
+
+[v2.0.5.5160] System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.Security.Authentication.AuthenticationException: Cannot determine the frame size or a corrupted frame was received.
+   at System.Net.Security.SslStream.GetFrameSize(ReadOnlySpan`1 buffer)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsync(SslClientAuthenticationOptions sslOptions, HttpRequestMessage request, Boolean async, Stream stream, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp2ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at NzbDrone.Common.Http.Dispatchers.ManagedHttpDispatcher.GetResponseAsync(HttpRequest request, CookieContainer cookies) in ./Prowlarr.Common/Http/Dispatchers/ManagedHttpDispatcher.cs:line 120
+   at NzbDrone.Common.Http.HttpClient.ExecuteRequestAsync(HttpRequest request, CookieContainer cookieContainer) in ./Prowlarr.Common/Http/HttpClient.cs:line 171
+   at NzbDrone.Common.Http.HttpClient.ExecuteAsync(HttpRequest request) in ./Prowlarr.Common/Http/HttpClient.cs:line 70
+   at NzbDrone.Core.Indexers.IndexerHttpClient.ExecuteProxiedAsync(HttpRequest request, ProviderDefinition definition) in ./Prowlarr.Core/Indexers/IndexerHttpClient.cs:line 43
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.<>c.<<FetchIndexerResponse>b__57_0>d.MoveNext() in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 665
+--- End of stack trace from previous location ---
+   at Polly.ResiliencePipeline.<>c__9`2.<<ExecuteAsync>b__9_0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Polly.Outcome`1.GetResultOrRethrow()
+   at Polly.ResiliencePipeline.ExecuteAsync[TResult,TState](Func`3 callback, TState state, CancellationToken cancellationToken)
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchIndexerResponse(IndexerRequest request) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 664
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchPage(IndexerRequest request, IParseIndexerResponse parser) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 587
+   at NzbDrone.Core.Indexers.HttpIndexerBase`1.FetchReleases(Func`2 pageableRequestChainSelector, SearchCriteriaBase searchCriteria, Boolean isRecent) in ./Prowlarr.Core/Indexers/HttpIndexerBase.cs:line 428
+
+
+2025-09-28 16:05:21.5|Debug|ReleaseSearchService|Total of 0 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070] from 1 indexer(s)
+2025-09-28 16:05:21.5|Debug|ReleaseSearchService|Total of 9 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5070] from 1 indexer(s)
+2025-09-28 16:05:21.5|Debug|Api|[GET] /api/v1/indexerStatus: 200.OK (29 ms)
+2025-09-28 16:05:22.0|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/TV/time/desc/1/
+2025-09-28 16:05:22.0|Debug|Cardigann|Downloading Feed https://1337x.to/cat/TV/time/desc/1/
+2025-09-28 16:05:23.4|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 16:05:24.0|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Music/time/desc/1/
+2025-09-28 16:05:24.0|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Music/time/desc/1/
+2025-09-28 16:05:25.4|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 16:05:25.9|Debug|Cardigann|Adding request for 1337x: https://1337x.to/cat/Other/time/desc/1/
+2025-09-28 16:05:25.9|Debug|Cardigann|Downloading Feed https://1337x.to/cat/Other/time/desc/1/
+2025-09-28 16:05:26.5|Debug|Api|[GET] /api/v1/health: 200.OK (11 ms)
+2025-09-28 16:05:27.4|Debug|FlareSolverr|CF Protection not detected, returning original response
+2025-09-28 16:05:27.8|Debug|ReleaseSearchService|Total of 20 reports were found for Term: [] for Season / Episode:[], Offset: 0, Limit: 100, Categories: [5000, 5040, 5030, 5070] from 1 indexer(s)
